@@ -1,0 +1,8180 @@
+1
+00:00:00,000 --> 00:00:02,400
+The following content is provided under a Creative
+
+2
+00:00:02,400 --> 00:00:03,760
+Commons license.
+
+3
+00:00:03,760 --> 00:00:06,000
+Your support will help MIT OpenCourseWare
+
+4
+00:00:06,000 --> 00:00:10,080
+continue to offer high-quality educational resources for free.
+
+5
+00:00:10,080 --> 00:00:12,640
+To make a donation or to view additional materials
+
+6
+00:00:12,640 --> 00:00:16,560
+from hundreds of MIT courses, visit MIT OpenCourseWare
+
+7
+00:00:16,560 --> 00:00:17,800
+at ocw.mit.edu.
+
+8
+00:00:21,960 --> 00:00:24,000
+Thanks, Marvin.
+
+9
+00:00:24,000 --> 00:00:27,720
+I decided to call my talk Mind versus Brain Confessions
+
+10
+00:00:27,720 --> 00:00:29,680
+of a Defector.
+
+11
+00:00:29,760 --> 00:00:32,640
+I used to be an AIist.
+
+12
+00:00:32,640 --> 00:00:34,320
+My thesis was reviewed by Marvin.
+
+13
+00:00:34,320 --> 00:00:35,600
+I worked in the media lab.
+
+14
+00:00:35,600 --> 00:00:37,960
+I thought about models of computation
+
+15
+00:00:37,960 --> 00:00:42,400
+that might be more suited to building AIs.
+
+16
+00:00:42,400 --> 00:00:44,520
+Really, I didn't have that many good ideas,
+
+17
+00:00:44,520 --> 00:00:46,440
+although people thought they were good ideas.
+
+18
+00:00:46,440 --> 00:00:49,800
+And this kind of scared me, so I backed away a little bit.
+
+19
+00:00:49,800 --> 00:00:52,600
+And then I found a really cool problem
+
+20
+00:00:52,600 --> 00:00:55,400
+in the area of neuroscience.
+
+21
+00:00:55,400 --> 00:01:01,040
+And I've now left AI at MIT, and I'm a PhD student now
+
+22
+00:01:01,040 --> 00:01:02,880
+in biophysics at Harvard.
+
+23
+00:01:02,880 --> 00:01:05,480
+And I'm working on worms, and I'm
+
+24
+00:01:05,480 --> 00:01:07,720
+trying to figure out how they think to the extent
+
+25
+00:01:07,720 --> 00:01:09,360
+that they do.
+
+26
+00:01:09,360 --> 00:01:12,560
+And so I wanted to sort of go over not really
+
+27
+00:01:12,560 --> 00:01:15,240
+the details of neuroscience or the details of my work.
+
+28
+00:01:15,240 --> 00:01:17,440
+I mean, I'm going to do sort of what Marvin does.
+
+29
+00:01:17,440 --> 00:01:18,840
+I'm going to talk for a little bit,
+
+30
+00:01:18,840 --> 00:01:20,600
+and then we can talk about whatever you want.
+
+31
+00:01:20,600 --> 00:01:22,840
+And if you want to get into the details, that's great.
+
+32
+00:01:22,840 --> 00:01:24,600
+But first, I just wanted to kind of give
+
+33
+00:01:24,600 --> 00:01:26,640
+you an overview of, from my perspective, where
+
+34
+00:01:26,640 --> 00:01:30,040
+I see neuroscience and AI sort of fitting in with each other
+
+35
+00:01:30,040 --> 00:01:32,480
+and with the larger context of sort
+
+36
+00:01:32,480 --> 00:01:36,680
+of the history of science and the taxonomy of science.
+
+37
+00:01:36,680 --> 00:01:42,400
+So I sort of self-identify as a mathematician to the extent
+
+38
+00:01:42,400 --> 00:01:45,240
+that people have sort of discipline identities,
+
+39
+00:01:45,240 --> 00:01:48,800
+like gender identities or racial or cultural identities,
+
+40
+00:01:48,800 --> 00:01:51,520
+and my discipline identity is math.
+
+41
+00:01:51,520 --> 00:01:54,280
+And so I see everything as sort of springing out
+
+42
+00:01:54,280 --> 00:01:54,780
+from that.
+
+43
+00:01:54,780 --> 00:01:58,560
+So on one side, you have sort of the scientific tower,
+
+44
+00:01:58,560 --> 00:02:00,440
+where you have physics.
+
+45
+00:02:00,440 --> 00:02:02,560
+And on top of physics, you put chemistry.
+
+46
+00:02:02,560 --> 00:02:05,640
+And on top of chemistry, you put biology.
+
+47
+00:02:05,640 --> 00:02:10,720
+And on top of biology, you have neuroscience.
+
+48
+00:02:10,720 --> 00:02:14,720
+And there's also the sort of computer science,
+
+49
+00:02:14,720 --> 00:02:19,440
+where you start from theory of computation,
+
+50
+00:02:19,440 --> 00:02:26,120
+and then you have sort of software engineering,
+
+51
+00:02:26,120 --> 00:02:28,760
+and then AI.
+
+52
+00:02:28,760 --> 00:02:32,580
+And in both cases, what you're really stretching toward
+
+53
+00:02:32,580 --> 00:02:35,800
+is an understanding of what thought is.
+
+54
+00:02:35,800 --> 00:02:41,780
+And we sort of got to some success
+
+55
+00:02:41,780 --> 00:02:46,040
+in sort of figuring out what the universe is, at least down
+
+56
+00:02:46,040 --> 00:02:50,040
+to a certain level of description.
+
+57
+00:02:50,040 --> 00:02:53,720
+I can turn on the blackboard lights.
+
+58
+00:02:53,720 --> 00:02:55,080
+Yeah, there is a blackboard light.
+
+59
+00:02:59,640 --> 00:03:05,640
+No, I don't know where to buy transparencies anymore.
+
+60
+00:03:05,640 --> 00:03:06,840
+That would have been good to know.
+
+61
+00:03:11,640 --> 00:03:12,140
+What's that?
+
+62
+00:03:17,040 --> 00:03:21,360
+But what we're really trying to get to
+
+63
+00:03:21,360 --> 00:03:22,960
+is sort of this fundamental question
+
+64
+00:03:22,960 --> 00:03:25,840
+of what is human experience?
+
+65
+00:03:25,840 --> 00:03:27,820
+And human experience is sort of dominated
+
+66
+00:03:27,820 --> 00:03:29,960
+by consciousness, or cognition, or whatever
+
+67
+00:03:29,960 --> 00:03:30,560
+you want to call it.
+
+68
+00:03:30,560 --> 00:03:32,560
+And we really don't know what's going on there.
+
+69
+00:03:32,560 --> 00:03:36,280
+We have something called COGSI.
+
+70
+00:03:36,280 --> 00:03:40,280
+And it definitely connects to both neuro and AI.
+
+71
+00:03:40,280 --> 00:03:43,360
+But it's pretty fuzzy right now.
+
+72
+00:03:43,400 --> 00:03:49,960
+And a lot of people take the metaphor of transistors
+
+73
+00:03:49,960 --> 00:03:53,560
+and talking about the brain and that, oh, as neuroscientists,
+
+74
+00:03:53,560 --> 00:03:55,480
+we spend a lot of time looking at the details
+
+75
+00:03:55,480 --> 00:03:58,160
+of what happens in the nonlinear regime of this sort
+
+76
+00:03:58,160 --> 00:03:59,280
+of neural transistor.
+
+77
+00:03:59,280 --> 00:04:01,240
+But it really doesn't matter, because what matters
+
+78
+00:04:01,240 --> 00:04:03,200
+is when you put the things together and so on,
+
+79
+00:04:03,200 --> 00:04:04,880
+which is a good metaphor.
+
+80
+00:04:04,880 --> 00:04:08,640
+But a metaphor that I also like and I see used less often
+
+81
+00:04:08,640 --> 00:04:12,800
+is that we're sort of right now looking at thought
+
+82
+00:04:12,840 --> 00:04:14,760
+and its relation to the brain.
+
+83
+00:04:14,760 --> 00:04:18,200
+I think we're sort of where Copernicus was when he was
+
+84
+00:04:18,200 --> 00:04:19,480
+thinking about the planets.
+
+85
+00:04:19,480 --> 00:04:22,720
+In a sense, we had sort of the right basic idea.
+
+86
+00:04:22,720 --> 00:04:25,440
+We have the idea that thought happens in brains.
+
+87
+00:04:25,440 --> 00:04:28,680
+And Copernicus had the idea that planets orbit the sun, which
+
+88
+00:04:28,680 --> 00:04:30,640
+at the time was a new idea for Copernicus.
+
+89
+00:04:30,640 --> 00:04:32,000
+And in relative scheme of things,
+
+90
+00:04:32,000 --> 00:04:34,840
+it's kind of a new idea for us that thought happens in brains
+
+91
+00:04:34,840 --> 00:04:36,720
+and happens by electrical impulse.
+
+92
+00:04:36,720 --> 00:04:39,280
+But Copernicus didn't have gravity.
+
+93
+00:04:39,280 --> 00:04:40,440
+He didn't have Newton.
+
+94
+00:04:40,440 --> 00:04:42,780
+And so in describing the orbits, he
+
+95
+00:04:42,780 --> 00:04:45,700
+had all of these little corrections and epicycles
+
+96
+00:04:45,700 --> 00:04:49,780
+and deference in trying to make sense of the things that would
+
+97
+00:04:49,780 --> 00:04:54,020
+later all follow from this very simple theory of calculus
+
+98
+00:04:54,020 --> 00:04:57,060
+and of gravity, but that was yet to be discovered.
+
+99
+00:04:57,060 --> 00:04:59,060
+And so I think that there's something
+
+100
+00:04:59,060 --> 00:05:03,780
+that we're getting to in the realm of cognitive science,
+
+101
+00:05:03,780 --> 00:05:05,940
+some sort of new mathematical insight
+
+102
+00:05:05,940 --> 00:05:10,380
+that I think will be on the same par as discovery of calculus
+
+103
+00:05:10,380 --> 00:05:15,820
+in terms of how networks emerge to perform
+
+104
+00:05:15,820 --> 00:05:19,580
+complex computation in living systems.
+
+105
+00:05:19,580 --> 00:05:21,100
+And the way that I think about that
+
+106
+00:05:21,100 --> 00:05:23,700
+is when we really get down to the essence of calculus,
+
+107
+00:05:23,700 --> 00:05:28,020
+it's about what happens in the limit of things sort of acting
+
+108
+00:05:28,020 --> 00:05:31,340
+in similar ways as you cut them into smaller and smaller pieces
+
+109
+00:05:31,340 --> 00:05:34,020
+and have more of those pieces.
+
+110
+00:05:34,020 --> 00:05:38,140
+And what we're looking at in both in neuroscience
+
+111
+00:05:38,140 --> 00:05:41,860
+and in sociology to a lesser extent because fewer people
+
+112
+00:05:41,860 --> 00:05:43,500
+are doing quantitative things there,
+
+113
+00:05:43,500 --> 00:05:45,580
+but we're looking at scale-free networks
+
+114
+00:05:45,580 --> 00:05:47,860
+where as you partition the network
+
+115
+00:05:47,860 --> 00:05:50,500
+at different sizes of partitions,
+
+116
+00:05:50,500 --> 00:05:53,540
+you get the same sort of in degrees and out degrees.
+
+117
+00:05:53,540 --> 00:05:56,140
+And we really don't know what we're talking about when
+
+118
+00:05:56,140 --> 00:05:57,740
+we go into scale-free networks, but it
+
+119
+00:05:57,740 --> 00:06:00,180
+seems that there's something there that
+
+120
+00:06:00,180 --> 00:06:02,940
+relates to sort of the mysteries.
+
+121
+00:06:02,940 --> 00:06:04,940
+The things that we're bumping into that I feel
+
+122
+00:06:04,940 --> 00:06:06,740
+are the same sorts of things that people
+
+123
+00:06:06,740 --> 00:06:10,540
+didn't do shortly before we figured out calculus.
+
+124
+00:06:10,540 --> 00:06:17,140
+So anyway, that's sort of my big philosophical spiel.
+
+125
+00:06:17,140 --> 00:06:22,340
+I also wanted to tie into this quote from Ernst Rutherford,
+
+126
+00:06:22,340 --> 00:06:25,020
+who's kind of one of the greatest curmudgeons of science
+
+127
+00:06:25,020 --> 00:06:28,940
+history, who once said, all science is either physics
+
+128
+00:06:28,940 --> 00:06:33,100
+or stamp collecting, that either you're writing down
+
+129
+00:06:33,100 --> 00:06:35,340
+the equations and you know exactly how things work,
+
+130
+00:06:35,380 --> 00:06:37,540
+or you're just sort of saying, oh, this looks nice.
+
+131
+00:06:37,540 --> 00:06:41,100
+Let me write down what it looks like and where I found it.
+
+132
+00:06:41,100 --> 00:06:44,140
+And biology is definitely still largely
+
+133
+00:06:44,140 --> 00:06:46,540
+in the stamp-collecting realm, and it doesn't have to be.
+
+134
+00:06:46,540 --> 00:06:49,180
+It's not the nature of studying living systems, which
+
+135
+00:06:49,180 --> 00:06:50,980
+is the reason that we have biophysics.
+
+136
+00:06:50,980 --> 00:06:53,940
+That's the reason that I am in a biophysics program.
+
+137
+00:06:53,940 --> 00:06:58,540
+But there's sort of this cultural tradition in biology
+
+138
+00:06:58,540 --> 00:07:02,220
+that goes back to sort of Darwin, where you just sort
+
+139
+00:07:02,220 --> 00:07:04,460
+of look around the world, you write down what you see,
+
+140
+00:07:04,460 --> 00:07:07,260
+and it's a time-honored tradition,
+
+141
+00:07:07,260 --> 00:07:10,500
+and it certainly gets you pretty far.
+
+142
+00:07:10,500 --> 00:07:13,900
+But it seems to break down when we look at the brain,
+
+143
+00:07:13,900 --> 00:07:17,540
+because you start cataloging these things that
+
+144
+00:07:17,540 --> 00:07:22,380
+are so minute, and you start cataloging them in isolation
+
+145
+00:07:22,380 --> 00:07:25,260
+instead of considering them as dynamical systems that
+
+146
+00:07:25,260 --> 00:07:27,180
+interact with their surroundings.
+
+147
+00:07:27,180 --> 00:07:29,860
+And it seems that you really have a hard time putting
+
+148
+00:07:29,860 --> 00:07:33,060
+those pieces back together once you've sort of collected them
+
+149
+00:07:33,060 --> 00:07:35,740
+in separate observations.
+
+150
+00:07:35,740 --> 00:07:38,620
+So that's another point I wanted to make.
+
+151
+00:07:38,620 --> 00:07:41,740
+And then I was just going to talk a little bit about why
+
+152
+00:07:41,740 --> 00:07:46,700
+I think things are changing, especially in the neurodomain.
+
+153
+00:07:46,700 --> 00:07:51,220
+There is the sort of classic way that you do neuroexperiments
+
+154
+00:07:51,220 --> 00:07:56,740
+is you have some sort of furry creature,
+
+155
+00:07:56,740 --> 00:08:04,620
+and you present some sort of stimulus,
+
+156
+00:08:04,620 --> 00:08:12,340
+and then you stick a wire somewhere into the brain,
+
+157
+00:08:12,340 --> 00:08:14,940
+and you measure what happens depending on the stimulus.
+
+158
+00:08:14,940 --> 00:08:16,700
+And you don't know what you're looking at,
+
+159
+00:08:16,700 --> 00:08:18,540
+but you know that you're looking at something,
+
+160
+00:08:18,540 --> 00:08:20,020
+and you can get some sort of idea
+
+161
+00:08:20,020 --> 00:08:22,940
+as to what things are similar.
+
+162
+00:08:22,940 --> 00:08:25,060
+Hubel and Weasel did these great experiments
+
+163
+00:08:25,060 --> 00:08:28,980
+where they stuck electrodes into cats' visual cortex
+
+164
+00:08:28,980 --> 00:08:31,060
+and basically just kind of waved their arms around
+
+165
+00:08:31,060 --> 00:08:34,740
+and saw that some of the neurons were orientation sensitive,
+
+166
+00:08:34,740 --> 00:08:38,340
+and that's the foundation for much of our current knowledge
+
+167
+00:08:38,340 --> 00:08:42,060
+and research about vision in mammals.
+
+168
+00:08:42,060 --> 00:08:45,300
+But it doesn't tell you how the different things
+
+169
+00:08:45,300 --> 00:08:47,420
+that you're looking at relate to each other,
+
+170
+00:08:47,420 --> 00:08:50,420
+and it gives you only the merest glimpse.
+
+171
+00:08:50,420 --> 00:08:55,980
+I mean, even in the most dense sort of electrode applications,
+
+172
+00:08:55,980 --> 00:09:01,460
+you're going to get a maximum of thousands or maybe 10,000
+
+173
+00:09:01,460 --> 00:09:03,580
+signals out of this at once.
+
+174
+00:09:03,580 --> 00:09:06,220
+And most likely, none of those neurons that you're looking at
+
+175
+00:09:06,220 --> 00:09:07,900
+are going to be anywhere near each other
+
+176
+00:09:07,900 --> 00:09:09,780
+on the scale of synapses.
+
+177
+00:09:09,780 --> 00:09:12,940
+And so you're essentially just sampling a population.
+
+178
+00:09:12,940 --> 00:09:14,660
+And in fact, there's a lot of research
+
+179
+00:09:14,660 --> 00:09:17,660
+in this field that goes under the rubric of population
+
+180
+00:09:17,660 --> 00:09:20,420
+dynamics, where you're sort of just looking
+
+181
+00:09:20,420 --> 00:09:22,860
+at things in the aggregate.
+
+182
+00:09:22,860 --> 00:09:26,260
+And I heard a nice little metaphor, actually,
+
+183
+00:09:26,260 --> 00:09:31,380
+just today in an unrelated class about populations,
+
+184
+00:09:31,380 --> 00:09:33,780
+where if you're, for instance, examining
+
+185
+00:09:33,780 --> 00:09:38,820
+the population of people walking down Fifth Avenue in New York
+
+186
+00:09:38,820 --> 00:09:41,260
+City, you can measure things like the average rate
+
+187
+00:09:41,260 --> 00:09:42,540
+that people are walking down.
+
+188
+00:09:42,540 --> 00:09:44,340
+But you're never going to capture something
+
+189
+00:09:44,340 --> 00:09:47,460
+if you're just looking at flow across everything,
+
+190
+00:09:48,460 --> 00:09:51,780
+like every 100 meters, people will turn into a shop
+
+191
+00:09:51,780 --> 00:09:53,860
+and stop for a few minutes, and then come back out
+
+192
+00:09:53,860 --> 00:09:55,020
+and start again.
+
+193
+00:09:55,020 --> 00:09:59,220
+So you're only getting sort of very broad strokes.
+
+194
+00:09:59,220 --> 00:10:03,460
+Or otherwise, you're taking the neuron out
+
+195
+00:10:03,460 --> 00:10:05,300
+of its natural context.
+
+196
+00:10:05,300 --> 00:10:07,460
+And you're just saying, OK, here I
+
+197
+00:10:07,460 --> 00:10:13,980
+have a neuron in a dish, whatever,
+
+198
+00:10:13,980 --> 00:10:15,820
+in some sort of growth medium.
+
+199
+00:10:15,820 --> 00:10:18,540
+And I'm just going to probe it and see
+
+200
+00:10:18,540 --> 00:10:20,260
+what happens when I stimulate this neuron
+
+201
+00:10:20,260 --> 00:10:21,820
+in different places.
+
+202
+00:10:21,820 --> 00:10:27,460
+And then you're really just likely exploring parts
+
+203
+00:10:27,460 --> 00:10:29,460
+of the phase space that this neuron would never
+
+204
+00:10:29,460 --> 00:10:30,820
+experience in the system.
+
+205
+00:10:30,820 --> 00:10:32,380
+And you're getting no indication as
+
+206
+00:10:32,380 --> 00:10:35,540
+to which parts of the phase space it actually is in,
+
+207
+00:10:35,540 --> 00:10:38,020
+or how that would relate to other parts of the system.
+
+208
+00:10:38,020 --> 00:10:40,220
+And when you're dealing with this complex information
+
+209
+00:10:40,220 --> 00:10:42,540
+processing network, that's pretty critical.
+
+210
+00:10:42,740 --> 00:10:44,900
+That's sort of the classical state
+
+211
+00:10:44,900 --> 00:10:48,540
+of neuroscience, which basically plateaued, I think,
+
+212
+00:10:48,540 --> 00:10:53,500
+about 30 years ago, which is the reason why people like Marvin
+
+213
+00:10:53,500 --> 00:10:54,860
+are pretty frustrated with it.
+
+214
+00:10:54,860 --> 00:10:59,020
+But in more recent times, we've started
+
+215
+00:10:59,020 --> 00:11:02,780
+to get some different ways of looking at neural systems
+
+216
+00:11:02,780 --> 00:11:04,860
+that I think are really exciting.
+
+217
+00:11:04,860 --> 00:11:07,220
+This is why I decided now is a good time
+
+218
+00:11:07,220 --> 00:11:09,540
+to be a neuroscientist.
+
+219
+00:11:09,540 --> 00:11:16,820
+So now we have, if we zoom in to sort of our physicist's
+
+220
+00:11:16,820 --> 00:11:22,780
+spherical neuron, it has a cell bilayer.
+
+221
+00:11:22,780 --> 00:11:27,460
+And neurons are powered by channels
+
+222
+00:11:27,460 --> 00:11:33,420
+which interrupt the bilayer and can pass certain types of ions.
+
+223
+00:11:33,420 --> 00:11:35,620
+And naturally, ions carry charge.
+
+224
+00:11:35,620 --> 00:11:39,140
+And some channels, depending on concentrations
+
+225
+00:11:39,140 --> 00:11:41,620
+and the voltages, will have positive ions flowing in,
+
+226
+00:11:41,620 --> 00:11:44,340
+positive ions flowing out, negative in, out.
+
+227
+00:11:44,340 --> 00:11:48,380
+And these dynamics basically form
+
+228
+00:11:48,380 --> 00:11:52,260
+the basis for neural activity and action
+
+229
+00:11:52,260 --> 00:11:54,660
+potentials and everything.
+
+230
+00:11:54,660 --> 00:11:58,380
+And we found some of these channels or things
+
+231
+00:11:58,380 --> 00:12:02,060
+that functionally are like channels in prokaryotes,
+
+232
+00:12:02,060 --> 00:12:05,740
+basically single-celled organisms in algae, in archaea,
+
+233
+00:12:05,740 --> 00:12:10,780
+in bacteria even, that have really useful properties.
+
+234
+00:12:10,780 --> 00:12:14,260
+For instance, there's one called channel rhodopsin,
+
+235
+00:12:14,260 --> 00:12:18,100
+which turns on if and only if there's
+
+236
+00:12:18,100 --> 00:12:20,220
+blue light impinging upon it.
+
+237
+00:12:20,220 --> 00:12:23,260
+And this was discovered about 15 years ago.
+
+238
+00:12:23,260 --> 00:12:26,220
+And about 10 years ago, it was sequenced.
+
+239
+00:12:26,220 --> 00:12:29,860
+And now with the ability to synthesize genes
+
+240
+00:12:29,860 --> 00:12:33,780
+and introduce them into other organisms,
+
+241
+00:12:33,780 --> 00:12:36,140
+we can take that gene and add it
+
+242
+00:12:36,140 --> 00:12:40,220
+to a neuron, which is not at all where it belongs.
+
+243
+00:12:40,220 --> 00:12:43,540
+Nature would never put this type of channel on a neuron
+
+244
+00:12:43,540 --> 00:12:45,300
+because there's no reason for neurons
+
+245
+00:12:45,300 --> 00:12:48,540
+to be sensitive to light unless there are photoreceptors
+
+246
+00:12:48,540 --> 00:12:49,900
+in the retina.
+
+247
+00:12:49,900 --> 00:12:55,620
+But now that we have this blue light-activated channel,
+
+248
+00:12:55,620 --> 00:12:57,420
+we can point a laser at the cell.
+
+249
+00:12:57,420 --> 00:12:59,540
+And when we turn it on, if it's the right wavelength,
+
+250
+00:12:59,540 --> 00:13:00,540
+the cell gets activated.
+
+251
+00:13:00,540 --> 00:13:03,180
+When you turn it off, the effect disappears.
+
+252
+00:13:03,220 --> 00:13:07,500
+And so you can now do these very precise sorts of perturbations
+
+253
+00:13:07,500 --> 00:13:08,780
+and see what happens.
+
+254
+00:13:08,780 --> 00:13:11,660
+And because it's a genetically expressed channel, what
+
+255
+00:13:11,660 --> 00:13:13,940
+a lot of people did initially is they would just
+
+256
+00:13:13,940 --> 00:13:17,900
+express the channel in a certain class of cells
+
+257
+00:13:17,900 --> 00:13:20,900
+that has a specific promoter that's been discovered.
+
+258
+00:13:20,900 --> 00:13:23,700
+And then just use a wide-field blue lamp,
+
+259
+00:13:23,700 --> 00:13:25,260
+light up the entire brain.
+
+260
+00:13:25,260 --> 00:13:27,660
+And then only that class of cells in which you express
+
+261
+00:13:27,660 --> 00:13:29,340
+the light-sensitive channel will turn on.
+
+262
+00:13:29,340 --> 00:13:32,660
+So you can see, what does this class of cells actually do?
+
+263
+00:13:32,660 --> 00:13:34,100
+There's a similar channel that's
+
+264
+00:13:34,100 --> 00:13:39,940
+activated by a yellow light that removes, well, actually,
+
+265
+00:13:39,940 --> 00:13:44,420
+it introduces negative ions, introduces chlorine.
+
+266
+00:13:44,420 --> 00:13:49,420
+And that causes the cell to hyperpolarize or deactivate.
+
+267
+00:13:49,420 --> 00:13:54,420
+So you can selectively inhibit populations based on genetics.
+
+268
+00:13:54,420 --> 00:13:59,100
+And this allows you to do something like a knockout.
+
+269
+00:13:59,100 --> 00:14:00,820
+A lot of people do knockout mice where
+
+270
+00:14:00,820 --> 00:14:02,300
+you remove some class of cells, say, here's
+
+271
+00:14:02,300 --> 00:14:03,500
+the behavioral deficit.
+
+272
+00:14:03,500 --> 00:14:08,660
+But basically, you can do it with a positive control.
+
+273
+00:14:08,660 --> 00:14:12,140
+Because if you aren't shining yellow light into the skull,
+
+274
+00:14:12,140 --> 00:14:14,740
+then it's just like a regular mouse.
+
+275
+00:14:14,740 --> 00:14:19,180
+And this is really helpful for determining those effects.
+
+276
+00:14:19,180 --> 00:14:22,100
+But even so, this is still population dynamics.
+
+277
+00:14:22,100 --> 00:14:25,780
+You're still just talking about some broad class of cells,
+
+278
+00:14:25,780 --> 00:14:29,060
+all pyramidal neurons, all basal ganglia.
+
+279
+00:14:29,060 --> 00:14:31,540
+Here's what happens when you remove them.
+
+280
+00:14:31,540 --> 00:14:35,060
+So there's another piece of it.
+
+281
+00:14:35,060 --> 00:14:38,020
+There's another piece of this puzzle,
+
+282
+00:14:38,020 --> 00:14:41,220
+which is a multi-photon microscopy.
+
+283
+00:14:41,220 --> 00:14:43,660
+And this is something that how many people
+
+284
+00:14:43,660 --> 00:14:46,060
+know multi-photon or two-photon?
+
+285
+00:14:46,060 --> 00:14:49,420
+OK, so I recently learned about this, too.
+
+286
+00:14:49,420 --> 00:14:52,540
+And it's really cool, because this is a sort of thing
+
+287
+00:14:52,540 --> 00:14:54,940
+that when you're first eight years old
+
+288
+00:14:54,940 --> 00:14:57,140
+and you hear about lasers, this is a sort of thing
+
+289
+00:14:57,140 --> 00:14:59,380
+that you would imagine that you would do with lasers.
+
+290
+00:14:59,380 --> 00:15:01,100
+And then you learn a bit more about lasers,
+
+291
+00:15:01,100 --> 00:15:03,260
+and you realize lasers don't work that way.
+
+292
+00:15:03,260 --> 00:15:04,900
+And then you learn more about lasers.
+
+293
+00:15:04,900 --> 00:15:07,900
+You're like, whoa, actually, you can do that with lasers.
+
+294
+00:15:07,900 --> 00:15:12,420
+And what you do is you have one laser.
+
+295
+00:15:12,420 --> 00:15:14,020
+It's a femtosecond laser, which is
+
+296
+00:15:14,020 --> 00:15:17,140
+necessary because of the ridiculous synchronization
+
+297
+00:15:17,140 --> 00:15:18,660
+that's required in doing this.
+
+298
+00:15:18,660 --> 00:15:20,620
+Not only does it have to be a femtosecond laser,
+
+299
+00:15:20,620 --> 00:15:22,860
+but you actually, even though it's two-photon,
+
+300
+00:15:22,860 --> 00:15:24,900
+you're using two beams, you can't have two lasers,
+
+301
+00:15:24,900 --> 00:15:27,140
+because they won't be well enough synchronized.
+
+302
+00:15:27,140 --> 00:15:33,260
+So you have to split a laser into two beams.
+
+303
+00:15:33,260 --> 00:15:35,620
+And then you focus, using fancy optics
+
+304
+00:15:35,620 --> 00:15:38,780
+that I don't know enough optics to draw,
+
+305
+00:15:38,780 --> 00:15:43,580
+those two beams onto a single point inside your sample.
+
+306
+00:15:43,580 --> 00:15:47,940
+And the wavelength of this laser is twice the wavelength
+
+307
+00:15:47,940 --> 00:15:50,820
+necessary to excite your channel rhodopsin
+
+308
+00:15:50,820 --> 00:15:52,540
+or your halo rhodopsin.
+
+309
+00:15:52,540 --> 00:15:58,980
+And what happens is there's a small but non-vanishing
+
+310
+00:15:58,980 --> 00:16:05,900
+probability that two photons from the two branches of this
+
+311
+00:16:05,900 --> 00:16:12,820
+will arrive at exactly the same point, not quite plank time,
+
+312
+00:16:12,820 --> 00:16:16,140
+but in sort of molecular excitation time.
+
+313
+00:16:16,140 --> 00:16:19,100
+And if those two photons arrive close enough to each other,
+
+314
+00:16:19,100 --> 00:16:20,600
+they'll have exactly the same effect
+
+315
+00:16:20,600 --> 00:16:24,160
+on the state of the molecule as a photon with half
+
+316
+00:16:24,160 --> 00:16:26,000
+the wavelength or twice the energy,
+
+317
+00:16:26,000 --> 00:16:29,120
+because those two photons each deliver that amount of energy
+
+318
+00:16:29,120 --> 00:16:30,280
+and so it gets doubled.
+
+319
+00:16:30,280 --> 00:16:34,640
+So this only can happen at exactly the spot
+
+320
+00:16:34,640 --> 00:16:36,640
+where the two beams converge.
+
+321
+00:16:36,640 --> 00:16:42,000
+And so you get this extremely selective, not only z-slicing,
+
+322
+00:16:42,000 --> 00:16:46,240
+but also an even more selective x- and y-slicing.
+
+323
+00:16:46,240 --> 00:16:50,240
+And so you can use this to target an individual neuron
+
+324
+00:16:50,240 --> 00:16:54,240
+and you can do it repeatably.
+
+325
+00:16:54,240 --> 00:16:55,320
+You can do it reliably.
+
+326
+00:16:55,320 --> 00:16:59,680
+You can do it in any space in your working volume.
+
+327
+00:16:59,680 --> 00:17:03,640
+You can target using basically acousto-optic deflectors,
+
+328
+00:17:03,640 --> 00:17:05,560
+which again, you can't draw, so they're
+
+329
+00:17:05,560 --> 00:17:07,000
+going to be black boxes.
+
+330
+00:17:07,000 --> 00:17:08,960
+But you can do it very fast.
+
+331
+00:17:08,960 --> 00:17:12,000
+It's expensive, but you can direct these
+
+332
+00:17:12,000 --> 00:17:13,360
+at hundreds of hertz.
+
+333
+00:17:13,360 --> 00:17:17,120
+And so you can essentially write to anywhere in the brain.
+
+334
+00:17:17,120 --> 00:17:20,520
+You can turn things off or on as you wish,
+
+335
+00:17:20,520 --> 00:17:22,960
+as long as you know the locations.
+
+336
+00:17:22,960 --> 00:17:27,880
+And the other final piece of this sort of optogenetics puzzle
+
+337
+00:17:27,880 --> 00:17:36,480
+is there's a fluorescent protein called Gcamp, which
+
+338
+00:17:36,480 --> 00:17:43,200
+is sort of like a GFP, but with a calmodulin attached to it.
+
+339
+00:17:43,200 --> 00:17:46,480
+And the calmodulin binds calcium ions
+
+340
+00:17:46,480 --> 00:17:49,160
+and the GFP is a green fluorescent protein.
+
+341
+00:17:49,160 --> 00:17:52,360
+But when the calmodulin isn't bound to a calcium,
+
+342
+00:17:52,360 --> 00:17:54,960
+it sort of hangs out here and disturbs
+
+343
+00:17:54,960 --> 00:17:57,960
+the conformation of the GFP so that it can't fluoresce.
+
+344
+00:17:57,960 --> 00:18:07,520
+But when this binds a calcium, then the GFP fluoresces green.
+
+345
+00:18:07,520 --> 00:18:11,720
+And calcium is one of the major signalings for neuron firing,
+
+346
+00:18:11,720 --> 00:18:13,440
+especially for neurotransmitter release.
+
+347
+00:18:13,440 --> 00:18:15,480
+You need an influx of calcium.
+
+348
+00:18:15,480 --> 00:18:18,880
+So this basically tells you whether the neuron is active.
+
+349
+00:18:18,880 --> 00:18:20,680
+And as if that weren't enough, because it
+
+350
+00:18:20,680 --> 00:18:23,800
+is a second messenger, just this year there
+
+351
+00:18:23,800 --> 00:18:26,960
+is a protein developed that's a membrane protein, also
+
+352
+00:18:26,960 --> 00:18:27,800
+genetically encoded.
+
+353
+00:18:27,800 --> 00:18:30,520
+All of these can be just engineered
+
+354
+00:18:30,520 --> 00:18:32,600
+into a line of animals and then you
+
+355
+00:18:32,600 --> 00:18:34,640
+don't need to worry about it anymore, no injections
+
+356
+00:18:34,640 --> 00:18:36,800
+or anything.
+
+357
+00:18:36,800 --> 00:18:40,560
+So there's another one that originally nature
+
+358
+00:18:40,560 --> 00:18:45,120
+intended this as a proton pump.
+
+359
+00:18:45,120 --> 00:18:46,280
+It's archaeodopsin.
+
+360
+00:18:46,280 --> 00:18:49,080
+It's a light sensitive proton pump.
+
+361
+00:18:49,080 --> 00:18:52,680
+But what they were able to do is to silence the proton pumping,
+
+362
+00:18:52,680 --> 00:18:57,440
+basically to disable that aspect of the protein's function.
+
+363
+00:18:57,440 --> 00:19:00,920
+But then they discovered that it actually
+
+364
+00:19:00,920 --> 00:19:03,840
+then has a fluorescence which is proportional to the voltage
+
+365
+00:19:03,840 --> 00:19:05,440
+across the membrane that it would
+
+366
+00:19:05,440 --> 00:19:07,280
+be moving those protons across.
+
+367
+00:19:07,280 --> 00:19:11,360
+So in sum, you can activate neurons.
+
+368
+00:19:11,360 --> 00:19:12,800
+You can inhibit neurons.
+
+369
+00:19:12,800 --> 00:19:14,760
+You can measure the calcium concentration
+
+370
+00:19:14,760 --> 00:19:15,960
+or activation.
+
+371
+00:19:15,960 --> 00:19:17,480
+And you can measure the voltage.
+
+372
+00:19:17,480 --> 00:19:22,440
+And you can do it all anywhere you want very fast.
+
+373
+00:19:22,440 --> 00:19:26,320
+So this is basically a toolkit for doing experiments
+
+374
+00:19:26,320 --> 00:19:29,880
+that you could really only dream of with electrophysiology.
+
+375
+00:19:29,880 --> 00:19:32,440
+In particular, the one that I'm working on right now
+
+376
+00:19:32,440 --> 00:19:37,400
+is the worm, C. elegans, which is a very well studied
+
+377
+00:19:37,400 --> 00:19:38,120
+organism.
+
+378
+00:19:38,120 --> 00:19:39,880
+And in fact, it's the only organism
+
+379
+00:19:39,880 --> 00:19:45,000
+for which we actually know the complete connectome.
+
+380
+00:19:45,000 --> 00:19:47,080
+So a lot of people talk about connectomes.
+
+381
+00:19:47,080 --> 00:19:49,320
+And it's sort of a dark secret of neuroscience
+
+382
+00:19:49,320 --> 00:19:51,320
+that we already have the connectome for C. elegans
+
+383
+00:19:51,320 --> 00:19:52,760
+and we can't do anything with it.
+
+384
+00:19:52,760 --> 00:19:57,280
+Because it turns out that just knowing where you have one
+
+385
+00:19:57,280 --> 00:20:01,240
+neuron here and its synapses to this neuron here
+
+386
+00:20:01,240 --> 00:20:05,080
+and this controls the body wall muscles, that doesn't really
+
+387
+00:20:05,080 --> 00:20:08,080
+tell you anything like maybe this is an inhibitory synapse.
+
+388
+00:20:08,080 --> 00:20:09,120
+Maybe it's excitatory.
+
+389
+00:20:09,120 --> 00:20:10,640
+Maybe it's non-functional.
+
+390
+00:20:10,640 --> 00:20:13,160
+Maybe it's stronger than the other synapses on that cell.
+
+391
+00:20:13,160 --> 00:20:14,440
+Maybe it's weaker.
+
+392
+00:20:14,440 --> 00:20:17,000
+And so it basically gives you very little information
+
+393
+00:20:17,000 --> 00:20:18,920
+to start from if you're trying to understand
+
+394
+00:20:18,920 --> 00:20:22,720
+how this organism thinks or computes.
+
+395
+00:20:22,720 --> 00:20:25,400
+But since we know where all the neurons are,
+
+396
+00:20:25,400 --> 00:20:29,880
+and there are only 302 of them, it's
+
+397
+00:20:29,880 --> 00:20:33,640
+not crazy to think about using this microscope
+
+398
+00:20:33,640 --> 00:20:37,040
+and these biophysical techniques to actually build
+
+399
+00:20:37,040 --> 00:20:41,760
+a model pairwise, if need be, of all 90,000 pairs of how
+
+400
+00:20:41,760 --> 00:20:46,680
+every neuron affects the behavior of every other neuron.
+
+401
+00:20:46,680 --> 00:20:49,440
+So that's what I'm working on.
+
+402
+00:20:49,440 --> 00:20:53,880
+I think that actually doing these sorts of observations
+
+403
+00:20:53,880 --> 00:20:56,120
+is something that's never really been done before.
+
+404
+00:20:56,120 --> 00:20:59,680
+And again, to make a ridiculously grandiose
+
+405
+00:20:59,680 --> 00:21:01,880
+comparison, it's kind of like how
+
+406
+00:21:01,880 --> 00:21:05,160
+Newton only was able to do what he did because Galileo
+
+407
+00:21:05,160 --> 00:21:07,360
+developing the tools to observe phenomena that
+
+408
+00:21:07,360 --> 00:21:09,280
+had never been seen before.
+
+409
+00:21:09,280 --> 00:21:14,400
+And I think that advances, well, this is actually
+
+410
+00:21:14,400 --> 00:21:16,680
+a quote from Sydney Brenner, who is the first person
+
+411
+00:21:16,680 --> 00:21:19,080
+to suggest that you can study this worm
+
+412
+00:21:19,080 --> 00:21:23,040
+and maybe learn something from its nervous system.
+
+413
+00:21:23,040 --> 00:21:27,640
+Advances in science usually come from new techniques,
+
+414
+00:21:27,640 --> 00:21:31,720
+new discoveries, and new ideas in that order.
+
+415
+00:21:31,720 --> 00:21:33,520
+And so now we have the techniques.
+
+416
+00:21:33,520 --> 00:21:34,960
+We're working on the discoveries.
+
+417
+00:21:35,000 --> 00:21:38,560
+And the hope is that it will lead to new ideas.
+
+418
+00:21:38,560 --> 00:21:40,040
+So questions?
+
+419
+00:21:43,840 --> 00:21:44,340
+Yes?
+
+420
+00:21:44,340 --> 00:21:48,360
+So you've given us this overview of the state of the art
+
+421
+00:21:48,360 --> 00:21:50,720
+right now and possibly how it's going to be in five years.
+
+422
+00:21:50,720 --> 00:21:51,920
+But how do you think neuroscience
+
+423
+00:21:51,920 --> 00:21:54,720
+is going to be in about 20 years or maybe 30 years from now?
+
+424
+00:21:54,720 --> 00:21:59,240
+Well, what we can do right now is this most basic organism
+
+425
+00:21:59,240 --> 00:22:01,760
+that nature has to offer.
+
+426
+00:22:01,760 --> 00:22:06,080
+And the natural thing to do once that gets solved,
+
+427
+00:22:06,080 --> 00:22:09,240
+which we don't know how long it will take because we don't know
+
+428
+00:22:09,240 --> 00:22:10,840
+how much detail is really important,
+
+429
+00:22:10,840 --> 00:22:14,080
+but I think that we can solve the worm in three or four
+
+430
+00:22:14,080 --> 00:22:15,640
+years.
+
+431
+00:22:15,640 --> 00:22:17,440
+And then the next step is the zebrafish,
+
+432
+00:22:17,440 --> 00:22:19,760
+which is also optically transparent,
+
+433
+00:22:19,760 --> 00:22:23,720
+which is handy for using these sorts of optical microscopes.
+
+434
+00:22:23,720 --> 00:22:25,480
+But the zebrafish has 100,000 neurons,
+
+435
+00:22:25,480 --> 00:22:27,000
+so it's a big jump in complexity.
+
+436
+00:22:27,000 --> 00:22:29,500
+And it has a lot of the same sorts of brain regions
+
+437
+00:22:29,500 --> 00:22:32,420
+that you see in mammals and even humans,
+
+438
+00:22:32,420 --> 00:22:34,900
+though they often go by different names.
+
+439
+00:22:34,900 --> 00:22:36,580
+But it's a similar structure.
+
+440
+00:22:36,580 --> 00:22:40,900
+It's a vertebrate, and it has eyes, which the worm doesn't.
+
+441
+00:22:40,900 --> 00:22:44,740
+So that'll be the next thing to look at.
+
+442
+00:22:44,740 --> 00:22:47,340
+And I think that'll probably take another five years
+
+443
+00:22:47,340 --> 00:22:48,620
+or so.
+
+444
+00:22:48,620 --> 00:22:56,420
+And then maybe drosophila, bees are pretty complicated.
+
+445
+00:22:56,420 --> 00:22:58,300
+That's the first place where you get something
+
+446
+00:22:58,300 --> 00:23:00,380
+that resembles language.
+
+447
+00:23:00,380 --> 00:23:02,460
+So that might be really interesting.
+
+448
+00:23:02,460 --> 00:23:09,020
+And eventually, mice, cats, dogs, monkeys, and humans.
+
+449
+00:23:09,020 --> 00:23:13,940
+And definitely, the path that this goes on in an ideal world
+
+450
+00:23:13,940 --> 00:23:18,860
+is toward taking an individual human brain
+
+451
+00:23:18,860 --> 00:23:20,060
+and turning it into a model.
+
+452
+00:23:22,860 --> 00:23:25,420
+Yes?
+
+453
+00:23:25,420 --> 00:23:27,340
+What would you consider to be solving the worm?
+
+454
+00:23:27,340 --> 00:23:29,780
+How much do we need to know about this?
+
+455
+00:23:29,780 --> 00:23:31,780
+What are the big problems there?
+
+456
+00:23:31,780 --> 00:23:35,420
+What are the things that we still have to understand?
+
+457
+00:23:35,420 --> 00:23:37,820
+The way that I have set up the criteria,
+
+458
+00:23:37,820 --> 00:23:42,660
+there's a big list of publications, basically,
+
+459
+00:23:42,660 --> 00:23:44,020
+of behavioral results.
+
+460
+00:23:44,020 --> 00:23:46,700
+And there's a lot of stereotype behaviors.
+
+461
+00:23:46,700 --> 00:23:49,300
+There's something like 30 or 40 different conditions
+
+462
+00:23:49,300 --> 00:23:51,180
+where you can put the worm in these conditions,
+
+463
+00:23:51,180 --> 00:23:56,340
+and they exhibit particular omega turns or reversals
+
+464
+00:23:56,340 --> 00:23:58,540
+or things like that.
+
+465
+00:23:58,540 --> 00:24:00,580
+So that's sort of the baseline.
+
+466
+00:24:00,580 --> 00:24:03,500
+Say, well, if you put the worm, the virtual worm,
+
+467
+00:24:03,500 --> 00:24:06,540
+in these conditions in a virtual simulated petri dish,
+
+468
+00:24:06,540 --> 00:24:08,080
+they exhibit all the same behaviors.
+
+469
+00:24:08,080 --> 00:24:10,660
+That's sort of your first order check.
+
+470
+00:24:10,660 --> 00:24:13,420
+And then the next step is, well, what happens
+
+471
+00:24:13,420 --> 00:24:16,660
+if you remove a neuron?
+
+472
+00:24:16,660 --> 00:24:18,780
+You pick one of the 302 neurons in a physical worm.
+
+473
+00:24:18,780 --> 00:24:20,100
+You can ablate it with a laser.
+
+474
+00:24:20,100 --> 00:24:22,580
+You can kill a cell specifically.
+
+475
+00:24:22,580 --> 00:24:26,100
+Or you can just inhibit it with a haloridopsin.
+
+476
+00:24:26,100 --> 00:24:28,380
+Then you can see, does the virtual worm
+
+477
+00:24:28,380 --> 00:24:31,140
+exhibit the same behavioral differences
+
+478
+00:24:31,140 --> 00:24:34,020
+as the physical worm under that condition?
+
+479
+00:24:34,020 --> 00:24:38,220
+And you can also do larger scale sorts of things.
+
+480
+00:24:38,220 --> 00:24:40,380
+You can say, well, what happens if I
+
+481
+00:24:40,380 --> 00:24:46,740
+were to activate this neuron 10 times a second every 5 seconds?
+
+482
+00:24:46,740 --> 00:24:48,860
+And how would that change things?
+
+483
+00:24:48,860 --> 00:24:50,860
+So you could do lots of different perturbations.
+
+484
+00:24:50,860 --> 00:24:53,060
+And that, to me, is the best way to check
+
+485
+00:24:53,060 --> 00:24:55,900
+that you have what I consider a biologically relevant
+
+486
+00:24:55,900 --> 00:24:57,100
+model.
+
+487
+00:24:57,100 --> 00:25:02,260
+But what you're looking for is not anything on sort of the,
+
+488
+00:25:02,260 --> 00:25:05,020
+you're looking for observables, basically.
+
+489
+00:25:05,020 --> 00:25:09,180
+And I think that's what you have to do if you're doing science.
+
+490
+00:25:09,180 --> 00:25:11,060
+You have to be looking at what's observable.
+
+491
+00:25:11,060 --> 00:25:14,340
+And right now, what's going on inside the synapses
+
+492
+00:25:14,340 --> 00:25:15,620
+is not observable.
+
+493
+00:25:15,620 --> 00:25:17,420
+So I'm not going to be simulating that.
+
+494
+00:25:17,420 --> 00:25:20,780
+And part of the hypothesis, since I'm
+
+495
+00:25:20,780 --> 00:25:24,020
+doing this a PhD thesis, it has to answer a scientific question.
+
+496
+00:25:24,060 --> 00:25:26,740
+And the question is, can you capture
+
+497
+00:25:26,740 --> 00:25:29,340
+the qualitative aspects of behavior
+
+498
+00:25:29,340 --> 00:25:32,180
+as viewed externally without modeling
+
+499
+00:25:32,180 --> 00:25:36,860
+what's going on at the molecular dynamic level?
+
+500
+00:25:36,860 --> 00:25:37,360
+Yeah.
+
+501
+00:25:37,360 --> 00:25:38,860
+A question on connectomes.
+
+502
+00:25:38,860 --> 00:25:42,140
+So in my understanding of the human brain,
+
+503
+00:25:42,140 --> 00:25:45,660
+I thought that neurons could grow new connections
+
+504
+00:25:45,660 --> 00:25:46,820
+with other neurons.
+
+505
+00:25:46,820 --> 00:25:49,460
+So in that sense, it's like the map
+
+506
+00:25:49,460 --> 00:25:51,620
+of the connections between all pairs of neurons
+
+507
+00:25:51,620 --> 00:25:52,740
+is constantly changing.
+
+508
+00:25:52,740 --> 00:25:53,380
+Yes.
+
+509
+00:25:53,380 --> 00:25:55,660
+How would that work when we're trying
+
+510
+00:25:55,660 --> 00:25:59,820
+to find the connectome of a more complicated organism whose
+
+511
+00:25:59,820 --> 00:26:01,740
+neurons do make new connections?
+
+512
+00:26:01,740 --> 00:26:07,420
+So C. elegans, nicely enough, doesn't do that.
+
+513
+00:26:07,420 --> 00:26:09,420
+But you're absolutely right.
+
+514
+00:26:09,420 --> 00:26:10,620
+Mammals do.
+
+515
+00:26:10,620 --> 00:26:12,340
+Mammals do form new connections.
+
+516
+00:26:12,340 --> 00:26:14,340
+And there's also, even in C. elegans,
+
+517
+00:26:14,340 --> 00:26:17,060
+there's a question of development.
+
+518
+00:26:17,060 --> 00:26:19,420
+It's been shown, not conclusively,
+
+519
+00:26:19,420 --> 00:26:23,900
+but fairly convincingly, that electrical activity is not
+
+520
+00:26:23,900 --> 00:26:25,380
+only important for cognition.
+
+521
+00:26:25,380 --> 00:26:27,460
+It's also important for development.
+
+522
+00:26:27,460 --> 00:26:30,840
+And if you introduce genes that basically only
+
+523
+00:26:30,840 --> 00:26:34,980
+break action potential function of a neuron,
+
+524
+00:26:34,980 --> 00:26:40,900
+those neurons, as they develop from birth onward,
+
+525
+00:26:40,900 --> 00:26:44,620
+they don't form the connections that they should.
+
+526
+00:26:44,620 --> 00:26:45,980
+And so there's something going on.
+
+527
+00:26:45,980 --> 00:26:47,340
+There's some computation going on
+
+528
+00:26:47,420 --> 00:26:50,220
+that's development-specific, probably,
+
+529
+00:26:50,220 --> 00:26:52,740
+because in most areas of the brain,
+
+530
+00:26:52,740 --> 00:26:56,260
+once you reach a certain level of maturity,
+
+531
+00:26:56,260 --> 00:27:00,100
+those sorts of processes stop growing.
+
+532
+00:27:00,100 --> 00:27:01,800
+So there's some sort of computation there.
+
+533
+00:27:01,800 --> 00:27:03,860
+And I'm explicitly leaving that out
+
+534
+00:27:03,860 --> 00:27:06,240
+because I want to graduate in a reasonable amount of time,
+
+535
+00:27:06,240 --> 00:27:09,180
+saying, development, future work.
+
+536
+00:27:09,180 --> 00:27:09,620
+And it is.
+
+537
+00:27:09,620 --> 00:27:10,260
+It's future work.
+
+538
+00:27:10,260 --> 00:27:13,740
+And at the same time as, hopefully, this is a success.
+
+539
+00:27:13,740 --> 00:27:15,420
+Someone will go look at the zebrafish.
+
+540
+00:27:15,420 --> 00:27:17,260
+And someone will go look and try and figure out
+
+541
+00:27:17,260 --> 00:27:20,980
+how C. elegans develops from a larval stage
+
+542
+00:27:20,980 --> 00:27:23,860
+to an adult with all 302 neurons and how they find
+
+543
+00:27:23,860 --> 00:27:25,180
+each other to connect.
+
+544
+00:27:25,180 --> 00:27:29,140
+And that's definitely important because how
+
+545
+00:27:29,140 --> 00:27:30,860
+the nervous system develops gives us
+
+546
+00:27:30,860 --> 00:27:34,820
+some clue as to what the functional organization is.
+
+547
+00:27:34,820 --> 00:27:40,140
+Because the things that develop in concert and stem
+
+548
+00:27:40,140 --> 00:27:43,180
+from the same developmental program, in a sense,
+
+549
+00:27:43,180 --> 00:27:45,980
+probably have the same functions when
+
+550
+00:27:45,980 --> 00:27:48,660
+they're finished developing.
+
+551
+00:27:48,660 --> 00:27:50,260
+But separate from development, there's
+
+552
+00:27:50,260 --> 00:27:52,060
+also this question of learning.
+
+553
+00:27:52,060 --> 00:27:57,420
+And if you do just capture a connectome,
+
+554
+00:27:57,420 --> 00:28:00,060
+it seems to me that there is a possibility that what you could
+
+555
+00:28:00,060 --> 00:28:02,260
+wind up doing is sort of capturing
+
+556
+00:28:02,260 --> 00:28:03,860
+a connectome frozen in time.
+
+557
+00:28:03,860 --> 00:28:08,380
+You could wind up with some anterograde amnesia effect.
+
+558
+00:28:08,380 --> 00:28:11,900
+Because if you're missing some aspect of plasticity
+
+559
+00:28:11,900 --> 00:28:13,340
+on a short-term scale, you would get
+
+560
+00:28:13,340 --> 00:28:14,620
+the same sorts of responses.
+
+561
+00:28:14,620 --> 00:28:17,780
+But you wouldn't get the same sorts of changes over time.
+
+562
+00:28:17,780 --> 00:28:21,980
+So that is a possibility.
+
+563
+00:28:21,980 --> 00:28:25,420
+The way that you can get around that is if you have tools,
+
+564
+00:28:25,420 --> 00:28:28,420
+again, we're talking 20, 30 years in the future.
+
+565
+00:28:28,420 --> 00:28:29,420
+These are pretty recent.
+
+566
+00:28:29,420 --> 00:28:31,700
+Who knows what we'll have then.
+
+567
+00:28:31,700 --> 00:28:35,300
+If we can visualize something either at a lower level in terms
+
+568
+00:28:35,300 --> 00:28:37,820
+of what's going on with transcription factors,
+
+569
+00:28:37,820 --> 00:28:41,420
+or if we can visualize how the axonal processes grow,
+
+570
+00:28:41,420 --> 00:28:43,780
+then we can build models of that in the same way
+
+571
+00:28:43,780 --> 00:28:48,380
+that now we can build models of the steady state
+
+572
+00:28:48,380 --> 00:28:51,020
+dynamics in the sense of short time scale
+
+573
+00:28:51,020 --> 00:28:54,940
+dynamics of electrical activity.
+
+574
+00:28:54,940 --> 00:28:55,420
+Yeah?
+
+575
+00:28:55,420 --> 00:28:59,700
+Can you think, like, so how many neurons can you get at once
+
+576
+00:28:59,700 --> 00:29:01,420
+with that?
+
+577
+00:29:01,420 --> 00:29:04,980
+So it depends on how many lasers you have, right?
+
+578
+00:29:04,980 --> 00:29:07,500
+Number of lasers over two equals the number
+
+579
+00:29:07,500 --> 00:29:09,020
+of simultaneous observations.
+
+580
+00:29:09,020 --> 00:29:13,180
+But you can direct the lasers at hundreds of Hertz.
+
+581
+00:29:13,180 --> 00:29:18,660
+And so if you want to look at 100 neurons at 30 Hertz,
+
+582
+00:29:18,660 --> 00:29:19,460
+you can do that.
+
+583
+00:29:19,460 --> 00:29:21,260
+You just have to multiplex them.
+
+584
+00:29:21,260 --> 00:29:23,820
+And because the things, especially in C. elegans,
+
+585
+00:29:23,820 --> 00:29:26,780
+are on a fairly slow time scale because C. elegans doesn't
+
+586
+00:29:26,780 --> 00:29:29,700
+have action potentials, or at least they're not
+
+587
+00:29:29,700 --> 00:29:34,660
+thought to be significant for computation, it's doable.
+
+588
+00:29:34,660 --> 00:29:39,180
+As technology gets better again, you'll be able to scan faster.
+
+589
+00:29:39,180 --> 00:29:42,300
+There's actually people working on just fancier optics tricks
+
+590
+00:29:42,300 --> 00:29:44,860
+that let you scan faster.
+
+591
+00:29:44,860 --> 00:29:47,460
+And also, you can just use more lasers.
+
+592
+00:29:47,460 --> 00:29:49,140
+And there's nothing to say that you
+
+593
+00:29:49,140 --> 00:29:51,180
+have to be pointing one laser out.
+
+594
+00:29:51,180 --> 00:29:53,060
+You can multiplex much faster if you're
+
+595
+00:29:53,060 --> 00:29:55,060
+talking about pulsing lasers on and off
+
+596
+00:29:55,060 --> 00:29:56,940
+because they're femtosecond lasers.
+
+597
+00:29:56,940 --> 00:29:59,140
+So the more lasers you have, the better.
+
+598
+00:29:59,140 --> 00:30:01,900
+But ultimately, when we're talking about systems
+
+599
+00:30:01,900 --> 00:30:04,740
+like a mouse where you have to penetrate
+
+600
+00:30:04,740 --> 00:30:08,660
+through millimeters of tissue to get to certain regions,
+
+601
+00:30:08,660 --> 00:30:12,540
+it's probably not going to be optical.
+
+602
+00:30:12,540 --> 00:30:16,380
+And at least it's not going to be visible light.
+
+603
+00:30:16,380 --> 00:30:21,060
+One potential direction is called magnetoencephalography.
+
+604
+00:30:21,060 --> 00:30:22,340
+And when there's a neural current,
+
+605
+00:30:22,340 --> 00:30:26,260
+it induces a magnetic field just by Maxwell's equations.
+
+606
+00:30:26,260 --> 00:30:33,220
+And right now, if you have superconducting magnets, squids,
+
+607
+00:30:33,220 --> 00:30:36,580
+you can detect the currents of order
+
+608
+00:30:36,580 --> 00:30:40,060
+of 1,000 neurons activating at once.
+
+609
+00:30:40,060 --> 00:30:41,540
+So you have to have that level.
+
+610
+00:30:41,540 --> 00:30:43,660
+But when you're talking about 100 billion neurons
+
+611
+00:30:43,660 --> 00:30:46,260
+in the human brain, that's still pretty impressive.
+
+612
+00:30:46,260 --> 00:30:47,740
+It's pretty impressively fine grained.
+
+613
+00:30:47,740 --> 00:30:50,980
+It's much better than an MRI.
+
+614
+00:30:50,980 --> 00:30:54,500
+And as time goes on, again, hopefully, those things
+
+615
+00:30:54,500 --> 00:30:56,500
+will continue to evolve and improve to the point
+
+616
+00:30:56,500 --> 00:31:00,620
+where you can measure what's going on at a very low level.
+
+617
+00:31:00,620 --> 00:31:03,540
+And then on the control side, similarly,
+
+618
+00:31:03,540 --> 00:31:06,660
+we have transcranial magnetic stimulation.
+
+619
+00:31:06,660 --> 00:31:09,460
+And that also is rapidly increasing
+
+620
+00:31:09,460 --> 00:31:11,100
+in resolution and accuracy.
+
+621
+00:31:14,100 --> 00:31:14,600
+Sookie.
+
+622
+00:31:14,600 --> 00:31:17,740
+Do you have a name that works?
+
+623
+00:31:17,740 --> 00:31:21,620
+A friend of mine suggested Ellie for C. elegans.
+
+624
+00:31:21,620 --> 00:31:23,980
+But I haven't come up with any others.
+
+625
+00:31:28,820 --> 00:31:29,320
+Yeah.
+
+626
+00:31:29,320 --> 00:31:29,820
+OK.
+
+627
+00:31:29,820 --> 00:31:32,300
+So this question is trying to be not super well-formed.
+
+628
+00:31:32,300 --> 00:31:33,460
+But I'm going to have to.
+
+629
+00:31:33,460 --> 00:31:34,220
+No problem.
+
+630
+00:31:34,220 --> 00:31:34,740
+OK.
+
+631
+00:31:34,740 --> 00:31:36,940
+So clearly, since you're promoting
+
+632
+00:31:36,940 --> 00:31:39,420
+a few years of your life to this and doing your Christianity,
+
+633
+00:31:39,420 --> 00:31:41,260
+you do think it's important to try
+
+634
+00:31:41,260 --> 00:31:44,380
+to understand the low-level physics of it all
+
+635
+00:31:44,380 --> 00:31:46,860
+to understand the mind and thoughts, right?
+
+636
+00:31:46,860 --> 00:31:48,780
+Is that what is going on?
+
+637
+00:31:48,780 --> 00:31:51,780
+So I think what I'm trying to establish
+
+638
+00:31:51,780 --> 00:31:54,620
+is a lower bound on what's important.
+
+639
+00:31:54,620 --> 00:31:57,340
+Because there's a lot of people out there,
+
+640
+00:31:57,340 --> 00:31:59,860
+like Terry Szeginowski, who argue
+
+641
+00:31:59,860 --> 00:32:02,860
+that what's going on inside the synapse is important.
+
+642
+00:32:02,860 --> 00:32:05,060
+The mechanics of vesicle diffusion is important.
+
+643
+00:32:05,060 --> 00:32:07,380
+And if you're not keeping track of the vesicles,
+
+644
+00:32:07,380 --> 00:32:09,460
+you're really missing the point.
+
+645
+00:32:09,460 --> 00:32:12,980
+And so what I'm trying to do is, at least for one organism,
+
+646
+00:32:12,980 --> 00:32:15,940
+for 30 behaviors of this organism,
+
+647
+00:32:15,940 --> 00:32:18,660
+say, you know what, vesicle motion
+
+648
+00:32:18,660 --> 00:32:20,660
+is not important for this.
+
+649
+00:32:20,660 --> 00:32:23,020
+And then hopefully, once that's established,
+
+650
+00:32:23,020 --> 00:32:26,180
+we can sort of move forward and say, OK, well, maybe
+
+651
+00:32:26,180 --> 00:32:28,660
+the neuron, the different compartments in the neuron
+
+652
+00:32:28,660 --> 00:32:29,660
+aren't important either.
+
+653
+00:32:29,660 --> 00:32:31,500
+Maybe there are some functional units
+
+654
+00:32:31,500 --> 00:32:33,660
+that we can start to consider.
+
+655
+00:32:33,660 --> 00:32:36,780
+But I'm trying to just sort of establish that lower bound.
+
+656
+00:32:36,780 --> 00:32:38,660
+And in addition, I think in C. elegans,
+
+657
+00:32:38,660 --> 00:32:41,260
+where you have a total of 302 neurons,
+
+658
+00:32:41,260 --> 00:32:42,760
+that's on the same order of magnitude
+
+659
+00:32:42,760 --> 00:32:44,580
+as the number of sort of functional regions
+
+660
+00:32:44,580 --> 00:32:47,260
+that we've identified with MRI in human brains.
+
+661
+00:32:47,260 --> 00:32:49,740
+And I think in C. elegans, each of the neurons
+
+662
+00:32:49,740 --> 00:32:51,500
+really is pretty specialized to do
+
+663
+00:32:51,500 --> 00:32:53,900
+a certain job in the organism.
+
+664
+00:32:53,900 --> 00:32:56,300
+So I'm not sure that you could go that much higher
+
+665
+00:32:56,300 --> 00:32:57,700
+in this model system.
+
+666
+00:32:57,700 --> 00:33:00,980
+But at least, I'd like to say, the neurons
+
+667
+00:33:01,780 --> 00:33:03,900
+are the lowest level that you need to worry about.
+
+668
+00:33:03,900 --> 00:33:06,500
+OK, so as a follow-up to that, so that's
+
+669
+00:33:06,500 --> 00:33:08,860
+really cool that actually clarified something to me.
+
+670
+00:33:08,860 --> 00:33:13,620
+But do you think that work on higher level stuff
+
+671
+00:33:13,620 --> 00:33:14,980
+is still useful at this point?
+
+672
+00:33:14,980 --> 00:33:15,780
+Oh, yeah.
+
+673
+00:33:15,780 --> 00:33:17,620
+Yeah, absolutely.
+
+674
+00:33:17,620 --> 00:33:21,220
+But I think that work on higher level stuff
+
+675
+00:33:21,220 --> 00:33:24,660
+is largely the same sort of work that
+
+676
+00:33:24,660 --> 00:33:27,580
+has been possible for a while.
+
+677
+00:33:27,580 --> 00:33:29,540
+I mean, there's certainly an argument
+
+678
+00:33:29,540 --> 00:33:32,260
+that we have way cheaper and more powerful computers
+
+679
+00:33:32,260 --> 00:33:35,620
+than we did when people started doing AI.
+
+680
+00:33:35,620 --> 00:33:40,900
+But I feel like most AI, it's not really about scale,
+
+681
+00:33:40,900 --> 00:33:43,100
+unless you're talking about Google-style AI, which
+
+682
+00:33:43,100 --> 00:33:46,740
+I feel like is not really the point.
+
+683
+00:33:46,740 --> 00:33:50,020
+So the reason that I moved into neuroscience
+
+684
+00:33:50,020 --> 00:33:53,380
+is because it's clear to me that there's something
+
+685
+00:33:53,380 --> 00:33:55,340
+that you can do now that you couldn't do before.
+
+686
+00:33:55,340 --> 00:33:58,420
+There's something you can see that you couldn't see before.
+
+687
+00:33:58,420 --> 00:33:59,780
+And so there's got to be something
+
+688
+00:33:59,780 --> 00:34:02,060
+that you can learn from that.
+
+689
+00:34:02,060 --> 00:34:08,780
+I don't think that this is the most probable path
+
+690
+00:34:08,780 --> 00:34:09,580
+to intelligence.
+
+691
+00:34:09,580 --> 00:34:12,660
+In a sense, I think there's many, many paths to intelligence.
+
+692
+00:34:12,660 --> 00:34:14,980
+And the collection of all of them
+
+693
+00:34:14,980 --> 00:34:17,220
+that don't involve looking at brains at all
+
+694
+00:34:17,220 --> 00:34:19,340
+is a greater probability of success
+
+695
+00:34:19,340 --> 00:34:22,460
+than the collection of all that involve looking at brains.
+
+696
+00:34:22,460 --> 00:34:27,820
+But I think this specific path is the most probable single
+
+697
+00:34:27,820 --> 00:34:28,420
+path.
+
+698
+00:34:28,420 --> 00:34:31,900
+If you were to compare it to hierarchical temporal memory
+
+699
+00:34:31,900 --> 00:34:34,100
+as a specific way that you can go,
+
+700
+00:34:34,100 --> 00:34:36,780
+or if you were to compare it to Bayesian networks
+
+701
+00:34:36,780 --> 00:34:40,580
+as a specific way to go, I think that this is more likely
+
+702
+00:34:40,580 --> 00:34:42,140
+than any specific thing.
+
+703
+00:34:42,140 --> 00:34:44,100
+So it's not that I think that it's the best,
+
+704
+00:34:44,100 --> 00:34:46,980
+but it's certainly the clearest at how to proceed.
+
+705
+00:34:46,980 --> 00:34:48,180
+And I like that.
+
+706
+00:34:54,460 --> 00:34:55,460
+All right.
+
+707
+00:34:55,580 --> 00:34:59,020
+Is there an estimate of how many genes control the nervous
+
+708
+00:34:59,020 --> 00:35:02,940
+system in the worm?
+
+709
+00:35:02,940 --> 00:35:07,380
+In the worm, I don't know that number, I think.
+
+710
+00:35:07,380 --> 00:35:12,700
+If you're talking about just like channels and transporters,
+
+711
+00:35:12,700 --> 00:35:18,580
+it's probably something like 100, if that.
+
+712
+00:35:18,580 --> 00:35:23,300
+There's a class of genes called unk for uncoordinated.
+
+713
+00:35:23,340 --> 00:35:25,700
+And when you remove those genes, the worm
+
+714
+00:35:25,700 --> 00:35:28,340
+doesn't really swim very well.
+
+715
+00:35:28,340 --> 00:35:33,060
+And there's about 120 genes in that class.
+
+716
+00:35:33,060 --> 00:35:36,420
+So I think that's sort of roughly the nervous system
+
+717
+00:35:36,420 --> 00:35:38,100
+genes, if you will.
+
+718
+00:35:38,100 --> 00:35:41,380
+I've seen estimates for the mammalian brain,
+
+719
+00:35:41,380 --> 00:35:43,540
+which are 20,000.
+
+720
+00:35:43,540 --> 00:35:46,060
+Well, 20,000 is how many genes there are in a human.
+
+721
+00:35:46,060 --> 00:35:49,540
+But maybe all of them are important for the brain.
+
+722
+00:35:49,540 --> 00:35:50,060
+Who knows?
+
+723
+00:35:50,860 --> 00:35:51,860
+Yeah?
+
+724
+00:35:51,860 --> 00:35:53,860
+When you're talking about removing some of those neurons,
+
+725
+00:35:53,860 --> 00:35:56,860
+are you talking about doing that in a matured worm that
+
+726
+00:35:56,860 --> 00:35:58,860
+doesn't have more development?
+
+727
+00:35:58,860 --> 00:36:01,860
+What about if you do that in a worm that hasn't developed yet
+
+728
+00:36:01,860 --> 00:36:02,860
+together with that?
+
+729
+00:36:02,860 --> 00:36:05,860
+Would you see things develop new connections?
+
+730
+00:36:05,860 --> 00:36:08,860
+Things get screwed up.
+
+731
+00:36:08,860 --> 00:36:13,860
+If you do it in a mammal, things adapt.
+
+732
+00:36:13,860 --> 00:36:16,860
+And you wind up kind of being OK.
+
+733
+00:36:17,060 --> 00:36:19,060
+Kind of being OK.
+
+734
+00:36:19,060 --> 00:36:22,660
+The worm developmental system is not that complicated.
+
+735
+00:36:22,660 --> 00:36:25,940
+And if you start killing things in the larval stage,
+
+736
+00:36:25,940 --> 00:36:28,820
+it kind of just isn't happy.
+
+737
+00:36:28,820 --> 00:36:30,340
+It'll usually live.
+
+738
+00:36:30,340 --> 00:36:34,260
+But the neurons that were supposed to go there
+
+739
+00:36:34,260 --> 00:36:36,260
+will just sort of get lost.
+
+740
+00:36:36,260 --> 00:36:37,940
+Is there a big point for what animal
+
+741
+00:36:37,940 --> 00:36:41,660
+is complex enough to adapt versus what isn't a worm?
+
+742
+00:36:41,660 --> 00:36:45,580
+So the word for it is non-utelic.
+
+743
+00:36:45,580 --> 00:36:48,860
+Utelic means that the network structure is fixed
+
+744
+00:36:48,860 --> 00:36:50,900
+and it won't adapt.
+
+745
+00:36:50,900 --> 00:36:55,420
+And I think you can get up to the level of about a snail.
+
+746
+00:36:55,420 --> 00:36:57,500
+And there are some utelic snails.
+
+747
+00:36:57,500 --> 00:37:01,140
+And then beyond that point, certainly all insects
+
+748
+00:37:01,140 --> 00:37:04,580
+have adaptive neural networks.
+
+749
+00:37:04,580 --> 00:37:05,580
+Yeah?
+
+750
+00:37:05,580 --> 00:37:08,580
+Can you just describe in a plain little detail
+
+751
+00:37:08,580 --> 00:37:12,580
+the kinds of experiments you're doing in the short term?
+
+752
+00:37:12,580 --> 00:37:18,580
+I mean, you've given some general sort of clues
+
+753
+00:37:18,580 --> 00:37:21,580
+about the method, about the experiment,
+
+754
+00:37:21,580 --> 00:37:23,580
+but what are the sources of experiments
+
+755
+00:37:23,580 --> 00:37:26,580
+you're doing in the nearest term?
+
+756
+00:37:26,580 --> 00:37:29,420
+The nearest term thing is actually just
+
+757
+00:37:29,420 --> 00:37:36,380
+to focus on the readout, which is the calcium image of readout,
+
+758
+00:37:36,380 --> 00:37:39,180
+to express in all the neurons, which no one has ever done.
+
+759
+00:37:39,180 --> 00:37:41,740
+Because there is this, again, it's
+
+760
+00:37:41,740 --> 00:37:45,620
+sort of a cultural bias, not that I'm unbiased,
+
+761
+00:37:45,620 --> 00:37:46,380
+I have one bias.
+
+762
+00:37:46,380 --> 00:37:48,060
+And biologists have the other bias,
+
+763
+00:37:48,060 --> 00:37:52,020
+which is to isolate the smallest publishable unit,
+
+764
+00:37:52,020 --> 00:37:56,100
+sort of say, OK, I'm going to work on this cell
+
+765
+00:37:56,100 --> 00:37:58,860
+and figure out its function, anything else is noise.
+
+766
+00:37:58,860 --> 00:38:03,700
+And so you try to minimize the expression of your transgene.
+
+767
+00:38:03,700 --> 00:38:05,420
+And what I'm trying to do is maximize it.
+
+768
+00:38:05,420 --> 00:38:07,140
+I want to know all of the cells, because I
+
+769
+00:38:07,140 --> 00:38:09,100
+want to be able to capture the entire system
+
+770
+00:38:09,100 --> 00:38:10,940
+so that I can treat it as sort of a closed system
+
+771
+00:38:10,940 --> 00:38:13,660
+with well-known inputs and outputs.
+
+772
+00:38:13,660 --> 00:38:15,660
+So in this case, the first thing I'm trying to do
+
+773
+00:38:15,660 --> 00:38:19,260
+is just to express calcium, just to do confocal imaging,
+
+774
+00:38:19,260 --> 00:38:23,660
+and to see if there's any patterns that pop out.
+
+775
+00:38:23,660 --> 00:38:25,940
+And right now, I'm just sort of in the process
+
+776
+00:38:25,940 --> 00:38:29,180
+of trying to get this gene to actually express
+
+777
+00:38:29,180 --> 00:38:31,860
+in all of the neurons.
+
+778
+00:38:31,860 --> 00:38:32,360
+Yeah.
+
+779
+00:38:32,360 --> 00:38:34,860
+So if every worm has the same number of neurons,
+
+780
+00:38:34,860 --> 00:38:36,860
+and they're all connected in the same way,
+
+781
+00:38:36,860 --> 00:38:39,860
+what accounts for the functional differences between worms?
+
+782
+00:38:39,860 --> 00:38:43,220
+Say, what makes one more uncoordinated than another?
+
+783
+00:38:43,220 --> 00:38:47,060
+Oh, so when you do have those mutations,
+
+784
+00:38:47,060 --> 00:38:50,860
+you do get different network structure.
+
+785
+00:38:50,860 --> 00:38:52,500
+Well, not all of the time.
+
+786
+00:38:52,500 --> 00:38:54,460
+Sometimes it's not different network structure.
+
+787
+00:38:54,460 --> 00:38:58,380
+Sometimes it's just that a certain class of neurons
+
+788
+00:38:58,380 --> 00:39:00,500
+is not excitable, it won't fire, because it's
+
+789
+00:39:00,500 --> 00:39:04,620
+missing voltage-gated channels or something like that.
+
+790
+00:39:04,620 --> 00:39:06,620
+Actually, none of them have voltage-gated channels.
+
+791
+00:39:06,620 --> 00:39:10,300
+But if it's missing receptors, for instance,
+
+792
+00:39:10,300 --> 00:39:11,820
+it'll just sit there, and it'll be
+
+793
+00:39:11,820 --> 00:39:15,620
+a roadblock to signals that are supposed to go through there.
+
+794
+00:39:15,620 --> 00:39:18,580
+So yeah, when you start mutating,
+
+795
+00:39:18,580 --> 00:39:22,580
+that breaks the rule that they're all exactly the same.
+
+796
+00:39:22,580 --> 00:39:23,080
+Yeah.
+
+797
+00:39:23,080 --> 00:39:24,940
+Follow-up to the question, how certain
+
+798
+00:39:24,940 --> 00:39:28,820
+are we that 80 genetically-deceased kind of case
+
+799
+00:39:28,820 --> 00:39:33,020
+changes the topology, and are genetically-modified
+
+800
+00:39:33,020 --> 00:39:35,300
+worms will behave in the same way,
+
+801
+00:39:35,300 --> 00:39:39,500
+in the same manner as an ordinary worm?
+
+802
+00:39:39,500 --> 00:39:40,860
+It's a very good question.
+
+803
+00:39:40,860 --> 00:39:44,340
+And the way that I've sort of dodged that is to say,
+
+804
+00:39:44,340 --> 00:39:47,980
+what I'm looking for is this sort of repertoire
+
+805
+00:39:47,980 --> 00:39:50,900
+of 30 or 40 behaviors.
+
+806
+00:39:50,900 --> 00:39:57,700
+And so suppose that introducing all of these foreign channels
+
+807
+00:39:57,700 --> 00:40:00,220
+really does change what's going on
+
+808
+00:40:00,220 --> 00:40:02,740
+at the level of neurodynamics.
+
+809
+00:40:02,740 --> 00:40:05,660
+But suppose that when you look at what the worm does
+
+810
+00:40:05,660 --> 00:40:09,940
+under various experimental conditions, it's still the same.
+
+811
+00:40:09,940 --> 00:40:13,660
+Then, yes, you're going to be simulating something
+
+812
+00:40:13,660 --> 00:40:14,540
+that isn't natural.
+
+813
+00:40:14,540 --> 00:40:18,140
+You're going to be simulating the modified state
+
+814
+00:40:18,140 --> 00:40:20,860
+with whatever dynamical changes are introduced.
+
+815
+00:40:20,860 --> 00:40:24,500
+But you're still going to be capturing the computations that
+
+816
+00:40:24,500 --> 00:40:26,460
+lead to the same behavior.
+
+817
+00:40:26,460 --> 00:40:28,740
+And so in some sense, if you can't tell the difference
+
+818
+00:40:28,740 --> 00:40:30,940
+right away, and what you're trying to do
+
+819
+00:40:30,940 --> 00:40:33,220
+is not to be able to tell the difference to your model,
+
+820
+00:40:33,220 --> 00:40:36,100
+then it doesn't matter if those changes are introduced.
+
+821
+00:40:36,100 --> 00:40:38,980
+But there is definitely a risk that some of the behaviors
+
+822
+00:40:38,980 --> 00:40:40,260
+drop away.
+
+823
+00:40:40,260 --> 00:40:45,180
+For instance, with the voltage sensor, as I said,
+
+824
+00:40:45,180 --> 00:40:46,580
+it's originally a proton pump.
+
+825
+00:40:46,580 --> 00:40:48,900
+But if you put a proton pump into a neuron,
+
+826
+00:40:48,900 --> 00:40:51,100
+you're not going to get any spontaneous activity
+
+827
+00:40:51,100 --> 00:40:53,500
+because it'll just depolarize.
+
+828
+00:40:53,500 --> 00:40:56,260
+It'll hyperpolarize all the time,
+
+829
+00:40:56,260 --> 00:40:58,660
+or all the time that that channel's being activated.
+
+830
+00:40:58,660 --> 00:41:00,620
+And since it's supposed to be a passive sensor,
+
+831
+00:41:00,620 --> 00:41:02,180
+that's not good.
+
+832
+00:41:02,180 --> 00:41:04,860
+So it's critical that this sort of performs
+
+833
+00:41:04,860 --> 00:41:07,020
+as advertised by the people who engineered it,
+
+834
+00:41:07,020 --> 00:41:09,900
+that it doesn't perturb the neuron.
+
+835
+00:41:09,900 --> 00:41:12,100
+But if it does, you're going to know.
+
+836
+00:41:12,100 --> 00:41:13,620
+And it's not going to do the things
+
+837
+00:41:13,620 --> 00:41:16,580
+that the worm will do the thing it's supposed to do.
+
+838
+00:41:16,580 --> 00:41:17,080
+Yeah.
+
+839
+00:41:17,080 --> 00:41:20,300
+Do you think that worm being able to just be
+
+840
+00:41:20,300 --> 00:41:22,180
+a collection of it do sort of roles,
+
+841
+00:41:22,180 --> 00:41:25,060
+or will be a bit more unpredictable than that?
+
+842
+00:41:25,060 --> 00:41:30,980
+So I think my intuition from what I've observed so far
+
+843
+00:41:30,980 --> 00:41:37,020
+is that it's a collection of largely autonomous local control
+
+844
+00:41:37,020 --> 00:41:42,340
+loops with some long distance modulatory connections that
+
+845
+00:41:42,340 --> 00:41:46,940
+are usually not active except in exceptional conditions.
+
+846
+00:41:46,940 --> 00:41:51,380
+So you're going to have in each body segment
+
+847
+00:41:51,380 --> 00:41:53,820
+just a tiny control loop.
+
+848
+00:41:53,820 --> 00:41:56,420
+In fact, there's some evidence that the control loop consists
+
+849
+00:41:56,420 --> 00:42:00,100
+of one cell that just happens to synapse onto muscle
+
+850
+00:42:00,100 --> 00:42:05,220
+and also be a sensory neuron that basically says,
+
+851
+00:42:05,220 --> 00:42:08,420
+if the body segment ahead of me is stretching this way,
+
+852
+00:42:08,420 --> 00:42:11,620
+then about 50 milliseconds later,
+
+853
+00:42:11,620 --> 00:42:13,820
+then I should stretch that way too.
+
+854
+00:42:13,820 --> 00:42:17,740
+And so this sort of propagates the undulating wave.
+
+855
+00:42:17,740 --> 00:42:20,780
+There isn't a pattern generator, for instance,
+
+856
+00:42:20,780 --> 00:42:23,300
+like you would see in higher organism, that sort of says,
+
+857
+00:42:23,300 --> 00:42:25,460
+OK, you, you, you, you.
+
+858
+00:42:25,460 --> 00:42:27,620
+They sort of coordinate with each other.
+
+859
+00:42:27,620 --> 00:42:30,020
+And then when something goes wrong,
+
+860
+00:42:30,020 --> 00:42:33,420
+then there's other connections that
+
+861
+00:42:33,420 --> 00:42:36,020
+seem to get brought into the loop
+
+862
+00:42:36,020 --> 00:42:41,580
+and modulate those typically autonomous systems.
+
+863
+00:42:41,580 --> 00:42:43,780
+But I don't know.
+
+864
+00:42:43,780 --> 00:42:49,300
+I expect that many surprises await in the full model.
+
+865
+00:42:49,300 --> 00:42:49,820
+Yeah.
+
+866
+00:42:49,820 --> 00:42:51,620
+What do you think about the current efforts
+
+867
+00:42:51,620 --> 00:42:53,580
+directly to the connectome of, say, a mouse?
+
+868
+00:42:53,580 --> 00:42:55,780
+Do you think it's possible that these projects will
+
+869
+00:42:55,780 --> 00:42:58,500
+succeed without insight?
+
+870
+00:42:58,500 --> 00:43:00,620
+Without?
+
+871
+00:43:00,620 --> 00:43:03,980
+I think that it's possible that they will succeed and not
+
+872
+00:43:03,980 --> 00:43:07,780
+provide any insight, if that's what you mean.
+
+873
+00:43:07,780 --> 00:43:10,980
+It's certainly physically possible
+
+874
+00:43:10,980 --> 00:43:13,420
+if you had enough time and resources
+
+875
+00:43:13,420 --> 00:43:16,540
+to do electron micrographs of an entire mouse brain.
+
+876
+00:43:16,540 --> 00:43:20,900
+I mean, it's not that far off if you had, say,
+
+877
+00:43:20,900 --> 00:43:23,420
+$80 million, you could just do it.
+
+878
+00:43:23,420 --> 00:43:27,780
+It just takes a lot of microscopes and a lot of time.
+
+879
+00:43:27,780 --> 00:43:32,260
+So it's not actually a very high-risk project in that sense.
+
+880
+00:43:32,260 --> 00:43:35,860
+But it's also not really that much of a high-reward project,
+
+881
+00:43:35,860 --> 00:43:39,100
+because no one knows what to do with that data.
+
+882
+00:43:39,100 --> 00:43:41,060
+Like the most advanced, I actually
+
+883
+00:43:41,060 --> 00:43:44,300
+did lab rotation with Jeff Lichtman, who
+
+884
+00:43:44,300 --> 00:43:47,220
+did the connectome project.
+
+885
+00:43:47,220 --> 00:43:50,020
+And what they're looking at right now
+
+886
+00:43:50,020 --> 00:43:55,180
+is they're looking at, well, when axons synapse
+
+887
+00:43:55,180 --> 00:43:59,620
+onto dendrites, are they choosing which dendrite
+
+888
+00:43:59,620 --> 00:44:03,420
+to synapse onto randomly or not?
+
+889
+00:44:03,420 --> 00:44:07,340
+And that's a sort of analysis that you can do on that data.
+
+890
+00:44:07,340 --> 00:44:13,180
+And it seems pretty obvious that they're not random.
+
+891
+00:44:13,180 --> 00:44:15,740
+And there's some sort of pattern to how
+
+892
+00:44:15,740 --> 00:44:17,060
+things connect in the brain.
+
+893
+00:44:17,060 --> 00:44:19,940
+I think that's intuitively clear.
+
+894
+00:44:19,980 --> 00:44:23,700
+But there is still also this community of people
+
+895
+00:44:23,700 --> 00:44:27,460
+out there who say, no, you know what?
+
+896
+00:44:27,460 --> 00:44:30,260
+We've done neural networks with random connections.
+
+897
+00:44:30,260 --> 00:44:31,700
+They seem to be pretty clever.
+
+898
+00:44:31,700 --> 00:44:33,700
+They're just as clever as the neural networks
+
+899
+00:44:33,700 --> 00:44:35,700
+we've built with carefully designed connections.
+
+900
+00:44:35,700 --> 00:44:38,620
+So there's no real reason that the brain
+
+901
+00:44:38,620 --> 00:44:40,980
+needs to have specific patterns of connection.
+
+902
+00:44:40,980 --> 00:44:43,340
+And nature is always parsimonious and efficient.
+
+903
+00:44:43,340 --> 00:44:45,940
+So it's probably random.
+
+904
+00:44:45,940 --> 00:44:47,740
+And so this is the sorts of stuff
+
+905
+00:44:47,740 --> 00:44:49,740
+that you see in connectomics.
+
+906
+00:44:49,740 --> 00:44:51,940
+And it's not exactly what I'm interested in.
+
+907
+00:44:57,260 --> 00:44:59,660
+What sorts of inputs and outputs does the worm have?
+
+908
+00:44:59,660 --> 00:45:01,980
+You mentioned muscles and things.
+
+909
+00:45:01,980 --> 00:45:02,500
+Yes.
+
+910
+00:45:02,500 --> 00:45:06,300
+So the outputs that we can observe
+
+911
+00:45:06,300 --> 00:45:08,260
+are pretty much all muscles.
+
+912
+00:45:08,260 --> 00:45:09,980
+There are body wall muscles.
+
+913
+00:45:09,980 --> 00:45:12,220
+There are egg-laying muscles.
+
+914
+00:45:12,220 --> 00:45:13,700
+There are anal muscles.
+
+915
+00:45:13,700 --> 00:45:16,140
+There are head muscles.
+
+916
+00:45:16,140 --> 00:45:21,980
+And then the inputs, there's a few light-sensitive neurons.
+
+917
+00:45:21,980 --> 00:45:25,500
+So it can do sort of a, it's actually
+
+918
+00:45:25,500 --> 00:45:30,340
+very much like a QAPD, which is the sensor that
+
+919
+00:45:30,340 --> 00:45:33,820
+was put on top of early heat-seeking missiles.
+
+920
+00:45:33,820 --> 00:45:35,460
+So it has just enough information
+
+921
+00:45:35,460 --> 00:45:40,260
+that it can navigate toward light or away from light.
+
+922
+00:45:40,260 --> 00:45:44,020
+It has a large variety of chemical sensors,
+
+923
+00:45:44,020 --> 00:45:47,140
+or basically odor sensors.
+
+924
+00:45:47,140 --> 00:45:50,220
+So that's how it finds food.
+
+925
+00:45:50,220 --> 00:45:53,100
+It also has chemo sensors that aren't classified
+
+926
+00:45:53,100 --> 00:45:56,980
+as odor sensors, like carbon dioxide sensors.
+
+927
+00:45:56,980 --> 00:45:59,740
+So if there's too much carbon dioxide,
+
+928
+00:45:59,740 --> 00:46:02,500
+it goes away from there.
+
+929
+00:46:02,500 --> 00:46:04,660
+It has touch sensors.
+
+930
+00:46:04,660 --> 00:46:08,220
+So if you poke it, it goes away.
+
+931
+00:46:08,220 --> 00:46:10,780
+I'm trying to think some of the other sensors.
+
+932
+00:46:11,020 --> 00:46:16,780
+It's mostly odor, definitely, by cell count.
+
+933
+00:46:16,780 --> 00:46:20,380
+Odor, touch, and light.
+
+934
+00:46:20,380 --> 00:46:22,620
+I think that's about it.
+
+935
+00:46:22,620 --> 00:46:24,420
+So in the simulation, do you intend
+
+936
+00:46:24,420 --> 00:46:26,380
+to just stimulate the inputs and try
+
+937
+00:46:26,380 --> 00:46:27,940
+to get some expected outputs, or even
+
+938
+00:46:27,940 --> 00:46:30,940
+improve for us all possible narrow states for the worm?
+
+939
+00:46:30,940 --> 00:46:33,380
+So it's 302 neurons.
+
+940
+00:46:33,380 --> 00:46:39,540
+So if each neuron has, say, two states,
+
+941
+00:46:39,540 --> 00:46:40,860
+it's a lot.
+
+942
+00:46:40,860 --> 00:46:41,620
+It's a big number.
+
+943
+00:46:41,620 --> 00:46:43,900
+I'm not going to do that.
+
+944
+00:46:43,900 --> 00:46:48,820
+There's a hierarchy of different sorts
+
+945
+00:46:48,820 --> 00:46:52,900
+of levels of data-collecting pain.
+
+946
+00:46:52,900 --> 00:46:55,220
+And that's the top of it.
+
+947
+00:46:55,220 --> 00:46:57,940
+Well, actually, the top of it is that the state of each neuron
+
+948
+00:46:57,940 --> 00:47:00,900
+is a real number.
+
+949
+00:47:00,900 --> 00:47:04,380
+And you have to sample a vector field
+
+950
+00:47:04,380 --> 00:47:07,620
+to the precision of its curvature,
+
+951
+00:47:07,620 --> 00:47:09,460
+302-dimensional vector field.
+
+952
+00:47:09,460 --> 00:47:15,460
+And then it goes down from there to, at the very bottom,
+
+953
+00:47:15,460 --> 00:47:18,860
+you just start saying, OK, each of the neurons
+
+954
+00:47:18,860 --> 00:47:22,220
+is a linear function of the other neurons.
+
+955
+00:47:22,220 --> 00:47:26,380
+And we just have to put together a 302-by-302 matrix
+
+956
+00:47:26,380 --> 00:47:28,980
+of synaptic weights.
+
+957
+00:47:28,980 --> 00:47:30,540
+And in fact, it's known that there's
+
+958
+00:47:30,540 --> 00:47:32,300
+only about 7,000 synapses.
+
+959
+00:47:32,300 --> 00:47:34,380
+So you can zero most of that out right away.
+
+960
+00:47:34,380 --> 00:47:36,100
+And there's only 7,000 numbers you need.
+
+961
+00:47:36,100 --> 00:47:38,860
+That's sort of the hyper-optimistic point
+
+962
+00:47:38,860 --> 00:47:42,580
+of view, which is kind of what I thought going into this.
+
+963
+00:47:42,580 --> 00:47:44,380
+It's probably more complicated than that.
+
+964
+00:47:44,380 --> 00:47:48,620
+But I think there's at least some separability where
+
+965
+00:47:48,620 --> 00:47:54,260
+you can say the synapses and global peptide diffusion
+
+966
+00:47:54,260 --> 00:47:56,500
+are basically the only ways that you
+
+967
+00:47:56,500 --> 00:48:00,500
+can have an impact of one neuron on another.
+
+968
+00:48:00,500 --> 00:48:02,780
+And you can do some sorts of things from genetics
+
+969
+00:48:02,780 --> 00:48:06,980
+just to say, well, here are the channels that are in there.
+
+970
+00:48:07,020 --> 00:48:08,380
+You aren't going to have anything
+
+971
+00:48:08,380 --> 00:48:11,380
+that can't be explained in terms of a potassium
+
+972
+00:48:11,380 --> 00:48:14,260
+current and a sodium current and a calcium current.
+
+973
+00:48:14,260 --> 00:48:16,820
+And so there's definitely prior information
+
+974
+00:48:16,820 --> 00:48:19,300
+that you can put into it from the connectome
+
+975
+00:48:19,300 --> 00:48:20,660
+and from genetics.
+
+976
+00:48:20,660 --> 00:48:24,620
+And you can even go so far, and people
+
+977
+00:48:24,620 --> 00:48:27,900
+have, as to put in prior information from what
+
+978
+00:48:27,900 --> 00:48:29,940
+you would like to get out of it.
+
+979
+00:48:29,940 --> 00:48:33,020
+You say, well, I want to evolve the synaptic weights
+
+980
+00:48:33,020 --> 00:48:36,140
+toward something that exhibits this type of undulation.
+
+981
+00:48:36,180 --> 00:48:39,260
+And lo and behold, it exhibits that type of undulation.
+
+982
+00:48:39,260 --> 00:48:41,700
+But then you don't know whether it correlates to reality
+
+983
+00:48:41,700 --> 00:48:42,540
+or not.
+
+984
+00:48:42,540 --> 00:48:45,380
+But if you have an instrument where you can check,
+
+985
+00:48:45,380 --> 00:48:46,980
+does this correlate to reality?
+
+986
+00:48:46,980 --> 00:48:49,460
+Then you can still use those sorts of approaches
+
+987
+00:48:49,460 --> 00:48:51,980
+as shortcuts through the sort of state space
+
+988
+00:48:51,980 --> 00:48:53,540
+of possible neural networks.
+
+989
+00:49:03,740 --> 00:49:04,240
+Yes?
+
+990
+00:49:04,240 --> 00:49:06,120
+What's the life cycle of a worm like?
+
+991
+00:49:06,120 --> 00:49:09,720
+How long does it take to create a worm that has been in that?
+
+992
+00:49:09,720 --> 00:49:10,480
+It's wonderful.
+
+993
+00:49:10,480 --> 00:49:12,000
+The life cycle is four days.
+
+994
+00:49:15,400 --> 00:49:19,480
+Yeah, it's very convenient.
+
+995
+00:49:19,480 --> 00:49:21,720
+And it's a self-fertilizing hermaphrodite, too.
+
+996
+00:49:21,720 --> 00:49:25,440
+So it clones by itself.
+
+997
+00:49:25,440 --> 00:49:27,600
+It's pretty good.
+
+998
+00:49:27,600 --> 00:49:29,920
+It's also the only organism that cryogenics
+
+999
+00:49:29,920 --> 00:49:31,040
+has proven to work on.
+
+1000
+00:49:31,040 --> 00:49:33,480
+You can put worms into liquid nitrogen.
+
+1001
+00:49:33,480 --> 00:49:35,160
+20 years later, you can thaw them out
+
+1002
+00:49:35,160 --> 00:49:38,480
+and they start crawling around.
+
+1003
+00:49:38,480 --> 00:49:40,480
+Yeah?
+
+1004
+00:49:40,480 --> 00:49:44,120
+You said that we hope that the neurons have basically
+
+1005
+00:49:44,120 --> 00:49:44,920
+a binary state.
+
+1006
+00:49:44,920 --> 00:49:47,840
+What's to say that they don't have 10 binary states
+
+1007
+00:49:47,840 --> 00:49:49,000
+or something?
+
+1008
+00:49:49,000 --> 00:49:51,840
+Yeah, no, I don't think they do have a binary state.
+
+1009
+00:49:51,840 --> 00:49:55,680
+And I think it's sort of, again, in some ways,
+
+1010
+00:49:55,680 --> 00:49:58,600
+it's not the right way to think about the problem
+
+1011
+00:49:58,920 --> 00:50:01,360
+that the neuron has a state.
+
+1012
+00:50:01,360 --> 00:50:05,720
+Because it seems like a lot of what's going on,
+
+1013
+00:50:05,720 --> 00:50:07,880
+especially in C. elegans, because we're essentially
+
+1014
+00:50:07,880 --> 00:50:10,000
+talking about analog computation because there
+
+1015
+00:50:10,000 --> 00:50:13,520
+aren't known to be spontaneous action potentials.
+
+1016
+00:50:13,520 --> 00:50:17,880
+What you're really looking at is more like a control system.
+
+1017
+00:50:17,880 --> 00:50:22,240
+And so some input, for instance, there's
+
+1018
+00:50:22,240 --> 00:50:24,600
+a paper just published this month
+
+1019
+00:50:24,600 --> 00:50:27,560
+that showed that certain networks in C. elegans
+
+1020
+00:50:27,560 --> 00:50:29,920
+are there to compute time derivatives.
+
+1021
+00:50:29,920 --> 00:50:36,120
+And I believe that that's just a functional block of a PID
+
+1022
+00:50:36,120 --> 00:50:37,720
+controller.
+
+1023
+00:50:37,720 --> 00:50:40,560
+Then we're going to find the integral part
+
+1024
+00:50:40,560 --> 00:50:44,680
+and then something that linearly sums them and then feeds back.
+
+1025
+00:50:44,680 --> 00:50:49,720
+So I think it's not really so much about finding
+
+1026
+00:50:49,720 --> 00:50:52,800
+the set of states and then saying, hey, for this state,
+
+1027
+00:50:52,800 --> 00:50:57,240
+you go to there, in the sense of sort of an if-do rule.
+
+1028
+00:50:57,240 --> 00:51:00,520
+Because I think that it's a lot simpler than that.
+
+1029
+00:51:00,520 --> 00:51:04,520
+In that, there are just simple equations
+
+1030
+00:51:04,520 --> 00:51:06,800
+that govern most of the processes
+
+1031
+00:51:06,800 --> 00:51:09,240
+and how they relate to each other and to the environment.
+
+1032
+00:51:09,240 --> 00:51:09,760
+That's my hope.
+
+1033
+00:51:19,440 --> 00:51:24,600
+The adults can grow to be about 700 or 800 microns long
+
+1034
+00:51:24,600 --> 00:51:28,360
+and about the diameter of a hair, about 50 to 100 microns
+
+1035
+00:51:28,360 --> 00:51:32,120
+in diameter, depending on stage.
+
+1036
+00:51:32,120 --> 00:51:34,120
+And they're transparent, so they're
+
+1037
+00:51:34,120 --> 00:51:36,560
+challenging to spot with the naked eye,
+
+1038
+00:51:36,560 --> 00:51:40,200
+but you can in the right lighting conditions.
+
+1039
+00:51:40,200 --> 00:51:41,360
+Yeah?
+
+1040
+00:51:41,360 --> 00:51:47,840
+I remember in the first days, Brenner actually
+
+1041
+00:51:47,840 --> 00:51:50,840
+read small ones.
+
+1042
+00:51:50,840 --> 00:51:57,840
+And for example, I think the nervous system and the gut
+
+1043
+00:51:57,840 --> 00:52:00,320
+are separate pretty much.
+
+1044
+00:52:00,320 --> 00:52:02,840
+And with selective reading, he found
+
+1045
+00:52:02,840 --> 00:52:06,200
+some where they were in the same plane
+
+1046
+00:52:06,200 --> 00:52:09,120
+and half the length and so forth.
+
+1047
+00:52:09,120 --> 00:52:11,320
+And the purpose of all that was so
+
+1048
+00:52:11,320 --> 00:52:16,160
+that he could get a whole more into the target
+
+1049
+00:52:16,160 --> 00:52:18,760
+of his electron microscope.
+
+1050
+00:52:18,760 --> 00:52:23,040
+So that way, he had similar pictures of the whole thing.
+
+1051
+00:52:23,040 --> 00:52:24,600
+I see.
+
+1052
+00:52:24,600 --> 00:52:27,000
+It sounds like they don't have to do that anymore,
+
+1053
+00:52:27,000 --> 00:52:29,560
+but it was an interesting case where
+
+1054
+00:52:29,560 --> 00:52:33,120
+they controlled the evolution of this piece to be easier
+
+1055
+00:52:33,120 --> 00:52:34,480
+to study.
+
+1056
+00:52:34,480 --> 00:52:36,240
+And that's not a bad idea.
+
+1057
+00:52:36,240 --> 00:52:36,960
+No, it's not.
+
+1058
+00:52:40,160 --> 00:52:43,120
+I don't know if they reduced the number of neurons by accident.
+
+1059
+00:52:48,840 --> 00:52:49,320
+Yeah?
+
+1060
+00:52:49,320 --> 00:52:51,080
+What percentage of the separate do you
+
+1061
+00:52:51,080 --> 00:52:54,680
+think is going to be devoted to combining all of these tools?
+
+1062
+00:52:54,680 --> 00:52:56,280
+And what percentage do you think is
+
+1063
+00:52:56,280 --> 00:53:00,600
+going to be running the aggregate to learn something?
+
+1064
+00:53:00,600 --> 00:53:07,480
+I think once everything works, the process of taking AWIRM
+
+1065
+00:53:07,480 --> 00:53:11,680
+and scanning it in will only take a couple of hours.
+
+1066
+00:53:14,920 --> 00:53:18,600
+So 99.99% building the tools.
+
+1067
+00:53:18,640 --> 00:53:21,040
+Because really, that's about how long
+
+1068
+00:53:21,040 --> 00:53:26,960
+you have before these sorts of the dyes get photo bleached
+
+1069
+00:53:26,960 --> 00:53:30,480
+and the laser power starts to heat things up
+
+1070
+00:53:30,480 --> 00:53:34,280
+uncomfortably for the worm.
+
+1071
+00:53:34,280 --> 00:53:36,400
+And then you're studying a different system.
+
+1072
+00:53:45,520 --> 00:53:46,000
+Yeah?
+
+1073
+00:53:46,000 --> 00:53:49,280
+What's this research?
+
+1074
+00:53:49,280 --> 00:53:50,000
+Larry Page.
+
+1075
+00:54:01,240 --> 00:54:02,320
+Personally, or?
+
+1076
+00:54:02,320 --> 00:54:02,820
+Yes.
+
+1077
+00:54:09,280 --> 00:54:13,080
+Yeah, the NIH isn't a big fan.
+
+1078
+00:54:13,080 --> 00:54:15,040
+Although, there was a faculty member
+
+1079
+00:54:15,040 --> 00:54:17,920
+who put in a valiant application.
+
+1080
+00:54:17,920 --> 00:54:21,200
+He managed to tie this research in plausible ways
+
+1081
+00:54:21,200 --> 00:54:24,280
+to cure for Parkinson's, which I was really impressed by.
+
+1082
+00:54:24,280 --> 00:54:26,160
+But the NIH was not so impressed.
+
+1083
+00:54:34,160 --> 00:54:36,640
+Did you guys apply to a grant from Larry?
+
+1084
+00:54:36,640 --> 00:54:40,040
+Or did someone talk to him?
+
+1085
+00:54:40,040 --> 00:54:43,000
+It was his idea, actually.
+
+1086
+00:54:43,000 --> 00:54:46,200
+Well, I mean, he wasn't the first person to have the idea.
+
+1087
+00:54:46,200 --> 00:54:48,680
+And in fact, he wasn't even the first person to tell me about it.
+
+1088
+00:54:48,680 --> 00:54:50,560
+He was the third person to tell me about it.
+
+1089
+00:54:50,560 --> 00:54:52,200
+But when he told me about it, I listened.
+
+1090
+00:54:55,080 --> 00:54:59,280
+And then when I decided that I was going to do it, I said, well,
+
+1091
+00:54:59,280 --> 00:55:00,560
+not to him, obviously.
+
+1092
+00:55:00,560 --> 00:55:05,920
+I went through my network of many people
+
+1093
+00:55:05,920 --> 00:55:09,040
+and eventually got a message through that I
+
+1094
+00:55:09,040 --> 00:55:11,120
+wanted to do this for real.
+
+1095
+00:55:11,120 --> 00:55:16,520
+And could he spare 0.0001% of his fortune to make it happen?
+
+1096
+00:55:16,520 --> 00:55:17,600
+And yes.
+
+1097
+00:55:22,600 --> 00:55:24,000
+So how far along are you?
+
+1098
+00:55:24,000 --> 00:55:25,360
+How many worms do you have?
+
+1099
+00:55:28,920 --> 00:55:34,520
+So it's not anyone's number one priority
+
+1100
+00:55:34,520 --> 00:55:36,040
+to make these genes.
+
+1101
+00:55:36,040 --> 00:55:38,320
+Again, because all the people who
+
+1102
+00:55:38,320 --> 00:55:43,840
+have the skills to make the genes and breed the worms
+
+1103
+00:55:43,840 --> 00:55:48,280
+to express them are naturally biologists who
+
+1104
+00:55:48,280 --> 00:55:53,760
+have this bias towards, no, no, we want to do small systems.
+
+1105
+00:55:53,760 --> 00:55:56,240
+And so I have to figure out how to do it myself.
+
+1106
+00:55:56,240 --> 00:55:59,440
+And not having any background in biology most of my time
+
+1107
+00:55:59,440 --> 00:56:03,600
+lately has been spent taking classes in biology.
+
+1108
+00:56:03,600 --> 00:56:05,520
+But I've also been working on some
+
+1109
+00:56:05,520 --> 00:56:07,600
+of the computational tools that we'll need.
+
+1110
+00:56:07,600 --> 00:56:10,560
+For instance, when you have a worm
+
+1111
+00:56:10,560 --> 00:56:16,960
+in this sort of wobbly conformation,
+
+1112
+00:56:16,960 --> 00:56:19,680
+and it's changing, obviously, as it behaves,
+
+1113
+00:56:19,680 --> 00:56:23,760
+you need to find the neurons and track them
+
+1114
+00:56:23,760 --> 00:56:27,440
+at rates of at least 100 hertz in order
+
+1115
+00:56:27,440 --> 00:56:30,080
+to keep your lasers pointed in the right place.
+
+1116
+00:56:30,080 --> 00:56:31,400
+And so I've been working on that.
+
+1117
+00:56:31,400 --> 00:56:33,640
+And I have some pretty good algorithms for that,
+
+1118
+00:56:33,640 --> 00:56:37,760
+as well as isolating the signals.
+
+1119
+00:56:37,760 --> 00:56:42,160
+And basically, when you're imaging something
+
+1120
+00:56:42,160 --> 00:56:45,040
+in confocal mode, which is going to be the first thing that we
+
+1121
+00:56:45,040 --> 00:56:50,840
+do, which is a lot cheaper than two photon,
+
+1122
+00:56:50,840 --> 00:56:53,600
+you have to separate neurons that are on top of each other.
+
+1123
+00:56:53,600 --> 00:56:55,240
+They have different signals.
+
+1124
+00:56:55,240 --> 00:56:59,800
+And the way that I'm doing it is to say
+
+1125
+00:56:59,800 --> 00:57:04,040
+each pixel is some roughly linear function
+
+1126
+00:57:04,040 --> 00:57:08,040
+of some set of the neurons that are near that pixel in three
+
+1127
+00:57:08,040 --> 00:57:08,760
+space.
+
+1128
+00:57:08,760 --> 00:57:13,840
+And you can actually just use a singular value decomposition
+
+1129
+00:57:13,840 --> 00:57:17,320
+followed by some simple heuristics derived
+
+1130
+00:57:17,320 --> 00:57:21,360
+from Microsoft Paint to say here's where you just fit.
+
+1131
+00:57:21,360 --> 00:57:24,080
+Literally, you flood fill in where the neurons are.
+
+1132
+00:57:24,080 --> 00:57:25,480
+And it works incredibly well.
+
+1133
+00:57:29,800 --> 00:57:31,280
+Yeah?
+
+1134
+00:57:31,280 --> 00:57:36,280
+So if you had a multiple state process or something,
+
+1135
+00:57:36,280 --> 00:57:39,280
+not just that you wanted to look at in the worm,
+
+1136
+00:57:39,280 --> 00:57:42,280
+something like if you wanted to look at all the neurons
+
+1137
+00:57:42,280 --> 00:57:47,280
+as it's producing a new clone or something,
+
+1138
+00:57:47,280 --> 00:57:51,280
+like that multiple step, would you be able to?
+
+1139
+00:57:51,280 --> 00:57:53,280
+Sorry, what do you mean by multiple state?
+
+1140
+00:57:53,280 --> 00:57:56,280
+Yeah, instead of a stimulus and response,
+
+1141
+00:57:56,760 --> 00:57:59,760
+instead of a stimulus and response sort of thing
+
+1142
+00:57:59,760 --> 00:58:01,760
+if you wanted to measure something
+
+1143
+00:58:01,760 --> 00:58:04,760
+about a process that took longer.
+
+1144
+00:58:04,760 --> 00:58:06,260
+Oh, yeah.
+
+1145
+00:58:06,260 --> 00:58:12,760
+So the nice thing about having control over all of the neurons
+
+1146
+00:58:12,760 --> 00:58:16,760
+is that you can also control the sensory neurons
+
+1147
+00:58:16,760 --> 00:58:20,760
+and thereby put the worm into the matrix.
+
+1148
+00:58:20,760 --> 00:58:24,760
+And you can make it experience whatever you want in principle.
+
+1149
+00:58:25,240 --> 00:58:28,740
+This has been done with zebrafish.
+
+1150
+00:58:28,740 --> 00:58:32,240
+So the way that you do this is you use a myotoxin
+
+1151
+00:58:32,240 --> 00:58:35,740
+to prevent any of the muscles from contracting.
+
+1152
+00:58:35,740 --> 00:58:40,240
+And so then you have a perfectly still paralyzed animal.
+
+1153
+00:58:40,240 --> 00:58:44,240
+And then you can feed it whatever sensory stimuli you want.
+
+1154
+00:58:44,240 --> 00:58:48,240
+You can read out the motor stimuli and motor responses.
+
+1155
+00:58:48,240 --> 00:58:52,240
+You can feed that back into your simulation.
+
+1156
+00:58:52,240 --> 00:58:53,740
+It's exactly the matrix.
+
+1157
+00:58:53,740 --> 00:58:56,220
+And then the animal is convinced that it's
+
+1158
+00:58:56,220 --> 00:58:57,720
+in this environment that doesn't exist.
+
+1159
+00:59:04,720 --> 00:59:05,220
+Yeah?
+
+1160
+00:59:05,220 --> 00:59:08,220
+One thing that I don't perhaps understand
+
+1161
+00:59:08,220 --> 00:59:10,720
+is that it's not picking up on the details here.
+
+1162
+00:59:10,720 --> 00:59:12,220
+But one thing I don't understand is
+
+1163
+00:59:12,220 --> 00:59:18,220
+how much of the state would the worm, so it's 300 neurons,
+
+1164
+00:59:18,220 --> 00:59:22,220
+how much of the state do you have knowledge of
+
+1165
+00:59:23,200 --> 00:59:24,700
+with that particular time?
+
+1166
+00:59:24,700 --> 00:59:27,200
+Is it all those neurons?
+
+1167
+00:59:27,200 --> 00:59:33,700
+So again, you can measure the way
+
+1168
+00:59:33,700 --> 00:59:36,200
+that it works if you have one pair of lasers.
+
+1169
+00:59:36,200 --> 00:59:38,700
+You can measure any neuron at any time.
+
+1170
+00:59:38,700 --> 00:59:44,700
+And the measurement process takes about a few milliseconds.
+
+1171
+00:59:44,700 --> 00:59:48,200
+And the time constant of these neurons
+
+1172
+00:59:48,200 --> 00:59:51,500
+is on the order of 40 or 50 milliseconds.
+
+1173
+00:59:51,500 --> 00:59:55,180
+So you have to be a little bit smart about which neurons
+
+1174
+00:59:55,180 --> 00:59:57,680
+you want to look at and when.
+
+1175
+00:59:57,680 --> 01:00:02,480
+So in that sense, you can't look at all of them simultaneously
+
+1176
+01:00:02,480 --> 01:00:03,780
+unless you have more lasers.
+
+1177
+01:00:03,780 --> 01:00:07,500
+Again, more lasers solve everything.
+
+1178
+01:00:07,500 --> 01:00:09,180
+So you can look at calcium.
+
+1179
+01:00:09,180 --> 01:00:10,280
+You can look at voltage.
+
+1180
+01:00:10,280 --> 01:00:13,580
+And you can't do those at the same time either.
+
+1181
+01:00:13,580 --> 01:00:15,880
+You have to say, OK, I'm going to read the voltage of this.
+
+1182
+01:00:15,880 --> 01:00:19,780
+I'm going to read the calcium of that.
+
+1183
+01:00:19,780 --> 01:00:24,660
+And there's actually a theory called optimal exploration
+
+1184
+01:00:24,660 --> 01:00:27,160
+of dynamic environments, which was also just published
+
+1185
+01:00:27,160 --> 01:00:31,360
+this year, about a way to algorithmically make
+
+1186
+01:00:31,360 --> 01:00:34,460
+that decision of what thing do I want
+
+1187
+01:00:34,460 --> 01:00:37,780
+to look at that is most likely to lead in the long term
+
+1188
+01:00:37,780 --> 01:00:40,260
+to gaining the most information about the system,
+
+1189
+01:00:40,260 --> 01:00:42,660
+given my expectations of what it might look like.
+
+1190
+01:00:43,240 --> 01:00:49,840
+And then conversely, how much of a staking in fat is it?
+
+1191
+01:00:49,840 --> 01:00:51,460
+And it's the same.
+
+1192
+01:00:51,460 --> 01:00:56,660
+You can perturb, either stimulate or inhibit
+
+1193
+01:00:56,660 --> 01:00:59,900
+any neuron at any time to any intensity.
+
+1194
+01:00:59,900 --> 01:01:02,540
+So you have a little bit more control there.
+
+1195
+01:01:02,540 --> 01:01:05,060
+But again, you do have to multiplex.
+
+1196
+01:01:05,060 --> 01:01:07,020
+And you have to take advantage of the fact
+
+1197
+01:01:07,020 --> 01:01:11,380
+that the neurons are not going to react as quickly as you can.
+
+1198
+01:01:12,660 --> 01:01:16,140
+So how much of a staking do you think you can support?
+
+1199
+01:01:19,420 --> 01:01:21,780
+You're basically just looking at two numbers.
+
+1200
+01:01:21,780 --> 01:01:26,980
+But you can look at those numbers anywhere in the cell.
+
+1201
+01:01:26,980 --> 01:01:30,860
+So you don't have to assume that the cell is isopotential,
+
+1202
+01:01:30,860 --> 01:01:34,180
+although it probably is for most of the neurons,
+
+1203
+01:01:34,180 --> 01:01:36,940
+not for the ones that run the whole length of the worm.
+
+1204
+01:01:36,940 --> 01:01:40,940
+But there aren't as many of those.
+
+1205
+01:01:40,940 --> 01:01:45,060
+So you can collect, in some sense, as many numbers
+
+1206
+01:01:45,060 --> 01:01:47,020
+as you want if you're interested in looking
+
+1207
+01:01:47,020 --> 01:01:50,540
+at all of the gridding a particular neuron
+
+1208
+01:01:50,540 --> 01:01:51,980
+to a lot of different locations.
+
+1209
+01:01:51,980 --> 01:01:54,300
+And you don't care about looking at anything else.
+
+1210
+01:01:54,300 --> 01:01:59,540
+But you are only going to be looking at calcium or voltage,
+
+1211
+01:01:59,540 --> 01:02:02,340
+at least with the proposal that I've got here.
+
+1212
+01:02:02,340 --> 01:02:05,260
+There are other genetically encoded sensors.
+
+1213
+01:02:05,260 --> 01:02:07,140
+But as far as I know, none of them
+
+1214
+01:02:07,140 --> 01:02:10,500
+are likely to be nearly as relevant to neural activity.
+
+1215
+01:02:10,500 --> 01:02:11,860
+At the same time, again, you're not
+
+1216
+01:02:11,860 --> 01:02:13,700
+getting what's going on in the synapses.
+
+1217
+01:02:13,700 --> 01:02:15,420
+You're not getting phosphorylation.
+
+1218
+01:02:15,420 --> 01:02:17,620
+You're not getting methylation.
+
+1219
+01:02:17,620 --> 01:02:19,260
+And all of those things are certainly
+
+1220
+01:02:19,260 --> 01:02:21,860
+important for learning and plasticity.
+
+1221
+01:02:21,860 --> 01:02:24,580
+But since C. elegans doesn't have that much of it,
+
+1222
+01:02:24,580 --> 01:02:25,580
+it might be OK.
+
+1223
+01:02:25,580 --> 01:02:27,740
+So you haven't got a complete state transition
+
+1224
+01:02:27,740 --> 01:02:29,620
+diagram of the dynamics of that?
+
+1225
+01:02:29,620 --> 01:02:30,140
+Right.
+
+1226
+01:02:30,140 --> 01:02:33,420
+Yeah, like I said, a complete transition diagram
+
+1227
+01:02:33,420 --> 01:02:40,140
+would take years to construct in the life cycle of four days.
+
+1228
+01:02:40,140 --> 01:02:43,540
+It's not going to work.
+
+1229
+01:02:43,540 --> 01:02:45,620
+Yeah.
+
+1230
+01:02:45,620 --> 01:02:51,100
+Just wondering about your thoughts about higher level
+
+1231
+01:02:51,100 --> 01:02:53,460
+questions.
+
+1232
+01:02:53,460 --> 01:03:00,060
+For example, if you look at a neurology book,
+
+1233
+01:03:00,060 --> 01:03:03,500
+it will explain on the basis of what happens when
+
+1234
+01:03:03,500 --> 01:03:10,060
+people get a concussion that short-term memory
+
+1235
+01:03:10,060 --> 01:03:16,300
+is restoring hippocampus or amygdala, or yeah, something.
+
+1236
+01:03:16,300 --> 01:03:22,140
+And they can last there for 20 minutes or so.
+
+1237
+01:03:22,140 --> 01:03:26,940
+And then over the next day, a memory trace
+
+1238
+01:03:26,940 --> 01:03:30,900
+is copied into some other part of the brain,
+
+1239
+01:03:30,900 --> 01:03:34,180
+like parietal lobe or parietal lobe or something.
+
+1240
+01:03:34,180 --> 01:03:39,300
+And I've never seen even a paragraph
+
+1241
+01:03:39,300 --> 01:03:43,100
+about, well, how does it figure out where to put a memory
+
+1242
+01:03:43,100 --> 01:03:46,420
+and how the memory is represented?
+
+1243
+01:03:46,420 --> 01:03:48,820
+So a nice question would be if you take something
+
+1244
+01:03:48,820 --> 01:03:53,860
+like the idea of K lines, the kind of methods
+
+1245
+01:03:53,860 --> 01:03:56,540
+you're describing might be nice for that
+
+1246
+01:03:56,540 --> 01:04:00,940
+because the usefulness of the K line
+
+1247
+01:04:00,940 --> 01:04:04,580
+might be that it's a bunch of neurons which
+
+1248
+01:04:04,580 --> 01:04:06,940
+go several centimeters.
+
+1249
+01:04:06,940 --> 01:04:16,380
+And so if you could look at neurons in 100 places
+
+1250
+01:04:16,380 --> 01:04:20,260
+a centimeter apart, which is very low resolution,
+
+1251
+01:04:20,260 --> 01:04:22,060
+then you might be able to find evidence
+
+1252
+01:04:22,060 --> 01:04:27,540
+for correlated activities related to some stimulus
+
+1253
+01:04:27,540 --> 01:04:29,060
+or whatever.
+
+1254
+01:04:29,060 --> 01:04:31,420
+So some of these techniques might
+
+1255
+01:04:31,420 --> 01:04:36,660
+work on a much larger brain just because you
+
+1256
+01:04:36,660 --> 01:04:41,340
+increase in size is liberating.
+
+1257
+01:04:41,340 --> 01:04:43,460
+It means that the instrumentation
+
+1258
+01:04:43,460 --> 01:04:47,340
+can be closer if it's looking at all lentils and fibers.
+
+1259
+01:04:47,340 --> 01:04:48,180
+Right.
+
+1260
+01:04:48,180 --> 01:04:52,300
+Yeah, that's what Ed Boyden is starting to look at now.
+
+1261
+01:04:52,300 --> 01:04:55,500
+Basically, I think he's calling it optodes.
+
+1262
+01:04:55,500 --> 01:04:57,100
+I'm not sure if he coined that phrase,
+
+1263
+01:04:57,100 --> 01:05:00,380
+but the optical equivalent of sticking an electrode
+
+1264
+01:05:00,380 --> 01:05:01,780
+into a brain is that.
+
+1265
+01:05:01,780 --> 01:05:03,980
+Is he using humans or?
+
+1266
+01:05:03,980 --> 01:05:07,860
+Well, personally, he's doing mice,
+
+1267
+01:05:07,860 --> 01:05:10,460
+and he's working with people who do monkeys.
+
+1268
+01:05:10,460 --> 01:05:12,420
+The problem with humans is.
+
+1269
+01:05:12,420 --> 01:05:14,660
+Mice have a very nice paper-thin skull.
+
+1270
+01:05:14,660 --> 01:05:16,700
+Yes.
+
+1271
+01:05:16,700 --> 01:05:19,500
+Yeah, humans have a thick skull.
+
+1272
+01:05:19,500 --> 01:05:20,780
+That's part of the issue.
+
+1273
+01:05:20,780 --> 01:05:23,900
+But the bigger issue is that the only reason
+
+1274
+01:05:23,900 --> 01:05:25,940
+that we get to stick electrodes in humans at all
+
+1275
+01:05:25,940 --> 01:05:29,300
+is because it's an approved treatment for epilepsy.
+
+1276
+01:05:29,300 --> 01:05:31,740
+Now, he's working on getting optodes approved
+
+1277
+01:05:31,740 --> 01:05:37,020
+as a treatment for blindness, which
+
+1278
+01:05:37,020 --> 01:05:38,700
+is kind of an obvious thing.
+
+1279
+01:05:38,700 --> 01:05:42,660
+If you can use an adenovirus to express opsins in an eye,
+
+1280
+01:05:42,660 --> 01:05:45,140
+that doesn't have them.
+
+1281
+01:05:45,140 --> 01:05:47,340
+It probably doesn't affect that many people.
+
+1282
+01:05:47,340 --> 01:05:49,260
+Most blindness is caused by other things.
+
+1283
+01:05:49,260 --> 01:05:53,020
+But for those that do, it's a very obvious intervention.
+
+1284
+01:05:53,020 --> 01:05:56,060
+Then also PTSD and other sorts of diseases.
+
+1285
+01:05:56,060 --> 01:05:57,860
+So as soon as it gets approved to treat
+
+1286
+01:05:57,860 --> 01:06:00,060
+any sort of disease, then you can piggyback on that
+
+1287
+01:06:00,060 --> 01:06:00,980
+to do human research.
+
+1288
+01:06:00,980 --> 01:06:02,940
+But that hasn't happened yet.
+
+1289
+01:06:02,940 --> 01:06:09,020
+In the early 60s, there were some successful experiments.
+
+1290
+01:06:09,020 --> 01:06:14,300
+There's a guy named Ridley, who I'm not
+
+1291
+01:06:14,300 --> 01:06:15,860
+sure what his profession was.
+
+1292
+01:06:15,860 --> 01:06:25,460
+But he made some of the first electrodes.
+
+1293
+01:06:25,460 --> 01:06:29,500
+And he actually got permission from his secretary,
+
+1294
+01:06:29,500 --> 01:06:36,940
+who was blind, to put a little plate with 64 electrodes
+
+1295
+01:06:36,940 --> 01:06:45,140
+on her occipital bone and put a little currency.
+
+1296
+01:06:45,140 --> 01:06:50,340
+And she could recognize visible patterns.
+
+1297
+01:06:50,340 --> 01:06:52,740
+Each of these electrodes he described
+
+1298
+01:06:52,740 --> 01:06:56,980
+as being a little bar, which was about half a toothpick
+
+1299
+01:06:56,980 --> 01:06:58,820
+in arm's length.
+
+1300
+01:06:58,820 --> 01:07:02,660
+And of the 64 electrodes, about 30 of them
+
+1301
+01:07:02,660 --> 01:07:05,460
+actually produced these, and the others didn't work.
+
+1302
+01:07:09,260 --> 01:07:15,300
+So he did that, and then he removed them,
+
+1303
+01:07:15,300 --> 01:07:21,300
+because it was a pretty risky thing to do anyway.
+
+1304
+01:07:21,300 --> 01:07:24,940
+And at the time, we had a great neuroscientist here
+
+1305
+01:07:24,940 --> 01:07:27,020
+named Warren Cullock.
+
+1306
+01:07:27,020 --> 01:07:31,580
+And he got Ridley to come over and talk to us.
+
+1307
+01:07:31,580 --> 01:07:35,060
+Incidentally, Ridley later discovered
+
+1308
+01:07:35,060 --> 01:07:41,140
+the use of nitrous oxide for producing erections
+
+1309
+01:07:41,140 --> 01:07:43,660
+in human nails.
+
+1310
+01:07:43,660 --> 01:07:48,700
+And he gave a demonstration of that in a famous lecture.
+
+1311
+01:07:48,700 --> 01:07:54,540
+So at the time, Cullock said, if you're
+
+1312
+01:07:54,540 --> 01:07:59,780
+interested in stimulating vision in the human brain,
+
+1313
+01:07:59,780 --> 01:08:05,740
+you better do it in the next five years, or you'll leave them.
+
+1314
+01:08:05,740 --> 01:08:08,580
+That was in the early 1960s.
+
+1315
+01:08:08,580 --> 01:08:17,580
+And this was the same time that the worm was at Renner's.
+
+1316
+01:08:17,580 --> 01:08:22,540
+And we actually thought about that and decided not to.
+
+1317
+01:08:22,540 --> 01:08:27,980
+But anyway, it would be nice if we could get back to that.
+
+1318
+01:08:27,980 --> 01:08:32,340
+And it might be that low resolution things distributed
+
+1319
+01:08:32,340 --> 01:08:38,220
+very widely would also give a lot of new information.
+
+1320
+01:08:38,220 --> 01:08:43,020
+Yeah, I think there's a lot of promise in MEG, especially
+
+1321
+01:08:43,020 --> 01:08:45,380
+because when you're just putting things
+
+1322
+01:08:45,380 --> 01:08:48,780
+on the surface of the head, there aren't issues.
+
+1323
+01:08:48,780 --> 01:08:50,500
+It's not surgery.
+
+1324
+01:08:50,500 --> 01:08:54,740
+Even if you're performing the same effective perturbation
+
+1325
+01:08:54,740 --> 01:08:56,940
+to the neurons.
+
+1326
+01:08:56,940 --> 01:08:59,740
+And what people are doing with transcranial magnetic
+
+1327
+01:08:59,740 --> 01:09:08,020
+stimulation is not that great, but it's certainly promising.
+
+1328
+01:09:08,020 --> 01:09:14,420
+And there might be some way of getting things
+
+1329
+01:09:14,420 --> 01:09:18,860
+into cells that actually synthesize proteins,
+
+1330
+01:09:18,860 --> 01:09:22,180
+encoding data, and breaking out the bloodstream later.
+
+1331
+01:09:22,180 --> 01:09:25,500
+Yeah, although there is a group working on that.
+
+1332
+01:09:25,500 --> 01:09:28,780
+They're calling it the Molecular Ticker Tape,
+
+1333
+01:09:28,780 --> 01:09:33,380
+where you basically, it's complicated.
+
+1334
+01:09:33,380 --> 01:09:35,000
+I don't think I can explain it properly.
+
+1335
+01:09:35,000 --> 01:09:38,220
+But there are a lot of people who
+
+1336
+01:09:38,220 --> 01:09:44,020
+are looking for problems to match the solution of high
+
+1337
+01:09:44,020 --> 01:09:46,700
+throughput sequencing.
+
+1338
+01:09:46,740 --> 01:09:49,780
+You can take huge amounts of DNA and sequence it cheaply now.
+
+1339
+01:09:49,780 --> 01:09:51,300
+And that's one of those.
+
+1340
+01:09:54,380 --> 01:09:56,540
+But it would take a pretty heroic effort
+
+1341
+01:09:56,540 --> 01:10:01,340
+to then correlate those with the actual experiment
+
+1342
+01:10:01,340 --> 01:10:03,300
+that you performed after you've extracted them.
+
+1343
+01:10:03,300 --> 01:10:05,260
+And you have to say where they came from
+
+1344
+01:10:05,260 --> 01:10:06,540
+and how long they took.
+
+1345
+01:10:06,540 --> 01:10:09,140
+Right, and I asked them, how do you
+
+1346
+01:10:09,140 --> 01:10:13,700
+identify the barcode, the cell?
+
+1347
+01:10:13,700 --> 01:10:15,260
+I'm like, well, we don't know.
+
+1348
+01:10:15,260 --> 01:10:17,260
+We'll figure that out eventually.
+
+1349
+01:10:17,260 --> 01:10:21,220
+Danny Hillis and I once consulted for Schlumberger,
+
+1350
+01:10:21,220 --> 01:10:24,220
+who made instrumentations for oil wells.
+
+1351
+01:10:24,220 --> 01:10:27,980
+And when they have a deep oil well,
+
+1352
+01:10:27,980 --> 01:10:30,340
+there's a pipe that's a couple of miles longer than you
+
+1353
+01:10:30,340 --> 01:10:31,780
+could imagine.
+
+1354
+01:10:31,780 --> 01:10:35,980
+And they get one bit out every five or 10 seconds
+
+1355
+01:10:35,980 --> 01:10:38,460
+by putting pressure pulses in.
+
+1356
+01:10:38,460 --> 01:10:43,140
+And we designed hideously elaborate things
+
+1357
+01:10:43,140 --> 01:10:46,060
+that would punch tape, and they would come floating up
+
+1358
+01:10:46,060 --> 01:10:47,540
+a few days later.
+
+1359
+01:10:47,540 --> 01:10:53,420
+And despite going to the meetings
+
+1360
+01:10:53,420 --> 01:10:57,020
+where the geologists explained why each of them would work.
+
+1361
+01:11:07,020 --> 01:11:07,940
+Any other questions?
+
+1362
+01:11:07,940 --> 01:11:11,180
+They don't have to be about neuroscience.
+
+1363
+01:11:11,180 --> 01:11:12,140
+Thank you very much.
+
+1364
+01:11:13,940 --> 01:11:14,940
+Yeah, go ahead.
+
+1365
+01:11:14,940 --> 01:11:18,380
+Oh, I was going to say, you focused
+
+1366
+01:11:18,380 --> 01:11:21,820
+on the experimental side, reading out from the work.
+
+1367
+01:11:21,820 --> 01:11:23,660
+At some point, you want all of that data
+
+1368
+01:11:23,660 --> 01:11:26,300
+to drive a computational model.
+
+1369
+01:11:26,300 --> 01:11:28,700
+Can you build a computational model now
+
+1370
+01:11:28,700 --> 01:11:31,100
+and initialize it in various ways
+
+1371
+01:11:31,100 --> 01:11:33,340
+and look for any kind of behavior at all?
+
+1372
+01:11:33,340 --> 01:11:36,540
+Or do you absolutely need this biological input
+
+1373
+01:11:36,540 --> 01:11:39,180
+to begin to drive the computational system?
+
+1374
+01:11:39,220 --> 01:11:43,980
+I think I'm working on some leads
+
+1375
+01:11:43,980 --> 01:11:46,940
+for building computational models.
+
+1376
+01:11:46,940 --> 01:11:49,340
+The obvious things to do have already
+
+1377
+01:11:49,340 --> 01:11:51,460
+been done in that department.
+
+1378
+01:11:51,460 --> 01:11:53,820
+Like I said, using genetic algorithms
+
+1379
+01:11:53,820 --> 01:11:58,300
+to find parameters that satisfy certain conditions.
+
+1380
+01:11:58,300 --> 01:12:01,740
+And it doesn't seem that enlightening.
+
+1381
+01:12:01,740 --> 01:12:03,620
+So I haven't pursued it too much.
+
+1382
+01:12:03,620 --> 01:12:06,620
+But I'm looking at, and this is actually
+
+1383
+01:12:06,780 --> 01:12:10,980
+another actually really interesting to me connection
+
+1384
+01:12:10,980 --> 01:12:13,340
+in terms of AI and neuroscience, is
+
+1385
+01:12:13,340 --> 01:12:15,180
+that when I'm looking at building
+
+1386
+01:12:15,180 --> 01:12:18,860
+the computational model that tries to interpret this data,
+
+1387
+01:12:18,860 --> 01:12:22,940
+the key idea that keeps coming back is critics and selectors.
+
+1388
+01:12:22,940 --> 01:12:27,020
+Because you need to have some set of possibilities.
+
+1389
+01:12:27,020 --> 01:12:29,620
+And you need to have some heuristics for determining,
+
+1390
+01:12:29,620 --> 01:12:34,060
+based on what data is streaming in, what sort of model
+
+1391
+01:12:34,060 --> 01:12:35,780
+seems to apply to it.
+
+1392
+01:12:35,820 --> 01:12:37,620
+And then you need to have a meta model where
+
+1393
+01:12:37,620 --> 01:12:39,780
+you need to build layers of reflection.
+
+1394
+01:12:39,780 --> 01:12:44,380
+And you're saying, well, we need to modify this in this way.
+
+1395
+01:12:44,380 --> 01:12:49,060
+And it's not easy to implement that from scratch.
+
+1396
+01:12:49,060 --> 01:12:50,380
+So I'm thinking about it.
+
+1397
+01:12:50,380 --> 01:12:55,020
+But I think that once we have real data,
+
+1398
+01:12:55,020 --> 01:12:56,980
+it'll be more clear what needs to be
+
+1399
+01:12:56,980 --> 01:13:00,860
+done to simulate the processes underlying it.
+
+1400
+01:13:00,860 --> 01:13:03,220
+And again, it's just sort of my hope
+
+1401
+01:13:03,220 --> 01:13:05,420
+that observing something that has not
+
+1402
+01:13:05,420 --> 01:13:07,300
+been observed before, that some insight will
+
+1403
+01:13:07,300 --> 01:13:10,780
+come out of that process.
+
+1404
+01:13:10,780 --> 01:13:14,020
+Is there a behavioral diagram somewhere?
+
+1405
+01:13:14,020 --> 01:13:17,540
+For example, if you feed it a lot of food,
+
+1406
+01:13:17,540 --> 01:13:19,900
+presumably it will stop eating.
+
+1407
+01:13:19,900 --> 01:13:21,300
+Right.
+
+1408
+01:13:21,300 --> 01:13:23,700
+Yeah, no.
+
+1409
+01:13:23,700 --> 01:13:25,420
+I don't remember the name of the fellow
+
+1410
+01:13:25,420 --> 01:13:28,740
+you mentioned who spent years studying seagulls, but.
+
+1411
+01:13:28,740 --> 01:13:29,460
+Tinbergen.
+
+1412
+01:13:29,460 --> 01:13:30,540
+Tinbergen, right.
+
+1413
+01:13:30,540 --> 01:13:35,020
+There isn't a tinbergen of worms, unfortunately.
+
+1414
+01:13:35,020 --> 01:13:38,220
+All of the studies are, again, it's
+
+1415
+01:13:38,220 --> 01:13:41,580
+this very, very stamp-collecting approach,
+
+1416
+01:13:41,580 --> 01:13:49,220
+where you're saying, OK, at 24.6 degrees Celsius with OP20
+
+1417
+01:13:49,220 --> 01:13:55,260
+growth media and with worms that are three days into their life
+
+1418
+01:13:55,260 --> 01:13:59,860
+and this number of worms per this area of plate
+
+1419
+01:13:59,860 --> 01:14:03,540
+with this brand of agar, here are the behaviors
+
+1420
+01:14:03,540 --> 01:14:07,380
+that we see in response to this stimulus
+
+1421
+01:14:07,380 --> 01:14:11,700
+with this number of milliseconds between repetitions and so on.
+
+1422
+01:14:11,700 --> 01:14:16,860
+And no one goes so far as to make a plot with more than one
+
+1423
+01:14:16,860 --> 01:14:20,220
+variable, because goodness, what's your control?
+
+1424
+01:14:20,220 --> 01:14:22,300
+And it is a little bit frustrating
+
+1425
+01:14:22,300 --> 01:14:24,780
+that we're going to have to build those sorts of things
+
+1426
+01:14:24,780 --> 01:14:27,780
+ourselves, but hopefully that will
+
+1427
+01:14:27,780 --> 01:14:31,420
+be the less hard part in building the model.
+
+1428
+01:14:33,940 --> 01:14:34,940
+Yeah.
+
+1429
+01:14:34,940 --> 01:14:38,940
+Could you just make some thoughts about the way
+
+1430
+01:14:38,940 --> 01:14:41,420
+mathematics might relate to, I mean,
+
+1431
+01:14:41,420 --> 01:14:44,300
+you said you were interested in the next subject.
+
+1432
+01:14:44,300 --> 01:14:46,740
+Sure, might relate to?
+
+1433
+01:14:46,740 --> 01:14:51,140
+Well, some of the theories are similar.
+
+1434
+01:14:51,140 --> 01:14:55,260
+I think, as I said, I think there's something
+
+1435
+01:14:55,260 --> 01:14:56,660
+missing in mathematics.
+
+1436
+01:14:56,660 --> 01:14:59,580
+There's some sort of theory that follows
+
+1437
+01:14:59,580 --> 01:15:03,820
+from some sort of symmetry that shows up in nervous systems
+
+1438
+01:15:03,820 --> 01:15:08,260
+and not in many other places and maybe shows up in societies
+
+1439
+01:15:08,260 --> 01:15:11,140
+as well, but I'm not certain of that.
+
+1440
+01:15:11,140 --> 01:15:16,620
+But as far as math that we know, certainly
+
+1441
+01:15:16,620 --> 01:15:20,180
+nonlinear dynamical systems is the obvious one,
+
+1442
+01:15:20,180 --> 01:15:23,740
+because a neuron is a nonlinear dynamical system.
+
+1443
+01:15:23,740 --> 01:15:26,660
+And I think that in simple animals, especially
+
+1444
+01:15:26,660 --> 01:15:30,340
+in C. elegans, most of the computations that we see
+
+1445
+01:15:30,340 --> 01:15:33,140
+are also nonlinear dynamical systems.
+
+1446
+01:15:33,140 --> 01:15:37,620
+As I said, they're integrators or they're
+
+1447
+01:15:37,620 --> 01:15:42,500
+derivatives and things of that nature.
+
+1448
+01:15:42,500 --> 01:15:44,980
+And I think a lot of them will turn out
+
+1449
+01:15:44,980 --> 01:15:49,900
+to be amenable to analysis as differential equation systems.
+
+1450
+01:15:49,900 --> 01:15:54,140
+But at the same time, I think figuring out certainly
+
+1451
+01:15:54,140 --> 01:15:56,140
+more complex organisms will require
+
+1452
+01:15:56,140 --> 01:16:01,980
+a new way of thinking about how to put together a computation.
+
+1453
+01:16:01,980 --> 01:16:08,340
+Von Neumann in 1956 started working on a monograph
+
+1454
+01:16:08,340 --> 01:16:10,660
+to accompany a series of lectures called
+
+1455
+01:16:10,660 --> 01:16:13,180
+The Computer and the Brain, in which he would discuss
+
+1456
+01:16:13,180 --> 01:16:15,340
+the differences and similarities and how
+
+1457
+01:16:15,340 --> 01:16:18,100
+he thinks that ideas from computer science
+
+1458
+01:16:18,100 --> 01:16:19,900
+will relate to neuroscience.
+
+1459
+01:16:19,900 --> 01:16:23,100
+And this was 1956.
+
+1460
+01:16:23,100 --> 01:16:25,820
+And unfortunately, he got bone cancer.
+
+1461
+01:16:26,460 --> 01:16:30,180
+He died in 1957 and left the document unfinished
+
+1462
+01:16:30,180 --> 01:16:31,700
+and never gave the lectures.
+
+1463
+01:16:31,700 --> 01:16:35,540
+And the document concludes very dramatically
+
+1464
+01:16:35,540 --> 01:16:40,020
+with this sentence, however, if the brain uses
+
+1465
+01:16:40,020 --> 01:16:43,620
+any sort of mathematics, the language of that mathematics
+
+1466
+01:16:43,620 --> 01:16:45,580
+must certainly be different from that
+
+1467
+01:16:45,580 --> 01:16:47,380
+which we explicitly and consciously
+
+1468
+01:16:47,380 --> 01:16:49,060
+refer to by that name today.
+
+1469
+01:16:51,740 --> 01:16:52,860
+And that's where it ends.
+
+1470
+01:16:56,820 --> 01:16:57,320
+Yeah.
+
+1471
+01:16:57,320 --> 01:16:58,820
+Do you have an idol?
+
+1472
+01:16:58,820 --> 01:16:59,320
+What?
+
+1473
+01:16:59,320 --> 01:17:02,820
+Do you have an idol, like fictional or non-fictional?
+
+1474
+01:17:02,820 --> 01:17:05,820
+Von Neumann would be the closest, yeah.
+
+1475
+01:17:07,820 --> 01:17:11,820
+I mean Iron Man, but that's just obvious.
+
+1476
+01:17:20,820 --> 01:17:22,820
+So you're over Edison.
+
+1477
+01:17:22,820 --> 01:17:23,320
+What?
+
+1478
+01:17:23,320 --> 01:17:24,820
+You're over Edison.
+
+1479
+01:17:24,820 --> 01:17:25,820
+You're over Edison.
+
+1480
+01:17:25,820 --> 01:17:26,820
+Over Edison.
+
+1481
+01:17:26,820 --> 01:17:28,820
+No, Edison's pretty cool, too.
+
+1482
+01:17:31,820 --> 01:17:35,820
+Von Neumann was my hero, because when I finished my thesis,
+
+1483
+01:17:35,820 --> 01:17:38,820
+the math department was on neural networks.
+
+1484
+01:17:38,820 --> 01:17:43,820
+And the math department didn't know what to make of it.
+
+1485
+01:17:43,820 --> 01:17:45,820
+So they came to Von Neumann.
+
+1486
+01:17:45,820 --> 01:17:47,820
+Did I tell you this story?
+
+1487
+01:17:47,820 --> 01:17:48,820
+No.
+
+1488
+01:17:48,820 --> 01:17:50,820
+I said, is this mathematics?
+
+1489
+01:17:50,820 --> 01:17:53,820
+And he said, if it isn't now, it's soon will be.
+
+1490
+01:17:55,820 --> 01:17:57,820
+And I got my PhD.
+
+1491
+01:18:06,820 --> 01:18:10,820
+Can you talk about any of the projects before yours,
+
+1492
+01:18:10,820 --> 01:18:13,820
+whether people have already used these tools?
+
+1493
+01:18:13,820 --> 01:18:14,320
+Yeah.
+
+1494
+01:18:14,320 --> 01:18:17,820
+So let's see.
+
+1495
+01:18:17,820 --> 01:18:22,820
+In terms of optogenetics, I don't know.
+
+1496
+01:18:23,820 --> 01:18:27,820
+There's the one, I think probably the most famous one,
+
+1497
+01:18:27,820 --> 01:18:29,820
+just because it has a really cool movie,
+
+1498
+01:18:29,820 --> 01:18:35,820
+is that someone found a promoter for a class of neurons in mice
+
+1499
+01:18:35,820 --> 01:18:38,820
+that is coupled to right turns.
+
+1500
+01:18:38,820 --> 01:18:40,820
+And so you can put the mouse in some environment,
+
+1501
+01:18:40,820 --> 01:18:41,820
+and it behaves.
+
+1502
+01:18:41,820 --> 01:18:43,820
+You turn the light, and it starts turning to the right,
+
+1503
+01:18:43,820 --> 01:18:44,820
+no matter what it's doing.
+
+1504
+01:18:44,820 --> 01:18:47,820
+And it just turns around and starts going in circles.
+
+1505
+01:18:47,820 --> 01:18:49,820
+And you turn off the light, and it goes back
+
+1506
+01:18:49,820 --> 01:18:51,820
+to what it was doing.
+
+1507
+01:18:52,820 --> 01:18:55,820
+It's mostly cool stuff like that.
+
+1508
+01:18:55,820 --> 01:18:59,820
+But it's also found use as a replacement
+
+1509
+01:18:59,820 --> 01:19:00,820
+for electrophysiology.
+
+1510
+01:19:00,820 --> 01:19:06,820
+Anything that you could do by using micro pipettes
+
+1511
+01:19:06,820 --> 01:19:10,820
+or microelectrodes, well, to some extent,
+
+1512
+01:19:10,820 --> 01:19:12,820
+depending on what kind of time resolution you need
+
+1513
+01:19:12,820 --> 01:19:14,820
+or what kind of manipulations you want to perform.
+
+1514
+01:19:14,820 --> 01:19:16,820
+But a lot of the things that you previously
+
+1515
+01:19:16,820 --> 01:19:19,820
+would need very precise and expensive equipment
+
+1516
+01:19:19,820 --> 01:19:23,820
+and calibration for, you can now do much more simply
+
+1517
+01:19:23,820 --> 01:19:26,820
+by using genetics and a blue LED.
+
+1518
+01:19:26,820 --> 01:19:29,820
+So there's a lot of things like, for instance,
+
+1519
+01:19:29,820 --> 01:19:32,820
+even in C. elegans, a lot of work
+
+1520
+01:19:32,820 --> 01:19:35,820
+has been done by Cory Bargman in recent years
+
+1521
+01:19:35,820 --> 01:19:39,820
+using calcium imaging to just sort of explore
+
+1522
+01:19:39,820 --> 01:19:43,820
+more quickly and more thoroughly
+
+1523
+01:19:43,820 --> 01:19:46,820
+the dynamics of sensory neurons,
+
+1524
+01:19:46,820 --> 01:19:49,820
+which is important to me because if I'm going to simulate
+
+1525
+01:19:49,820 --> 01:19:51,820
+the sensory neurons in some pattern that
+
+1526
+01:19:51,820 --> 01:19:55,820
+reflects a virtual reality, then I need to know
+
+1527
+01:19:55,820 --> 01:19:58,820
+how that pattern would relate to the real reality
+
+1528
+01:19:58,820 --> 01:20:00,820
+that they're observing.
+
+1529
+01:20:00,820 --> 01:20:02,820
+And so Cory Bargman has done a lot of experiments
+
+1530
+01:20:02,820 --> 01:20:05,820
+where she just sort of flows in an odorant, for instance,
+
+1531
+01:20:05,820 --> 01:20:09,820
+and she's got a laser pointed at the neuron
+
+1532
+01:20:09,820 --> 01:20:11,820
+that's known to sense that odorant
+
+1533
+01:20:11,820 --> 01:20:13,820
+and just characterizing the dynamics of how
+
+1534
+01:20:13,820 --> 01:20:16,820
+the neuron responds and habituates,
+
+1535
+01:20:16,820 --> 01:20:20,820
+which is something that you could do with a micropipette,
+
+1536
+01:20:20,820 --> 01:20:23,820
+but the worm is so small that you need,
+
+1537
+01:20:23,820 --> 01:20:26,820
+it's just really hard to get something in there
+
+1538
+01:20:26,820 --> 01:20:29,820
+onto the specific neuron that you want and have it stick.
+
+1539
+01:20:29,820 --> 01:20:32,820
+And it's been done, but it's only been done a few times
+
+1540
+01:20:32,820 --> 01:20:35,820
+by people who are very skilled and very lucky.
+
+1541
+01:20:35,820 --> 01:20:38,820
+And these types of optical tools make it a lot easier
+
+1542
+01:20:38,820 --> 01:20:41,820
+to do those sorts of experiments, if nothing else.
+
+1543
+01:20:43,820 --> 01:20:48,820
+So you can't change anything about the worm
+
+1544
+01:20:48,820 --> 01:20:50,820
+once it's already in there.
+
+1545
+01:20:50,820 --> 01:20:52,820
+Once it's already under the lasers,
+
+1546
+01:20:52,820 --> 01:20:54,820
+you can't add more stuff.
+
+1547
+01:20:54,820 --> 01:20:56,820
+But why would you want to?
+
+1548
+01:20:56,820 --> 01:20:58,820
+Well, I mean, there are reasons that you might want to.
+
+1549
+01:20:58,820 --> 01:21:00,820
+A lot of experiments are done.
+
+1550
+01:21:00,820 --> 01:21:03,820
+It's actually really creative what a lot of cellular neuroscientists
+
+1551
+01:21:03,820 --> 01:21:07,820
+do, because they realize that once you have something
+
+1552
+01:21:07,820 --> 01:21:10,820
+stuck into the cell body of a neuron,
+
+1553
+01:21:10,820 --> 01:21:14,820
+you can introduce whatever kinds of molecules you want.
+
+1554
+01:21:14,820 --> 01:21:19,820
+And there are certain molecules that are selective blockers
+
+1555
+01:21:19,820 --> 01:21:21,820
+of certain channels.
+
+1556
+01:21:21,820 --> 01:21:24,820
+And so you can do things like, OK, what if you don't have
+
+1557
+01:21:24,820 --> 01:21:27,820
+any potassium channels? What now?
+
+1558
+01:21:27,820 --> 01:21:30,820
+And you can do those sorts of perturbations when you have
+
+1559
+01:21:30,820 --> 01:21:34,820
+a physical connection to the cytosol,
+
+1560
+01:21:34,820 --> 01:21:37,820
+which you can't do optically.
+
+1561
+01:21:38,820 --> 01:21:43,820
+So those, again, are things that I hope to show,
+
+1562
+01:21:43,820 --> 01:21:47,820
+but it is not known, that you don't need to do them
+
+1563
+01:21:47,820 --> 01:21:52,820
+in order to model behavior at the scale of the organism.
+
+1564
+01:21:52,820 --> 01:21:53,820
+Yeah?
+
+1565
+01:21:53,820 --> 01:21:57,820
+Does the worm have any chemical amplifiers
+
+1566
+01:21:57,820 --> 01:21:59,820
+that are controlled by physical organs?
+
+1567
+01:21:59,820 --> 01:22:01,820
+In humans, there are different glands.
+
+1568
+01:22:01,820 --> 01:22:04,820
+Yeah, so there aren't really glands in C. elegans,
+
+1569
+01:22:04,820 --> 01:22:05,820
+but there are.
+
+1570
+01:22:05,820 --> 01:22:09,820
+There isn't a circulatory system either,
+
+1571
+01:22:09,820 --> 01:22:13,820
+but there's sort of like a shared body of fluid
+
+1572
+01:22:13,820 --> 01:22:20,820
+through which waste is channeled that contacts a lot of cells.
+
+1573
+01:22:20,820 --> 01:22:23,820
+And there's some evidence that there are a few neurons
+
+1574
+01:22:23,820 --> 01:22:27,820
+that do diffuse transmitter into that,
+
+1575
+01:22:27,820 --> 01:22:31,820
+thus affecting a sort of global change in excitability.
+
+1576
+01:22:31,820 --> 01:22:35,820
+So yes, the way that that manifests in a model
+
+1577
+01:22:35,820 --> 01:22:37,820
+is basically just as an extra node,
+
+1578
+01:22:37,820 --> 01:22:40,820
+saying this represents the sort of global concentration
+
+1579
+01:22:40,820 --> 01:22:43,820
+of glutamate or whatever.
+
+1580
+01:22:56,820 --> 01:22:57,820
+Thank you.
+
+1581
+01:22:57,820 --> 01:22:59,820
+Thank you.
+
+1582
+01:23:00,820 --> 01:23:03,820
+What's the simplest animal that does a little bit of learning?
+
+1583
+01:23:06,820 --> 01:23:08,820
+The C. elegans does a little bit.
+
+1584
+01:23:08,820 --> 01:23:11,820
+I mean, it's really just associative learning,
+
+1585
+01:23:11,820 --> 01:23:15,820
+so you can learn inversions or attractions to temperature
+
+1586
+01:23:15,820 --> 01:23:19,820
+or to chemical stimuli.
+
+1587
+01:23:19,820 --> 01:23:22,820
+But it's probably just one synapse
+
+1588
+01:23:22,820 --> 01:23:25,820
+that represents an aversion to this thing
+
+1589
+01:23:25,820 --> 01:23:30,820
+that synapse changes in strength or something like that.
+
+1590
+01:23:30,820 --> 01:23:34,820
+As far as I know, and I'm not a zoologist,
+
+1591
+01:23:34,820 --> 01:23:37,820
+so I really don't know.
+
+1592
+01:23:37,820 --> 01:23:43,820
+But as far as sort of the set of classic neuroscientific model
+
+1593
+01:23:43,820 --> 01:23:45,820
+organisms, I think zebrafish are the simplest
+
+1594
+01:23:45,820 --> 01:23:50,820
+that show abstract, anything resembling abstract learning.
+
+1595
+01:23:51,820 --> 01:23:56,820
+I just realized that I think probably we all know something
+
+1596
+01:23:56,820 --> 01:24:02,820
+about our ancestry that is the sort of 100 million years
+
+1597
+01:24:02,820 --> 01:24:09,820
+of being bacteria and things like that.
+
+1598
+01:24:09,820 --> 01:24:13,820
+And if you go backwards, there have
+
+1599
+01:24:13,820 --> 01:24:17,820
+been mammals for about 100 million years, I think.
+
+1600
+01:24:21,820 --> 01:24:25,820
+There's 100 million years of fish
+
+1601
+01:24:25,820 --> 01:24:28,820
+and 100 million years of amphibians
+
+1602
+01:24:28,820 --> 01:24:41,820
+and 100 million years of those are all vertebrates of mammals,
+
+1603
+01:24:41,820 --> 01:24:43,820
+reptiles, and so forth.
+
+1604
+01:24:43,820 --> 01:24:48,820
+And I don't know what happens in the early period,
+
+1605
+01:24:48,820 --> 01:24:53,820
+except that we're descended from yeast somehow.
+
+1606
+01:24:53,820 --> 01:25:02,820
+And so it'd be nice to know what are the first few steps up
+
+1607
+01:25:02,820 --> 01:25:05,820
+to the worm and where did it branch?
+
+1608
+01:25:05,820 --> 01:25:09,820
+And are we in that lineage, or did that lead off
+
+1609
+01:25:09,820 --> 01:25:13,820
+to the solenterites and other things
+
+1610
+01:25:13,820 --> 01:25:16,820
+that we don't have any horizontal relation?
+
+1611
+01:25:16,820 --> 01:25:17,820
+Anybody know?
+
+1612
+01:25:17,820 --> 01:25:21,820
+I'm pretty sure that we're not descended from sea elegans.
+
+1613
+01:25:21,820 --> 01:25:27,820
+I think that is a separate branch from the vertebrates.
+
+1614
+01:25:27,820 --> 01:25:30,820
+But there must have been something like a paramecium.
+
+1615
+01:25:30,820 --> 01:25:31,820
+Right.
+
+1616
+01:25:31,820 --> 01:25:34,820
+So there's actually a really interesting work
+
+1617
+01:25:34,820 --> 01:25:39,820
+in looking at yeast that flock.
+
+1618
+01:25:39,820 --> 01:25:44,820
+There's typically yeast, sort of wild type yeast,
+
+1619
+01:25:44,820 --> 01:25:50,820
+when it reproduces, the daughter cell sort of diffuses away.
+
+1620
+01:25:50,820 --> 01:25:56,820
+But you can get yeast to adhere to itself.
+
+1621
+01:25:56,820 --> 01:26:00,820
+So as it reproduces, it forms these globs.
+
+1622
+01:26:00,820 --> 01:26:03,820
+And it's actually been shown that under certain environmental conditions
+
+1623
+01:26:03,820 --> 01:26:05,820
+that are not that implausible,
+
+1624
+01:26:05,820 --> 01:26:12,820
+that those globs are more Darwinian fitness than individuals.
+
+1625
+01:26:12,820 --> 01:26:15,820
+And so there's a hypothesis that that's how yeast
+
+1626
+01:26:15,820 --> 01:26:18,820
+started to become multicellular.
+
+1627
+01:26:18,820 --> 01:26:30,820
+So they must have some extra genes that are not activated normally.
+
+1628
+01:26:30,820 --> 01:26:33,820
+I wonder why it isn't taught in grade school.
+
+1629
+01:26:33,820 --> 01:26:40,820
+Is that because evolution is not allowed in?
+
+1630
+01:26:41,820 --> 01:26:44,820
+But I came from New York.
+
+1631
+01:26:44,820 --> 01:26:48,820
+There weren't many anti-evolutionists yet.
+
+1632
+01:26:48,820 --> 01:26:59,820
+Maybe there were.
+
+1633
+01:26:59,820 --> 01:27:00,820
+Well, I'm impressed.
+
+1634
+01:27:00,820 --> 01:27:13,820
+I think that sounds like a very exciting adventure.
+
+1635
+01:27:13,820 --> 01:27:27,820
+Do any of you have a plan to pursue AI or psychology?
+
+1636
+01:27:27,820 --> 01:27:36,820
+Who has a career plan?
+
+1637
+01:27:36,820 --> 01:27:40,820
+I don't remember ever having one.
+
+1638
+01:27:40,820 --> 01:28:06,820
+There was just something exciting to do next week.
+
+1639
+01:28:07,820 --> 01:28:10,820
+Anyone have a criticism?
+
+1640
+01:28:10,820 --> 01:28:18,820
+Should David actually do this?
+
+1641
+01:28:18,820 --> 01:28:20,820
+Well, biology is slow.
+
+1642
+01:28:20,820 --> 01:28:23,820
+And computers are fast and they get faster.
+
+1643
+01:28:23,820 --> 01:28:25,820
+I think that if someone were to put as much work
+
+1644
+01:28:25,820 --> 01:28:28,820
+as David is putting into the biological aspect of this
+
+1645
+01:28:28,820 --> 01:28:32,820
+to try to brute force a model of the world faster than he could
+
+1646
+01:28:32,820 --> 01:28:34,820
+and try to match it up with behaviors,
+
+1647
+01:28:34,820 --> 01:28:39,820
+they would match up those 30 behaviors faster than he could.
+
+1648
+01:28:39,820 --> 01:28:43,820
+I would love a competition.
+
+1649
+01:28:43,820 --> 01:28:58,820
+I would just like to point out that lasers are also fast.
+
+1650
+01:28:58,820 --> 01:29:00,820
+Well, there's something wonderful about an animal
+
+1651
+01:29:00,820 --> 01:29:11,820
+that can reproduce in four days because you could actually,
+
+1652
+01:29:11,820 --> 01:29:15,820
+as part of your four years plan, you could actually plan to breed
+
+1653
+01:29:15,820 --> 01:29:21,820
+some that have some particular new neurological behavior
+
+1654
+01:29:21,820 --> 01:29:24,820
+on the side.
+
+1655
+01:29:25,820 --> 01:29:29,820
+Is there any kind of social behavior that's documented?
+
+1656
+01:29:29,820 --> 01:29:33,820
+Or is there a small animal that you would,
+
+1657
+01:29:33,820 --> 01:29:37,820
+with social behaviors that you could study on this?
+
+1658
+01:29:37,820 --> 01:29:39,820
+Like interaction between...
+
+1659
+01:29:39,820 --> 01:29:41,820
+Yeah, yeah, I know what you mean.
+
+1660
+01:29:41,820 --> 01:29:45,820
+And C. elegans doesn't, well actually it's kind of funny
+
+1661
+01:29:45,820 --> 01:29:50,820
+because the hermaphrodite doesn't have any social behavior,
+
+1662
+01:29:50,820 --> 01:29:55,820
+but the male does for obvious reasons.
+
+1663
+01:29:55,820 --> 01:29:58,820
+There's in fact 70 extra neurons in the male
+
+1664
+01:29:58,820 --> 01:30:03,820
+for the purposes of finding the hermaphrodite to it.
+
+1665
+01:30:03,820 --> 01:30:07,820
+But I don't know, again, not being a zoologist,
+
+1666
+01:30:07,820 --> 01:30:10,820
+I walked onto this because it's well studied
+
+1667
+01:30:10,820 --> 01:30:12,820
+and it's the very simplest.
+
+1668
+01:30:12,820 --> 01:30:14,820
+But questions in the form,
+
+1669
+01:30:14,820 --> 01:30:17,820
+what's the simplest under constraint X?
+
+1670
+01:30:17,820 --> 01:30:19,820
+I'm less well equipped to answer.
+
+1671
+01:30:19,820 --> 01:30:24,820
+As far as I know, the best thing in that domain would be ants,
+
+1672
+01:30:24,820 --> 01:30:26,820
+but I'm sure there's something simpler than ants
+
+1673
+01:30:26,820 --> 01:30:28,820
+that exhibit social behavior.
+
+1674
+01:30:28,820 --> 01:30:30,820
+I just don't know why.
+
+1675
+01:30:34,820 --> 01:30:37,820
+Well, isn't there some yeast that forms a...
+
+1676
+01:30:39,820 --> 01:30:43,820
+At some stage it actually forms a sort of tower
+
+1677
+01:30:43,820 --> 01:30:47,820
+and stands up.
+
+1678
+01:30:47,820 --> 01:30:49,820
+I think it's yeast.
+
+1679
+01:30:49,820 --> 01:30:51,820
+Yeast don't have neurons,
+
+1680
+01:30:51,820 --> 01:30:54,820
+so these sorts of techniques won't apply there.
+
+1681
+01:30:54,820 --> 01:30:56,820
+Slime mold?
+
+1682
+01:30:56,820 --> 01:30:59,820
+Yeah, maybe that's the thing.
+
+1683
+01:30:59,820 --> 01:31:02,820
+Yeah, slime molds are interesting
+
+1684
+01:31:02,820 --> 01:31:07,820
+because they're sort of all neuron in a way.
+
+1685
+01:31:07,820 --> 01:31:10,820
+They're just clumps of cells
+
+1686
+01:31:10,820 --> 01:31:13,820
+that happen to have electrical activity.
+
+1687
+01:31:13,820 --> 01:31:15,820
+There might be something interesting there.
+
+1688
+01:31:15,820 --> 01:31:18,820
+I don't know if anyone's tried to express
+
+1689
+01:31:18,820 --> 01:31:21,820
+optogenetic channels in slime molds.
+
+1690
+01:31:21,820 --> 01:31:23,820
+They're very small.
+
+1691
+01:31:23,820 --> 01:31:25,820
+They're very small.
+
+1692
+01:31:25,820 --> 01:31:29,820
+But you can do it with a virus, maybe.
+
+1693
+01:31:46,820 --> 01:31:49,820
+Well, what about at a higher level?
+
+1694
+01:31:49,820 --> 01:31:52,820
+How would you find something like K-lines?
+
+1695
+01:31:54,820 --> 01:31:59,820
+I think that you need some way of seeing
+
+1696
+01:31:59,820 --> 01:32:04,820
+a lot more things in a lot bigger membrane.
+
+1697
+01:32:04,820 --> 01:32:07,820
+The one thing that comes to mind
+
+1698
+01:32:07,820 --> 01:32:11,820
+as sort of a new technique that might turn up K-lines
+
+1699
+01:32:11,820 --> 01:32:14,820
+is diffusion tensor imaging,
+
+1700
+01:32:14,820 --> 01:32:16,820
+which is a way of using MRI
+
+1701
+01:32:16,820 --> 01:32:21,820
+to find quite detailed structure.
+
+1702
+01:32:21,820 --> 01:32:23,820
+I don't know the physics of it,
+
+1703
+01:32:23,820 --> 01:32:26,820
+but it involves following water molecules
+
+1704
+01:32:26,820 --> 01:32:29,820
+as they diffuse or tracking their flow.
+
+1705
+01:32:29,820 --> 01:32:32,820
+So if something is more active, the diffusion is faster?
+
+1706
+01:32:32,820 --> 01:32:35,820
+No, it's not functional. It's structural.
+
+1707
+01:32:35,820 --> 01:32:39,820
+It's that if there's a bundle of neurons,
+
+1708
+01:32:39,820 --> 01:32:42,820
+then the diffusion will be highly anisotropic.
+
+1709
+01:32:42,820 --> 01:32:45,820
+And you can measure the anisotropy.
+
+1710
+01:32:45,820 --> 01:32:48,820
+And you can use some tensor math
+
+1711
+01:32:48,820 --> 01:32:51,820
+to turn that into what's called a tractogram.
+
+1712
+01:32:51,820 --> 01:32:54,820
+But you're measuring the heat flow or something?
+
+1713
+01:32:54,820 --> 01:32:58,820
+It's MRI. It's magnetic resonance imaging.
+
+1714
+01:32:58,820 --> 01:33:02,820
+So it has some sort of tomographic component.
+
+1715
+01:33:02,820 --> 01:33:04,820
+And again, I don't know the physics of that.
+
+1716
+01:33:04,820 --> 01:33:07,820
+I just, in fact, heard of it a few weeks ago.
+
+1717
+01:33:07,820 --> 01:33:09,820
+It's a new technique.
+
+1718
+01:33:09,820 --> 01:33:15,820
+And it's been used to create some maps of the,
+
+1719
+01:33:15,820 --> 01:33:17,820
+particularly, I think, in monkeys.
+
+1720
+01:33:17,820 --> 01:33:20,820
+It's been used a lot to create maps
+
+1721
+01:33:20,820 --> 01:33:22,820
+of at least the long-range connections
+
+1722
+01:33:22,820 --> 01:33:27,820
+between a whole lot of different areas.
+
+1723
+01:33:27,820 --> 01:33:29,820
+But even those that are,
+
+1724
+01:33:29,820 --> 01:33:34,820
+it really can only resolve thick bundles of neurons.
+
+1725
+01:33:34,820 --> 01:33:38,820
+And K-lines probably aren't.
+
+1726
+01:33:38,820 --> 01:33:40,820
+But maybe they are.
+
+1727
+01:33:45,820 --> 01:33:48,820
+I wonder how thin the skull of a parrot is.
+
+1728
+01:33:51,820 --> 01:33:54,820
+I just mentioned it because it might be
+
+1729
+01:33:54,820 --> 01:33:58,820
+the smartest animal per gram or something.
+
+1730
+01:33:58,820 --> 01:34:03,820
+Well, how smart are mice?
+
+1731
+01:34:03,820 --> 01:34:06,820
+Mice are pretty smart.
+
+1732
+01:34:06,820 --> 01:34:08,820
+And octopodes are supposed to be pretty smart, too,
+
+1733
+01:34:08,820 --> 01:34:10,820
+and I don't know how much they weigh.
+
+1734
+01:34:10,820 --> 01:34:11,820
+Which thing?
+
+1735
+01:34:11,820 --> 01:34:13,820
+I think they're pretty heavy.
+
+1736
+01:34:13,820 --> 01:34:14,820
+Octopodes are heavy. That makes sense.
+
+1737
+01:34:14,820 --> 01:34:15,820
+They're in water.
+
+1738
+01:34:15,820 --> 01:34:16,820
+Right.
+
+1739
+01:34:16,820 --> 01:34:18,820
+Because they're dense.
+
+1740
+01:34:21,820 --> 01:34:26,820
+I think you'd probably find ants to be the smartest per gram.
+
+1741
+01:34:26,820 --> 01:34:28,820
+But again, that's just my guess
+
+1742
+01:34:28,820 --> 01:34:31,820
+based on what little I know of animals.
+
+1743
+01:34:31,820 --> 01:34:33,820
+Parrots are always trying to optimize for weight,
+
+1744
+01:34:33,820 --> 01:34:35,820
+and ants aren't.
+
+1745
+01:34:37,820 --> 01:34:39,820
+Ants are pretty small.
+
+1746
+01:34:41,820 --> 01:34:43,820
+Well, they're very variable.
+
+1747
+01:34:51,820 --> 01:34:55,820
+I think Ed Wilson had a 26-year-old ant.
+
+1748
+01:34:59,820 --> 01:35:01,820
+It would be glorious to see a large group of ants
+
+1749
+01:35:01,820 --> 01:35:03,820
+acting as a parrot.
+
+1750
+01:35:06,820 --> 01:35:08,820
+Yeah.
+
+1751
+01:35:29,820 --> 01:35:31,820
+I just have a quick question for David.
+
+1752
+01:35:31,820 --> 01:35:33,820
+You said, well, there was an experiment
+
+1753
+01:35:33,820 --> 01:35:35,820
+that sort of showed that we could control mice
+
+1754
+01:35:35,820 --> 01:35:37,820
+by shining lights on them.
+
+1755
+01:35:37,820 --> 01:35:39,820
+Do you think that there's any fear
+
+1756
+01:35:39,820 --> 01:35:42,820
+of the possibility that someone could create a virus
+
+1757
+01:35:42,820 --> 01:35:44,820
+that affects all humans
+
+1758
+01:35:44,820 --> 01:35:46,820
+and then controls humans
+
+1759
+01:35:46,820 --> 01:35:48,820
+to do more than just turn right
+
+1760
+01:35:48,820 --> 01:35:50,820
+by shining lasers at them?
+
+1761
+01:35:51,820 --> 01:35:53,820
+Fear or hope?
+
+1762
+01:35:53,820 --> 01:35:55,820
+What?
+
+1763
+01:35:56,820 --> 01:35:58,820
+Fear or hope.
+
+1764
+01:36:00,820 --> 01:36:02,820
+Technology is a double-edged sword.
+
+1765
+01:36:03,820 --> 01:36:05,820
+Human skulls are pretty thick.
+
+1766
+01:36:06,820 --> 01:36:08,820
+Even my skulls are pretty thick.
+
+1767
+01:36:08,820 --> 01:36:10,820
+In order to make this happen,
+
+1768
+01:36:10,820 --> 01:36:12,820
+you have to have a hole in the skull
+
+1769
+01:36:12,820 --> 01:36:15,820
+and you have to mount your LED in that hole.
+
+1770
+01:36:16,820 --> 01:36:18,820
+There isn't, so far,
+
+1771
+01:36:18,820 --> 01:36:21,820
+any way to do this from a distance
+
+1772
+01:36:21,820 --> 01:36:23,820
+without having some sort of
+
+1773
+01:36:23,820 --> 01:36:25,820
+physical surgical operation.
+
+1774
+01:36:25,820 --> 01:36:27,820
+Space is also far away.
+
+1775
+01:36:29,820 --> 01:36:31,820
+If you're inside a building,
+
+1776
+01:36:32,820 --> 01:36:34,820
+most important people are inside buildings
+
+1777
+01:36:34,820 --> 01:36:36,820
+when they're making important decisions.
+
+1778
+01:36:46,820 --> 01:36:48,820
+Right now, there isn't any fear of that,
+
+1779
+01:36:48,820 --> 01:36:50,820
+but it's certainly
+
+1780
+01:36:50,820 --> 01:36:52,820
+something to think about
+
+1781
+01:36:52,820 --> 01:36:54,820
+as technology gets better.
+
+1782
+01:36:55,820 --> 01:36:57,820
+You never know when we might cross that threshold,
+
+1783
+01:36:57,820 --> 01:36:59,820
+but I think for the next 10 years or so,
+
+1784
+01:36:59,820 --> 01:37:01,820
+we're probably pretty safe.
+
+1785
+01:37:01,820 --> 01:37:03,820
+Well, there are microscopic parasitic worms.
+
+1786
+01:37:07,820 --> 01:37:09,820
+It would be hard to direct them
+
+1787
+01:37:09,820 --> 01:37:11,820
+to go anywhere particular,
+
+1788
+01:37:11,820 --> 01:37:13,820
+but you could certainly evolve some
+
+1789
+01:37:13,820 --> 01:37:15,820
+that go into the brain
+
+1790
+01:37:15,820 --> 01:37:17,820
+and go somewhere without destroying
+
+1791
+01:37:17,820 --> 01:37:19,820
+anything important
+
+1792
+01:37:19,820 --> 01:37:21,820
+and drop little packages here and there.
+
+1793
+01:37:21,820 --> 01:37:23,820
+There are actually
+
+1794
+01:37:23,820 --> 01:37:25,820
+none that infect humans.
+
+1795
+01:37:25,820 --> 01:37:27,820
+Actually, there is one that
+
+1796
+01:37:27,820 --> 01:37:29,820
+infects humans
+
+1797
+01:37:29,820 --> 01:37:31,820
+that has a more subtle effect,
+
+1798
+01:37:31,820 --> 01:37:33,820
+but there's actually a whole class of parasites
+
+1799
+01:37:33,820 --> 01:37:35,820
+which do locate
+
+1800
+01:37:35,820 --> 01:37:37,820
+to the brain of larger animals
+
+1801
+01:37:37,820 --> 01:37:39,820
+and do, in fact, cause them
+
+1802
+01:37:39,820 --> 01:37:41,820
+to engage in behaviors that are
+
+1803
+01:37:41,820 --> 01:37:43,820
+suicidal for the host,
+
+1804
+01:37:43,820 --> 01:37:45,820
+but beneficial for the parasite.
+
+1805
+01:37:45,820 --> 01:37:47,820
+That's right.
+
+1806
+01:37:47,820 --> 01:37:49,820
+What's the one that causes some insect
+
+1807
+01:37:49,820 --> 01:37:51,820
+to climb up
+
+1808
+01:37:51,820 --> 01:37:53,820
+to the top of the tree?
+
+1809
+01:37:53,820 --> 01:37:55,820
+I don't remember the name of it,
+
+1810
+01:37:55,820 --> 01:37:57,820
+but it gets in the brain
+
+1811
+01:37:57,820 --> 01:37:59,820
+and makes it climb the tree
+
+1812
+01:37:59,820 --> 01:38:01,820
+and then jump off
+
+1813
+01:38:01,820 --> 01:38:03,820
+or whatever,
+
+1814
+01:38:03,820 --> 01:38:05,820
+and that spreads this particular parasite.
+
+1815
+01:38:07,820 --> 01:38:09,820
+So don't go outdoors.
+
+1816
+01:38:11,820 --> 01:38:13,820
+There's also, what is it,
+
+1817
+01:38:13,820 --> 01:38:15,820
+Toxoplasma Gundi,
+
+1818
+01:38:15,820 --> 01:38:17,820
+which was on crack.com,
+
+1819
+01:38:17,820 --> 01:38:19,820
+which causes mice to enjoy the smell of cat urine.
+
+1820
+01:38:21,820 --> 01:38:23,820
+So it would be interesting to develop
+
+1821
+01:38:23,820 --> 01:38:25,820
+that for humans.
+
+1822
+01:38:25,820 --> 01:38:27,820
+I think people can actually get it from cats or something.
+
+1823
+01:38:27,820 --> 01:38:29,820
+Yeah, humans carry it,
+
+1824
+01:38:29,820 --> 01:38:31,820
+and it does work.
+
+1825
+01:38:31,820 --> 01:38:33,820
+I think that's the one I was thinking of.
+
+1826
+01:38:33,820 --> 01:38:35,820
+It has a subtle effect on humans.
+
+1827
+01:38:35,820 --> 01:38:37,820
+It's pretty benign on humans.
+
+1828
+01:38:37,820 --> 01:38:39,820
+It's boring.
+
+1829
+01:38:39,820 --> 01:38:41,820
+It isn't that bad.
+
+1830
+01:38:41,820 --> 01:38:43,820
+Like it makes girls more
+
+1831
+01:38:43,820 --> 01:38:45,820
+cute, is there something?
+
+1832
+01:38:45,8
+[01:46:33.820 --> 01:46:35.820]  Because
+[01:46:35.820 --> 01:46:37.820]  the nice thing
+[01:46:37.820 --> 01:46:39.820]  about evolution is it doesn't have
+[01:46:39.820 --> 01:46:41.820]  contrary to some beliefs
+[01:46:41.820 --> 01:46:43.820]  it doesn't have
+[01:46:43.820 --> 01:46:45.820]  any intentional
+[01:46:45.820 --> 01:46:47.820]  agents directing it.
+[01:46:47.820 --> 01:46:49.820]  But once you
+[01:46:49.820 --> 01:46:51.820]  once you can make
+[01:46:51.820 --> 01:46:53.820]  gene strings in
+[01:46:53.820 --> 01:46:55.820]  in high school then
+[01:46:55.820 --> 01:46:57.820]  Darwinian evolution becomes
+[01:46:57.820 --> 01:46:59.820]  a
+[01:46:59.820 --> 01:47:01.820]  a minority.
+[01:47:01.820 --> 01:47:03.820]  And
+[01:47:03.820 --> 01:47:05.820]  I assume you've heard the recent news of
+[01:47:05.820 --> 01:47:07.820]  Dutch biomedical
+[01:47:07.820 --> 01:47:09.820]  engineers who produced a version
+[01:47:09.820 --> 01:47:11.820]  of H1N1 with 60 percent
+[01:47:11.820 --> 01:47:13.820]  mortality.
+[01:47:13.820 --> 01:47:15.820]  Oh, and where does he keep it?
+[01:47:15.820 --> 01:47:17.820]  In his basement.
+[01:47:17.820 --> 01:47:19.820]  For science!
+[01:47:23.820 --> 01:47:25.820]  Did you make that up?
+[01:47:25.820 --> 01:47:27.820]  Well, I assume he did it for science.
+[01:47:27.820 --> 01:47:29.820]  I made up a tone of voice.
+[01:47:37.820 --> 01:47:39.820]  Was this a military run in project?
+[01:47:39.820 --> 01:47:41.820]  No, no, this was
+[01:47:41.820 --> 01:47:43.820]  at a hospital
+[01:47:43.820 --> 01:47:45.820]  research institute.
+[01:47:45.820 --> 01:47:47.820]  I mean, presumably
+[01:47:47.820 --> 01:47:49.820]  it was funded by someone who's
+[01:47:49.820 --> 01:47:51.820]  interested in
+[01:47:51.820 --> 01:47:53.820]  making a cure for H1N1.
+[01:47:53.820 --> 01:47:55.820]  And, you know, they're trying
+[01:47:55.820 --> 01:47:57.820]  to make it more obvious
+[01:47:57.820 --> 01:47:59.820]  when you have one
+[01:47:59.820 --> 01:48:01.820]  in your test population of
+[01:48:01.820 --> 01:48:03.820]  chinchillas or whatever their model
+[01:48:03.820 --> 01:48:05.820]  organism is.
+[01:48:15.820 --> 01:48:17.820]  Okay.
+[01:48:17.820 --> 01:48:19.820]  Well,
+[01:48:19.820 --> 01:48:21.820]  next time bring some questions.
+[01:48:25.820 --> 01:48:27.820]  Thank you.
+nant.
+
+1871
+01:40:21,820 --> 01:40:23,820
+And so it's sometimes given to people
+
+1872
+01:40:23,820 --> 01:40:25,820
+with severe alcoholism so that
+
+1873
+01:40:25,820 --> 01:40:27,820
+they are repulsed by alcohol and don't drink it
+
+1874
+01:40:27,820 --> 01:40:29,820
+anymore, as long as they continue taking
+
+1875
+01:40:29,820 --> 01:40:31,820
+medication.
+
+1876
+01:40:35,820 --> 01:40:37,820
+There's something like that in my family
+
+1877
+01:40:37,820 --> 01:40:39,820
+because
+
+1878
+01:40:39,820 --> 01:40:41,820
+if I
+
+1879
+01:40:41,820 --> 01:40:43,820
+drink alcohol more than a
+
+1880
+01:40:43,820 --> 01:40:45,820
+small amount, then
+
+1881
+01:40:45,820 --> 01:40:47,820
+these little things like ants start crawling
+
+1882
+01:40:47,820 --> 01:40:49,820
+on my face, and they're very
+
+1883
+01:40:49,820 --> 01:40:51,820
+unpleasant.
+
+1884
+01:40:51,820 --> 01:40:53,820
+Any of you have that?
+
+1885
+01:40:53,820 --> 01:40:55,820
+I do.
+
+1886
+01:40:55,820 --> 01:40:57,820
+A lot of Asians have it, actually.
+
+1887
+01:40:57,820 --> 01:40:59,820
+Really?
+
+1888
+01:40:59,820 --> 01:41:01,820
+Or maybe the one that I have is like
+
+1889
+01:41:01,820 --> 01:41:03,820
+you
+
+1890
+01:41:03,820 --> 01:41:05,820
+lack alcohol dehydrogenase,
+
+1891
+01:41:05,820 --> 01:41:07,820
+the thing that breaks down alcohol, and you have
+
+1892
+01:41:07,820 --> 01:41:09,820
+two copies of the gene. And I have like one
+
+1893
+01:41:09,820 --> 01:41:11,820
+good copy and one bad copy,
+
+1894
+01:41:11,820 --> 01:41:13,820
+depending on whether you find this good or bad.
+
+1895
+01:41:13,820 --> 01:41:15,820
+And so I can drink like
+
+1896
+01:41:15,820 --> 01:41:17,820
+a glass, but any more than that, like I kind of
+
+1897
+01:41:17,820 --> 01:41:19,820
+get really itchy.
+
+1898
+01:41:19,820 --> 01:41:21,820
+Uh-huh.
+
+1899
+01:41:21,820 --> 01:41:23,820
+Yeah, so I don't
+
+1900
+01:41:23,820 --> 01:41:25,820
+have any...
+
+1901
+01:41:25,820 --> 01:41:27,820
+But the people who have
+
+1902
+01:41:27,820 --> 01:41:29,820
+two copies where they
+
+1903
+01:41:29,820 --> 01:41:31,820
+lack the enzyme, then like
+
+1904
+01:41:31,820 --> 01:41:33,820
+if they have a sip, it's like
+
+1905
+01:41:33,820 --> 01:41:35,820
+bad things happen.
+
+1906
+01:41:35,820 --> 01:41:37,820
+Oh.
+
+1907
+01:41:45,820 --> 01:41:47,820
+Well,
+
+1908
+01:41:47,820 --> 01:41:49,820
+evolution produces
+
+1909
+01:41:49,820 --> 01:41:51,820
+all sorts of strange things.
+
+1910
+01:41:59,820 --> 01:42:01,820
+Neutral drift racing is still legal.
+
+1911
+01:42:01,820 --> 01:42:03,820
+What?
+
+1912
+01:42:03,820 --> 01:42:05,820
+Neutral drift racing is still legal.
+
+1913
+01:42:05,820 --> 01:42:07,820
+What's that?
+
+1914
+01:42:07,820 --> 01:42:09,820
+It's like an organism
+
+1915
+01:42:09,820 --> 01:42:11,820
+that goes under neutral drift.
+
+1916
+01:42:11,820 --> 01:42:13,820
+It's two organisms competing to not change.
+
+1917
+01:42:13,820 --> 01:42:15,820
+Ha ha ha!
+
+1918
+01:42:21,820 --> 01:42:23,820
+Yes, why hasn't the net
+
+1919
+01:42:23,820 --> 01:42:25,820
+been destroyed by a
+
+1920
+01:42:25,820 --> 01:42:27,820
+virus by now?
+
+1921
+01:42:27,820 --> 01:42:29,820
+Is there any...
+
+1922
+01:42:29,820 --> 01:42:31,820
+Why hasn't what been destroyed?
+
+1923
+01:42:31,820 --> 01:42:33,820
+The internet.
+
+1924
+01:42:33,820 --> 01:42:35,820
+Oh, because it has white blood cells.
+
+1925
+01:42:35,820 --> 01:42:37,820
+The people, the people,
+
+1926
+01:42:37,820 --> 01:42:39,820
+the system administrators act as white blood cells
+
+1927
+01:42:39,820 --> 01:42:41,820
+in their...
+
+1928
+01:42:41,820 --> 01:42:43,820
+Yes.
+
+1929
+01:42:43,820 --> 01:42:45,820
+And it is largely...
+
+1930
+01:42:45,820 --> 01:42:47,820
+And it is largely...
+
+1931
+01:42:47,820 --> 01:42:49,820
+Well, it is largely immunized,
+
+1932
+01:42:49,820 --> 01:42:51,820
+but
+
+1933
+01:42:51,820 --> 01:42:53,820
+it's still infected by parasites
+
+1934
+01:42:53,820 --> 01:42:55,820
+like there are botnets the size
+
+1935
+01:42:55,820 --> 01:42:57,820
+of which we can only estimate
+
+1936
+01:42:57,820 --> 01:42:59,820
+that are sort of parasites
+
+1937
+01:42:59,820 --> 01:43:01,820
+running on the internet.
+
+1938
+01:43:01,820 --> 01:43:03,820
+Interestingly, you know, just behavior.
+
+1939
+01:43:03,820 --> 01:43:05,820
+Yeah, I just find it
+
+1940
+01:43:05,820 --> 01:43:07,820
+surprising that there hasn't
+
+1941
+01:43:07,820 --> 01:43:09,820
+been a really large disaster yet
+
+1942
+01:43:09,820 --> 01:43:11,820
+because...
+
+1943
+01:43:11,820 --> 01:43:13,820
+Partially because it's not sanity,
+
+1944
+01:43:13,820 --> 01:43:15,820
+right? It's not Ted Nelson's
+
+1945
+01:43:15,820 --> 01:43:17,820
+super-sexualized internet.
+
+1946
+01:43:17,820 --> 01:43:19,820
+It's a distributed
+
+1947
+01:43:19,820 --> 01:43:21,820
+predominance.
+
+1948
+01:43:21,820 --> 01:43:23,820
+There have been a few attacks that took down large parts of the internet,
+
+1949
+01:43:23,820 --> 01:43:25,820
+but not quite predominantly.
+
+1950
+01:43:25,820 --> 01:43:27,820
+Say it again?
+
+1951
+01:43:27,820 --> 01:43:29,820
+There were a few attacks that took down large chunks of the internet
+
+1952
+01:43:29,820 --> 01:43:31,820
+in the past.
+
+1953
+01:43:31,820 --> 01:43:33,820
+Yes, I think Croatia's internet was
+
+1954
+01:43:33,820 --> 01:43:35,820
+taken down by a woman with a spade
+
+1955
+01:43:35,820 --> 01:43:37,820
+who was trying to mine some copper.
+
+1956
+01:43:37,820 --> 01:43:39,820
+Oh, this looks like
+
+1957
+01:43:39,820 --> 01:43:41,820
+a lot of copper, right?
+
+1958
+01:43:47,820 --> 01:43:49,820
+Well, I had a
+
+1959
+01:43:49,820 --> 01:43:51,820
+Microsoft virus for years, but
+
+1960
+01:43:51,820 --> 01:43:53,820
+it never did
+
+1961
+01:43:53,820 --> 01:43:55,820
+any harm.
+
+1962
+01:43:55,820 --> 01:43:57,820
+It just... I forget what it was
+
+1963
+01:43:57,820 --> 01:43:59,820
+called.
+
+1964
+01:43:59,820 --> 01:44:01,820
+If I got rid of it, it would come back again.
+
+1965
+01:44:03,820 --> 01:44:05,820
+People in Croatia
+
+1966
+01:44:05,820 --> 01:44:07,820
+still had internet access, though.
+
+1967
+01:44:07,820 --> 01:44:09,820
+They could connect via satellite.
+
+1968
+01:44:09,820 --> 01:44:11,820
+So the internet now has
+
+1969
+01:44:11,820 --> 01:44:13,820
+enough redundant methods of making
+
+1970
+01:44:13,820 --> 01:44:15,820
+connections.
+
+1971
+01:44:15,820 --> 01:44:17,820
+People who have satellite links rarely share them.
+
+1972
+01:44:19,820 --> 01:44:21,820
+Yeah, I guess the thing is that
+
+1973
+01:44:21,820 --> 01:44:23,820
+the initial statement is
+
+1974
+01:44:23,820 --> 01:44:25,820
+why hasn't the internet gone down
+
+1975
+01:44:25,820 --> 01:44:27,820
+where the internet is whatever
+
+1976
+01:44:27,820 --> 01:44:29,820
+is still connected to anything else
+
+1977
+01:44:29,820 --> 01:44:31,820
+since the internet is defined by its connections.
+
+1978
+01:44:35,820 --> 01:44:37,820
+Well,
+
+1979
+01:44:37,820 --> 01:44:39,820
+why hasn't there
+
+1980
+01:44:39,820 --> 01:44:41,820
+been a
+
+1981
+01:44:41,820 --> 01:44:43,820
+smallpox epidemic
+
+1982
+01:44:43,820 --> 01:44:45,820
+that killed everyone?
+
+1983
+01:44:45,820 --> 01:44:47,820
+Because that has happened for
+
+1984
+01:44:47,820 --> 01:44:49,820
+quite a few species.
+
+1985
+01:44:55,820 --> 01:44:57,820
+But all the species
+
+1986
+01:44:57,820 --> 01:44:59,820
+that are currently alive cannot be killed by smallpox.
+
+1987
+01:44:59,820 --> 01:45:01,820
+Right.
+
+1988
+01:45:01,820 --> 01:45:03,820
+That is correct.
+
+1989
+01:45:03,820 --> 01:45:05,820
+The anthropic argument
+
+1990
+01:45:05,820 --> 01:45:07,820
+is always correct.
+
+1991
+01:45:07,820 --> 01:45:09,820
+I'm never quite satisfied.
+
+1992
+01:45:09,820 --> 01:45:11,820
+I heard an
+
+1993
+01:45:11,820 --> 01:45:13,820
+hour-long program this morning about
+
+1994
+01:45:15,820 --> 01:45:17,820
+what's his name
+
+1995
+01:45:17,820 --> 01:45:19,820
+on WBUR
+
+1996
+01:45:19,820 --> 01:45:21,820
+about
+
+1997
+01:45:21,820 --> 01:45:23,820
+making high-speed trains in
+
+1998
+01:45:23,820 --> 01:45:25,820
+California.
+
+1999
+01:45:25,820 --> 01:45:27,820
+It was all very interesting
+
+2000
+01:45:27,820 --> 01:45:29,820
+and incredibly expensive.
+
+2001
+01:45:29,820 --> 01:45:31,820
+And I wonder
+
+2002
+01:45:31,820 --> 01:45:33,820
+and the current plan
+
+2003
+01:45:33,820 --> 01:45:35,820
+is to make one that will take 30 years
+
+2004
+01:45:35,820 --> 01:45:37,820
+to construct which seems
+
+2005
+01:45:37,820 --> 01:45:39,820
+having
+
+2006
+01:45:39,820 --> 01:45:41,820
+that's
+
+2007
+01:45:41,820 --> 01:45:43,820
+rather odd because you can't
+
+2008
+01:45:43,820 --> 01:45:45,820
+expect any particular government
+
+2009
+01:45:45,820 --> 01:45:47,820
+including California to be stable.
+
+2010
+01:45:47,820 --> 01:45:49,820
+But I wonder what
+
+2011
+01:45:49,820 --> 01:45:51,820
+the point of people
+
+2012
+01:45:51,820 --> 01:45:53,820
+are people
+
+2013
+01:45:53,820 --> 01:45:55,820
+really going to travel at great
+
+2014
+01:45:55,820 --> 01:45:57,820
+expense and cost
+
+2015
+01:45:57,820 --> 01:45:59,820
+when they could have telepresence.
+
+2016
+01:46:05,820 --> 01:46:07,820
+Yeah, moving maps around is kind of a ridiculous
+
+2017
+01:46:07,820 --> 01:46:09,820
+way to transfer the information
+
+2018
+01:46:09,820 --> 01:46:11,820
+that's inside your brain.
+
+2019
+01:46:13,820 --> 01:46:15,820
+And at some point we might just
+
+2020
+01:46:15,820 --> 01:46:17,820
+say
+
+2021
+01:46:17,820 --> 01:46:19,820
+shouldn't we ban international
+
+2022
+01:46:19,820 --> 01:46:21,820
+travel?
+
+2023
+01:46:21,820 --> 01:46:23,820
+Just because
+
+2024
+01:46:23,820 --> 01:46:25,820
+of the danger of a plague.
+
+2025
+01:46:25,820 --> 01:46:27,820
+And I think the danger of a plague
+
+2026
+01:46:27,820 --> 01:46:29,820
+is going to suddenly increase because of
+
+2027
+01:46:29,820 --> 01:46:31,820
+high school students doing
+
+2028
+01:46:31,820 --> 01:46:33,820
+science fair projects.
+
+2029
+01:46:33,820 --> 01:46:35,820
+Because
+
+2030
+01:46:35,820 --> 01:46:37,820
+the nice thing
+
+2031
+01:46:37,820 --> 01:46:39,820
+about evolution is it doesn't have
+
+2032
+01:46:39,820 --> 01:46:41,820
+contrary to some beliefs
+
+2033
+01:46:41,820 --> 01:46:43,820
+it doesn't have
+
+2034
+01:46:43,820 --> 01:46:45,820
+any intentional
+
+2035
+01:46:45,820 --> 01:46:47,820
+agents directing it.
+
+2036
+01:46:47,820 --> 01:46:49,820
+But once you
+
+2037
+01:46:49,820 --> 01:46:51,820
+once you can make
+
+2038
+01:46:51,820 --> 01:46:53,820
+gene strings in
+
+2039
+01:46:53,820 --> 01:46:55,820
+in high school then
+
+2040
+01:46:55,820 --> 01:46:57,820
+Darwinian evolution becomes
+
+2041
+01:46:57,820 --> 01:46:59,820
+a
+
+2042
+01:46:59,820 --> 01:47:01,820
+a minority.
+
+2043
+01:47:01,820 --> 01:47:03,820
+And
+
+2044
+01:47:03,820 --> 01:47:05,820
+I assume you've heard the recent news of
+
+2045
+01:47:05,820 --> 01:47:07,820
+Dutch biomedical
+
+2046
+01:47:07,820 --> 01:47:09,820
+engineers who produced a version
+
+2047
+01:47:09,820 --> 01:47:11,820
+of H1N1 with 60 percent
+
+2048
+01:47:11,820 --> 01:47:13,820
+mortality.
+
+2049
+01:47:13,820 --> 01:47:15,820
+Oh, and where does he keep it?
+
+2050
+01:47:15,820 --> 01:47:17,820
+In his basement.
+
+2051
+01:47:17,820 --> 01:47:19,820
+For science!
+
+2052
+01:47:23,820 --> 01:47:25,820
+Did you make that up?
+
+2053
+01:47:25,820 --> 01:47:27,820
+Well, I assume he did it for science.
+
+2054
+01:47:27,820 --> 01:47:29,820
+I made up a tone of voice.
+
+2055
+01:47:37,820 --> 01:47:39,820
+Was this a military run in project?
+
+2056
+01:47:39,820 --> 01:47:41,820
+No, no, this was
+
+2057
+01:47:41,820 --> 01:47:43,820
+at a hospital
+
+2058
+01:47:43,820 --> 01:47:45,820
+research institute.
+
+2059
+01:47:45,820 --> 01:47:47,820
+I mean, presumably
+
+2060
+01:47:47,820 --> 01:47:49,820
+it was funded by someone who's
+
+2061
+01:47:49,820 --> 01:47:51,820
+interested in
+
+2062
+01:47:51,820 --> 01:47:53,820
+making a cure for H1N1.
+
+2063
+01:47:53,820 --> 01:47:55,820
+And, you know, they're trying
+
+2064
+01:47:55,820 --> 01:47:57,820
+to make it more obvious
+
+2065
+01:47:57,820 --> 01:47:59,820
+when you have one
+
+2066
+01:47:59,820 --> 01:48:01,820
+in your test population of
+
+2067
+01:48:01,820 --> 01:48:03,820
+chinchillas or whatever their model
+
+2068
+01:48:03,820 --> 01:48:05,820
+organism is.
+
+2069
+01:48:15,820 --> 01:48:17,820
+Okay.
+
+2070
+01:48:17,820 --> 01:48:19,820
+Well,
+
+2071
+01:48:19,820 --> 01:48:21,820
+next time bring some questions.
+
+2072
+01:48:25,820 --> 01:48:27,820
+Thank you.
+

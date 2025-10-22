@@ -1,0 +1,7109 @@
+1
+00:00:00,000 --> 00:00:02,400
+The following content is provided under a Creative
+
+2
+00:00:02,400 --> 00:00:03,760
+Commons license.
+
+3
+00:00:03,760 --> 00:00:06,000
+Your support will help MIT OpenCourseWare
+
+4
+00:00:06,000 --> 00:00:10,080
+continue to offer high quality educational resources for free.
+
+5
+00:00:10,080 --> 00:00:12,640
+To make a donation or to view additional materials
+
+6
+00:00:12,640 --> 00:00:16,560
+from hundreds of MIT courses, visit MIT OpenCourseWare
+
+7
+00:00:16,560 --> 00:00:17,600
+at ocw.mit.edu.
+
+8
+00:00:17,600 --> 00:00:32,720
+So what I'm going to do in this course
+
+9
+00:00:32,720 --> 00:00:39,840
+is discuss mostly ideas that are already
+
+10
+00:00:39,840 --> 00:00:45,480
+in the book called The Emotion Machine.
+
+11
+00:00:45,480 --> 00:00:46,920
+I'm sorry, I used that title.
+
+12
+00:00:49,760 --> 00:00:59,960
+And the older book called The Society of Mind, which are,
+
+13
+00:00:59,960 --> 00:01:01,520
+the books are not quite the same.
+
+14
+00:01:01,520 --> 00:01:04,560
+They overlap a bit in material, but they're
+
+15
+00:01:04,560 --> 00:01:06,760
+sort of complementary.
+
+16
+00:01:06,760 --> 00:01:10,800
+I like the old one better because the chapters are
+
+17
+00:01:10,800 --> 00:01:13,120
+all one page long.
+
+18
+00:01:13,160 --> 00:01:17,520
+And they're moderately independent.
+
+19
+00:01:17,520 --> 00:01:20,320
+So if you don't like one, you can skip it.
+
+20
+00:01:20,320 --> 00:01:25,480
+The new book is much denser, and it has a smaller
+
+21
+00:01:25,480 --> 00:01:27,920
+number of long chapters.
+
+22
+00:01:27,920 --> 00:01:33,400
+And I think it's over the years, I
+
+23
+00:01:33,400 --> 00:01:39,040
+got lots of reactions from young people in high school,
+
+24
+00:01:39,040 --> 00:01:45,480
+for example, almost all of whom liked The Society of Mind
+
+25
+00:01:45,480 --> 00:01:49,960
+and found it easy to read and seemed to understand it.
+
+26
+00:01:49,960 --> 00:01:52,840
+There are lots of criticisms by older people
+
+27
+00:01:52,840 --> 00:01:57,960
+who maybe some of them found it harder
+
+28
+00:01:57,960 --> 00:02:01,760
+to put so many fragments together, who knows.
+
+29
+00:02:01,760 --> 00:02:08,240
+But most of this class, most of the things
+
+30
+00:02:08,240 --> 00:02:10,640
+I'd like to say are in those books.
+
+31
+00:02:10,640 --> 00:02:14,280
+So it's really like a big seminar.
+
+32
+00:02:14,280 --> 00:02:21,600
+And my hope is that everyone who comes to this class
+
+33
+00:02:21,600 --> 00:02:28,200
+would have a couple of questions that they'd like to discuss.
+
+34
+00:02:28,200 --> 00:02:31,760
+And if I can't answer them, maybe some others if you can.
+
+35
+00:02:31,760 --> 00:02:35,600
+So I'd like to think of this as a super seminar.
+
+36
+00:02:35,600 --> 00:02:38,320
+And normally, I don't prepare lectures.
+
+37
+00:02:38,320 --> 00:02:43,600
+And I just start off asking if there are any questions.
+
+38
+00:02:43,600 --> 00:02:45,920
+And if there are not, I get really pissed off.
+
+39
+00:02:50,040 --> 00:02:53,720
+But anyway, I'm going to start with a series of slides.
+
+40
+00:02:53,720 --> 00:02:58,840
+So why do we need machines?
+
+41
+00:02:58,840 --> 00:03:04,960
+And partly, there are a lot of problems.
+
+42
+00:03:05,000 --> 00:03:12,200
+Unlike most species or kinds of animals,
+
+43
+00:03:12,200 --> 00:03:15,880
+humans have only been around a few million years.
+
+44
+00:03:15,880 --> 00:03:21,800
+And they're very clever compared to other animals.
+
+45
+00:03:25,160 --> 00:03:28,440
+But it's not clear how long they will last.
+
+46
+00:03:28,440 --> 00:03:33,160
+And when we go, we might take all the others with us.
+
+47
+00:03:33,160 --> 00:03:35,840
+So there are a whole set of serious problems
+
+48
+00:03:35,840 --> 00:03:43,640
+that are arising because there are so many humans.
+
+49
+00:03:43,640 --> 00:03:48,400
+And here's just a little list of things.
+
+50
+00:03:51,840 --> 00:04:02,360
+There's a better list in a book by the astronomer royal,
+
+51
+00:04:02,360 --> 00:04:07,600
+Martin Lise of England.
+
+52
+00:04:07,600 --> 00:04:10,080
+Anybody know the title?
+
+53
+00:04:10,080 --> 00:04:11,680
+Our Final Hour?
+
+54
+00:04:11,680 --> 00:04:13,560
+Yes, Our Final Hour.
+
+55
+00:04:13,560 --> 00:04:17,320
+It's a slightly scary title.
+
+56
+00:04:17,320 --> 00:04:30,320
+And when I was a teenager, World War II
+
+57
+00:04:30,320 --> 00:04:43,320
+came to an end with the dropping of two atomic bombs
+
+58
+00:04:43,320 --> 00:04:43,800
+on Japan.
+
+59
+00:04:50,080 --> 00:04:54,600
+And I didn't believe the first one was real
+
+60
+00:04:54,600 --> 00:04:57,120
+because it was in Hiroshima.
+
+61
+00:04:57,160 --> 00:05:01,120
+So I assumed that the US had somehow
+
+62
+00:05:01,120 --> 00:05:08,760
+made a big underwater tanker with 20,000 tons of TNT
+
+63
+00:05:08,760 --> 00:05:12,960
+and some few grams of radium or something
+
+64
+00:05:12,960 --> 00:05:15,320
+and blown it up in the harbor.
+
+65
+00:05:15,320 --> 00:05:18,880
+And first, it flew an airplane over,
+
+66
+00:05:18,880 --> 00:05:20,840
+dropping some little thing.
+
+67
+00:05:20,840 --> 00:05:23,920
+And this was to fool the Japanese into thinking
+
+68
+00:05:23,920 --> 00:05:27,680
+that we have an atomic bomb.
+
+69
+00:05:27,680 --> 00:05:32,920
+But when they did it again over Nagasaki,
+
+70
+00:05:32,920 --> 00:05:35,400
+that wasn't feasible.
+
+71
+00:05:39,600 --> 00:05:45,040
+And when I was in grade school, sometimes if I
+
+72
+00:05:45,040 --> 00:05:50,840
+said something very bright, I would hear a teacher saying,
+
+73
+00:05:50,840 --> 00:05:54,800
+maybe he's another J. Robert Oppenheimer
+
+74
+00:05:54,800 --> 00:06:00,760
+because that was the name of a scientist who
+
+75
+00:06:00,760 --> 00:06:04,840
+had been head of the Manhattan Project.
+
+76
+00:06:04,840 --> 00:06:11,440
+And he was, I think, three or four years earlier
+
+77
+00:06:11,440 --> 00:06:15,240
+in grade school than I was.
+
+78
+00:06:15,240 --> 00:06:19,640
+And I thought it was very strange for a person
+
+79
+00:06:19,640 --> 00:06:21,880
+to have a first name as just being
+
+80
+00:06:21,880 --> 00:06:24,440
+a letter rather than a name.
+
+81
+00:06:24,440 --> 00:06:31,680
+And many years later, when I was at Princeton
+
+82
+00:06:31,680 --> 00:06:41,040
+in graduate school, I met the Robert Oppenheimer,
+
+83
+00:06:41,040 --> 00:06:43,360
+and that was a great pleasure.
+
+84
+00:06:43,360 --> 00:06:46,280
+And in fact, he took me to lunch with a couple
+
+85
+00:06:46,280 --> 00:06:53,160
+of other people I admired, namely Gödel and Einstein,
+
+86
+00:06:53,160 --> 00:06:56,440
+which was very exciting, except I couldn't understand
+
+87
+00:06:56,440 --> 00:06:59,160
+Einstein because I wasn't used to people
+
+88
+00:06:59,160 --> 00:07:03,240
+with a strong German accent.
+
+89
+00:07:03,240 --> 00:07:06,320
+But I understood Gödel just fine.
+
+90
+00:07:06,320 --> 00:07:11,800
+And after that lunch was over, I went and spent about a year
+
+91
+00:07:11,800 --> 00:07:14,840
+learning about Turing machines and trying
+
+92
+00:07:14,840 --> 00:07:17,800
+to prove theorems about them and so forth.
+
+93
+00:07:17,800 --> 00:07:29,120
+So anyway, in the course of these talks,
+
+94
+00:07:29,120 --> 00:07:32,040
+we'll run across a few of these people.
+
+95
+00:07:32,040 --> 00:07:36,280
+And here's a big list of the people
+
+96
+00:07:36,280 --> 00:07:42,400
+that I'm mostly indebted to for the ideas in the Society
+
+97
+00:07:42,400 --> 00:07:46,080
+of Mind and the Emotion Machine.
+
+98
+00:07:46,080 --> 00:07:50,960
+The ones in blue are people I've actually met.
+
+99
+00:07:53,640 --> 00:08:03,400
+It would be nice to have met Aristotle because no one really
+
+100
+00:08:03,400 --> 00:08:09,440
+knows much about him, but you really should read.
+
+101
+00:08:09,440 --> 00:08:11,240
+Just skim through some of that, and you'll
+
+102
+00:08:11,240 --> 00:08:17,120
+find that this is a really smart guy.
+
+103
+00:08:17,120 --> 00:08:18,840
+We don't know if he wrote this stuff
+
+104
+00:08:18,840 --> 00:08:22,320
+or if it were compiled by his students,
+
+105
+00:08:22,320 --> 00:08:25,840
+like a lot of Feynman's writing is.
+
+106
+00:08:25,840 --> 00:08:31,840
+And von Neumann's writing is edited from notes
+
+107
+00:08:31,840 --> 00:08:32,560
+by their students.
+
+108
+00:08:33,560 --> 00:08:41,400
+And anyway, the astonishing thing about Aristotle
+
+109
+00:08:41,400 --> 00:08:45,160
+is that he seems to be slightly more imaginative
+
+110
+00:08:45,160 --> 00:08:49,560
+than most cognitive scientists you'll
+
+111
+00:08:49,560 --> 00:08:53,640
+run into in the present day.
+
+112
+00:08:53,640 --> 00:09:00,480
+It would have been nice to know Spinoza and Kant and the others
+
+113
+00:09:00,480 --> 00:09:03,000
+also.
+
+114
+00:09:03,000 --> 00:09:05,640
+Freud wrote 30 or 40 books.
+
+115
+00:09:05,640 --> 00:09:11,680
+So did he fall off this list?
+
+116
+00:09:11,680 --> 00:09:12,280
+There he is.
+
+117
+00:09:15,760 --> 00:09:18,800
+I just made this list the other day,
+
+118
+00:09:18,800 --> 00:09:21,040
+and I was looking up these people
+
+119
+00:09:21,040 --> 00:09:24,560
+to find their birthdays and stuff.
+
+120
+00:09:24,560 --> 00:09:26,040
+Yes?
+
+121
+00:09:26,320 --> 00:09:32,800
+Why are there no Eastern philosophers?
+
+122
+00:09:32,800 --> 00:09:36,720
+Because they're religious, as far as I can see.
+
+123
+00:09:36,720 --> 00:09:39,000
+Who would you say Buddha?
+
+124
+00:09:39,000 --> 00:09:42,240
+No, I mean, just Eastern thinkers.
+
+125
+00:09:42,240 --> 00:09:43,560
+How about that?
+
+126
+00:09:43,560 --> 00:09:45,160
+Neymar.
+
+127
+00:09:45,160 --> 00:09:47,880
+Maybe I never heard of them.
+
+128
+00:09:47,880 --> 00:09:49,800
+Confucius?
+
+129
+00:09:49,800 --> 00:09:50,800
+Who?
+
+130
+00:09:50,800 --> 00:09:51,880
+Confucius.
+
+131
+00:09:51,880 --> 00:09:54,520
+Confucius.
+
+132
+00:09:54,520 --> 00:09:58,000
+Or, you know, three preaching writers here.
+
+133
+00:09:58,000 --> 00:10:02,760
+There are a lot of great thinkers from China.
+
+134
+00:10:02,760 --> 00:10:05,320
+Well, I only know of them through aphorisms.
+
+135
+00:10:10,320 --> 00:10:12,080
+Single proverbs.
+
+136
+00:10:12,080 --> 00:10:16,600
+But I don't know that Confucius had a theory of thinking.
+
+137
+00:10:16,600 --> 00:10:18,040
+Do you think he did?
+
+138
+00:10:18,040 --> 00:10:20,000
+There are a lot of different schools of thought.
+
+139
+00:10:20,000 --> 00:10:24,960
+But I don't know if they call it thinking.
+
+140
+00:10:24,960 --> 00:10:31,160
+Well, I've looked at Buddhist theories, and they're,
+
+141
+00:10:31,160 --> 00:10:33,200
+I don't think they would get a C plus.
+
+142
+00:10:36,280 --> 00:10:40,520
+And one problem is that there are cultures,
+
+143
+00:10:40,520 --> 00:10:45,440
+there's something about Greek culture because it had science.
+
+144
+00:10:45,440 --> 00:10:47,160
+It had experiments.
+
+145
+00:10:47,160 --> 00:10:50,200
+Somebody has a theory, and they say,
+
+146
+00:10:50,200 --> 00:11:00,400
+and like Epimenides, Lucretius, somewhere in the society mind,
+
+147
+00:11:00,400 --> 00:11:07,640
+I think I quoted Lucretius about translucent objects.
+
+148
+00:11:07,640 --> 00:11:11,600
+And he says they have the particular appearance
+
+149
+00:11:11,600 --> 00:11:15,080
+because the rays of light bounce many times before they
+
+150
+00:11:15,080 --> 00:11:16,360
+get to the surface.
+
+151
+00:11:16,360 --> 00:11:18,840
+So you can't tell where they started.
+
+152
+00:11:18,840 --> 00:11:24,080
+And I don't find in Eastern philosophy theories that say,
+
+153
+00:11:24,080 --> 00:11:27,320
+here's what I think, and here's a reason why.
+
+154
+00:11:27,320 --> 00:11:32,720
+I've looked at Buddhist stuff, and it's
+
+155
+00:11:32,720 --> 00:11:36,560
+strange lists of psychological principles,
+
+156
+00:11:36,560 --> 00:11:39,800
+every one of which looks pretty wrong.
+
+157
+00:11:39,800 --> 00:11:44,200
+And they make nice two-dimensional diagrams,
+
+158
+00:11:44,200 --> 00:11:46,640
+but no evidence for any of them.
+
+159
+00:11:46,640 --> 00:11:49,360
+So I don't know whether to take it seriously.
+
+160
+00:11:49,360 --> 00:11:55,680
+I think a lot of thinkers have analogies from observation.
+
+161
+00:11:55,680 --> 00:11:59,000
+And you're right that some of them probably
+
+162
+00:11:59,000 --> 00:12:02,080
+didn't really test it because a lot of ideology
+
+163
+00:12:02,080 --> 00:12:03,520
+cannot be tested.
+
+164
+00:12:03,520 --> 00:12:06,200
+On the other hand, there are scientists meaning like,
+
+165
+00:12:06,200 --> 00:12:07,960
+Well, what can't be tested?
+
+166
+00:12:07,960 --> 00:12:11,960
+I mean, some of the ideologies probably.
+
+167
+00:12:11,960 --> 00:12:12,480
+Then why?
+
+168
+00:12:12,480 --> 00:12:13,400
+I don't know.
+
+169
+00:12:13,440 --> 00:12:16,960
+If they can't be tested, why should one look at it twice?
+
+170
+00:12:16,960 --> 00:12:20,600
+If I can test it, then I can test it so many logically.
+
+171
+00:12:20,600 --> 00:12:22,240
+I don't know.
+
+172
+00:12:22,240 --> 00:12:26,120
+Like culture, can you test culture?
+
+173
+00:12:26,120 --> 00:12:29,560
+OK, I think this is a serious argument.
+
+174
+00:12:29,560 --> 00:12:34,240
+It seems to me that science began a little bit in China,
+
+175
+00:12:34,240 --> 00:12:37,840
+a little bit in India.
+
+176
+00:12:37,840 --> 00:12:41,800
+In the Arabic world, they got up to the middle
+
+177
+00:12:41,800 --> 00:12:44,600
+of high school algebra.
+
+178
+00:12:44,600 --> 00:12:48,000
+But then, what?
+
+179
+00:12:48,000 --> 00:12:51,760
+Well, but this wasn't as good as Archimedes, who got
+
+180
+00:12:51,760 --> 00:12:53,800
+to the beginning of calculus.
+
+181
+00:12:53,800 --> 00:12:56,240
+So if you look at most cultures, they
+
+182
+00:12:56,240 --> 00:13:00,520
+never got to the critical point of getting theories,
+
+183
+00:13:00,520 --> 00:13:04,040
+doing experiments, discussing them,
+
+184
+00:13:04,040 --> 00:13:06,000
+and then throwing them out.
+
+185
+00:13:06,000 --> 00:13:09,160
+And so if you look at Buddhist philosophy,
+
+186
+00:13:09,160 --> 00:13:15,040
+it's 2,500 years old.
+
+187
+00:13:15,040 --> 00:13:18,560
+If you look at Greek physics, yes,
+
+188
+00:13:18,560 --> 00:13:21,920
+Archimedes almost got calculus, and he
+
+189
+00:13:21,920 --> 00:13:23,880
+got lots of nice principles.
+
+190
+00:13:23,880 --> 00:13:26,880
+And Buddha mentions, at some point,
+
+191
+00:13:26,880 --> 00:13:33,680
+if you want to weigh an elephant, put him in a boat,
+
+192
+00:13:33,680 --> 00:13:37,360
+and then take the elephant out and put rocks in till the boat
+
+193
+00:13:37,360 --> 00:13:39,080
+sinks to the same level.
+
+194
+00:13:39,080 --> 00:13:42,040
+So there you see a good idea.
+
+195
+00:13:42,040 --> 00:13:44,920
+But if you look at the history of the culture,
+
+196
+00:13:44,920 --> 00:13:48,800
+if people still say this 1,000-year-old stuff is good,
+
+197
+00:13:48,800 --> 00:13:51,880
+then you should say, no, it's not.
+
+198
+00:13:51,880 --> 00:13:55,880
+By the way, same story about the elephants.
+
+199
+00:13:55,880 --> 00:13:59,680
+There's a story in Chinese history
+
+200
+00:13:59,680 --> 00:14:04,880
+that has the same metallic meaning.
+
+201
+00:14:04,880 --> 00:14:09,880
+Maybe there's no one person that can get along with it.
+
+202
+00:14:09,880 --> 00:14:14,120
+No, the question is, why did it stop?
+
+203
+00:14:14,120 --> 00:14:17,360
+Why did it stop?
+
+204
+00:14:17,360 --> 00:14:21,080
+Ancient wisdom is generally not very good,
+
+205
+00:14:21,080 --> 00:14:24,360
+and we shouldn't respect it for too long.
+
+206
+00:14:24,360 --> 00:14:25,840
+And that's.
+
+207
+00:14:25,840 --> 00:14:28,720
+So we have to look at the house.
+
+208
+00:14:28,720 --> 00:14:33,680
+Everybody's standing on a giant shoulder, right?
+
+209
+00:14:33,680 --> 00:14:36,120
+No, everybody.
+
+210
+00:14:36,120 --> 00:14:39,120
+No, we got rid of alchemy.
+
+211
+00:14:39,120 --> 00:14:44,040
+We got rid of, what do you call it?
+
+212
+00:14:44,040 --> 00:14:44,720
+What's caloric?
+
+213
+00:14:49,120 --> 00:14:51,520
+You jump off their shoulder.
+
+214
+00:14:51,520 --> 00:14:52,760
+You don't stay on them.
+
+215
+00:14:56,280 --> 00:14:59,600
+So it's good to know history, but if the history doesn't
+
+216
+00:14:59,600 --> 00:15:01,560
+get anywhere, then you don't want
+
+217
+00:15:01,560 --> 00:15:04,160
+to admire it too much, because you have to ask,
+
+218
+00:15:04,160 --> 00:15:05,120
+why did it stop?
+
+219
+00:15:05,120 --> 00:15:06,560
+What went wrong?
+
+220
+00:15:06,560 --> 00:15:09,680
+And usually, it went wrong because barbarians came in
+
+221
+00:15:09,680 --> 00:15:14,560
+and, well, you know what happened to Archimedes.
+
+222
+00:15:14,560 --> 00:15:16,960
+Some Roman killed him.
+
+223
+00:15:16,960 --> 00:15:26,000
+But anyway, no, it's a good question.
+
+224
+00:15:26,000 --> 00:15:29,120
+Why didn't science happen a million years ago?
+
+225
+00:15:29,120 --> 00:15:32,120
+Because humans are 5 million years old.
+
+226
+00:15:32,120 --> 00:15:33,880
+So what took it so long?
+
+227
+00:15:33,880 --> 00:15:41,160
+And no, it's more sure.
+
+228
+00:15:41,160 --> 00:15:44,480
+OK, do you have a theory of why science
+
+229
+00:15:44,480 --> 00:15:48,320
+didn't develop for so long?
+
+230
+00:15:48,320 --> 00:15:52,120
+In most cultures, it might be religion,
+
+231
+00:15:52,120 --> 00:15:55,600
+which is a sort of science that doesn't use evidence,
+
+232
+00:15:55,600 --> 00:15:58,760
+and in fact, kills people who try to get it.
+
+233
+00:15:58,760 --> 00:16:01,120
+And so there are systematic reasons
+
+234
+00:16:01,120 --> 00:16:06,280
+why most cultures failed, and maybe somebody has written it.
+
+235
+00:16:06,280 --> 00:16:11,600
+Is there a book on why science disappeared except once?
+
+236
+00:16:14,240 --> 00:16:17,360
+It's rather remarkable, isn't it?
+
+237
+00:16:17,360 --> 00:16:20,080
+After all, the idea, if somebody says something
+
+238
+00:16:20,080 --> 00:16:23,080
+and somebody else says, OK, let's do an experiment
+
+239
+00:16:23,080 --> 00:16:28,440
+to see if that's right, you don't have to be very bright.
+
+240
+00:16:28,440 --> 00:16:32,640
+So how come it didn't happen all the time everywhere?
+
+241
+00:16:32,640 --> 00:16:34,280
+Curious.
+
+242
+00:16:34,280 --> 00:16:37,280
+I don't know the answer to that, but I know Paul Davies has
+
+243
+00:16:37,280 --> 00:16:40,240
+sort of an anecdote about that, or he's speculating,
+
+244
+00:16:40,240 --> 00:16:43,560
+even in Europe, where it did happen, was the fluke.
+
+245
+00:16:43,560 --> 00:16:45,280
+And I think he gives the example of,
+
+246
+00:16:45,280 --> 00:16:49,760
+suppose an asteroid or a comet crashed in Paris in a fairly
+
+247
+00:16:49,760 --> 00:16:53,360
+year, he gives me 1,150 or 1,200 or something.
+
+248
+00:16:53,360 --> 00:16:53,840
+Then what?
+
+249
+00:16:53,840 --> 00:16:57,720
+Whether it was science simply never developed anywhere.
+
+250
+00:16:57,720 --> 00:17:02,400
+You need to sort of raise things up as a thought problem.
+
+251
+00:17:02,400 --> 00:17:05,880
+Well, history is full of flukes.
+
+252
+00:17:05,880 --> 00:17:11,280
+I'm trying to remember who wrote that nice book about the plague.
+
+253
+00:17:11,280 --> 00:17:13,760
+Some woman.
+
+254
+00:17:13,760 --> 00:17:19,120
+And she mentions that this was spread by rats and fleas
+
+255
+00:17:19,120 --> 00:17:25,040
+or something, and 30% or 40% of the population of many countries
+
+256
+00:17:25,040 --> 00:17:27,200
+in Europe died.
+
+257
+00:17:27,200 --> 00:17:32,280
+And the next generation had a lot of furniture.
+
+258
+00:17:39,960 --> 00:17:42,040
+The standard of living went way up.
+
+259
+00:17:52,240 --> 00:17:55,080
+So anyway, here's a list of disasters.
+
+260
+00:17:55,080 --> 00:18:02,960
+And oh, come on.
+
+261
+00:18:02,960 --> 00:18:05,160
+And Martin Rees is the Royal Astronomer
+
+262
+00:18:05,160 --> 00:18:10,640
+and has that book about the last hour or whatever.
+
+263
+00:18:10,640 --> 00:18:14,080
+And I'm making another longer list,
+
+264
+00:18:14,080 --> 00:18:19,480
+but he has lots of obvious disasters,
+
+265
+00:18:19,480 --> 00:18:27,520
+like some high school student looks up the genetic sequence
+
+266
+00:18:27,520 --> 00:18:31,600
+for smallpox virus has been published.
+
+267
+00:18:31,600 --> 00:18:39,520
+And now you can write a list of nucleotides
+
+268
+00:18:39,520 --> 00:18:41,120
+and send it somewhere.
+
+269
+00:18:41,120 --> 00:18:45,680
+They'll make it for about $0.50 or $1 per nucleotide.
+
+270
+00:18:45,680 --> 00:18:47,240
+So for a couple of hundred dollars,
+
+271
+00:18:47,240 --> 00:18:52,080
+you can make a virus or a few hundred.
+
+272
+00:18:52,080 --> 00:18:55,560
+So one possibility is that some high school student
+
+273
+00:18:55,560 --> 00:18:58,800
+makes some smallpox, only gets it wrong,
+
+274
+00:18:58,800 --> 00:19:00,520
+and it kills everyone.
+
+275
+00:19:00,520 --> 00:19:05,360
+So there are lots of disasters like that.
+
+276
+00:19:05,360 --> 00:19:07,480
+And no one knows what to do about that,
+
+277
+00:19:07,480 --> 00:19:14,720
+because the DNA synthesis machinery
+
+278
+00:19:14,720 --> 00:19:17,240
+is becoming less and less expensive,
+
+279
+00:19:17,240 --> 00:19:22,240
+and probably the average rich private high school
+
+280
+00:19:22,240 --> 00:19:23,120
+could afford one.
+
+281
+00:19:26,600 --> 00:19:28,800
+So there are lots of other things that could happen.
+
+282
+00:19:28,800 --> 00:19:33,800
+But one particular one is this graph, which I just made up.
+
+283
+00:19:37,440 --> 00:19:42,640
+An interesting fact is that since 1950,
+
+284
+00:19:42,640 --> 00:19:49,280
+when the first antibiotics started to appear,
+
+285
+00:19:49,280 --> 00:19:54,640
+as I mentioned, I was a kid in the 1940s.
+
+286
+00:19:55,640 --> 00:20:00,800
+I was a kid in the 1940s, and penicillin
+
+287
+00:20:00,800 --> 00:20:05,040
+had just hit the stands.
+
+288
+00:20:05,040 --> 00:20:07,080
+And there wasn't much of it.
+
+289
+00:20:07,080 --> 00:20:12,080
+And there was a researcher who lived a few blocks from us
+
+290
+00:20:12,080 --> 00:20:15,040
+whose dog had cancer.
+
+291
+00:20:15,040 --> 00:20:22,120
+And so its father, I don't know what you call the owner
+
+292
+00:20:22,120 --> 00:20:28,000
+of a dog, sneaked some penicillin out of the lab
+
+293
+00:20:28,000 --> 00:20:32,440
+and gave it to the dog who died anyway.
+
+294
+00:20:32,440 --> 00:20:37,320
+But he said, well, nobody's tried penicillin on cancer yet.
+
+295
+00:20:37,320 --> 00:20:38,680
+Maybe it will work.
+
+296
+00:20:38,680 --> 00:20:41,960
+And a lot of people were mad at him
+
+297
+00:20:41,960 --> 00:20:46,160
+because he probably cost some human its life.
+
+298
+00:20:46,160 --> 00:20:50,960
+But he said he might have saved a billion humans their lives.
+
+299
+00:20:50,960 --> 00:20:53,120
+So ethics.
+
+300
+00:20:53,120 --> 00:20:57,120
+Ethicists are people who give reasons not to do things.
+
+301
+00:20:57,120 --> 00:21:01,360
+And I'm not saying they're wrong, but it's a funny job.
+
+302
+00:21:04,960 --> 00:21:07,640
+So anyway, since that sort of thing
+
+303
+00:21:07,640 --> 00:21:10,840
+happened and medicine began to advance,
+
+304
+00:21:10,840 --> 00:21:15,000
+people have been living one year longer every 12.
+
+305
+00:21:15,000 --> 00:21:24,120
+So it's 60 years since 1950.
+
+306
+00:21:24,120 --> 00:21:27,480
+So that's five of those six.
+
+307
+00:21:27,480 --> 00:21:31,080
+So they're living six or seven years longer now
+
+308
+00:21:31,080 --> 00:21:34,520
+than they were when I was born.
+
+309
+00:21:34,520 --> 00:21:39,920
+And somebody mentioned that that curve stopped
+
+310
+00:21:39,920 --> 00:21:43,440
+the last few years for other reasons.
+
+311
+00:21:43,440 --> 00:21:51,800
+But anyway, if you extrapolated that,
+
+312
+00:21:51,800 --> 00:21:56,280
+you find that the lifespan is going to keep increasing.
+
+313
+00:21:56,280 --> 00:21:59,320
+How much, we don't know.
+
+314
+00:21:59,320 --> 00:22:03,600
+Another problem is that you might discover enough
+
+315
+00:22:03,600 --> 00:22:08,360
+about genetics to get rid of most of the serious diseases.
+
+316
+00:22:08,360 --> 00:22:13,160
+Maybe just 20 or 30 genes are responsible for most deaths.
+
+317
+00:22:13,440 --> 00:22:18,560
+Right now, and if you could fix those, which we can't do yet,
+
+318
+00:22:18,560 --> 00:22:21,560
+there's no way to change a gene in a person
+
+319
+00:22:21,560 --> 00:22:23,360
+because invading all the cells is
+
+320
+00:22:23,360 --> 00:22:27,080
+a pretty massive intervention.
+
+321
+00:22:27,080 --> 00:22:29,360
+But we'll get around that.
+
+322
+00:22:29,360 --> 00:22:32,240
+And then it might be that people will suddenly start
+
+323
+00:22:32,240 --> 00:22:36,440
+living 200 or 300 years.
+
+324
+00:22:36,440 --> 00:22:40,040
+At some point, the population has to slow down.
+
+325
+00:22:40,080 --> 00:22:43,440
+And so you can only reach equilibrium
+
+326
+00:22:43,440 --> 00:22:48,440
+with one child per family, and probably less than that.
+
+327
+00:22:48,440 --> 00:22:52,920
+And so all the work has to be done by two or 300-year-olds.
+
+328
+00:22:52,920 --> 00:22:54,560
+And let's hope they're good and healthy.
+
+329
+00:22:58,960 --> 00:23:00,680
+So anyway, I think it's very important
+
+330
+00:23:00,680 --> 00:23:03,120
+that we get smart robots because we're
+
+331
+00:23:03,120 --> 00:23:05,720
+going to have to stem the population.
+
+332
+00:23:05,720 --> 00:23:10,560
+And I hope people will live longer, and blah, blah, blah.
+
+333
+00:23:10,560 --> 00:23:13,600
+And so these robots have to be smart enough
+
+334
+00:23:13,600 --> 00:23:15,720
+to replace most people.
+
+335
+00:23:21,600 --> 00:23:23,360
+How do you make something smart?
+
+336
+00:23:25,920 --> 00:23:29,440
+Well, artificial intelligence is the field
+
+337
+00:23:29,440 --> 00:23:34,400
+whose goal has been to make machines that do things
+
+338
+00:23:34,400 --> 00:23:40,000
+that we regard as smart or intelligent or whatever
+
+339
+00:23:40,000 --> 00:23:42,840
+you want to call it.
+
+340
+00:23:42,840 --> 00:23:49,600
+And the idea of seriously making machines smart
+
+341
+00:23:49,600 --> 00:23:54,920
+has roots that go back to a few pioneers, like Leibniz, who
+
+342
+00:23:54,920 --> 00:24:00,880
+wrote about automata and that sort of thing.
+
+343
+00:24:00,880 --> 00:24:04,600
+But the idea of a general purpose computer
+
+344
+00:24:04,600 --> 00:24:10,040
+didn't appear till the 1930s and 40s in some sense.
+
+345
+00:24:10,040 --> 00:24:13,920
+The first form of the general purpose computer
+
+346
+00:24:13,920 --> 00:24:18,520
+appears really in the 1920s and 30s
+
+347
+00:24:18,520 --> 00:24:22,960
+with the work of a mathematician,
+
+348
+00:24:22,960 --> 00:24:28,760
+Emil Post at NYU, who I happened to never meet.
+
+349
+00:24:28,760 --> 00:24:33,200
+But we had some friends in common.
+
+350
+00:24:33,200 --> 00:24:37,040
+And he had the idea of production rules
+
+351
+00:24:37,040 --> 00:24:40,760
+and basically rule-based systems and proved
+
+352
+00:24:40,760 --> 00:24:44,120
+various theorems about them.
+
+353
+00:24:44,120 --> 00:24:48,560
+Then Kurt Gödel showed that if you had something
+
+354
+00:24:48,560 --> 00:24:53,600
+like a computer or a procedure that had the right kinds
+
+355
+00:24:53,600 --> 00:24:57,920
+of rules, it could compute all sorts of things.
+
+356
+00:24:57,920 --> 00:24:59,480
+But there were some things it couldn't
+
+357
+00:24:59,480 --> 00:25:02,640
+compute, unsolvable problems.
+
+358
+00:25:02,640 --> 00:25:06,520
+And that became an exciting branch of mathematics.
+
+359
+00:25:06,520 --> 00:25:10,760
+And the star thinker in that field
+
+360
+00:25:10,760 --> 00:25:15,160
+was Alan Turing, who invented a very simple kind
+
+361
+00:25:15,160 --> 00:25:18,780
+of universal general purpose computer.
+
+362
+00:25:18,780 --> 00:25:22,480
+Instead of random access memory, it
+
+363
+00:25:22,480 --> 00:25:26,080
+just had a tape which it could write on and read
+
+364
+00:25:26,080 --> 00:25:29,880
+and change symbols and would go back and forth.
+
+365
+00:25:29,880 --> 00:25:34,960
+And if it's in state x at c symbol y,
+
+366
+00:25:34,960 --> 00:25:41,080
+it will print symbol z over the x and move to the left or right.
+
+367
+00:25:41,080 --> 00:25:44,800
+And just a bunch of rules like that
+
+368
+00:25:44,800 --> 00:25:47,760
+was enough to make a universal computer.
+
+369
+00:25:48,760 --> 00:25:58,200
+And so from about 1936, it was sort
+
+370
+00:25:58,200 --> 00:26:01,720
+of clear to a large mathematical community
+
+371
+00:26:01,720 --> 00:26:03,680
+that these were great things.
+
+372
+00:26:03,680 --> 00:26:07,760
+And a couple of general purpose like computers,
+
+373
+00:26:07,760 --> 00:26:13,760
+very simple ones, were built in the 1930s and more in the 1940s.
+
+374
+00:26:13,760 --> 00:26:17,280
+And in the 1950s, big companies started
+
+375
+00:26:17,280 --> 00:26:23,600
+to make big computers, which were
+
+376
+00:26:23,600 --> 00:26:25,080
+rooms full of equipment.
+
+377
+00:26:25,080 --> 00:26:30,840
+And but as you know, most programs could only
+
+378
+00:26:30,840 --> 00:26:33,080
+do some particular thing.
+
+379
+00:26:33,080 --> 00:26:38,000
+And none of them were very smart,
+
+380
+00:26:38,000 --> 00:26:45,920
+whereas a human can handle lots of kinds of situations.
+
+381
+00:26:45,920 --> 00:26:50,400
+And if you have one that you've never seen before,
+
+382
+00:26:50,400 --> 00:26:52,360
+there's a good chance you'll think of a new way
+
+383
+00:26:52,360 --> 00:26:55,640
+to deal with that and so forth.
+
+384
+00:26:55,640 --> 00:27:01,040
+And so how do you make a machine that doesn't get stuck almost
+
+385
+00:27:01,040 --> 00:27:03,120
+all the time?
+
+386
+00:27:03,120 --> 00:27:09,760
+And I like to use the word resourcefulness,
+
+387
+00:27:09,760 --> 00:27:11,800
+although I left an r out of that one.
+
+388
+00:27:15,920 --> 00:27:22,520
+Is there a shorter word?
+
+389
+00:27:27,520 --> 00:27:33,640
+So here's a good example, my favorite example
+
+390
+00:27:33,640 --> 00:27:40,760
+of a situation where a person is born, more or less,
+
+391
+00:27:40,760 --> 00:27:47,960
+with a dozen different ways of dealing with something.
+
+392
+00:27:47,960 --> 00:27:52,160
+And the problem that I imagine that you're dealing with
+
+393
+00:27:52,160 --> 00:27:58,360
+is this, my favorite example, is I'm thirsty.
+
+394
+00:27:58,360 --> 00:28:05,320
+So I see that glass of water, and I do that and get it.
+
+395
+00:28:05,320 --> 00:28:06,320
+Actually, I am.
+
+396
+00:28:07,320 --> 00:28:15,160
+On the other hand, if I were here,
+
+397
+00:28:15,160 --> 00:28:17,920
+I would never in a whole lifetime do this.
+
+398
+00:28:21,480 --> 00:28:25,880
+You never walk out a window by mistake.
+
+399
+00:28:25,880 --> 00:28:28,000
+We're incredibly reliable.
+
+400
+00:28:28,000 --> 00:28:32,040
+So how do I know how far it is?
+
+401
+00:28:32,080 --> 00:28:37,040
+And that slide shows you 12 different ways
+
+402
+00:28:37,040 --> 00:28:42,040
+that your vision system, that's only your vision system,
+
+403
+00:28:42,040 --> 00:28:44,480
+has to measure distances.
+
+404
+00:28:44,480 --> 00:28:50,080
+So gradients, if things are sort of blurry,
+
+405
+00:28:50,080 --> 00:28:52,920
+then they must be pretty far away.
+
+406
+00:28:52,920 --> 00:28:56,760
+That's sort of on a foggy day outside.
+
+407
+00:28:59,600 --> 00:29:01,320
+Here's a situation.
+
+408
+00:29:01,320 --> 00:29:05,920
+If you assume those are both chairs of the same size,
+
+409
+00:29:05,920 --> 00:29:09,520
+then you know that this chair is about twice as far away
+
+410
+00:29:09,520 --> 00:29:12,880
+as that, although you don't well.
+
+411
+00:29:12,880 --> 00:29:15,600
+And you know how far away they are pretty much
+
+412
+00:29:15,600 --> 00:29:17,000
+by the absolute size.
+
+413
+00:29:21,520 --> 00:29:24,500
+If you have two eyes that work well,
+
+414
+00:29:24,500 --> 00:29:28,000
+then if something is less than 30 feet away,
+
+415
+00:29:28,000 --> 00:29:31,160
+you can make a pretty good estimate of its distance
+
+416
+00:29:31,160 --> 00:29:34,000
+by focusing both eyes on some feature.
+
+417
+00:29:34,000 --> 00:29:39,800
+And your brain can tell how far apart your eyes are looking.
+
+418
+00:29:39,800 --> 00:29:45,120
+So there's 12 different things.
+
+419
+00:29:45,120 --> 00:29:47,320
+It's more than you need.
+
+420
+00:29:47,320 --> 00:29:52,200
+Lots of people are missing half of those.
+
+421
+00:29:52,200 --> 00:29:55,480
+Lots of people have very poor vision in one eye.
+
+422
+00:29:55,480 --> 00:30:02,480
+And some people cannot fuse stereo images,
+
+423
+00:30:02,480 --> 00:30:08,480
+even though both eyes seem to have 20-20 vision.
+
+424
+00:30:08,480 --> 00:30:16,880
+And in some cases, nobody knows why they can't do that.
+
+425
+00:30:16,880 --> 00:30:20,760
+I think I once took a test for being a pilot,
+
+426
+00:30:20,760 --> 00:30:25,400
+and they wanted to be sure you could do stereo vision, which
+
+427
+00:30:25,400 --> 00:30:28,320
+seemed very strange, because if you're an airplane
+
+428
+00:30:28,320 --> 00:30:37,080
+and you're less than 30 or 40 feet away from something,
+
+429
+00:30:37,080 --> 00:30:41,520
+then yes, you could use stereo, but it's too late.
+
+430
+00:30:51,520 --> 00:30:53,880
+So anyway, that's interesting.
+
+431
+00:30:53,880 --> 00:30:57,240
+See, if you can think of an example where a person has
+
+432
+00:30:57,240 --> 00:31:02,400
+even more 12 of these, it's pretty amazing, isn't it?
+
+433
+00:31:02,400 --> 00:31:06,020
+That's more redundancy.
+
+434
+00:31:06,020 --> 00:31:12,880
+This is too hard to read, but somehow I
+
+435
+00:31:12,880 --> 00:31:19,920
+found in an Aristotle essay the idea
+
+436
+00:31:19,920 --> 00:31:24,680
+that you should represent things in multiple ways.
+
+437
+00:31:24,680 --> 00:31:26,520
+You might describe a house.
+
+438
+00:31:26,520 --> 00:31:28,120
+One person might describe a house
+
+439
+00:31:28,120 --> 00:31:32,360
+as a shelter against destruction by wind, rain, and heat.
+
+440
+00:31:32,360 --> 00:31:36,120
+Another might describe it as a construction
+
+441
+00:31:36,120 --> 00:31:39,000
+of stones, bricks, and timbers.
+
+442
+00:31:39,000 --> 00:31:41,000
+But a third possible description would
+
+443
+00:31:41,000 --> 00:31:47,320
+say it was in that form, in that material, with that purpose.
+
+444
+00:31:47,320 --> 00:31:49,320
+So you see, there's two different descriptions.
+
+445
+00:31:49,320 --> 00:31:52,440
+One is the functional description.
+
+446
+00:31:52,440 --> 00:31:53,760
+It's a shelter.
+
+447
+00:31:53,760 --> 00:31:59,040
+The second one is a structural description, how it's made.
+
+448
+00:31:59,040 --> 00:32:03,240
+And Aristotle says, which is the better description?
+
+449
+00:32:03,240 --> 00:32:09,080
+And he dismisses the material one or the functional one,
+
+450
+00:32:09,080 --> 00:32:11,700
+is not rather the person who combines
+
+451
+00:32:11,700 --> 00:32:14,000
+both in a single statement.
+
+452
+00:32:14,000 --> 00:32:22,960
+And then I found a paragraph by Feynman
+
+453
+00:32:22,960 --> 00:32:26,720
+who says, every theoretical physicist who is any good
+
+454
+00:32:26,720 --> 00:32:29,400
+knows six or seven different ways
+
+455
+00:32:29,400 --> 00:32:32,560
+to represent exactly the same physics.
+
+456
+00:32:32,560 --> 00:32:38,480
+And you know that they're all equivalent,
+
+457
+00:32:38,480 --> 00:32:40,680
+but you keep them all in your head,
+
+458
+00:32:40,680 --> 00:32:43,520
+hoping that they will give you different ideas
+
+459
+00:32:43,520 --> 00:32:45,680
+for guessing.
+
+460
+00:32:45,680 --> 00:32:47,600
+Guessing, I should put more dots.
+
+461
+00:32:54,080 --> 00:33:00,320
+Anyway, that whole argument is to say
+
+462
+00:33:00,320 --> 00:33:06,160
+that the interesting thing about people
+
+463
+00:33:06,160 --> 00:33:09,040
+is that they have so many ways to do things and perceive
+
+464
+00:33:09,040 --> 00:33:11,960
+things and think of things.
+
+465
+00:33:11,960 --> 00:33:17,080
+And in some cases, we even know that there
+
+466
+00:33:17,080 --> 00:33:18,680
+are different parts of the brain that
+
+467
+00:33:18,680 --> 00:33:22,280
+are involved in one aspect or another
+
+468
+00:33:22,280 --> 00:33:28,320
+of constructing those different representations or descriptions.
+
+469
+00:33:28,320 --> 00:33:35,400
+If you look at one of my favorite books,
+
+470
+00:33:35,400 --> 00:33:39,000
+weighs about 20 pounds, it's the book on the nervous system
+
+471
+00:33:39,000 --> 00:33:40,880
+by Kandel and Schwartz.
+
+472
+00:33:43,560 --> 00:33:50,520
+And the index to that book is quite a lot of pages long,
+
+473
+00:33:50,520 --> 00:33:53,800
+and it mentions 400 different structures in the brain.
+
+474
+00:33:56,720 --> 00:34:00,760
+So the brain is not like the, well,
+
+475
+00:34:00,760 --> 00:34:04,560
+I shouldn't make fun of the liver, because for all I know,
+
+476
+00:34:04,560 --> 00:34:08,760
+the liver has 400 different mini processes
+
+477
+00:34:08,760 --> 00:34:10,560
+for doing things.
+
+478
+00:34:10,560 --> 00:34:13,880
+But the brain has distinguishable areas
+
+479
+00:34:13,880 --> 00:34:17,760
+that seem to perform several hundred different functions.
+
+480
+00:34:17,760 --> 00:34:22,280
+And with a microscope, at first they all
+
+481
+00:34:22,280 --> 00:34:24,160
+look pretty much the same.
+
+482
+00:34:24,160 --> 00:34:28,800
+But if you look closely, you see slightly different patterns
+
+483
+00:34:28,800 --> 00:34:34,880
+of how most layers of the cortex of the brain, most parts of it,
+
+484
+00:34:34,880 --> 00:34:37,680
+have six layers, and each has a population
+
+485
+00:34:37,680 --> 00:34:39,640
+of different kinds of cells.
+
+486
+00:34:39,640 --> 00:34:42,280
+There are a lot of cross connections up and down
+
+487
+00:34:42,280 --> 00:34:45,640
+and sideways to other.
+
+488
+00:34:45,640 --> 00:34:51,440
+There are a range in columns of between 400 and 1,000 cells,
+
+489
+00:34:51,440 --> 00:34:53,920
+and you have a couple of million of those.
+
+490
+00:34:53,920 --> 00:34:55,560
+And there are lots of differences
+
+491
+00:34:55,560 --> 00:34:58,880
+between the columns in different areas,
+
+492
+00:34:58,880 --> 00:35:02,080
+and we know some of the functions.
+
+493
+00:35:02,080 --> 00:35:05,280
+Most cases, we don't know much about how any of them
+
+494
+00:35:05,280 --> 00:35:10,720
+actually work, with the main exception of vision,
+
+495
+00:35:10,720 --> 00:35:15,360
+where the functions of the cells in the visual cortex
+
+496
+00:35:15,360 --> 00:35:18,840
+are fairly well understood at low levels.
+
+497
+00:35:18,840 --> 00:35:21,040
+So we know how that part of the brain
+
+498
+00:35:21,040 --> 00:35:25,440
+finds the edges and boundaries of different areas
+
+499
+00:35:25,440 --> 00:35:29,720
+and textures and regions of the visual field.
+
+500
+00:35:29,720 --> 00:35:36,280
+But we do not know even a little bit
+
+501
+00:35:36,280 --> 00:35:39,200
+about how the brain recognizes something
+
+502
+00:35:39,200 --> 00:35:44,160
+as a chair and an overhead projector and a CRT screen
+
+503
+00:35:44,160 --> 00:35:47,800
+and that sort of thing.
+
+504
+00:35:51,720 --> 00:35:58,480
+So the kind of question that I got
+
+505
+00:35:58,480 --> 00:36:03,720
+interested in was, how can you have a system which
+
+506
+00:36:03,720 --> 00:36:08,800
+has a very large number of different kinds of computers,
+
+507
+00:36:08,800 --> 00:36:13,680
+each of which by itself might be relatively simple or might not,
+
+508
+00:36:13,680 --> 00:36:15,480
+I suppose?
+
+509
+00:36:15,480 --> 00:36:17,040
+And how could you put them together
+
+510
+00:36:17,040 --> 00:36:21,200
+into a larger system which could do things like learn language
+
+511
+00:36:21,200 --> 00:36:28,240
+and prove theorems and convince people to do things
+
+512
+00:36:28,240 --> 00:36:30,320
+that they would never have dreamed of,
+
+513
+00:36:30,320 --> 00:36:35,080
+doing five minutes earlier and stuff like that?
+
+514
+00:36:41,760 --> 00:36:45,200
+Now, the first sort of things I was interested in
+
+515
+00:36:45,200 --> 00:36:54,160
+was, in fact, how to simulate simple kinds of nerve cells
+
+516
+00:36:54,160 --> 00:37:02,440
+because in the 1950s, there was about almost 100 years, really
+
+517
+00:37:02,440 --> 00:37:08,840
+more like 50 years, of science discovering things
+
+518
+00:37:08,840 --> 00:37:13,800
+about neurons and nerve cells, the axons and dendrites
+
+519
+00:37:13,800 --> 00:37:18,040
+that they used to communicate with other neurons.
+
+520
+00:37:18,040 --> 00:37:24,520
+So if you go back to 1890, you find a few anatomists
+
+521
+00:37:24,520 --> 00:37:28,040
+discovering some of the functions or connections
+
+522
+00:37:28,040 --> 00:37:30,320
+of neurons in the brain.
+
+523
+00:37:30,320 --> 00:37:34,680
+And you find a few experimental physicists.
+
+524
+00:37:34,680 --> 00:37:37,480
+There was no oscilloscope yet, but there
+
+525
+00:37:37,480 --> 00:37:43,040
+were very high-gain amped galvanometers
+
+526
+00:37:43,040 --> 00:37:49,480
+which could detect pulses going along a nerve fiber.
+
+527
+00:37:49,480 --> 00:37:57,840
+And by 1900, it was pretty clear that part of the activity
+
+528
+00:37:57,840 --> 00:38:02,200
+in a nerve cell was chemical and part was electrical.
+
+529
+00:38:02,200 --> 00:38:08,840
+And by 1920 or 30, with the cathode ray tube appearing,
+
+530
+00:38:08,840 --> 00:38:13,520
+mostly because of television, it
+
+531
+00:38:13,520 --> 00:38:17,360
+became possible to do a lot of neurophysiology
+
+532
+00:38:17,360 --> 00:38:19,880
+by sticking needles in brains.
+
+533
+00:38:19,880 --> 00:38:25,400
+The vacuum tube appears around 1900,
+
+534
+00:38:25,400 --> 00:38:28,800
+and you can make amplifiers that can see millivolts and then
+
+535
+00:38:28,800 --> 00:38:30,280
+microvolts.
+
+536
+00:38:30,280 --> 00:38:32,880
+So in the beginning of the 20th century,
+
+537
+00:38:32,880 --> 00:38:35,680
+there was lots of progress.
+
+538
+00:38:35,680 --> 00:38:39,760
+By 1950, we knew a lot about the nervous system,
+
+539
+00:38:39,760 --> 00:38:46,120
+but we still don't know much about how you learn something
+
+540
+00:38:46,120 --> 00:38:48,520
+in the brain.
+
+541
+00:38:48,520 --> 00:38:54,040
+It's quite clear that the things called synapses are involved.
+
+542
+00:38:54,040 --> 00:38:57,160
+Connections between two neurons become
+
+543
+00:38:57,160 --> 00:38:59,120
+better at conducting nerve impulses
+
+544
+00:38:59,120 --> 00:39:00,640
+under some conditions.
+
+545
+00:39:01,400 --> 00:39:11,120
+But no one knows how higher-level knowledge is
+
+546
+00:39:11,120 --> 00:39:13,280
+represented in the brain yet.
+
+547
+00:39:13,280 --> 00:39:18,240
+And the Society of Mind Book had a lot of theories about that.
+
+548
+00:39:18,240 --> 00:39:20,040
+And in particular, there was a theory
+
+549
+00:39:20,040 --> 00:39:24,200
+called K-lines, knowledge lines or something
+
+550
+00:39:24,200 --> 00:39:31,840
+that came partly from me and partly
+
+551
+00:39:31,840 --> 00:39:34,160
+from a couple of other researchers
+
+552
+00:39:34,160 --> 00:39:37,360
+named David Waltz and Jordan Pollock.
+
+553
+00:39:37,360 --> 00:39:47,040
+And that's a sort of nice theory of how neural networks might
+
+554
+00:39:47,040 --> 00:39:49,880
+remember higher-level concepts.
+
+555
+00:39:49,880 --> 00:39:53,520
+And for some reason, although that kind of work
+
+556
+00:39:53,520 --> 00:39:57,120
+is from around 1980, which is 30 years ago,
+
+557
+00:39:57,120 --> 00:40:00,960
+it has not hit the neuroscience community.
+
+558
+00:40:00,960 --> 00:40:03,440
+So if you look at the Emotion Machine
+
+559
+00:40:03,440 --> 00:40:07,200
+Book or the Society of Mind in Amazon,
+
+560
+00:40:07,200 --> 00:40:11,720
+you might run across a review by a neurologist named Richard
+
+561
+00:40:11,720 --> 00:40:17,320
+Restak, who says that Minsky makes up
+
+562
+00:40:17,320 --> 00:40:20,440
+a lot of concepts like K-lines and micro-names
+
+563
+00:40:20,440 --> 00:40:23,880
+and stuff like that that nobody's ever heard of.
+
+564
+00:40:23,880 --> 00:40:26,240
+And there's no evidence for them.
+
+565
+00:40:26,240 --> 00:40:28,720
+And he ignores the possibility that it
+
+566
+00:40:28,720 --> 00:40:31,800
+isn't the nerve cells in the brain that are important,
+
+567
+00:40:31,800 --> 00:40:35,240
+but the supporting tissues called glia,
+
+568
+00:40:35,240 --> 00:40:37,960
+which hold the neurons up and feed them.
+
+569
+00:40:37,960 --> 00:40:42,440
+And he goes on for a couple of insane paragraphs.
+
+570
+00:40:45,160 --> 00:40:49,640
+It's very interesting, because it doesn't occur to him
+
+571
+00:40:49,640 --> 00:40:51,240
+that you can't look for something
+
+572
+00:40:51,240 --> 00:40:55,760
+until you have the idea of it.
+
+573
+00:40:55,760 --> 00:40:59,560
+And so here is this 30-year-old idea of K-lines.
+
+574
+00:40:59,560 --> 00:41:07,560
+And go and ask your favorite neurologist, neuroscientist,
+
+575
+00:41:07,560 --> 00:41:08,160
+what it is.
+
+576
+00:41:08,160 --> 00:41:11,320
+And he said, oh, I think that's some AI thing,
+
+577
+00:41:11,320 --> 00:41:13,040
+but where's the evidence for it?
+
+578
+00:41:15,960 --> 00:41:18,120
+What do you suppose is my reaction to that?
+
+579
+00:41:20,640 --> 00:41:22,720
+Who is supposed to get the evidence?
+
+580
+00:41:26,160 --> 00:41:31,160
+So it seems to me that there's a strange field in neuroscience,
+
+581
+00:41:31,160 --> 00:41:33,880
+which is that it doesn't want new ideas unless you've
+
+582
+00:41:33,880 --> 00:41:34,560
+proved them.
+
+583
+00:41:37,760 --> 00:41:41,680
+So I try to have conversations with them,
+
+584
+00:41:41,680 --> 00:41:46,280
+but I get somewhat tired of it.
+
+585
+00:41:46,280 --> 00:41:52,960
+Anyway, but in this course, I'm taking the opposite approach,
+
+586
+00:41:52,960 --> 00:41:57,960
+which is that we don't want a theory of thinking.
+
+587
+00:41:57,960 --> 00:42:03,760
+We want a lot of them, because probably psychology
+
+588
+00:42:03,760 --> 00:42:06,200
+is not like physics.
+
+589
+00:42:06,200 --> 00:42:09,400
+What's the most wonderful thing about physics?
+
+590
+00:42:09,400 --> 00:42:18,800
+Most wonderful thing is that they have unified theories.
+
+591
+00:42:18,800 --> 00:42:23,880
+There wasn't much of a unified theory until Newton,
+
+592
+00:42:23,880 --> 00:42:28,120
+and he got these three laws, wonderful laws.
+
+593
+00:42:32,320 --> 00:42:39,200
+One was the gravitational idea that bodies attract each other
+
+594
+00:42:39,200 --> 00:42:41,840
+with a force that's the inverse square of the distance
+
+595
+00:42:41,840 --> 00:42:43,560
+between them.
+
+596
+00:42:43,560 --> 00:42:49,200
+Another is that kinetic energy is conserved.
+
+597
+00:42:49,200 --> 00:42:50,480
+I forget what the third one is.
+
+598
+00:42:50,480 --> 00:42:56,200
+Oh, equal reaction is equal and opposite.
+
+599
+00:42:56,200 --> 00:43:00,880
+If two things collide, they transfer equal amount
+
+600
+00:43:00,880 --> 00:43:03,200
+of momentum to both.
+
+601
+00:43:03,200 --> 00:43:06,800
+There was a little problem up to Newton's time.
+
+602
+00:43:06,800 --> 00:43:09,920
+Galileo got some of those ideas,
+
+603
+00:43:09,920 --> 00:43:12,880
+and my impression from reading him
+
+604
+00:43:12,880 --> 00:43:18,040
+is that he has a dim idea that there are two things around.
+
+605
+00:43:18,040 --> 00:43:26,200
+There's kinetic energy, which is mv, and there's momentum is mv,
+
+606
+00:43:26,200 --> 00:43:30,880
+and there's kinetic energy, which is mv squared.
+
+607
+00:43:30,880 --> 00:43:32,760
+And he doesn't have the clear idea
+
+608
+00:43:32,760 --> 00:43:35,480
+that there are two different things here,
+
+609
+00:43:35,480 --> 00:43:38,520
+and you can't blame him.
+
+610
+00:43:38,520 --> 00:43:45,960
+I would think you wouldn't think that two quantities would
+
+611
+00:43:45,960 --> 00:43:48,360
+combine in two different ways to make
+
+612
+00:43:48,360 --> 00:43:50,920
+two important different concepts.
+
+613
+00:43:50,920 --> 00:43:53,720
+Well, that got clear to Newton somehow,
+
+614
+00:43:53,720 --> 00:43:56,360
+and Galileo is a bit muddled, although he
+
+615
+00:43:56,360 --> 00:44:00,320
+gets almost all the consequences of those things right.
+
+616
+00:44:00,320 --> 00:44:06,280
+But he doesn't get the orbits and things to come out.
+
+617
+00:44:09,960 --> 00:44:15,560
+Anyway, what's happened in artificial intelligence,
+
+618
+00:44:15,560 --> 00:44:19,120
+like most fields, is that people said,
+
+619
+00:44:19,120 --> 00:44:22,720
+well, let's try to understand thinking and psychology,
+
+620
+00:44:22,720 --> 00:44:25,240
+and let's use physics as our model.
+
+621
+00:44:25,240 --> 00:44:29,920
+And so what we want is to get a very small number
+
+622
+00:44:29,920 --> 00:44:32,600
+of universal laws.
+
+623
+00:44:32,600 --> 00:44:37,320
+And a lot of psychologists struggled around to do that,
+
+624
+00:44:37,320 --> 00:44:40,440
+and then they gradually separated
+
+625
+00:44:40,440 --> 00:44:43,640
+so that there were some psychologists,
+
+626
+00:44:43,640 --> 00:44:49,240
+like Bill Estes, who worked out some very nice mathematical
+
+627
+00:44:49,240 --> 00:44:53,480
+rules for reinforcement-based learning.
+
+628
+00:44:53,480 --> 00:44:55,400
+Got a simple rule.
+
+629
+00:44:55,400 --> 00:44:57,960
+If you designed an experiment right,
+
+630
+00:44:58,000 --> 00:45:02,360
+it predicted pretty well how many trials it
+
+631
+00:45:02,360 --> 00:45:09,600
+would take a rat or a pigeon or a dog or whatever
+
+632
+00:45:09,600 --> 00:45:14,480
+to learn a certain thing from trial and error.
+
+633
+00:45:14,480 --> 00:45:18,000
+And Estes got a set of four or five rules,
+
+634
+00:45:18,000 --> 00:45:20,840
+which looked like Newton's laws.
+
+635
+00:45:20,840 --> 00:45:23,840
+And if you designed your experiment very carefully
+
+636
+00:45:23,840 --> 00:45:27,600
+and shielded the animal from noise and everything else,
+
+637
+00:45:27,600 --> 00:45:32,240
+which is what a physicist would do for a physics experiment,
+
+638
+00:45:32,240 --> 00:45:40,760
+the reinforcement theories got some pretty good models
+
+639
+00:45:40,760 --> 00:45:44,920
+of how to make a machine learn, but they weren't good enough.
+
+640
+00:45:51,000 --> 00:45:55,280
+So here's a whole list of things that
+
+641
+00:45:55,280 --> 00:45:59,160
+happened in the early years of cognitive psychology
+
+642
+00:45:59,160 --> 00:46:02,200
+when people were trying to make theories of thinking
+
+643
+00:46:02,200 --> 00:46:06,120
+and they were imitating the physicists.
+
+644
+00:46:06,120 --> 00:46:13,920
+By physics envy, to borrow a term of Freud,
+
+645
+00:46:13,920 --> 00:46:17,680
+the idea is, can you find a few simple rules that
+
+646
+00:46:17,680 --> 00:46:23,960
+will apply to very broad classes of psychological phenomena?
+
+647
+00:46:23,960 --> 00:46:33,080
+And this led to various kinds of projects,
+
+648
+00:46:33,080 --> 00:46:36,400
+lots of neural network and reinforcement
+
+649
+00:46:36,400 --> 00:46:41,600
+and statistical-based methods led to learning machines
+
+650
+00:46:41,600 --> 00:46:43,560
+that were pretty good at learning
+
+651
+00:46:43,560 --> 00:46:45,160
+in some kinds of situations.
+
+652
+00:46:49,280 --> 00:46:51,080
+And they're becoming very popular,
+
+653
+00:46:51,080 --> 00:46:55,480
+but I don't like them, because if you
+
+654
+00:46:55,480 --> 00:47:01,400
+have a lot of variables, like 50 or 100,
+
+655
+00:47:01,400 --> 00:47:05,760
+then to use a probabilistic analysis,
+
+656
+00:47:05,760 --> 00:47:07,560
+you have to think of all combinations
+
+657
+00:47:07,560 --> 00:47:09,600
+of those variables.
+
+658
+00:47:09,600 --> 00:47:13,400
+Because if two of them are combined in something
+
+659
+00:47:13,400 --> 00:47:19,600
+like an exclusive or a manner, I just
+
+660
+00:47:19,600 --> 00:47:22,040
+put the light pen in a pocket.
+
+661
+00:47:22,040 --> 00:47:25,200
+It's either in a left pocket or a right pocket.
+
+662
+00:47:25,200 --> 00:47:27,600
+Can't be both.
+
+663
+00:47:27,600 --> 00:47:32,360
+That's an XOR that will cause a lot of trouble
+
+664
+00:47:32,360 --> 00:47:34,720
+to a learning machine.
+
+665
+00:47:34,720 --> 00:47:37,240
+And if there are 100 variables, there's
+
+666
+00:47:37,240 --> 00:47:41,280
+no way you could decide which of the 2 to the 100
+
+667
+00:47:41,280 --> 00:47:46,000
+Boolean combinations of those variables you should think about.
+
+668
+00:47:46,000 --> 00:47:49,120
+And so lots of statistical learning systems
+
+669
+00:47:49,120 --> 00:47:52,360
+are good for lots of applications,
+
+670
+00:47:52,360 --> 00:47:55,880
+but they just won't cut it to solve hard problems
+
+671
+00:47:55,880 --> 00:47:59,120
+where the hypothesis is a little bit complicated
+
+672
+00:47:59,120 --> 00:48:04,400
+and has 7 or 8 variables with complicated interactions.
+
+673
+00:48:04,400 --> 00:48:09,560
+So most statistical learning people
+
+674
+00:48:09,560 --> 00:48:12,640
+assume that if you get a lot of partial ones,
+
+675
+00:48:12,640 --> 00:48:15,520
+then you can look for combinations of ones
+
+676
+00:48:15,520 --> 00:48:20,680
+that have high correlations with the result.
+
+677
+00:48:20,680 --> 00:48:22,800
+Then you can start combining them,
+
+678
+00:48:22,800 --> 00:48:25,520
+and things get better and better.
+
+679
+00:48:25,520 --> 00:48:30,920
+However, mathematically, if an effect you're looking for
+
+680
+00:48:30,920 --> 00:48:35,120
+depends on the exclusive or of several variables,
+
+681
+00:48:35,120 --> 00:48:39,000
+there's no way to approach that by successive approximations.
+
+682
+00:48:39,000 --> 00:48:41,640
+If any one of the variables is missing,
+
+683
+00:48:41,640 --> 00:48:45,120
+there won't be any correlation of the phenomenon
+
+684
+00:48:45,120 --> 00:48:46,600
+with the others.
+
+685
+00:48:46,600 --> 00:48:50,040
+Anyway, that's a long story, but I
+
+686
+00:48:50,040 --> 00:48:54,080
+think it's worth complaining about because almost all
+
+687
+00:48:54,080 --> 00:48:57,480
+young people who start working on artificial intelligence
+
+688
+00:48:57,480 --> 00:49:00,600
+look around and say, what's popular?
+
+689
+00:49:00,600 --> 00:49:04,120
+Statistical learning.
+
+690
+00:49:04,120 --> 00:49:06,200
+So I'll do that.
+
+691
+00:49:06,200 --> 00:49:11,040
+That's exactly the way to kill yourself scientifically.
+
+692
+00:49:11,040 --> 00:49:13,920
+You don't want to get the most popular thing.
+
+693
+00:49:14,760 --> 00:49:18,960
+What am I really good at that's different?
+
+694
+00:49:18,960 --> 00:49:20,800
+And what are the chances that that
+
+695
+00:49:20,800 --> 00:49:22,920
+would provide another thing?
+
+696
+00:49:22,920 --> 00:49:27,840
+So you end of long speech.
+
+697
+00:49:32,080 --> 00:49:34,760
+Another problem in the last 30 years,
+
+698
+00:49:34,760 --> 00:49:40,600
+and I'm sort of, as you'll see during my lectures,
+
+699
+00:49:40,640 --> 00:49:42,160
+I think a lot of wonderful things
+
+700
+00:49:42,160 --> 00:49:48,560
+happened between 1950 when the idea of AI
+
+701
+00:49:48,560 --> 00:49:55,360
+first got articulated, 1950s, and then the 20 years
+
+702
+00:49:55,360 --> 00:49:59,280
+after that from 1960 to 1980.
+
+703
+00:49:59,280 --> 00:50:05,160
+A lot of early experiments, and I'll show you some of them,
+
+704
+00:50:05,160 --> 00:50:08,680
+looked very promising.
+
+705
+00:50:08,680 --> 00:50:16,880
+In fact, they may be here we go.
+
+706
+00:50:16,880 --> 00:50:42,280
+In 1961, Jim Slagle was a young graduate student here at MIT.
+
+707
+00:50:42,280 --> 00:50:48,080
+He was blind.
+
+708
+00:50:48,080 --> 00:50:54,080
+He had gotten some retinal degeneration thing
+
+709
+00:50:54,080 --> 00:50:58,120
+in his first or second year of high school.
+
+710
+00:50:58,120 --> 00:51:02,080
+He was told that he would lose all his vision
+
+711
+00:51:02,080 --> 00:51:05,600
+and there was no treatment or hope.
+
+712
+00:51:05,600 --> 00:51:09,840
+So he learned Braille while he could still see.
+
+713
+00:51:09,880 --> 00:51:14,880
+And when he got to MIT, he was completely blind.
+
+714
+00:51:14,880 --> 00:51:19,200
+But there was a nice big parking lot in Technology Square.
+
+715
+00:51:19,200 --> 00:51:25,200
+And he would ride a bicycle and people like Sussman and Winston
+
+716
+00:51:25,200 --> 00:51:31,160
+and whoever was around would yell at him,
+
+717
+00:51:31,160 --> 00:51:34,000
+telling him where the next obstacle would be.
+
+718
+00:51:34,000 --> 00:51:39,080
+And Jim got better and better at that.
+
+719
+00:51:39,080 --> 00:51:43,960
+And nothing would stop him.
+
+720
+00:51:43,960 --> 00:51:46,680
+And he decided he would write a program that, oh, I
+
+721
+00:51:46,680 --> 00:51:49,720
+wrote a program that would take any formula
+
+722
+00:51:49,720 --> 00:51:52,840
+and find its derivative.
+
+723
+00:51:52,840 --> 00:51:55,840
+It was really easy because there are just about five rules.
+
+724
+00:51:55,840 --> 00:51:59,560
+Like, if there's a product uv, then you
+
+725
+00:51:59,560 --> 00:52:06,560
+compute u times the derivative of v plus v times u dv plus v du.
+
+726
+00:52:06,560 --> 00:52:10,120
+So I wrote a 20-line list program
+
+727
+00:52:10,120 --> 00:52:13,840
+that did all the algebraic expressions.
+
+728
+00:52:13,840 --> 00:52:19,080
+And what it would do is put d's in the right place
+
+729
+00:52:19,080 --> 00:52:22,800
+and then it would go back through the expression again.
+
+730
+00:52:22,800 --> 00:52:25,520
+Wherever it saw a d, it would do the derivative
+
+731
+00:52:25,520 --> 00:52:30,640
+of the thing after that and nothing to it.
+
+732
+00:52:30,640 --> 00:52:35,200
+So Slagle said, well, I'll do integrals.
+
+733
+00:52:35,200 --> 00:52:38,320
+And we all said, well, that's very hard.
+
+734
+00:52:38,320 --> 00:52:40,760
+Nobody knows how to do it.
+
+735
+00:52:40,760 --> 00:52:44,560
+And in fact, in Providence at the home
+
+736
+00:52:44,560 --> 00:52:48,640
+of the American Mathematical Society,
+
+737
+00:52:48,640 --> 00:52:53,440
+there is a big library called the Bateman Manuscript
+
+738
+00:52:53,440 --> 00:52:57,400
+Project, which has been collecting
+
+739
+00:52:57,400 --> 00:53:00,440
+all known integrals for 100 years.
+
+740
+00:53:00,440 --> 00:53:04,560
+And when anybody finds a new integral
+
+741
+00:53:04,560 --> 00:53:07,360
+that they can integrate in closed form,
+
+742
+00:53:07,360 --> 00:53:12,000
+they send the formulas to the Bateman Manuscript Project.
+
+743
+00:53:12,000 --> 00:53:17,560
+And some hackers there have developed ways to index it.
+
+744
+00:53:17,560 --> 00:53:19,920
+So if you had an integral and you didn't
+
+745
+00:53:19,920 --> 00:53:26,280
+know how to integrate it, you could look it up.
+
+746
+00:53:26,280 --> 00:53:29,160
+And that was pretty big.
+
+747
+00:53:29,160 --> 00:53:31,560
+I should say that Slagle succeeded
+
+748
+00:53:31,560 --> 00:53:36,160
+in writing a program that managed
+
+749
+00:53:36,160 --> 00:53:39,220
+to do all of the kinds of integrals
+
+750
+00:53:39,220 --> 00:53:45,200
+that one usually found on the first year calculus course
+
+751
+00:53:45,200 --> 00:53:50,400
+at MIT and got an A in those.
+
+752
+00:53:50,400 --> 00:53:51,640
+Couldn't do word problems.
+
+753
+00:53:54,440 --> 00:53:57,440
+And the uncanny thing is that if it
+
+754
+00:53:57,440 --> 00:54:00,880
+was a problem that usually took a MIT student five or 10
+
+755
+00:54:00,880 --> 00:54:05,480
+minutes, Slagle's program would take five or 10 minutes.
+
+756
+00:54:05,480 --> 00:54:13,040
+It's running on a IBM 701 with 20-millisecond cycle time.
+
+757
+00:54:13,040 --> 00:54:15,560
+It's incredibly slow.
+
+758
+00:54:15,560 --> 00:54:25,880
+You can type almost that fast and 16K of words of memory.
+
+759
+00:54:27,960 --> 00:54:30,240
+So there's no significance whatever
+
+760
+00:54:30,240 --> 00:54:33,080
+to this accident of time.
+
+761
+00:54:33,080 --> 00:54:36,960
+It would now take a microsecond or so,
+
+762
+00:54:36,960 --> 00:54:40,800
+be 100 million times, 1,000 million times faster
+
+763
+00:54:40,800 --> 00:54:42,200
+than a student.
+
+764
+00:54:46,760 --> 00:54:48,080
+Quite remarkable.
+
+765
+00:54:48,080 --> 00:54:49,720
+I don't have a slide.
+
+766
+00:54:49,720 --> 00:54:54,360
+Joel Moses then, Slagle went and graduated.
+
+767
+00:54:54,360 --> 00:55:00,520
+Joel Moses was another student who was, is he provost now,
+
+768
+00:55:00,520 --> 00:55:02,520
+or what?
+
+769
+00:55:02,520 --> 00:55:05,280
+What?
+
+770
+00:55:05,280 --> 00:55:07,200
+He got tired of it.
+
+771
+00:55:07,200 --> 00:55:08,640
+A terrific student.
+
+772
+00:55:08,640 --> 00:55:13,200
+And he set up a project called Maxima for Project Mac,
+
+773
+00:55:13,200 --> 00:55:16,240
+Symbolic, something around algebra,
+
+774
+00:55:16,240 --> 00:55:21,960
+and got several people all over the country
+
+775
+00:55:21,960 --> 00:55:23,200
+working on integration.
+
+776
+00:55:23,200 --> 00:55:27,240
+And at some point, a couple of them, Bobby Kavaniss
+
+777
+00:55:27,240 --> 00:55:31,680
+and I forget the other one, found a procedure that
+
+778
+00:55:31,680 --> 00:55:34,520
+could, in fact, integrate everything,
+
+779
+00:55:34,520 --> 00:55:37,560
+every algebraic expression that can
+
+780
+00:55:37,560 --> 00:55:39,800
+be integrated in closed form.
+
+781
+00:55:39,800 --> 00:55:43,040
+I forget the couple of constraints on it.
+
+782
+00:55:43,040 --> 00:55:47,600
+And that became a widely used system.
+
+783
+00:55:47,600 --> 00:55:53,960
+It ultimately got replaced by Stephen Wolfram's Mathematica.
+
+784
+00:55:53,960 --> 00:55:58,440
+But Maxima was sort of the world class symbolic mathematician
+
+785
+00:55:58,440 --> 00:55:59,920
+for quite a few years.
+
+786
+00:56:07,480 --> 00:56:12,720
+Moses mentioned to me he had read Slagle's program, Thesis,
+
+787
+00:56:12,720 --> 00:56:14,440
+and it took him a couple of weeks
+
+788
+00:56:14,440 --> 00:56:19,680
+to understand the two pages or three pages of Lisp
+
+789
+00:56:19,680 --> 00:56:25,680
+that Slagle had written, because being blind,
+
+790
+00:56:25,680 --> 00:56:29,560
+Slagle had tried to get the thing into as compact a form
+
+791
+00:56:29,560 --> 00:56:30,600
+as possible.
+
+792
+00:56:39,240 --> 00:56:41,880
+But that's symbolic.
+
+793
+00:56:41,880 --> 00:56:42,720
+It's too easy.
+
+794
+00:56:45,120 --> 00:56:48,240
+Here's a more ambitious one, which is three years later,
+
+795
+00:56:48,240 --> 00:56:51,840
+Dan Bobrow, who is now a vice president doing something
+
+796
+00:56:51,840 --> 00:56:55,000
+at Xerox.
+
+797
+00:56:55,000 --> 00:56:58,120
+And it solved problems like this.
+
+798
+00:56:58,120 --> 00:57:01,960
+The gas consumption of my car is 15 miles per gallon.
+
+799
+00:57:01,960 --> 00:57:07,080
+The distance between Boston and New York is 250 miles.
+
+800
+00:57:07,080 --> 00:57:08,680
+What is the number of gallons used
+
+801
+00:57:08,680 --> 00:57:13,440
+on a trip between Boston and New York?
+
+802
+00:57:13,440 --> 00:57:15,760
+And it chomps away and solves that.
+
+803
+00:57:18,680 --> 00:57:21,880
+It has about 100 rules.
+
+804
+00:57:21,880 --> 00:57:25,560
+It doesn't really know what any of those words mean,
+
+805
+00:57:25,560 --> 00:57:33,880
+but it thinks that the word is equals the distance between.
+
+806
+00:57:33,880 --> 00:57:36,920
+Doesn't care what Boston and New York is.
+
+807
+00:57:36,920 --> 00:57:40,520
+It has a format thing which says the distance between two
+
+808
+00:57:40,520 --> 00:57:42,360
+things.
+
+809
+00:57:42,360 --> 00:57:46,000
+And it never bothers to, you see,
+
+810
+00:57:46,000 --> 00:57:48,760
+because the phrase Boston and New York
+
+811
+00:57:48,760 --> 00:57:51,480
+occurs twice in the example.
+
+812
+00:57:51,480 --> 00:57:54,800
+It just replaces that by some symbol.
+
+813
+00:57:54,800 --> 00:57:56,800
+It was fairly remarkable.
+
+814
+00:57:56,800 --> 00:58:02,160
+And generally, if you had an algebra problem
+
+815
+00:58:02,160 --> 00:58:04,520
+and you told it to Bobrow, Bobrow
+
+816
+00:58:04,520 --> 00:58:07,200
+could type something in and it would solve it.
+
+817
+00:58:07,200 --> 00:58:11,280
+If you typed it in, it probably wouldn't,
+
+818
+00:58:11,280 --> 00:58:15,840
+but it had more than half a chance, or less about half
+
+819
+00:58:15,840 --> 00:58:16,880
+a chance.
+
+820
+00:58:16,880 --> 00:58:18,600
+So it was pretty good.
+
+821
+00:58:18,600 --> 00:58:24,400
+And if you look at an out of print book I wrote called,
+
+822
+00:58:24,400 --> 00:58:28,600
+I compiled called Semantic Information Processing,
+
+823
+00:58:28,600 --> 00:58:30,880
+most of Bobrow's program is in that.
+
+824
+00:58:30,880 --> 00:58:35,360
+So that's 1964.
+
+825
+00:58:35,360 --> 00:58:37,360
+I'll skip Winograd, which is perhaps
+
+826
+00:58:37,360 --> 00:58:40,300
+the most interesting program.
+
+827
+00:58:40,300 --> 00:58:49,300
+This was a program where you could talk to a robot that I
+
+828
+00:58:49,300 --> 00:58:51,980
+don't have a good picture on the slide,
+
+829
+00:58:51,980 --> 00:58:54,980
+but they're a bunch of blocks of different colors.
+
+830
+00:58:54,980 --> 00:58:59,460
+They're all cubes in the rectangular blocks.
+
+831
+00:58:59,460 --> 00:59:04,580
+And you can say, which is the largest block on top
+
+832
+00:59:04,580 --> 00:59:07,180
+of the big blue block?
+
+833
+00:59:07,180 --> 00:59:09,340
+And it would answer you.
+
+834
+00:59:09,340 --> 00:59:14,260
+And you could say, put the large red block
+
+835
+00:59:14,260 --> 00:59:17,260
+on top of the small green block.
+
+836
+00:59:17,260 --> 00:59:19,580
+And it would do that.
+
+837
+00:59:19,580 --> 00:59:26,800
+And Winograd's program was, of course, a symbolic one.
+
+838
+00:59:26,800 --> 00:59:35,140
+We actually built a robot and I guess we built it second.
+
+839
+00:59:35,140 --> 00:59:39,340
+Our friends at Stanford built a robot
+
+840
+00:59:39,340 --> 00:59:43,060
+and they imported Winograd's program
+
+841
+00:59:43,060 --> 00:59:49,220
+and they had the robot actually performing these operations
+
+842
+00:59:49,220 --> 00:59:52,340
+that you told it to do by typing.
+
+843
+00:59:52,340 --> 00:59:55,900
+And it was pretty exciting.
+
+844
+00:59:55,900 --> 01:00:00,180
+My favorite program in that period
+
+845
+01:00:00,180 --> 01:00:02,540
+was this one because it's so psychological.
+
+846
+01:00:05,540 --> 01:00:09,020
+This is called a geometrical analogy test
+
+847
+01:00:09,020 --> 01:00:11,660
+and it's on some IQ tests.
+
+848
+01:00:11,660 --> 01:00:17,980
+A is to B as C is to which of the following five?
+
+849
+01:00:17,980 --> 01:00:25,020
+And Evans wrote a set of rules which
+
+850
+01:00:25,020 --> 01:00:28,420
+were pretty good at this.
+
+851
+01:00:28,420 --> 01:00:34,580
+Did as well as 16-year-olds and it picks this one.
+
+852
+01:00:34,620 --> 01:00:45,540
+And if you ask it why, it says something like,
+
+853
+01:00:45,540 --> 01:00:48,420
+I don't have a reason.
+
+854
+01:00:48,420 --> 01:00:52,580
+It moves the largest object down or something like that.
+
+855
+01:00:52,580 --> 01:00:53,860
+Makes up different reasons.
+
+856
+01:00:56,980 --> 01:01:01,140
+So you see, in some sense, we're going backwards in age
+
+857
+01:01:01,140 --> 01:01:06,300
+because we're going from calculus to algebra
+
+858
+01:01:06,300 --> 01:01:11,180
+to simple analogies.
+
+859
+01:01:11,180 --> 01:01:11,940
+Oh, there it is.
+
+860
+01:01:14,820 --> 01:01:18,300
+That's one where the largest object moves down.
+
+861
+01:01:18,300 --> 01:01:19,740
+Don't know why I have two of them.
+
+862
+01:01:26,420 --> 01:01:29,420
+These are for another lecture.
+
+863
+01:01:29,420 --> 01:01:29,920
+OK.
+
+864
+01:01:41,060 --> 01:01:44,860
+So that was a period in which we picked problems
+
+865
+01:01:44,860 --> 01:01:47,500
+that people considered hard because they
+
+866
+01:01:47,500 --> 01:01:50,340
+were mathematical.
+
+867
+01:01:50,340 --> 01:01:55,340
+But when you think about it more, you see, well,
+
+868
+01:01:55,340 --> 01:01:57,500
+those math things are just procedures.
+
+869
+01:01:57,500 --> 01:02:03,780
+And once you know what Laplace and Gauss
+
+870
+01:02:03,780 --> 01:02:07,500
+and those mathematicians, Newton and people did,
+
+871
+01:02:07,500 --> 01:02:11,940
+you can write down systematic procedures for integrating
+
+872
+01:02:11,940 --> 01:02:18,540
+or for solving simultaneous algebraic constraint equations
+
+873
+01:02:18,540 --> 01:02:20,380
+or things like that.
+
+874
+01:02:20,380 --> 01:02:22,620
+And so there's very little to it.
+
+875
+01:02:22,620 --> 01:02:25,980
+So in some sense, if you look at what
+
+876
+01:02:25,980 --> 01:02:30,140
+you're doing in math in high school, in education,
+
+877
+01:02:30,140 --> 01:02:33,180
+you're going from hard to easy.
+
+878
+01:02:33,180 --> 01:02:35,940
+It's just that most people aren't
+
+879
+01:02:35,940 --> 01:02:41,300
+very good at obeying really simple rules because it's
+
+880
+01:02:41,300 --> 01:02:44,700
+so hideously boring or something.
+
+881
+01:02:47,220 --> 01:02:49,940
+So we gradually started to ask, well,
+
+882
+01:02:49,940 --> 01:02:53,700
+why can't we make machines understand everyday things?
+
+883
+01:02:56,140 --> 01:02:59,380
+The things that everyone regards as common sense.
+
+884
+01:02:59,380 --> 01:03:01,860
+And people can do so.
+
+885
+01:03:01,860 --> 01:03:04,980
+You don't need machines to do them.
+
+886
+01:03:04,980 --> 01:03:10,060
+One of my favorite examples is, why
+
+887
+01:03:10,060 --> 01:03:14,140
+can you pull something with a string but not push?
+
+888
+01:03:14,140 --> 01:03:17,340
+And there's been a lot of publicity
+
+889
+01:03:17,340 --> 01:03:22,740
+recently about that interesting program written
+
+890
+01:03:23,580 --> 01:03:30,380
+group at IBM called Watson, which
+
+891
+01:03:30,380 --> 01:03:36,900
+is good at finding facts about sports people and celebrities
+
+892
+01:03:36,900 --> 01:03:39,740
+and politics and so forth.
+
+893
+01:03:42,340 --> 01:03:44,140
+But there's no way it could understand
+
+894
+01:03:44,140 --> 01:03:47,540
+why you could push, pull something with a string
+
+895
+01:03:47,540 --> 01:03:49,580
+but not push.
+
+896
+01:03:49,580 --> 01:03:53,180
+And I don't know of any program that
+
+897
+01:03:53,180 --> 01:03:56,860
+has that concept or way of dealing with it.
+
+898
+01:03:56,860 --> 01:04:00,460
+So that's what I got interested in.
+
+899
+01:04:00,460 --> 01:04:10,020
+And starting around maybe the middle 1970s or late 1970s,
+
+900
+01:04:10,020 --> 01:04:16,580
+several of us started to stop doing the easy stuff
+
+901
+01:04:16,580 --> 01:04:18,740
+and trying to make theories of how
+
+902
+01:04:18,740 --> 01:04:24,300
+you would do the kinds of things that people
+
+903
+01:04:24,300 --> 01:04:26,580
+are uniquely good at.
+
+904
+01:04:26,580 --> 01:04:27,700
+I don't know of animals.
+
+905
+01:04:30,860 --> 01:04:32,140
+Well, I don't know.
+
+906
+01:04:32,140 --> 01:04:36,860
+I'm sure a monkey wouldn't try to push anything with a string.
+
+907
+01:04:36,860 --> 01:04:39,020
+Maybe it does it very quickly and you don't notice.
+
+908
+01:04:47,260 --> 01:04:51,740
+And one aspect of common sense thinking
+
+909
+01:04:51,740 --> 01:04:57,300
+is going right back to that idea of vision
+
+910
+01:04:57,300 --> 01:05:00,860
+having a dozen different systems is
+
+911
+01:05:00,860 --> 01:05:03,820
+that whatever a person normally is doing,
+
+912
+01:05:03,820 --> 01:05:08,700
+they are probably representing it in several different ways.
+
+913
+01:05:08,700 --> 01:05:13,460
+And here's an actual scene of two kids
+
+914
+01:05:13,460 --> 01:05:19,020
+named Julie and Henry who are playing with blocks.
+
+915
+01:05:19,020 --> 01:05:20,660
+It's pretty hard to see those blocks.
+
+916
+01:05:23,220 --> 01:05:32,220
+And you can think that Julie is thinking seven thoughts.
+
+917
+01:05:32,220 --> 01:05:33,780
+I'd like to see a longer list.
+
+918
+01:05:33,780 --> 01:05:38,100
+Maybe a good essay would be to take a few examples
+
+919
+01:05:38,100 --> 01:05:43,620
+and say, what are the most common microworlds?
+
+920
+01:05:43,620 --> 01:05:47,020
+See, physical, social, emotional, mental,
+
+921
+01:05:47,020 --> 01:05:53,340
+instrumental, whatever that is, visual, tactile, spatial.
+
+922
+01:05:53,340 --> 01:05:54,820
+She's thinking all these things.
+
+923
+01:05:54,820 --> 01:05:57,180
+What if I pulled out that bottom block?
+
+924
+01:05:57,180 --> 01:06:00,500
+You can't see the tower very well.
+
+925
+01:06:00,500 --> 01:06:04,460
+Should I help him or knock his tower down?
+
+926
+01:06:04,460 --> 01:06:06,620
+How would he react?
+
+927
+01:06:06,620 --> 01:06:09,380
+I forgot where I left the arch-shaped block.
+
+928
+01:06:09,380 --> 01:06:10,100
+That was real.
+
+929
+01:06:13,100 --> 01:06:18,140
+It's somewhere over here, but I don't think we could.
+
+930
+01:06:18,140 --> 01:06:20,020
+Maybe it's that.
+
+931
+01:06:20,020 --> 01:06:22,580
+I don't know.
+
+932
+01:06:22,580 --> 01:06:25,420
+I remember when it happened, she mentioned
+
+933
+01:06:25,420 --> 01:06:30,580
+that she reached around and it wasn't where she thought it was.
+
+934
+01:06:30,580 --> 01:06:37,420
+So common sense thinking involves this in most cases,
+
+935
+01:06:37,420 --> 01:06:39,780
+I think, several representations.
+
+936
+01:06:39,780 --> 01:06:43,540
+I don't know if it's as many as seven or maybe 20 or what.
+
+937
+01:06:51,540 --> 01:06:56,300
+That's the kind of thing we want to know how to do.
+
+938
+01:06:56,300 --> 01:06:59,300
+OK, I think I'll stop and we'll discuss things.
+
+939
+01:06:59,340 --> 01:07:02,500
+But in the next lecture, I'll talk about a model
+
+940
+01:07:02,500 --> 01:07:07,100
+of how I think thinking works.
+
+941
+01:07:11,500 --> 01:07:14,060
+What's the difference between us and our ancestors?
+
+942
+01:07:16,940 --> 01:07:20,100
+We know we have a larger brain.
+
+943
+01:07:20,100 --> 01:07:22,940
+But if you think about it, if you took the brain
+
+944
+01:07:22,940 --> 01:07:29,940
+that you already had in, say, do I
+
+945
+01:07:29,940 --> 01:07:32,900
+remember the name of the little monkey that
+
+946
+01:07:32,900 --> 01:07:36,460
+looks like a squirrel, jumps around in trees?
+
+947
+01:07:36,460 --> 01:07:37,300
+Anybody know it?
+
+948
+01:07:39,860 --> 01:07:41,060
+What?
+
+949
+01:07:41,060 --> 01:07:42,780
+Maybe.
+
+950
+01:07:42,780 --> 01:07:46,220
+It's a squirrel-like thing.
+
+951
+01:07:46,220 --> 01:07:47,540
+You wouldn't know it was a monkey
+
+952
+01:07:47,540 --> 01:07:50,140
+till you took a close look.
+
+953
+01:07:50,140 --> 01:07:51,620
+Maybe.
+
+954
+01:07:51,620 --> 01:07:53,660
+Lemur?
+
+955
+01:07:53,660 --> 01:07:54,340
+I don't know.
+
+956
+01:07:54,340 --> 01:07:54,860
+I forget.
+
+957
+01:07:57,820 --> 01:08:00,260
+Anyway, if you just made the brain bigger,
+
+958
+01:08:00,260 --> 01:08:02,460
+then the poor animal would be slower and heavier
+
+959
+01:08:02,460 --> 01:08:07,740
+and would need more food and take longer to reproduce.
+
+960
+01:08:07,740 --> 01:08:11,220
+The joke about difficulty to give birth.
+
+961
+01:08:11,220 --> 01:08:16,220
+I don't know if any animal has the problem that humans have.
+
+962
+01:08:16,220 --> 01:08:17,260
+A lot of people die.
+
+963
+01:08:17,260 --> 01:08:23,300
+Very good, and so on.
+
+964
+01:08:23,300 --> 01:08:30,860
+So how did we evolve new ways to think and so forth?
+
+965
+01:08:30,860 --> 01:08:40,020
+And my first book, The Society of Mind,
+
+966
+01:08:40,020 --> 01:08:46,140
+had this theory that maybe we evolved
+
+967
+01:08:46,140 --> 01:08:51,520
+in a series of higher and higher levels or management
+
+968
+01:08:51,520 --> 01:08:56,500
+structures built on the earlier ones.
+
+969
+01:08:56,500 --> 01:09:02,140
+And this particular picture suggests
+
+970
+01:09:02,140 --> 01:09:08,660
+that I got this idea from Sigmund Freud's early theories.
+
+971
+01:09:08,660 --> 01:09:12,420
+There's been a lot of Freud bashing recently.
+
+972
+01:09:12,420 --> 01:09:14,500
+You can look on the web.
+
+973
+01:09:14,500 --> 01:09:17,020
+Forget the authors, but there are a couple of books
+
+974
+01:09:17,020 --> 01:09:19,500
+saying that he made up all his data,
+
+975
+01:09:19,500 --> 01:09:23,060
+and there is no evidence that he ever cured anyone
+
+976
+01:09:23,060 --> 01:09:30,740
+and that he lied about all the data mentioned in his 30
+
+977
+01:09:30,740 --> 01:09:32,980
+or 40 books and so forth.
+
+978
+01:09:36,820 --> 01:09:39,620
+Yes, right.
+
+979
+01:09:39,620 --> 01:09:41,140
+But the funny part is that if you
+
+980
+01:09:41,140 --> 01:09:46,940
+look at his first major book, 1895,
+
+981
+01:09:46,940 --> 01:09:49,540
+called The Interpretation of Dreams,
+
+982
+01:09:49,540 --> 01:09:52,580
+it sort of outlines this theory that most of thinking
+
+983
+01:09:52,580 --> 01:09:55,000
+is unconscious, and it's processes
+
+984
+01:09:55,000 --> 01:10:01,140
+you can't get access to, and it has a little bit about sex,
+
+985
+01:10:01,140 --> 01:10:04,780
+but that's not a major feature.
+
+986
+01:10:04,780 --> 01:10:08,540
+And it's just full of great ideas
+
+987
+01:10:08,540 --> 01:10:11,660
+that the cognitive psychologists finally
+
+988
+01:10:11,660 --> 01:10:15,420
+began to get in the 1960s again and never
+
+989
+01:10:15,420 --> 01:10:16,860
+give credit to Freud.
+
+990
+01:10:16,860 --> 01:10:20,660
+So he may well have made up his data,
+
+991
+01:10:20,660 --> 01:10:25,620
+but if you have a very good theory
+
+992
+01:10:25,620 --> 01:10:28,380
+and nobody will listen to you, what can you do?
+
+993
+01:10:31,580 --> 01:10:36,420
+His friend, Rudolf Fliess, listened to him,
+
+994
+01:10:36,420 --> 01:10:41,460
+and there was another paper on how the neurons might
+
+995
+01:10:41,460 --> 01:10:47,620
+be involved in thinking, which was also written around 1895,
+
+996
+01:10:47,620 --> 01:10:52,380
+but never got published till 1950 by,
+
+997
+01:10:52,380 --> 01:10:59,580
+I forget who, called Project for a Scientific Psychology.
+
+998
+01:10:59,580 --> 01:11:03,020
+And it's full of ideas that, if they had been published,
+
+999
+01:11:03,020 --> 01:11:05,300
+might have changed everything.
+
+1000
+01:11:05,300 --> 01:11:17,220
+Because anyway, what's on your mind?
+
+1001
+01:11:17,220 --> 01:11:19,380
+What would you like to hear about?
+
+1002
+01:11:19,380 --> 01:11:20,580
+Who has another theory?
+
+1003
+01:11:24,860 --> 01:11:25,660
+Got a question.
+
+1004
+01:11:25,660 --> 01:11:26,460
+Great.
+
+1005
+01:11:26,460 --> 01:11:28,740
+So earlier, you talked a little bit
+
+1006
+01:11:28,740 --> 01:11:33,300
+about how we don't really see the neuroscience always
+
+1007
+01:11:33,300 --> 01:11:35,260
+things like K-lines, et cetera.
+
+1008
+01:11:35,260 --> 01:11:37,460
+Do you think it's because there's really
+
+1009
+01:11:37,460 --> 01:11:39,940
+hard to find, or no one's actually looking for that?
+
+1010
+01:11:44,180 --> 01:11:48,940
+Well, Restek's review says he uses vague, ill-defined terms
+
+1011
+01:11:48,940 --> 01:11:55,020
+like K-line and micro-name and a couple of others,
+
+1012
+01:11:55,020 --> 01:11:58,700
+and frame and so forth.
+
+1013
+01:11:58,700 --> 01:12:01,580
+They're very well-defined.
+
+1014
+01:12:01,580 --> 01:12:08,780
+I mean, when he talks about neurotransmitters,
+
+1015
+01:12:08,780 --> 01:12:10,420
+it's as though he thinks that chemical
+
+1016
+01:12:10,420 --> 01:12:12,660
+has some real significance.
+
+1017
+01:12:12,660 --> 01:12:15,780
+Any chemical would have the same function
+
+1018
+01:12:15,780 --> 01:12:17,900
+as any other one, provided there's
+
+1019
+01:12:17,900 --> 01:12:20,140
+another receptor that causes something
+
+1020
+01:12:20,140 --> 01:12:22,340
+to happen in the cell membrane.
+
+1021
+01:12:22,340 --> 01:12:27,380
+So you don't want to regard acetylcholine or epinephrine
+
+1022
+01:12:27,420 --> 01:12:30,380
+as having a mental significance.
+
+1023
+01:12:30,380 --> 01:12:35,900
+It's just another pulse, but very low resolution.
+
+1024
+01:12:35,900 --> 01:12:41,740
+And yes, a neurochemical might affect all the neurons
+
+1025
+01:12:41,740 --> 01:12:46,180
+a little bit and raise the average amount of activity
+
+1026
+01:12:46,180 --> 01:12:50,660
+of some big population of cells and reduce the average activity
+
+1027
+01:12:50,660 --> 01:12:52,100
+of some others.
+
+1028
+01:12:52,100 --> 01:12:54,340
+But that's nothing like thinking.
+
+1029
+01:12:54,340 --> 01:12:56,900
+That's like saying, in order to understand
+
+1030
+01:12:56,900 --> 01:13:02,060
+how a car works, what's the most insulting thing I could say?
+
+1031
+01:13:07,700 --> 01:13:09,220
+Or to understand how a computer works,
+
+1032
+01:13:09,220 --> 01:13:14,500
+you have to understand the arsenic and phosphorus.
+
+1033
+01:13:14,500 --> 01:13:18,260
+And or what's the other one?
+
+1034
+01:13:18,260 --> 01:13:22,340
+You have to understand these atoms that are what?
+
+1035
+01:13:22,340 --> 01:13:25,540
+Well, that's the matrix.
+
+1036
+01:13:25,540 --> 01:13:29,540
+So there are these one part in a million impurities.
+
+1037
+01:13:29,540 --> 01:13:33,180
+And that's what's important about a computer, isn't it?
+
+1038
+01:13:33,180 --> 01:13:36,820
+The fact that the transistor has gain and so forth.
+
+1039
+01:13:36,820 --> 01:13:38,780
+Well, no.
+
+1040
+01:13:38,780 --> 01:13:42,100
+The trouble with the computer is the transistors.
+
+1041
+01:13:42,100 --> 01:13:46,620
+That's why practically every transistor in a computer
+
+1042
+01:13:46,620 --> 01:13:50,820
+is mated to another one in opposite phase
+
+1043
+01:13:50,820 --> 01:13:55,740
+to form a flip-flop whose properties are exactly
+
+1044
+01:13:55,740 --> 01:13:59,820
+the same except one in a quadrillion times.
+
+1045
+01:14:02,500 --> 01:14:06,500
+In other words, everything chemical about a computer
+
+1046
+01:14:06,500 --> 01:14:07,380
+is irrelevant.
+
+1047
+01:14:07,380 --> 01:14:09,580
+And I suspect that almost everything
+
+1048
+01:14:09,580 --> 01:14:13,780
+chemical about the brain is unimportant
+
+1049
+01:14:13,780 --> 01:14:16,900
+except that it causes it helps to make
+
+1050
+01:14:16,900 --> 01:14:24,900
+the columns in the cortex, which are complicated arrangements
+
+1051
+01:14:24,900 --> 01:14:29,980
+of several hundred cells, work reliably.
+
+1052
+01:14:29,980 --> 01:14:32,420
+Whereas the neuroscientist is looking
+
+1053
+01:14:32,420 --> 01:14:36,740
+for the secret in the sodium.
+
+1054
+01:14:36,740 --> 01:14:39,340
+When a neuron fires, the important thing
+
+1055
+01:14:39,340 --> 01:14:42,900
+is that that lets the sodium in and the potassium out
+
+1056
+01:14:42,900 --> 01:14:44,140
+or vice versa.
+
+1057
+01:14:44,140 --> 01:14:45,860
+I forget which.
+
+1058
+01:14:45,860 --> 01:14:50,620
+At 500 millivolts, really quite a colossal event.
+
+1059
+01:14:50,620 --> 01:14:52,620
+But it has no significant.
+
+1060
+01:14:52,620 --> 01:14:54,660
+It's only when it's attached to a flip-flop
+
+1061
+01:14:54,660 --> 01:14:57,620
+or to something like a K line, which
+
+1062
+01:14:57,620 --> 01:15:03,020
+has an encoder and decoder of a digital sort,
+
+1063
+01:15:03,020 --> 01:15:07,060
+every few microns in its length, that you
+
+1064
+01:15:07,060 --> 01:15:08,980
+get something functional.
+
+1065
+01:15:08,980 --> 01:15:13,260
+So the trouble is the poor neuroscientist
+
+1066
+01:15:13,260 --> 01:15:15,340
+started out with too much knowledge
+
+1067
+01:15:15,340 --> 01:15:18,180
+about the wrong thing.
+
+1068
+01:15:18,180 --> 01:15:21,620
+The chemistry of the neuron firing
+
+1069
+01:15:21,620 --> 01:15:26,140
+is very interesting and complicated and cute.
+
+1070
+01:15:26,140 --> 01:15:30,500
+And in the case of the electric eel,
+
+1071
+01:15:30,500 --> 01:15:32,220
+you know what happened there.
+
+1072
+01:15:32,220 --> 01:15:36,740
+The neuron synapse, it got rid of the next neuron.
+
+1073
+01:15:36,740 --> 01:15:39,420
+And it just, in the electric eel,
+
+1074
+01:15:39,420 --> 01:15:42,900
+you have a bunch of synapses or motor end plates,
+
+1075
+01:15:42,900 --> 01:15:46,260
+they're called, in series.
+
+1076
+01:15:46,260 --> 01:15:49,460
+So instead of half a volt, if you have 300 of those,
+
+1077
+01:15:49,460 --> 01:15:51,660
+you get 150 volts.
+
+1078
+01:15:51,660 --> 01:15:55,740
+I think the electric shock that an electric eel can give you
+
+1079
+01:15:55,740 --> 01:15:57,660
+is about 300 volts.
+
+1080
+01:15:57,660 --> 01:16:01,260
+And this can cause you to drown promptly
+
+1081
+01:16:01,260 --> 01:16:04,620
+if you are in the wrong wave when
+
+1082
+01:16:04,620 --> 01:16:07,500
+it happens to bump into you.
+
+1083
+01:16:07,500 --> 01:16:11,580
+I don't know why I'm rambling this way.
+
+1084
+01:16:11,580 --> 01:16:13,900
+You're welcome to study neuroscience,
+
+1085
+01:16:13,900 --> 01:16:16,740
+but please try to help them instead of learn from them.
+
+1086
+01:16:16,740 --> 01:16:17,220
+Yeah.
+
+1087
+01:16:17,220 --> 01:16:24,340
+And they just don't know what a K line is.
+
+1088
+01:16:24,340 --> 01:16:26,820
+And that's a paper that's been widely
+
+1089
+01:16:26,820 --> 01:16:31,780
+read, published in 1980, and Restak says ill-defined.
+
+1090
+01:16:31,780 --> 01:16:36,940
+And I guess he couldn't understand it.
+
+1091
+01:16:36,940 --> 01:16:37,820
+Yeah.
+
+1092
+01:16:37,820 --> 01:16:39,780
+Yeah.
+
+1093
+01:16:39,780 --> 01:16:43,660
+Why, instead of trying to make a neuroscientist,
+
+1094
+01:16:43,660 --> 01:16:46,060
+trying to find this in the human mind,
+
+1095
+01:16:46,060 --> 01:16:49,300
+why don't we just, as computer scientists,
+
+1096
+01:16:49,300 --> 01:16:52,900
+program the K lines and try to prove that all this is
+
+1097
+01:16:52,900 --> 01:16:56,860
+the human mind and then we'll produce it?
+
+1098
+01:16:56,860 --> 01:17:02,220
+Why is that not all widespread into the computer scientists
+
+1099
+01:17:02,220 --> 01:17:03,700
+field?
+
+1100
+01:17:03,700 --> 01:17:08,660
+Well, I'm surprised how little has been done.
+
+1101
+01:17:08,660 --> 01:17:12,780
+Mike Travers has a thesis, Tony Hearn.
+
+1102
+01:17:12,780 --> 01:17:16,700
+There are three master's theses on K lines.
+
+1103
+01:17:16,700 --> 01:17:20,820
+They sort of got them to work to solve some simple problems.
+
+1104
+01:17:20,820 --> 01:17:25,380
+But I'd go further.
+
+1105
+01:17:25,380 --> 01:17:27,780
+I've never met a neuroscientist who
+
+1106
+01:17:27,780 --> 01:17:31,500
+knows the pioneering work of Newell and Simon
+
+1107
+01:17:31,500 --> 01:17:34,740
+in the late 1950s.
+
+1108
+01:17:34,740 --> 01:17:38,860
+So there's something wrong with that community.
+
+1109
+01:17:38,860 --> 01:17:40,020
+They're just ignorant.
+
+1110
+01:17:43,100 --> 01:17:44,980
+They're proud of it.
+
+1111
+01:17:44,980 --> 01:17:47,660
+Oh, well.
+
+1112
+01:17:47,660 --> 01:17:53,660
+I spent some time learning neuroscience when I was,
+
+1113
+01:17:53,660 --> 01:17:57,220
+I once had a great stroke of luck when I was a,
+
+1114
+01:17:57,220 --> 01:17:59,540
+I guess I was a junior at Harvard.
+
+1115
+01:17:59,540 --> 01:18:01,620
+And there was a great new biology building
+
+1116
+01:18:01,620 --> 01:18:03,540
+that was just constructed.
+
+1117
+01:18:04,260 --> 01:18:07,220
+It's a great big thing with two rhinoceroses.
+
+1118
+01:18:07,220 --> 01:18:12,380
+What are those two huge animals?
+
+1119
+01:18:12,380 --> 01:18:19,860
+So this building was just finished and half occupied
+
+1120
+01:18:19,860 --> 01:18:22,500
+because it was made with the future.
+
+1121
+01:18:22,500 --> 01:18:26,500
+So I wandered over there and I met a professor named
+
+1122
+01:18:26,500 --> 01:18:28,660
+John Welsh.
+
+1123
+01:18:28,660 --> 01:18:33,180
+And I said, I'd like to learn neurology.
+
+1124
+01:18:33,180 --> 01:18:34,020
+And he said, great.
+
+1125
+01:18:34,020 --> 01:18:37,580
+Well, I have an extra lab.
+
+1126
+01:18:37,580 --> 01:18:43,260
+Why don't you study the crayfish claw?
+
+1127
+01:18:43,260 --> 01:18:44,660
+I said, great.
+
+1128
+01:18:44,660 --> 01:18:49,580
+So he gave me this lab which had four rooms and a dark room
+
+1129
+01:18:49,580 --> 01:18:56,500
+and a lot of equipment and nobody there.
+
+1130
+01:18:56,500 --> 01:18:59,620
+And he had worked on crayfish.
+
+1131
+01:18:59,620 --> 01:19:02,140
+So there was somebody who went every week up
+
+1132
+01:19:02,140 --> 01:19:06,220
+to Walden Ponder somewhere and caught crayfish
+
+1133
+01:19:06,220 --> 01:19:08,660
+and bring them back.
+
+1134
+01:19:08,660 --> 01:19:11,900
+And I was a radio amateur hacker at the time.
+
+1135
+01:19:11,900 --> 01:19:13,780
+So I was good at electronics.
+
+1136
+01:19:13,780 --> 01:19:18,740
+So I got my crayfish and Welsh showed me how to.
+
+1137
+01:19:18,740 --> 01:19:20,980
+Great thing about this preparation
+
+1138
+01:19:20,980 --> 01:19:23,180
+is you can take the crayfish and if you claw
+
+1139
+01:19:23,180 --> 01:19:27,500
+and if you hold it just right, it goes snap.
+
+1140
+01:19:27,500 --> 01:19:30,620
+It comes off, grows another one.
+
+1141
+01:19:30,620 --> 01:19:34,580
+Takes a couple of years.
+
+1142
+01:19:34,580 --> 01:19:36,700
+And then there's this white thing hanging out
+
+1143
+01:19:36,700 --> 01:19:38,660
+which is the nerve.
+
+1144
+01:19:38,660 --> 01:19:41,860
+And it turns out it's six nerves, one big one
+
+1145
+01:19:41,860 --> 01:19:45,220
+and a few little ones.
+
+1146
+01:19:45,220 --> 01:19:49,540
+And if you keep it in Ringer's solution, whatever that is,
+
+1147
+01:19:49,540 --> 01:19:52,340
+it can live for several days.
+
+1148
+01:19:52,340 --> 01:19:57,900
+So I got a lot of switches and little inductors and things
+
+1149
+01:19:57,900 --> 01:20:02,420
+and made a gadget and mounted this thing with six wires going
+
+1150
+01:20:02,420 --> 01:20:03,980
+to these nerves.
+
+1151
+01:20:03,980 --> 01:20:09,340
+And then I programmed it to reach down and pick up
+
+1152
+01:20:09,340 --> 01:20:12,940
+a pencil like that and wave it around.
+
+1153
+01:20:17,620 --> 01:20:20,320
+Well, that's obviously completely trivial.
+
+1154
+01:20:20,320 --> 01:20:23,900
+And all the neuroscientists came around and gasped and said,
+
+1155
+01:20:23,900 --> 01:20:24,820
+that's incredible.
+
+1156
+01:20:24,820 --> 01:20:25,780
+How did you do that?
+
+1157
+01:20:28,380 --> 01:20:35,180
+They had never thought of putting the thing back together
+
+1158
+01:20:35,180 --> 01:20:38,460
+and making it work.
+
+1159
+01:20:38,460 --> 01:20:48,260
+Anyway, it was always reminding myself
+
+1160
+01:20:48,260 --> 01:20:50,300
+that I'm the luckiest person in the world
+
+1161
+01:20:50,300 --> 01:20:54,660
+because every time I wanted to do something,
+
+1162
+01:20:54,660 --> 01:20:58,780
+I just happened to find the right person.
+
+1163
+01:20:58,780 --> 01:21:02,500
+And they'd give me a lab.
+
+1164
+01:21:05,820 --> 01:21:07,660
+I got an idea for a microscope.
+
+1165
+01:21:07,660 --> 01:21:12,580
+And it was this great professor, Purcell,
+
+1166
+01:21:12,580 --> 01:21:16,460
+who got the Nobel Prize after a while.
+
+1167
+01:21:16,460 --> 01:21:19,780
+And he said, that sounds like it would work.
+
+1168
+01:21:19,780 --> 01:21:21,180
+Why don't you take this lab?
+
+1169
+01:21:24,660 --> 01:21:31,980
+It was in the Jefferson.
+
+1170
+01:21:35,140 --> 01:21:38,860
+Anyway, yeah.
+
+1171
+01:21:38,860 --> 01:21:40,380
+I was just saying, part of the reason
+
+1172
+01:21:40,380 --> 01:21:42,780
+that you don't see experimental neuroscience on things
+
+1173
+01:21:42,780 --> 01:21:46,980
+like k-lines is that neurons are long and thin.
+
+1174
+01:21:46,980 --> 01:21:49,700
+So if you want to do an experiment to actually measure
+
+1175
+01:21:49,700 --> 01:21:52,220
+a real neural network, you have to trace structures
+
+1176
+01:21:52,220 --> 01:21:56,180
+with roughly maybe tens of nanometer resolution.
+
+1177
+01:21:56,180 --> 01:21:57,980
+But you need to trace them over what
+
+1178
+01:21:57,980 --> 01:22:01,620
+might be a couple or even tens of millimeters to charge a week.
+
+1179
+01:22:01,620 --> 01:22:03,820
+And you need to do this for thousands and thousands
+
+1180
+01:22:03,820 --> 01:22:05,620
+of neurons before you could get to the point
+
+1181
+01:22:05,620 --> 01:22:08,500
+of seeing something like a k-line and understanding it.
+
+1182
+01:22:08,500 --> 01:22:11,540
+So it's just a massive data acquisition and processing
+
+1183
+01:22:11,540 --> 01:22:12,300
+problem.
+
+1184
+01:22:12,300 --> 01:22:13,780
+But they're doing that.
+
+1185
+01:22:13,780 --> 01:22:16,380
+They're starting to try to.
+
+1186
+01:22:16,380 --> 01:22:19,940
+They don't know what to look for.
+
+1187
+01:22:19,980 --> 01:22:22,260
+Maybe you don't have to do so much.
+
+1188
+01:22:22,260 --> 01:22:25,460
+Maybe you just have to do a few sections here and there
+
+1189
+01:22:25,460 --> 01:22:28,300
+and say, well, look, there were 400 of these here.
+
+1190
+01:22:28,300 --> 01:22:30,380
+Now there's only 200.
+
+1191
+01:22:30,380 --> 01:22:33,540
+It looks like this is the same kind.
+
+1192
+01:22:33,540 --> 01:22:36,940
+Maybe you don't have to do the whole brain.
+
+1193
+01:22:36,940 --> 01:22:42,460
+Even getting a single neuron is because it might get down to,
+
+1194
+01:22:42,460 --> 01:22:45,700
+you need to be looking at electron micrographs of brains
+
+1195
+01:22:45,700 --> 01:22:50,580
+that are sliced at about 30 nanometer slices.
+
+1196
+01:22:50,580 --> 01:22:52,580
+So even just having a single person
+
+1197
+01:22:52,580 --> 01:22:56,060
+reconstruct a single neuron might take weeks.
+
+1198
+01:22:56,060 --> 01:22:56,740
+Well, I don't know.
+
+1199
+01:22:56,740 --> 01:23:03,780
+Maybe a bundle of k-lines is a half a millimeter thick.
+
+1200
+01:23:03,780 --> 01:23:06,300
+Oh, so you actually do some larger scale structure
+
+1201
+01:23:06,300 --> 01:23:08,100
+to start looking at.
+
+1202
+01:23:08,100 --> 01:23:08,620
+Why not?
+
+1203
+01:23:11,180 --> 01:23:14,060
+I just think they have no idea what to look for.
+
+1204
+01:23:16,260 --> 01:23:18,460
+I could give you 20 of those in five minutes,
+
+1205
+01:23:18,460 --> 01:23:22,740
+but nobody's listening.
+
+1206
+01:23:22,740 --> 01:23:25,860
+So I guess you need to know what it looks like before you can
+
+1207
+01:23:25,860 --> 01:23:27,660
+look for it at that scale.
+
+1208
+01:23:27,660 --> 01:23:29,100
+What scale?
+
+1209
+01:23:29,100 --> 01:23:30,060
+I don't know.
+
+1210
+01:23:30,060 --> 01:23:32,020
+I mean, they know what neurons look like.
+
+1211
+01:23:32,020 --> 01:23:34,820
+So you know what to look for if you're
+
+1212
+01:23:34,820 --> 01:23:37,140
+saying the sort of neural net level.
+
+1213
+01:23:37,140 --> 01:23:40,860
+I'm saying you may only have to look at the white matter.
+
+1214
+01:23:40,860 --> 01:23:42,580
+Oh, OK.
+
+1215
+01:23:42,580 --> 01:23:43,660
+Ignore the neurons.
+
+1216
+01:23:46,140 --> 01:23:49,740
+Because the point of k-lines is, where do these go
+
+1217
+01:23:49,740 --> 01:23:53,780
+and what goes into them and out?
+
+1218
+01:23:53,780 --> 01:23:54,340
+I don't know.
+
+1219
+01:23:54,340 --> 01:24:00,020
+It's just this idea of, let's map the whole brain,
+
+1220
+01:24:00,020 --> 01:24:01,260
+100 billion things.
+
+1221
+01:24:01,260 --> 01:24:03,620
+And then people like Resteck said, oh,
+
+1222
+01:24:03,620 --> 01:24:07,580
+and there's 1,000 supporting cells for each neuron.
+
+1223
+01:24:07,580 --> 01:24:10,460
+He's just glorying in the obscurity of it
+
+1224
+01:24:10,460 --> 01:24:14,340
+rather than trying to contribute something.
+
+1225
+01:24:14,340 --> 01:24:17,500
+Anyway, if you run into him, give him my regards.
+
+1226
+01:24:21,020 --> 01:24:25,620
+I really wonder how somebody can write something like that.
+
+1227
+01:24:30,380 --> 01:24:31,380
+Yes?
+
+1228
+01:24:31,380 --> 01:24:34,540
+Excuse my ignorance, but what is a k-line?
+
+1229
+01:24:34,540 --> 01:24:41,780
+The idea is that suppose one part of the brain
+
+1230
+01:24:41,820 --> 01:24:46,300
+is doing something, and it's in some particular state that's
+
+1231
+01:24:46,300 --> 01:24:51,580
+very important, like, I don't know,
+
+1232
+01:24:51,580 --> 01:24:53,220
+I've just seen a glass of water.
+
+1233
+01:24:56,700 --> 01:25:01,020
+Then another part of the brain would
+
+1234
+01:25:01,020 --> 01:25:08,060
+like to know there's a glass of water in the environment.
+
+1235
+01:25:08,060 --> 01:25:11,260
+And I've been looking for one, so I
+
+1236
+01:25:11,260 --> 01:25:15,740
+should try to take over and do something about that.
+
+1237
+01:25:15,740 --> 01:25:18,780
+Now, at the moment, there's no theory
+
+1238
+01:25:18,780 --> 01:25:21,820
+of what happens in different parts of the brain
+
+1239
+01:25:21,820 --> 01:25:24,900
+for a simple thing like that to happen.
+
+1240
+01:25:24,900 --> 01:25:29,140
+No theory at all, except they use the word association,
+
+1241
+01:25:29,140 --> 01:25:34,380
+or they talk about what are the purposeful neurons.
+
+1242
+01:25:38,300 --> 01:25:40,740
+Goal, forget.
+
+1243
+01:25:40,740 --> 01:25:44,100
+OK, so my theory is that there are
+
+1244
+01:25:44,100 --> 01:25:49,340
+a bunch of things which are massive collections of nerve
+
+1245
+01:25:49,340 --> 01:25:54,100
+fibers, maybe a few hundred or a few thousand.
+
+1246
+01:25:54,100 --> 01:25:59,300
+And when the visual system sees an apple,
+
+1247
+01:25:59,300 --> 01:26:02,700
+it turns on 50 of those wires.
+
+1248
+01:26:02,700 --> 01:26:06,180
+And when it sees a pear, it turns on a different 100
+
+1249
+01:26:06,180 --> 01:26:10,180
+or 50 of those wires, but about 20 of them are the same.
+
+1250
+01:26:11,540 --> 01:26:15,060
+In other words, it's like the edge of a punched card.
+
+1251
+01:26:15,060 --> 01:26:19,980
+Have you ever seen a card-based retrieval system?
+
+1252
+01:26:19,980 --> 01:26:24,180
+If you have a book that has, suppose
+
+1253
+01:26:24,180 --> 01:26:31,980
+it's about physics and biology and Sumatra,
+
+1254
+01:26:31,980 --> 01:26:38,620
+and a typical 5 by 8 card has 80 holes in the top edge.
+
+1255
+01:26:38,660 --> 01:26:43,140
+So what you do is, if it's Sumatra,
+
+1256
+01:26:43,140 --> 01:26:47,180
+you punch eight of these holes at random, particular set.
+
+1257
+01:26:47,180 --> 01:26:49,820
+They're assigned to the Sumatra.
+
+1258
+01:26:49,820 --> 01:26:53,420
+And then if it's, I forget what my first two examples were,
+
+1259
+01:26:53,420 --> 01:26:55,620
+but you punch eight or 10 holes for each
+
+1260
+01:26:55,620 --> 01:26:57,380
+of the other two words.
+
+1261
+01:26:57,380 --> 01:26:59,540
+So now there are 24 punches.
+
+1262
+01:26:59,540 --> 01:27:02,900
+Only probably four or five of them are duplicates,
+
+1263
+01:27:02,900 --> 01:27:06,060
+so you're punching about 20 holes.
+
+1264
+01:27:06,100 --> 01:27:10,580
+And now, if something is looking for the cards that
+
+1265
+01:27:10,580 --> 01:27:12,660
+were punched for those three things,
+
+1266
+01:27:12,660 --> 01:27:16,620
+even if there are 30 or 40 other holes punched in the card,
+
+1267
+01:27:16,620 --> 01:27:19,740
+you stick your 20 wires through the whole deck
+
+1268
+01:27:19,740 --> 01:27:23,660
+and lift it up, and only cards fall out
+
+1269
+01:27:23,660 --> 01:27:26,780
+that had those three categories punched for.
+
+1270
+01:27:26,780 --> 01:27:29,620
+So you see, even though you had 80 holes,
+
+1271
+01:27:29,620 --> 01:27:32,580
+you could punch combinations of up
+
+1272
+01:27:32,580 --> 01:27:36,420
+to a million different categories into that.
+
+1273
+01:27:36,420 --> 01:27:42,300
+And if you have to put a bunch of wires through,
+
+1274
+01:27:42,300 --> 01:27:43,820
+you'll get all of the ones that were
+
+1275
+01:27:43,820 --> 01:27:47,700
+punched for the categories you're looking for.
+
+1276
+01:27:47,700 --> 01:27:49,940
+And you might get three or four other cards
+
+1277
+01:27:49,940 --> 01:27:53,500
+that will come down also because all of the eight holes
+
+1278
+01:27:53,500 --> 01:27:57,180
+were punched for some category by accident.
+
+1279
+01:27:57,180 --> 01:27:59,140
+Do you get the picture?
+
+1280
+01:27:59,140 --> 01:28:01,700
+I'll send you a reference.
+
+1281
+01:28:01,700 --> 01:28:07,900
+It was invented in the early 1940s
+
+1282
+01:28:07,900 --> 01:28:14,020
+by a Cambridge scientist here named Calvin Moores
+
+1283
+01:28:14,020 --> 01:28:18,340
+and was widely used in libraries for information retrieval
+
+1284
+01:28:18,340 --> 01:28:21,140
+until computers came along.
+
+1285
+01:28:21,140 --> 01:28:23,900
+But anyway, that's the sort of thing
+
+1286
+01:28:23,900 --> 01:28:28,300
+you could look for in a brain if you had the concept
+
+1287
+01:28:28,300 --> 01:28:30,740
+in your head of Zeta coding.
+
+1288
+01:28:30,740 --> 01:28:33,540
+But I've never met a neuroscientist who ever
+
+1289
+01:28:33,540 --> 01:28:35,500
+heard of such a thing.
+
+1290
+01:28:35,500 --> 01:28:39,140
+So you have this whole community which
+
+1291
+01:28:39,140 --> 01:28:44,660
+doesn't have a set of very clear ideas about different ways
+
+1292
+01:28:44,660 --> 01:28:47,780
+that knowledge or symbols could be represented
+
+1293
+01:28:47,780 --> 01:28:49,820
+in neural activity.
+
+1294
+01:28:49,820 --> 01:28:53,940
+So good luck to them when they get their big map.
+
+1295
+01:28:53,940 --> 01:28:56,740
+They'll still have to say, what do I
+
+1296
+01:28:56,740 --> 01:29:01,420
+do with 100 billion of these interconnections?
+
+1297
+01:29:06,900 --> 01:29:07,400
+Yeah?
+
+1298
+01:29:07,400 --> 01:29:10,380
+What are your thoughts about the current artificial intelligence
+
+1299
+01:29:10,380 --> 01:29:15,700
+research at MIT, such as Winston's Genesis project?
+
+1300
+01:29:15,700 --> 01:29:21,020
+Winston is just about one of the best ones in the whole world.
+
+1301
+01:29:21,020 --> 01:29:25,020
+I don't know any other projects that
+
+1302
+01:29:25,020 --> 01:29:29,660
+are trying to do things on that higher level of common sense
+
+1303
+01:29:29,660 --> 01:29:31,700
+knowledge.
+
+1304
+01:29:31,700 --> 01:29:35,180
+He's just lost a lot of funding, so one problem
+
+1305
+01:29:35,180 --> 01:29:38,900
+is, how do you support a project like that?
+
+1306
+01:29:45,660 --> 01:29:46,620
+Have you followed it?
+
+1307
+01:29:46,620 --> 01:29:52,940
+I don't know if there's a recent summary of what they're doing.
+
+1308
+01:29:52,940 --> 01:29:56,620
+We used to write a new book every year
+
+1309
+01:29:56,620 --> 01:30:00,180
+called The Progress Report.
+
+1310
+01:30:00,180 --> 01:30:05,220
+The nice thing is that we never wrote.
+
+1311
+01:30:05,220 --> 01:30:06,900
+We had a very good form of support
+
+1312
+01:30:06,900 --> 01:30:14,020
+from ARPA or DARPA, which was every year we'd tell them
+
+1313
+01:30:14,020 --> 01:30:16,020
+what we had done.
+
+1314
+01:30:16,020 --> 01:30:20,700
+They didn't want to hear what we wanted to do,
+
+1315
+01:30:20,700 --> 01:30:23,940
+and things have turned the opposite.
+
+1316
+01:30:23,940 --> 01:30:26,900
+So what would happen is every year we'd
+
+1317
+01:30:26,900 --> 01:30:33,580
+say we did these great things, and we might do some more.
+
+1318
+01:30:33,580 --> 01:30:37,940
+Went on for about 20 years, and then it fell apart.
+
+1319
+01:30:41,540 --> 01:30:45,820
+One thing, it's a nice story.
+
+1320
+01:30:45,820 --> 01:30:50,380
+There was a great liberal senator, Mike Mansfield,
+
+1321
+01:30:50,380 --> 01:30:55,380
+and unfortunately, he got the idea
+
+1322
+01:30:55,380 --> 01:30:58,820
+that the Defense Department was getting
+
+1323
+01:30:58,820 --> 01:31:01,340
+too big and influential.
+
+1324
+01:31:01,340 --> 01:31:07,820
+So he got Congress to pass a law that ARPA shouldn't
+
+1325
+01:31:07,820 --> 01:31:10,500
+be allowed to support anything that didn't have
+
+1326
+01:31:10,500 --> 01:31:14,060
+direct military application.
+
+1327
+01:31:14,060 --> 01:31:19,900
+And Congress went for this, and all of a sudden,
+
+1328
+01:31:19,940 --> 01:31:24,100
+a lot of research disappeared, basic research.
+
+1329
+01:31:24,100 --> 01:31:27,820
+It didn't bother us much, because we made up applications
+
+1330
+01:31:27,820 --> 01:31:33,580
+and said, well, this will make a military robot that will go out
+
+1331
+01:31:33,580 --> 01:31:39,780
+and do something bad.
+
+1332
+01:31:42,420 --> 01:31:47,620
+I don't remember ever writing anything at all,
+
+1333
+01:31:47,620 --> 01:31:58,780
+but anyway, around 1980, the funding for that sort of thing
+
+1334
+01:31:58,780 --> 01:32:03,220
+just dried up because of this political accident.
+
+1335
+01:32:03,220 --> 01:32:06,300
+It was just an accident that ARPA,
+
+1336
+01:32:06,300 --> 01:32:09,460
+mainly through the Office of Naval Research,
+
+1337
+01:32:09,460 --> 01:32:11,940
+was funding basic research.
+
+1338
+01:32:11,940 --> 01:32:15,580
+And that was a bit of history.
+
+1339
+01:32:15,580 --> 01:32:23,100
+If you look back at the year 1900 or so,
+
+1340
+01:32:23,100 --> 01:32:27,620
+you see people like Einstein making these nice theories.
+
+1341
+01:32:27,620 --> 01:32:32,020
+But Einstein wasn't a very abstract mathematician,
+
+1342
+01:32:32,020 --> 01:32:38,860
+so he had a mathematician named Hermann Weyl polishing
+
+1343
+01:32:38,860 --> 01:32:41,860
+his tensors and things for him.
+
+1344
+01:32:41,860 --> 01:32:48,860
+And Hermann Weyl's son, Joe, was at the Office of Naval
+
+1345
+01:32:48,860 --> 01:32:52,100
+Research in MITE early time.
+
+1346
+01:32:52,100 --> 01:32:59,100
+And that office had spent a lot of secret money
+
+1347
+01:32:59,100 --> 01:33:02,420
+getting scientists out of Europe while Hitler was marching
+
+1348
+01:33:02,420 --> 01:33:05,860
+around and sending them to places like Princeton
+
+1349
+01:33:05,860 --> 01:33:08,900
+and other forms of heaven.
+
+1350
+01:33:08,900 --> 01:33:12,860
+In Cambridge.
+
+1351
+01:33:12,860 --> 01:33:14,480
+And again, one of the reasons I was lucky
+
+1352
+01:33:14,480 --> 01:33:19,740
+is that I was here and all these.
+
+1353
+01:33:19,740 --> 01:33:22,960
+If you had a mathematical question,
+
+1354
+01:33:22,960 --> 01:33:27,020
+you could find the best mathematician in the world
+
+1355
+01:33:27,020 --> 01:33:29,180
+down the block somewhere.
+
+1356
+01:33:29,180 --> 01:33:36,300
+And Joe Weyl was partly responsible for that.
+
+1357
+01:33:36,300 --> 01:33:40,420
+And the ONR was piping all that money
+
+1358
+01:33:40,420 --> 01:33:44,940
+to us for work on early AI.
+
+1359
+01:33:44,940 --> 01:33:47,180
+It was a very sad thing.
+
+1360
+01:33:47,180 --> 01:33:53,500
+Maybe the most influential liberal in the US government
+
+1361
+01:33:53,500 --> 01:33:55,580
+actually ruined everything by accident.
+
+1362
+01:33:58,900 --> 01:34:01,740
+ARPA changed its name to DARPA.
+
+1363
+01:34:01,740 --> 01:34:05,340
+It was Advanced Research Projects Agency.
+
+1364
+01:34:05,340 --> 01:34:11,620
+And it had to call itself Defense Advanced Research
+
+1365
+01:34:11,620 --> 01:34:12,620
+Projects Agency.
+
+1366
+01:34:15,340 --> 01:34:16,840
+Yeah?
+
+1367
+01:34:16,840 --> 01:34:17,340
+Student.
+
+1368
+01:34:17,340 --> 01:34:22,420
+Do you think the achievement of artificial intelligence
+
+1369
+01:34:22,420 --> 01:34:26,380
+is inevitable or is there an obstacle that we're just never
+
+1370
+01:34:26,380 --> 01:34:29,860
+going to get over?
+
+1371
+01:34:29,860 --> 01:34:36,340
+Well, Christianity wiped out science.
+
+1372
+01:34:36,340 --> 01:34:40,220
+That might happen tomorrow.
+
+1373
+01:34:40,220 --> 01:34:41,580
+Only choose your religion.
+
+1374
+01:34:50,860 --> 01:34:54,380
+It's a hard problem.
+
+1375
+01:34:54,380 --> 01:35:05,420
+The number of people working on advanced ideas in AI
+
+1376
+01:35:05,420 --> 01:35:09,420
+has gotten smaller and smaller.
+
+1377
+01:35:09,420 --> 01:35:13,820
+Right now, around 1980, rule-based systems
+
+1378
+01:35:13,820 --> 01:35:15,500
+became popular.
+
+1379
+01:35:15,500 --> 01:35:18,260
+There were lots of things to do.
+
+1380
+01:35:18,260 --> 01:35:22,100
+Right now, statistical-based inference systems
+
+1381
+01:35:22,100 --> 01:35:23,780
+are becoming popular.
+
+1382
+01:35:23,780 --> 01:35:27,540
+And as I said, these things are tremendously useful.
+
+1383
+01:35:27,540 --> 01:35:31,860
+But the problem is, if you have a statistical system,
+
+1384
+01:35:31,860 --> 01:35:34,020
+the important part is guessing what
+
+1385
+01:35:34,020 --> 01:35:38,940
+are the plausible hypotheses and then finding out
+
+1386
+01:35:38,940 --> 01:35:43,860
+how many instances of that are correlated with such and such.
+
+1387
+01:35:43,860 --> 01:35:44,860
+So that's a nice idea.
+
+1388
+01:35:44,860 --> 01:35:49,420
+But the hard problem is the abstract symbolic problem
+
+1389
+01:35:50,300 --> 01:35:55,180
+of what sets of variables are worth considering at all
+
+1390
+01:35:55,180 --> 01:35:57,460
+when there are a lot of them.
+
+1391
+01:35:57,460 --> 01:36:01,620
+So to me, the most exciting projects
+
+1392
+01:36:01,620 --> 01:36:05,660
+are the kind that Winston is developing for reasoning
+
+1393
+01:36:05,660 --> 01:36:10,660
+about real-life situations and the one that Henry Lieberman.
+
+1394
+01:36:10,660 --> 01:36:12,780
+Would you stand up, Henry?
+
+1395
+01:36:12,780 --> 01:36:16,060
+Lieberman runs a world-class group
+
+1396
+01:36:16,060 --> 01:36:18,940
+that's working on common sense knowledge
+
+1397
+01:36:18,940 --> 01:36:23,540
+and informal reasoning.
+
+1398
+01:36:23,540 --> 01:36:26,540
+And it seems to me that that's the critical thing
+
+1399
+01:36:26,540 --> 01:36:30,820
+that all the other systems will need.
+
+1400
+01:36:30,820 --> 01:36:32,100
+In the meantime, there are people
+
+1401
+01:36:32,100 --> 01:36:34,580
+working on logical inference, which
+
+1402
+01:36:34,580 --> 01:36:38,540
+has the same problem that statistical inference has,
+
+1403
+01:36:38,540 --> 01:36:42,740
+namely, how do you guess which combinations of variables
+
+1404
+01:36:42,740 --> 01:36:44,780
+are worth thinking about?
+
+1405
+01:36:44,780 --> 01:36:48,620
+Then it seems to me that the statistics isn't so important.
+
+1406
+01:36:48,620 --> 01:36:50,740
+In fact, there's a great researcher named Douglas
+
+1407
+01:36:50,740 --> 01:36:56,700
+Lenat in Austin, Texas, who once made an interesting AI system
+
+1408
+01:36:56,700 --> 01:37:01,020
+that was good at making predictions
+
+1409
+01:37:01,020 --> 01:37:04,860
+and guessing explanations for things.
+
+1410
+01:37:04,860 --> 01:37:07,620
+And it was sort of like a probabilistic system.
+
+1411
+01:37:07,620 --> 01:37:09,660
+It had a lot of hypotheses.
+
+1412
+01:37:09,660 --> 01:37:16,100
+And every time one of them was useful in solving a problem,
+
+1413
+01:37:16,100 --> 01:37:19,940
+it moved it up one on the list.
+
+1414
+01:37:19,940 --> 01:37:23,420
+So Lenat's thing never used any numbers.
+
+1415
+01:37:23,420 --> 01:37:26,780
+It didn't say, this is successful 0.73
+
+1416
+01:37:26,780 --> 01:37:33,460
+of the time, and now it's successful 0.736, 4825
+
+1417
+01:37:33,460 --> 01:37:35,360
+of the time.
+
+1418
+01:37:35,360 --> 01:37:37,620
+What it would do is, if something was useful,
+
+1419
+01:37:37,620 --> 01:37:41,340
+it would move it up past another hypothesis.
+
+1420
+01:37:41,340 --> 01:37:44,420
+Every now and then, it would put a new one in.
+
+1421
+01:37:44,420 --> 01:37:48,620
+Well, if you're trying to solve a problem,
+
+1422
+01:37:48,620 --> 01:37:50,220
+what do you need to know?
+
+1423
+01:37:50,220 --> 01:37:55,900
+You want to know what's the most likely to be useful one
+
+1424
+01:37:55,900 --> 01:37:57,300
+and try that.
+
+1425
+01:37:57,300 --> 01:38:00,140
+You don't care how likely it is to be useful,
+
+1426
+01:38:00,140 --> 01:38:03,860
+as long as it's the most, right?
+
+1427
+01:38:03,860 --> 01:38:05,820
+I mean, if it's one in a million,
+
+1428
+01:38:05,860 --> 01:38:08,700
+maybe you should say, I'm getting out of here.
+
+1429
+01:38:11,500 --> 01:38:13,340
+I shouldn't be working in this field at all
+
+1430
+01:38:13,340 --> 01:38:17,500
+or get a better problem.
+
+1431
+01:38:17,500 --> 01:38:23,540
+But Lenat's thing did rather wonderfully at making theories
+
+1432
+01:38:23,540 --> 01:38:29,340
+by just changing the ranking of the hypotheses
+
+1433
+01:38:29,340 --> 01:38:31,060
+that it was considered.
+
+1434
+01:38:31,060 --> 01:38:31,740
+No numbers.
+
+1435
+01:38:35,860 --> 01:38:39,300
+It did something very cute.
+
+1436
+01:38:39,300 --> 01:38:43,740
+He gave it examples of arithmetic,
+
+1437
+01:38:43,740 --> 01:38:48,500
+and it actually was a rather long effort.
+
+1438
+01:38:48,500 --> 01:38:51,460
+And it actually learned to do some arithmetic,
+
+1439
+01:38:51,460 --> 01:38:56,140
+and it invented the idea of division
+
+1440
+01:38:56,140 --> 01:38:58,860
+and the idea of prime number, which
+
+1441
+01:38:58,860 --> 01:39:04,060
+was some number that wasn't divisible by anything.
+
+1442
+01:39:04,060 --> 01:39:13,740
+It decided that 9 was a prime, didn't do much harm,
+
+1443
+01:39:13,740 --> 01:39:17,260
+and it crept along, and it got better and better.
+
+1444
+01:39:17,260 --> 01:39:21,820
+And it invented modular arithmetic
+
+1445
+01:39:21,820 --> 01:39:27,700
+by accident at some point, and it's a PhD thesis.
+
+1446
+01:39:27,700 --> 01:39:30,780
+A lot of people didn't believe this PhD thesis
+
+1447
+01:39:30,780 --> 01:39:33,100
+because Lenat lost the program tape.
+
+1448
+01:39:37,860 --> 01:39:43,580
+So he was under some cloud of suspicion for people thinking
+
+1449
+01:39:43,580 --> 01:39:46,660
+he might have faked it, but who cares?
+
+1450
+01:39:46,660 --> 01:39:53,660
+Anyway, I think there's a lesson there, which is that let's
+
+1451
+01:39:53,660 --> 01:39:58,540
+start with something that works, and then if it's really good,
+
+1452
+01:39:58,540 --> 01:40:01,300
+then hire a mathematician who might
+
+1453
+01:40:01,300 --> 01:40:03,980
+be able to optimize it a little.
+
+1454
+01:40:03,980 --> 01:40:06,260
+But the important thing was the order.
+
+1455
+01:40:06,260 --> 01:40:10,660
+And a good statistical one might waste a lot of time,
+
+1456
+01:40:10,660 --> 01:40:13,580
+because here's this one that's 0.78,
+
+1457
+01:40:13,580 --> 01:40:19,020
+and here's this one that's 0.56, and it's the next one down.
+
+1458
+01:40:19,020 --> 01:40:23,420
+And you get a lot of experience, and it goes up to 5.7 and 5.8,
+
+1459
+01:40:23,420 --> 01:40:26,980
+and it never might be a long time before it
+
+1460
+01:40:26,980 --> 01:40:30,300
+gets past the other one, because you're doing arithmetic.
+
+1461
+01:40:30,300 --> 01:40:31,820
+Whereas in Lenat's, it would just
+
+1462
+01:40:31,820 --> 01:40:34,740
+pop up past the other one, and then it
+
+1463
+01:40:34,740 --> 01:40:35,940
+would get tried right away.
+
+1464
+01:40:35,940 --> 01:40:39,060
+And if it were no good, it would get knocked down again.
+
+1465
+01:40:39,060 --> 01:40:40,340
+Who cares?
+
+1466
+01:40:40,340 --> 01:40:49,460
+So it's a real question of, I don't know.
+
+1467
+01:40:49,460 --> 01:40:53,220
+Mathematics is great, and I love it, and a lot of you do.
+
+1468
+01:40:53,220 --> 01:40:58,940
+But there should be a name for when it's actually slowing you
+
+1469
+01:40:58,940 --> 01:41:02,300
+down and wasting your time, because there's
+
+1470
+01:41:02,300 --> 01:41:05,540
+a better way that's not formal.
+
+1471
+01:41:05,540 --> 01:41:06,040
+Yeah.
+
+1472
+01:41:06,040 --> 01:41:06,540
+Thank you.
+
+1473
+01:41:06,540 --> 01:41:09,140
+Isn't it clear saying, there are people
+
+1474
+01:41:09,140 --> 01:41:12,060
+who know the price of everything and the value of nothing?
+
+1475
+01:41:12,060 --> 01:41:12,900
+Yes.
+
+1476
+01:41:12,900 --> 01:41:13,860
+That's very nice.
+
+1477
+01:41:16,740 --> 01:41:17,900
+Yeah.
+
+1478
+01:41:17,900 --> 01:41:20,420
+I know you're also a musician, so I
+
+1479
+01:41:20,420 --> 01:41:22,580
+have a music-related question.
+
+1480
+01:41:22,580 --> 01:41:24,820
+What do you think is the role of music?
+
+1481
+01:41:24,820 --> 01:41:26,380
+Why do all cultures have it?
+
+1482
+01:41:33,580 --> 01:41:36,140
+I have a paper about it.
+
+1483
+01:41:36,140 --> 01:41:36,780
+Oh, OK.
+
+1484
+01:41:40,780 --> 01:41:43,140
+I've been trying to revise it, actually.
+
+1485
+01:41:43,140 --> 01:41:48,900
+But it's a strange question, because there
+
+1486
+01:41:48,900 --> 01:41:50,100
+is music everywhere.
+
+1487
+01:41:53,580 --> 01:41:55,580
+On the other hand, I have several friends
+
+1488
+01:41:55,580 --> 01:42:02,380
+who are amusical, and so when I have this theory
+
+1489
+01:42:02,380 --> 01:42:07,420
+that music is a way of teaching you
+
+1490
+01:42:07,420 --> 01:42:10,740
+to represent things in their orderly fashion
+
+1491
+01:42:10,740 --> 01:42:17,380
+and stuff like that, well, I have three of my colleagues
+
+1492
+01:42:17,380 --> 01:42:23,220
+who aren't musical, but they dance.
+
+1493
+01:42:23,220 --> 01:42:28,340
+So it may be that I don't know the answer.
+
+1494
+01:42:32,100 --> 01:42:33,700
+It's interesting.
+
+1495
+01:42:33,700 --> 01:42:36,420
+The first theory in my paper is that when
+
+1496
+01:42:36,420 --> 01:42:39,580
+you have a lot of complicated things happening,
+
+1497
+01:42:39,580 --> 01:42:48,500
+then the only way to learn is to represent things that happen
+
+1498
+01:42:48,500 --> 01:42:51,580
+and then look at the differences between things
+
+1499
+01:42:51,580 --> 01:42:57,780
+that are similar and then try to explain the differences.
+
+1500
+01:42:57,780 --> 01:42:58,620
+Right?
+
+1501
+01:42:58,620 --> 01:43:01,660
+I mean, what else is there?
+
+1502
+01:43:01,660 --> 01:43:04,380
+Maybe there's something else.
+
+1503
+01:43:04,380 --> 01:43:08,300
+So in order to become intelligent and understand
+
+1504
+01:43:08,300 --> 01:43:11,780
+things, you have to be able to compare things.
+
+1505
+01:43:11,780 --> 01:43:15,580
+And to me, the most important feature
+
+1506
+01:43:15,580 --> 01:43:22,620
+of what's called music is that it's divided into measures.
+
+1507
+01:43:22,620 --> 01:43:27,980
+Ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba.
+
+1508
+01:43:27,980 --> 01:43:33,980
+And measures are the same number of beats or whatever they are.
+
+1509
+01:43:33,980 --> 01:43:37,740
+And so now you can say, da, da, da, da, da, da, da, da, da,
+
+1510
+01:43:37,740 --> 01:43:39,580
+da, da, da.
+
+1511
+01:43:39,580 --> 01:43:41,780
+What's the difference?
+
+1512
+01:43:41,780 --> 01:43:44,380
+You change the eighth notes in the second one.
+
+1513
+01:43:44,380 --> 01:43:48,340
+The last four eighth notes, no.
+
+1514
+01:43:48,340 --> 01:43:51,380
+The two before last to a quarter note.
+
+1515
+01:43:51,380 --> 01:43:56,540
+So you're taking things that were in different times
+
+1516
+01:43:56,540 --> 01:43:59,060
+and you're superimposing those times,
+
+1517
+01:43:59,060 --> 01:44:01,020
+and now you can see the difference.
+
+1518
+01:44:01,020 --> 01:44:02,820
+And the reason you can see the difference
+
+1519
+01:44:02,820 --> 01:44:05,940
+is that you have things called measures.
+
+1520
+01:44:05,940 --> 01:44:08,620
+And the measures have things called beats.
+
+1521
+01:44:08,620 --> 01:44:13,540
+And so things get knocked into very good frames.
+
+1522
+01:44:13,540 --> 01:44:15,140
+Now, there's some Indian music which
+
+1523
+01:44:15,140 --> 01:44:19,140
+has 14 measures for a phrase.
+
+1524
+01:44:19,140 --> 01:44:22,700
+And some of the measures go seven and five.
+
+1525
+01:44:22,700 --> 01:44:26,020
+And I can make no sense of that stuff whatever.
+
+1526
+01:44:26,020 --> 01:44:30,660
+And I've tried fairly hard, but not very.
+
+1527
+01:44:30,660 --> 01:44:33,020
+So I don't understand how Indians can think.
+
+1528
+01:44:36,100 --> 01:44:39,900
+Any of you can handle Indian music?
+
+1529
+01:44:43,540 --> 01:44:47,100
+I guess just to add on what you said about this,
+
+1530
+01:44:47,100 --> 01:44:50,860
+my favorite quote from your paper on music, mind,
+
+1531
+01:44:50,860 --> 01:44:53,060
+and meaning is the one about what
+
+1532
+01:44:53,060 --> 01:44:55,820
+good is music about how kids play with blocks
+
+1533
+01:44:55,820 --> 01:44:59,380
+to learn about space and people play with music
+
+1534
+01:44:59,380 --> 01:45:00,860
+to learn about time.
+
+1535
+01:45:00,860 --> 01:45:04,580
+And I think in that sense, both music and dance
+
+1536
+01:45:04,580 --> 01:45:08,860
+are different ways that people can arrange things in time.
+
+1537
+01:45:08,860 --> 01:45:11,260
+And in a sense, like improvisatory music
+
+1538
+01:45:11,260 --> 01:45:16,620
+and improvisatory movement are both ways of different blocks,
+
+1539
+01:45:16,620 --> 01:45:20,420
+if you will, in time as opposed to space.
+
+1540
+01:45:20,420 --> 01:45:24,420
+Yeah, my friends who see me musically,
+
+1541
+01:45:24,420 --> 01:45:27,900
+maybe there's something different about their cochlea.
+
+1542
+01:45:27,900 --> 01:45:31,500
+Or maybe they have absolute pitch in some sense,
+
+1543
+01:45:31,500 --> 01:45:34,780
+which is a bad thing to have.
+
+1544
+01:45:34,780 --> 01:45:40,820
+Because if you're listening to a piece composed by a composer
+
+1545
+01:45:40,820 --> 01:45:44,860
+who doesn't have absolute pitch, then you're
+
+1546
+01:45:44,860 --> 01:45:47,460
+reading all sorts of things into the music
+
+1547
+01:45:47,460 --> 01:45:50,700
+that shouldn't be there.
+
+1548
+01:45:50,700 --> 01:45:55,020
+And the opposite would be true.
+
+1549
+01:45:55,020 --> 01:45:57,820
+I read music criticism sometimes.
+
+1550
+01:45:58,740 --> 01:46:02,380
+And maybe the reviewer says, and after the second and third
+
+1551
+01:46:02,380 --> 01:46:06,100
+movement, he finally returns to the initial key
+
+1552
+01:46:06,100 --> 01:46:07,580
+of E flat major.
+
+1553
+01:46:07,580 --> 01:46:08,180
+What a relief.
+
+1554
+01:46:10,660 --> 01:46:18,260
+Well, I once had absolute pitch for a couple of weeks
+
+1555
+01:46:18,260 --> 01:46:21,020
+because I ran a tuning fork in my room for a month.
+
+1556
+01:46:22,020 --> 01:46:33,780
+And I didn't like it because you can't listen to Bach anymore.
+
+1557
+01:46:37,340 --> 01:46:39,260
+Oh, well.
+
+1558
+01:46:39,260 --> 01:46:40,900
+It's a good question.
+
+1559
+01:46:40,900 --> 01:46:42,300
+Why do people like music?
+
+1560
+01:46:42,300 --> 01:46:46,660
+And I don't know any other paper like mine.
+
+1561
+01:46:46,660 --> 01:46:48,980
+If you ever find one, I'd like to see it.
+
+1562
+01:46:48,980 --> 01:46:51,420
+Because if you go to a big library,
+
+1563
+01:46:51,420 --> 01:46:54,500
+there are thousands of books about music.
+
+1564
+01:46:54,500 --> 01:46:59,700
+And if you open one, it's mostly Berlioz complaining
+
+1565
+01:46:59,700 --> 01:47:01,860
+that somebody wouldn't give him enough money
+
+1566
+01:47:01,860 --> 01:47:03,860
+to hire a big enough chorus.
+
+1567
+01:47:09,260 --> 01:47:12,740
+I've found very few books about music itself.
+
+1568
+01:47:12,740 --> 01:47:13,740
+Yes?
+
+1569
+01:47:13,740 --> 01:47:15,220
+I don't know about music anymore.
+
+1570
+01:47:15,220 --> 01:47:18,260
+Is that all right?
+
+1571
+01:47:18,300 --> 01:47:23,780
+Do you think that having a body is a necessary component
+
+1572
+01:47:23,780 --> 01:47:27,220
+of having a mind?
+
+1573
+01:47:27,220 --> 01:47:32,420
+I mean, can you do just as well, just as a sort
+
+1574
+01:47:32,420 --> 01:47:38,980
+of a simulated creature that can have all the things?
+
+1575
+01:47:38,980 --> 01:47:41,380
+Simulation.
+
+1576
+01:47:41,380 --> 01:47:45,620
+I think a mind that's not in a world
+
+1577
+01:47:45,620 --> 01:47:46,740
+wouldn't have much to do.
+
+1578
+01:47:46,740 --> 01:47:49,340
+It would have to invent the world.
+
+1579
+01:47:49,340 --> 01:47:54,460
+And I don't see why it couldn't, but you
+
+1580
+01:47:54,460 --> 01:47:57,420
+might have to give it a start, like the idea of three
+
+1581
+01:47:57,420 --> 01:47:58,460
+or four dimensions.
+
+1582
+01:48:07,140 --> 01:48:10,300
+What happens if you sit back and just think for a while?
+
+1583
+01:48:13,420 --> 01:48:14,780
+You wouldn't know if your body had
+
+1584
+01:48:14,780 --> 01:48:17,900
+disappeared, would you?
+
+1585
+01:48:24,700 --> 01:48:36,180
+There are all sorts of strange ideas about existence and why
+
+1586
+01:48:36,180 --> 01:48:37,380
+do you think there's a world?
+
+1587
+01:48:40,660 --> 01:48:43,380
+One of the things that bugs me is people say,
+
+1588
+01:48:43,380 --> 01:48:45,300
+well, who created it?
+
+1589
+01:48:45,300 --> 01:48:48,060
+And that can't make any sense, because this
+
+1590
+01:48:48,060 --> 01:48:50,020
+is just a possible world.
+
+1591
+01:48:50,020 --> 01:48:52,660
+Suppose there are a whole lot of possible worlds
+
+1592
+01:48:52,660 --> 01:48:55,820
+and there's one real one.
+
+1593
+01:48:55,820 --> 01:48:59,700
+How could you possibly know which one you're in?
+
+1594
+01:48:59,700 --> 01:49:05,220
+And then you could say, well, didn't someone have to make it?
+
+1595
+01:49:05,220 --> 01:49:08,020
+And what's the next thing you'd ask?
+
+1596
+01:49:08,020 --> 01:49:09,140
+Well, who made the maker?
+
+1597
+01:49:10,140 --> 01:49:16,740
+So the body-mind thing seems to me that once you have
+
+1598
+01:49:16,740 --> 01:49:20,420
+a computer, it can be its own world.
+
+1599
+01:49:20,420 --> 01:49:23,860
+It just can sit.
+
+1600
+01:49:23,860 --> 01:49:27,180
+The program can spend half the time simulating a world
+
+1601
+01:49:27,180 --> 01:49:33,740
+and half the time thinking about what it's like to be in it.
+
+1602
+01:49:33,740 --> 01:49:34,220
+Yeah?
+
+1603
+01:49:34,980 --> 01:49:35,480
+Yeah?
+
+1604
+01:49:40,220 --> 01:49:42,140
+Yes, it's an empty concept.
+
+1605
+01:49:42,140 --> 01:49:46,340
+It's all right to say this bottle exists,
+
+1606
+01:49:46,340 --> 01:49:50,780
+because let's say this bottle is in this universe.
+
+1607
+01:49:50,780 --> 01:49:55,660
+But what would it mean to say the universe exists?
+
+1608
+01:49:55,660 --> 01:49:57,860
+The universe is in the universe?
+
+1609
+01:49:57,860 --> 01:49:59,140
+Oh.
+
+1610
+01:49:59,140 --> 01:50:05,340
+So there's something wrong with thinking about,
+
+1611
+01:50:05,340 --> 01:50:08,820
+so there are only possible worlds.
+
+1612
+01:50:08,820 --> 01:50:12,020
+It doesn't make any sense to pick one of them out
+
+1613
+01:50:12,020 --> 01:50:13,340
+and say, that's the real one.
+
+1614
+01:50:17,260 --> 01:50:18,100
+Yeah?
+
+1615
+01:50:18,100 --> 01:50:20,020
+But existence is relative.
+
+1616
+01:50:20,020 --> 01:50:23,300
+Yeah, you don't say, this is the world I'm in.
+
+1617
+01:50:23,300 --> 01:50:28,020
+But you shouldn't say, that doesn't mean it exists.
+
+1618
+01:50:28,100 --> 01:50:32,580
+Like, two is in the set of even numbers.
+
+1619
+01:50:32,580 --> 01:50:34,700
+What's the set of even numbers in?
+
+1620
+01:50:34,700 --> 01:50:36,140
+It doesn't stop anywhere.
+
+1621
+01:50:36,140 --> 01:50:37,460
+Yeah?
+
+1622
+01:50:37,460 --> 01:50:38,220
+Lots of worlds.
+
+1623
+01:50:38,220 --> 01:50:40,860
+So in mathematics, the world is the whole world,
+
+1624
+01:50:40,860 --> 01:50:43,780
+but physics, it only explains the current world,
+
+1625
+01:50:43,780 --> 01:50:48,140
+or either how you combine these two sets of worlds?
+
+1626
+01:50:48,140 --> 01:50:51,740
+Well, you can't tell, because five minutes from now,
+
+1627
+01:50:51,740 --> 01:50:53,580
+everything might change.
+
+1628
+01:50:53,580 --> 01:50:57,780
+So nothing ever explains anything.
+
+1629
+01:50:57,780 --> 01:50:59,380
+You just have to take what you've got
+
+1630
+01:50:59,380 --> 01:51:03,580
+and make the best of it.
+
+1631
+01:51:03,580 --> 01:5
+[01:59:40.140 --> 01:59:42.540]  So here are three states.
+[01:59:42.540 --> 01:59:45.060]  And here's a certain input that means
+[01:59:45.060 --> 01:59:48.060]  if you're in that state, you go to this.
+[01:59:48.060 --> 01:59:53.620]  And if you pop that input again, it does this.
+[01:59:53.620 --> 02:00:00.540]  And if you say, go counterclockwise, it goes.
+[02:00:00.540 --> 02:00:03.340]  So three of them get you back where you were.
+[02:00:03.340 --> 02:00:09.100]  But if I go this, this, and that,
+[02:00:09.100 --> 02:00:14.180]  that would mean to go like this, this, and back.
+[02:00:14.180 --> 02:00:17.660]  So this would be, that means that's
+[02:00:17.660 --> 02:00:20.980]  equivalent to just going one.
+[02:00:20.980 --> 02:00:21.860]  Get the idea?
+[02:00:21.860 --> 02:00:23.220]  In other words, imagine that there's
+[02:00:23.220 --> 02:00:27.460]  a little world inside your brain which is very small
+[02:00:27.460 --> 02:00:29.700]  and only has three states.
+[02:00:29.700 --> 02:00:32.580]  And you have actions that you can perform on it.
+[02:00:32.580 --> 02:00:34.580]  And you have an integer i which can
+[02:00:34.580 --> 02:00:40.100]  see which of the three points of that triangle you're on.
+[02:00:40.100 --> 02:00:43.020]  Then you could learn by experience
+[02:00:43.060 --> 02:00:46.980]  that if you go left, left, left, you're back where you were.
+[02:00:46.980 --> 02:00:49.260]  But if you go left, right, left, right,
+[02:00:49.260 --> 02:00:51.060]  you're back where you are.
+[02:00:51.060 --> 02:00:56.380]  And if you go left, left, right, that's like going one left.
+[02:00:56.380 --> 02:01:01.340]  In other words, you could imagine a brain that starts out
+[02:01:01.340 --> 02:01:04.860]  before it connects itself to the real world.
+[02:01:04.860 --> 02:01:11.340]  It starts by having the top level of the brain connected
+[02:01:11.340 --> 02:01:15.660]  to a little internal world which just has three or four states.
+[02:01:15.660 --> 02:01:19.100]  And you get very good at manipulating that.
+[02:01:19.100 --> 02:01:23.420]  Then you add more sensory systems to the outer world.
+[02:01:23.420 --> 02:01:29.220]  And you get to learn ways to get around in the real world.
+[02:01:29.220 --> 02:01:32.820]  So I called that the internal grounding hypothesis.
+[02:01:32.820 --> 02:01:39.940]  And my suggestion is maybe somewhere in the human brain
+[02:01:39.940 --> 02:01:41.500]  there's a little structure that's
+[02:01:41.500 --> 02:01:45.260]  somewhat like that which is used by the frontal part
+[02:01:45.260 --> 02:01:51.300]  of the cortex to make very abstract ideas.
+[02:01:51.300 --> 02:01:54.500]  You understand, the more abstract an idea is,
+[02:01:54.500 --> 02:01:58.140]  the simpler and more stupid and elementary it is.
+[02:01:58.140 --> 02:02:00.860]  Abstract doesn't mean hard.
+[02:02:00.860 --> 02:02:04.140]  Abstract means stupid.
+[02:02:04.180 --> 02:02:10.500]  Real things like this are infinitely complicated.
+[02:02:10.500 --> 02:02:14.140]  So we might have, and I wouldn't dare suggest this
+[02:02:14.140 --> 02:02:18.540]  to a neuroscientist, there might be some little brain
+[02:02:18.540 --> 02:02:22.340]  center somewhere near the frontal cortex that
+[02:02:22.340 --> 02:02:28.100]  allows the frontal cortex to do some predicting and planning
+[02:02:28.100 --> 02:02:37.180]  and induction about a few simple finite state arrangements.
+[02:02:37.180 --> 02:02:39.820]  Who knows?
+[02:02:39.820 --> 02:02:42.940]  Would you look for it?
+[02:02:42.940 --> 02:02:44.420]  Well, if you were a neuroscientist,
+[02:02:44.420 --> 02:02:46.860]  you could say, oh, that's completely different
+[02:02:46.860 --> 02:02:49.060]  from anything I ever heard.
+[02:02:49.060 --> 02:02:51.180]  Let's look for it.
+[02:02:51.180 --> 02:02:54.900]  And if you're wrong, you're wasted a year.
+[02:02:54.900 --> 02:03:04.620]  And if you're right, then you become the new Ramon E. Cajal
+[02:03:04.620 --> 02:03:06.340]  or someone.
+[02:03:06.340 --> 02:03:11.100]  Who's the currently best neuroscientist?
+[02:03:14.820 --> 02:03:15.620]  Maybe it's late.
+[02:03:19.260 --> 02:03:22.180]  One more question.
+[02:03:22.180 --> 02:03:23.140]  One last question.
+[02:03:34.180 --> 02:03:36.540]  This is Cynthia Solomon, who's one
+[02:03:36.540 --> 02:03:41.420]  of the great developers of the logo language.
+[02:03:41.420 --> 02:03:41.920]  Yay.
+[02:03:44.780 --> 02:03:46.260]  Yes.
+[02:03:46.260 --> 02:03:48.220]  Maybe it's that question for me.
+[02:03:49.060 --> 02:03:51.060]  One last question.
+[02:03:51.060 --> 02:03:59.500]  What do you think about theories such as Rodney Brooks' theories
+[02:03:59.500 --> 02:04:02.380]  that speak of no central nervous system?
+[02:04:02.380 --> 02:04:04.340]  Completely weird.
+[02:04:04.340 --> 02:04:06.580]  Obviously, those theories have nothing
+[02:04:06.580 --> 02:04:09.100]  to do with human thinking, but they're
+[02:04:09.100 --> 02:04:11.900]  very good for making stupid robots.
+[02:04:11.900 --> 02:04:15.020]  And the vacuum cleaner is one of the great achievements
+[02:04:15.020 --> 02:04:15.860]  of the century.
+[02:04:19.100 --> 02:04:23.660]  However, his projects, what was it called,
+[02:04:23.660 --> 02:04:26.980]  cog, disappeared without a trace.
+[02:04:29.740 --> 02:04:34.420]  That theory was so wrong that it got a national award.
+[02:04:34.420 --> 02:04:38.860]  And it corrupted AI research in Japan for several years.
+[02:04:38.860 --> 02:04:40.940]  I can't understand.
+[02:04:40.940 --> 02:04:43.460]  Brooks became popular because he said,
+[02:04:43.460 --> 02:04:45.380]  maybe the important things about thinking
+[02:04:45.380 --> 02:04:48.340]  is that there's no internal representation.
+[02:04:48.340 --> 02:04:52.100]  You're just reacting to situations.
+[02:04:52.100 --> 02:04:57.060]  And you have a big library of how to react to each situation.
+[02:04:57.060 --> 02:05:01.820]  Well, David Hume had that idea, and he
+[02:05:01.820 --> 02:05:06.340]  was a popular philosopher for hundreds of years.
+[02:05:06.340 --> 02:05:11.260]  But it went nowhere, and it's gone, and so is Rod.
+[02:05:11.300 --> 02:05:15.460]  However, he is one of the great robot designers,
+[02:05:15.460 --> 02:05:19.620]  and he may be the instrumental in fixing
+[02:05:19.620 --> 02:05:25.020]  the great Japanese nuclear meltdown
+[02:05:25.020 --> 02:05:29.140]  because they're shipping some of his robots out there.
+[02:05:29.140 --> 02:05:33.060]  The problem is, can it open the door?
+[02:05:33.060 --> 02:05:35.380]  So far, no robot can open the door
+[02:05:35.380 --> 02:05:36.660]  even though it's not locked.
+[02:05:42.260 --> 02:05:43.740]  Thank you.
+[02:05:43.740 --> 02:05:45.220]  Thank you.
+eriments
+
+1721
+01:56:42,340 --> 01:56:44,860
+that support this body is that we
+
+1722
+01:56:44,940 --> 01:56:47,340
+from experiments that support this theory
+
+1723
+01:56:47,340 --> 01:56:50,500
+might be how when people have limbs amputated,
+
+1724
+01:56:50,500 --> 01:56:54,580
+it takes them a while to forget that they have the limb,
+
+1725
+01:56:54,580 --> 01:56:56,460
+because their mental models still exist.
+
+1726
+01:56:56,460 --> 01:56:59,940
+Their mental models still go away overnight.
+
+1727
+01:56:59,940 --> 01:57:01,660
+And also, I guess, they train monkeys
+
+1728
+01:57:01,660 --> 01:57:04,700
+to control robot arms with their brains.
+
+1729
+01:57:04,700 --> 01:57:06,380
+Sure.
+
+1730
+01:57:06,380 --> 01:57:13,820
+Well, but it just seems to me that a large amount of our brain
+
+1731
+01:57:13,820 --> 01:57:21,500
+is involved with highly evolved locomotion mechanisms.
+
+1732
+01:57:21,500 --> 01:57:27,460
+And as I said, when you're sitting back
+
+1733
+01:57:27,460 --> 01:57:32,500
+with your eyes closed in a chair thinking about something,
+
+1734
+01:57:32,500 --> 01:57:37,980
+then it's not clear how much of that machinery is important.
+
+1735
+01:57:37,980 --> 01:57:48,060
+But it might be that I have a strange paper on,
+
+1736
+01:57:48,060 --> 01:57:56,300
+I don't know if it's, I'm trying to remember its name.
+
+1737
+01:57:56,300 --> 01:58:06,020
+It's called, do you think I can actually
+
+1738
+01:58:06,020 --> 01:58:27,340
+get a, I can't remember the name of the title.
+
+1739
+01:58:27,340 --> 01:58:34,620
+Oh, I give up.
+
+1740
+01:58:38,620 --> 01:58:47,780
+The idea is that maybe in the older theories of psychology,
+
+1741
+01:58:47,780 --> 01:58:51,860
+everything is learned by experience in the real world.
+
+1742
+01:58:51,860 --> 01:58:55,820
+So conditioning and reinforcement and so forth.
+
+1743
+01:58:59,500 --> 01:59:04,860
+In this theory I call internal grounding, I make a conjecture.
+
+1744
+01:59:04,860 --> 01:59:09,980
+Suppose the brain has a little piece of nerve tissue, which
+
+1745
+01:59:09,980 --> 01:59:17,180
+consists of a few neurons arranged to make not a flip
+
+1746
+01:59:17,180 --> 01:59:22,700
+flop, but a, what would you call a three or a four flop?
+
+1747
+01:59:22,700 --> 01:59:24,820
+A flip flop with three or four states.
+
+1748
+01:59:24,820 --> 01:59:26,900
+Let's say three.
+
+1749
+01:59:26,900 --> 01:59:33,820
+So when you put a certain input, it goes from,
+
+1750
+01:59:33,820 --> 01:59:34,940
+I couldn't find the chalk.
+
+1751
+01:59:40,140 --> 01:59:42,540
+So here are three states.
+
+1752
+01:59:42,540 --> 01:59:45,060
+And here's a certain input that means
+
+1753
+01:59:45,060 --> 01:59:48,060
+if you're in that state, you go to this.
+
+1754
+01:59:48,060 --> 01:59:53,620
+And if you pop that input again, it does this.
+
+1755
+01:59:53,620 --> 02:00:00,540
+And if you say, go counterclockwise, it goes.
+
+1756
+02:00:00,540 --> 02:00:03,340
+So three of them get you back where you were.
+
+1757
+02:00:03,340 --> 02:00:09,100
+But if I go this, this, and that,
+
+1758
+02:00:09,100 --> 02:00:14,180
+that would mean to go like this, this, and back.
+
+1759
+02:00:14,180 --> 02:00:17,660
+So this would be, that means that's
+
+1760
+02:00:17,660 --> 02:00:20,980
+equivalent to just going one.
+
+1761
+02:00:20,980 --> 02:00:21,860
+Get the idea?
+
+1762
+02:00:21,860 --> 02:00:23,220
+In other words, imagine that there's
+
+1763
+02:00:23,220 --> 02:00:27,460
+a little world inside your brain which is very small
+
+1764
+02:00:27,460 --> 02:00:29,700
+and only has three states.
+
+1765
+02:00:29,700 --> 02:00:32,580
+And you have actions that you can perform on it.
+
+1766
+02:00:32,580 --> 02:00:34,580
+And you have an integer i which can
+
+1767
+02:00:34,580 --> 02:00:40,100
+see which of the three points of that triangle you're on.
+
+1768
+02:00:40,100 --> 02:00:43,020
+Then you could learn by experience
+
+1769
+02:00:43,060 --> 02:00:46,980
+that if you go left, left, left, you're back where you were.
+
+1770
+02:00:46,980 --> 02:00:49,260
+But if you go left, right, left, right,
+
+1771
+02:00:49,260 --> 02:00:51,060
+you're back where you are.
+
+1772
+02:00:51,060 --> 02:00:56,380
+And if you go left, left, right, that's like going one left.
+
+1773
+02:00:56,380 --> 02:01:01,340
+In other words, you could imagine a brain that starts out
+
+1774
+02:01:01,340 --> 02:01:04,860
+before it connects itself to the real world.
+
+1775
+02:01:04,860 --> 02:01:11,340
+It starts by having the top level of the brain connected
+
+1776
+02:01:11,340 --> 02:01:15,660
+to a little internal world which just has three or four states.
+
+1777
+02:01:15,660 --> 02:01:19,100
+And you get very good at manipulating that.
+
+1778
+02:01:19,100 --> 02:01:23,420
+Then you add more sensory systems to the outer world.
+
+1779
+02:01:23,420 --> 02:01:29,220
+And you get to learn ways to get around in the real world.
+
+1780
+02:01:29,220 --> 02:01:32,820
+So I called that the internal grounding hypothesis.
+
+1781
+02:01:32,820 --> 02:01:39,940
+And my suggestion is maybe somewhere in the human brain
+
+1782
+02:01:39,940 --> 02:01:41,500
+there's a little structure that's
+
+1783
+02:01:41,500 --> 02:01:45,260
+somewhat like that which is used by the frontal part
+
+1784
+02:01:45,260 --> 02:01:51,300
+of the cortex to make very abstract ideas.
+
+1785
+02:01:51,300 --> 02:01:54,500
+You understand, the more abstract an idea is,
+
+1786
+02:01:54,500 --> 02:01:58,140
+the simpler and more stupid and elementary it is.
+
+1787
+02:01:58,140 --> 02:02:00,860
+Abstract doesn't mean hard.
+
+1788
+02:02:00,860 --> 02:02:04,140
+Abstract means stupid.
+
+1789
+02:02:04,180 --> 02:02:10,500
+Real things like this are infinitely complicated.
+
+1790
+02:02:10,500 --> 02:02:14,140
+So we might have, and I wouldn't dare suggest this
+
+1791
+02:02:14,140 --> 02:02:18,540
+to a neuroscientist, there might be some little brain
+
+1792
+02:02:18,540 --> 02:02:22,340
+center somewhere near the frontal cortex that
+
+1793
+02:02:22,340 --> 02:02:28,100
+allows the frontal cortex to do some predicting and planning
+
+1794
+02:02:28,100 --> 02:02:37,180
+and induction about a few simple finite state arrangements.
+
+1795
+02:02:37,180 --> 02:02:39,820
+Who knows?
+
+1796
+02:02:39,820 --> 02:02:42,940
+Would you look for it?
+
+1797
+02:02:42,940 --> 02:02:44,420
+Well, if you were a neuroscientist,
+
+1798
+02:02:44,420 --> 02:02:46,860
+you could say, oh, that's completely different
+
+1799
+02:02:46,860 --> 02:02:49,060
+from anything I ever heard.
+
+1800
+02:02:49,060 --> 02:02:51,180
+Let's look for it.
+
+1801
+02:02:51,180 --> 02:02:54,900
+And if you're wrong, you're wasted a year.
+
+1802
+02:02:54,900 --> 02:03:04,620
+And if you're right, then you become the new Ramon E. Cajal
+
+1803
+02:03:04,620 --> 02:03:06,340
+or someone.
+
+1804
+02:03:06,340 --> 02:03:11,100
+Who's the currently best neuroscientist?
+
+1805
+02:03:14,820 --> 02:03:15,620
+Maybe it's late.
+
+1806
+02:03:19,260 --> 02:03:22,180
+One more question.
+
+1807
+02:03:22,180 --> 02:03:23,140
+One last question.
+
+1808
+02:03:34,180 --> 02:03:36,540
+This is Cynthia Solomon, who's one
+
+1809
+02:03:36,540 --> 02:03:41,420
+of the great developers of the logo language.
+
+1810
+02:03:41,420 --> 02:03:41,920
+Yay.
+
+1811
+02:03:44,780 --> 02:03:46,260
+Yes.
+
+1812
+02:03:46,260 --> 02:03:48,220
+Maybe it's that question for me.
+
+1813
+02:03:49,060 --> 02:03:51,060
+One last question.
+
+1814
+02:03:51,060 --> 02:03:59,500
+What do you think about theories such as Rodney Brooks' theories
+
+1815
+02:03:59,500 --> 02:04:02,380
+that speak of no central nervous system?
+
+1816
+02:04:02,380 --> 02:04:04,340
+Completely weird.
+
+1817
+02:04:04,340 --> 02:04:06,580
+Obviously, those theories have nothing
+
+1818
+02:04:06,580 --> 02:04:09,100
+to do with human thinking, but they're
+
+1819
+02:04:09,100 --> 02:04:11,900
+very good for making stupid robots.
+
+1820
+02:04:11,900 --> 02:04:15,020
+And the vacuum cleaner is one of the great achievements
+
+1821
+02:04:15,020 --> 02:04:15,860
+of the century.
+
+1822
+02:04:19,100 --> 02:04:23,660
+However, his projects, what was it called,
+
+1823
+02:04:23,660 --> 02:04:26,980
+cog, disappeared without a trace.
+
+1824
+02:04:29,740 --> 02:04:34,420
+That theory was so wrong that it got a national award.
+
+1825
+02:04:34,420 --> 02:04:38,860
+And it corrupted AI research in Japan for several years.
+
+1826
+02:04:38,860 --> 02:04:40,940
+I can't understand.
+
+1827
+02:04:40,940 --> 02:04:43,460
+Brooks became popular because he said,
+
+1828
+02:04:43,460 --> 02:04:45,380
+maybe the important things about thinking
+
+1829
+02:04:45,380 --> 02:04:48,340
+is that there's no internal representation.
+
+1830
+02:04:48,340 --> 02:04:52,100
+You're just reacting to situations.
+
+1831
+02:04:52,100 --> 02:04:57,060
+And you have a big library of how to react to each situation.
+
+1832
+02:04:57,060 --> 02:05:01,820
+Well, David Hume had that idea, and he
+
+1833
+02:05:01,820 --> 02:05:06,340
+was a popular philosopher for hundreds of years.
+
+1834
+02:05:06,340 --> 02:05:11,260
+But it went nowhere, and it's gone, and so is Rod.
+
+1835
+02:05:11,300 --> 02:05:15,460
+However, he is one of the great robot designers,
+
+1836
+02:05:15,460 --> 02:05:19,620
+and he may be the instrumental in fixing
+
+1837
+02:05:19,620 --> 02:05:25,020
+the great Japanese nuclear meltdown
+
+1838
+02:05:25,020 --> 02:05:29,140
+because they're shipping some of his robots out there.
+
+1839
+02:05:29,140 --> 02:05:33,060
+The problem is, can it open the door?
+
+1840
+02:05:33,060 --> 02:05:35,380
+So far, no robot can open the door
+
+1841
+02:05:35,380 --> 02:05:36,660
+even though it's not locked.
+
+1842
+02:05:42,260 --> 02:05:43,740
+Thank you.
+
+1843
+02:05:43,740 --> 02:05:45,220
+Thank you.
+
