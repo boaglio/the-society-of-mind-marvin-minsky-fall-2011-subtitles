@@ -2963,19 +2963,19 @@ if they had used your common sense software on Watson?
 And I said, and in fact, they had asked us
 
 742
-00:51:40,160 --> 00:51:43,000
+00:51:40,160 --> 00:51:42,120
 to work with them and I turned them down.
 
 743
-00:51:43,000 --> 00:51:44,200
+00:51:43,040 --> 00:51:44,560
 And I said to him, so he said,
 
 744
-00:51:44,200 --> 00:51:46,320
-wouldn't it be great if they had used your software?
+00:51:44,560 --> 00:51:46,160
+wouldn't it be great if they'd used your software?
 
 745
-00:51:46,320 --> 00:51:48,680
+00:51:46,160 --> 00:51:48,680
 And I said, well, did you hear about the CMU guys
 
 746
@@ -2983,3224 +2983,3518 @@ And I said, well, did you hear about the CMU guys
 who did work with them?
 
 747
-00:51:50,120 --> 00:51:51,040
-And he said, no.
+00:51:50,120 --> 00:51:52,920
+And he said, no, and I said, well, there you go.
 
 748
-00:51:51,040 --> 00:51:52,680
-And I said, well, there you go.
+00:51:52,920 --> 00:51:53,920
+It's pretty good.
 
 749
-00:51:52,680 --> 00:51:53,680
-That's pretty good.
-
-750
-00:52:01,360 --> 00:52:06,000
+00:52:01,360 --> 00:52:05,880
 Yes, they don't mention that it's a society of mind idea.
 
-751
-00:52:07,000 --> 00:52:09,480
-No, who would you talk about that?
+750
+00:52:05,880 --> 00:52:09,640
+But no, who would you talk about that?
 
-752
-00:52:09,480 --> 00:52:12,880
+751
+00:52:09,640 --> 00:52:12,840
 It was one of the articles as well.
 
-753
-00:52:12,880 --> 00:52:13,400
+752
+00:52:12,840 --> 00:52:15,340
 Really?
 
-754
-00:52:13,400 --> 00:52:15,400
-Yeah, he does mention it.
-
-755
-00:52:15,400 --> 00:52:19,400
+753
+00:52:15,340 --> 00:52:19,360
 But not the details of this.
 
-756
-00:52:19,400 --> 00:52:20,520
+754
+00:52:19,360 --> 00:52:20,520
 Well, it'd be interesting.
 
-757
-00:52:20,520 --> 00:52:25,440
+755
+00:52:20,520 --> 00:52:25,400
 They fired their other group, AI group, the one that
 
+756
+00:52:25,400 --> 00:52:26,400
+Doug Rican.
+
+757
+00:52:26,400 --> 00:52:27,200
+Doug Rican.
+
 758
-00:52:25,440 --> 00:52:26,440
-Doug Rican.
-
-759
-00:52:26,440 --> 00:52:27,240
-Doug Rican.
-
-760
-00:52:30,320 --> 00:52:33,760
+00:52:30,280 --> 00:52:33,720
 Just to add to that, I think the class forum,
 
+759
+00:52:33,720 --> 00:52:37,200
+I added the AI magazine that Henry spoke about,
+
+760
+00:52:37,200 --> 00:52:40,640
+and checked with Eric, and a couple of papers
+
 761
-00:52:33,760 --> 00:52:37,200
-I added the AI magazine that Henry spoke about
+00:52:40,640 --> 00:52:42,840
+are out on the subject.
 
 762
-00:52:37,200 --> 00:52:39,640
-and checked with Eric.
-
-763
-00:52:39,640 --> 00:52:42,840
-And a couple of papers are out on the subject.
-
-764
 00:52:42,840 --> 00:52:45,800
 I think there's a link to all the papers that are out.
 
-765
+763
 00:52:45,800 --> 00:52:47,880
 I think one other thing they did was
 
+764
+00:52:47,880 --> 00:52:51,600
+I think they do some question analysis where they decompose
+
+765
+00:52:51,600 --> 00:52:55,160
+the question, and that's fed into some hypothesis
+
 766
-00:52:47,880 --> 00:52:50,920
-I think they do some question analysis where
+00:52:55,160 --> 00:52:59,160
+generation about what possible answers you can get.
 
 767
-00:52:50,920 --> 00:52:52,920
-they decompose the question.
+00:52:59,160 --> 00:53:01,080
+They feed that answer back into the question,
 
 768
-00:52:52,920 --> 00:52:55,800
-And that's fed into some hypothesis generation
-
-769
-00:52:55,800 --> 00:52:59,200
-about what possible answers you can get.
-
-770
-00:52:59,200 --> 00:53:01,080
-They feed that answer back into the question
-
-771
 00:53:01,080 --> 00:53:04,400
 and they create a hypothesis of what to search.
 
-772
+769
 00:53:04,400 --> 00:53:07,000
 So I'd asked one of the people working on it
 
-773
-00:53:07,000 --> 00:53:08,480
-if they used common sense.
+770
+00:53:07,000 --> 00:53:11,400
+if they used common sense, and I think his answer was not yet.
 
-774
-00:53:08,480 --> 00:53:11,400
-And I think his answer was not yet.
-
-775
+771
 00:53:11,400 --> 00:53:16,160
-But they do mind the Wikipedia for some kind of data.
+But they do kind of mine the Wikipedia for some kind of data.
 
-776
-00:53:16,160 --> 00:53:17,200
+772
+00:53:16,160 --> 00:53:17,160
 That's the closest.
 
-777
-00:53:17,200 --> 00:53:22,600
+773
+00:53:17,160 --> 00:53:22,600
 So like Henry said, maybe they use it in a limited context.
 
-778
+774
 00:53:22,600 --> 00:53:25,600
 But a lot of six, seven papers in the forum.
 
-779
+775
 00:53:32,080 --> 00:53:37,880
 As I asked Google a bunch of questions the other day,
 
-780
+776
 00:53:37,880 --> 00:53:47,000
 and it really got the right articles among the first 10
 
-781
+777
 00:53:47,000 --> 00:53:49,680
 for many of them.
 
-782
-00:53:49,680 --> 00:53:50,800
-I didn't keep a log.
+778
+00:53:49,680 --> 00:53:58,680
+I didn't keep a log, but it's getting good at parsing
 
-783
-00:53:55,000 --> 00:53:59,320
-It's getting good at parsing what you said.
+779
+00:53:58,680 --> 00:53:59,320
+what you said.
 
-784
+780
 00:54:01,080 --> 00:54:14,720
 I was just wondering if you were logged into your Gmail account
 
-785
+781
 00:54:14,720 --> 00:54:16,720
 at the time, because I know that Google's starting
 
-786
+782
 00:54:16,720 --> 00:54:17,680
 to personalize searches.
 
-787
+783
 00:54:17,680 --> 00:54:21,120
 So you'll see search results based on your previous searches
 
-788
+784
 00:54:21,120 --> 00:54:21,600
 as well.
 
-789
+785
 00:54:21,600 --> 00:54:24,000
 So it might seem a bit more intelligent for that reason
 
-790
+786
 00:54:24,000 --> 00:54:24,720
 as well.
 
-791
-00:54:24,720 --> 00:54:27,880
+787
+00:54:24,720 --> 00:54:27,840
 Is that the Google Plus or the regular Google?
 
-792
-00:54:27,880 --> 00:54:29,800
+788
+00:54:27,840 --> 00:54:29,800
 I think it's the regular Google as long as you're
 
-793
+789
 00:54:29,800 --> 00:54:34,880
 signed into your account, your Gmail account.
 
-794
-00:54:34,880 --> 00:54:36,920
+790
+00:54:34,880 --> 00:54:36,960
 I haven't noticed anything.
 
-795
-00:54:36,920 --> 00:54:38,800
+791
+00:54:36,960 --> 00:54:38,800
 I've definitely noticed that it knows
 
-796
-00:54:38,800 --> 00:54:40,640
+792
+00:54:38,800 --> 00:54:40,720
 what I'm looking for because of that.
 
-797
-00:54:40,640 --> 00:54:42,840
+793
+00:54:40,720 --> 00:54:42,880
 You could try signing out, and you can see the results
 
-798
-00:54:42,840 --> 00:54:45,000
+794
+00:54:42,880 --> 00:54:45,040
 are often less relevant.
 
-799
-00:54:45,000 --> 00:54:51,840
+795
+00:54:45,040 --> 00:54:51,880
 It certainly says you retrieved this item five times before.
 
-800
-00:54:51,840 --> 00:54:53,560
+796
+00:54:51,880 --> 00:54:53,600
 So it's keeping.
 
-801
-00:54:53,560 --> 00:54:56,440
+797
+00:54:53,600 --> 00:54:56,480
 I don't know if that record is in Google or in my machine.
 
-802
+798
 00:55:00,800 --> 00:55:07,240
 How does the Dragon thing work, the dictation?
 
-803
+799
 00:55:07,240 --> 00:55:09,480
 I'm pretty sure all the databases that it uses
 
-804
+800
 00:55:09,480 --> 00:55:10,280
 are on your machine.
 
-805
+801
 00:55:10,280 --> 00:55:13,120
 They come with the Dragon software.
 
-806
+802
 00:55:13,120 --> 00:55:15,840
 It's not a cloud service, but I'm not 100% sure.
 
-807
+803
 00:55:15,840 --> 00:55:17,800
 That may have changed since I last used Dragon.
 
-808
+804
 00:55:22,520 --> 00:55:24,040
 Janet Baker is giving a lecture.
 
-809
+805
 00:55:27,400 --> 00:55:28,680
 What day is it?
 
-810
+806
 00:55:28,680 --> 00:55:29,600
 Friday.
 
-811
+807
 00:55:29,600 --> 00:55:30,100
 Friday.
 
-812
+808
 00:55:33,680 --> 00:55:41,600
 It would probably be interesting because she'll explain not only
 
-813
+809
 00:55:41,600 --> 00:55:47,480
 how it works, but how to make a company, produce it.
 
-814
+810
 00:55:59,600 --> 00:56:13,480
 So this is a question about Watson.
 
-815
+811
 00:56:13,480 --> 00:56:15,800
 When it pages all these different methods,
 
-816
+812
 00:56:15,800 --> 00:56:19,440
 is it trying every single one of them at the same time?
 
-817
+813
 00:56:19,440 --> 00:56:24,800
 Or I'm just trying to clarify that bit.
 
-818
+814
 00:56:24,800 --> 00:56:27,880
 It has a lot of processors, but I
 
-819
+815
 00:56:27,880 --> 00:56:29,480
 don't know what it's doing, do you?
 
-820
+816
 00:56:29,480 --> 00:56:32,080
 I don't know to the level of whether it's
 
-821
+817
 00:56:32,080 --> 00:56:33,440
 trying all these simultaneously.
 
-822
+818
 00:56:33,440 --> 00:56:36,640
 I know that in the offline experiments,
 
-823
+819
 00:56:36,640 --> 00:56:44,120
 they compile cases of, so they play games against humans.
 
-824
+820
 00:56:44,120 --> 00:56:47,240
 They look at records of past games.
 
-825
+821
 00:56:47,240 --> 00:56:52,360
 And to some extent, the trading isn't completely automatic.
 
-826
+822
 00:56:52,360 --> 00:56:58,200
 But to some extent, they learn what kinds of techniques
 
-827
+823
 00:56:58,200 --> 00:57:01,040
 work best with what kinds of questions.
 
-828
+824
 00:57:01,040 --> 00:57:05,280
 And so probably they have some upfront classification.
 
-829
+825
 00:57:05,280 --> 00:57:09,280
 I'm sure they don't run every method at every time,
 
-830
+826
 00:57:09,280 --> 00:57:12,880
 because some of these methods are probably pretty consuming.
 
-831
+827
 00:57:12,880 --> 00:57:16,720
 So they probably do some classification
 
-832
+828
 00:57:16,720 --> 00:57:19,560
 of what the kind of, I mean, I think the most impressive thing
 
-833
+829
 00:57:19,560 --> 00:57:22,080
 is just it tries to figure out what kind of question
 
-834
+830
 00:57:22,080 --> 00:57:23,040
 is being asked.
 
-835
+831
 00:57:23,040 --> 00:57:28,240
 And it did a pretty impressive job about that.
 
-836
+832
 00:57:28,240 --> 00:57:34,160
 So I don't really know the details of it.
 
-837
+833
 00:57:34,160 --> 00:57:36,720
 Is their publication complete enough
 
-838
+834
 00:57:36,720 --> 00:57:41,120
 that you can actually see how it works?
 
-839
+835
 00:57:41,120 --> 00:57:42,040
 You can get the general.
 
-840
+836
 00:57:42,040 --> 00:57:43,840
 They have an article in AI Magazine.
 
-841
+837
 00:57:43,840 --> 00:57:45,720
 Sherad said there might be others.
 
-842
+838
 00:57:45,720 --> 00:57:47,720
 I've just read that one article so far.
 
-843
+839
 00:57:47,720 --> 00:57:50,720
 They've drawn out the architecture,
 
-844
+840
 00:57:50,720 --> 00:57:53,200
 even in the article that you mentioned.
 
-845
+841
 00:57:53,200 --> 00:57:57,200
 They actually have a picture of the flow of what's happening,
 
-846
+842
 00:57:57,200 --> 00:58:00,200
 how the question comes in, how it's broken down.
 
-847
+843
 00:58:00,200 --> 00:58:02,200
 The publications, they start giving you
 
-848
+844
 00:58:02,200 --> 00:58:04,200
 an idea of the algorithms that they use,
 
-849
+845
 00:58:04,200 --> 00:58:05,680
 but not the full picture.
 
-850
+846
 00:58:09,880 --> 00:58:15,560
 Certainly would be nice if one could see the whole thing
 
-851
+847
 00:58:15,560 --> 00:58:17,160
 and even experiment with it.
 
-852
+848
 00:58:20,720 --> 00:58:44,880
 This question is about which comes first, the machinery
 
-853
+849
 00:58:44,880 --> 00:58:47,440
 or the common sense?
 
-854
+850
 00:58:47,440 --> 00:58:50,560
 And once we built it, we can, for the sake
 
-855
+851
 00:58:50,560 --> 00:58:52,080
 of reasoning and intelligence, we
 
-856
+852
 00:58:52,080 --> 00:58:55,720
 could feed it this database of common sense
 
-857
+853
 00:58:55,720 --> 00:58:57,720
 and the rules that come with it.
 
-858
+854
 00:58:57,720 --> 00:59:01,080
 But was part of the machinery built
 
-859
+855
 00:59:01,080 --> 00:59:02,560
 because there was common sense?
 
-860
+856
 00:59:02,560 --> 00:59:05,360
 This is going back thousands of years and millions of years
 
-861
+857
 00:59:05,360 --> 00:59:06,680
 whenever.
 
-862
+858
 00:59:06,680 --> 00:59:10,240
 In that context, whatever we would call common sense,
 
-863
+859
 00:59:10,240 --> 00:59:14,520
 for the Neanderthal period, for example,
 
-864
+860
 00:59:14,520 --> 00:59:17,040
 was the machinery in their brain probably
 
-865
+861
 00:59:17,040 --> 00:59:18,440
 built because of that?
 
-866
+862
 00:59:18,440 --> 00:59:25,240
 Or did that happen first as a software
 
-867
+863
 00:59:25,240 --> 00:59:27,040
 started working on building common sense?
 
-868
+864
 00:59:32,560 --> 00:59:35,680
 We don't have much record of what
 
-869
+865
 00:59:35,680 --> 00:59:38,680
 happened in that five million years
 
-870
+866
 00:59:38,680 --> 00:59:43,400
 since we were gorillas or chimpanzees or whatever.
 
-871
+867
 00:59:48,440 --> 00:59:56,960
 Have you heard of finger monkeys?
 
-872
+868
 01:00:04,800 --> 01:00:08,400
 I don't know if I can find it.
 
-873
+869
 01:00:08,400 --> 01:00:10,560
 But they're about as big.
 
-874
+870
 01:00:10,560 --> 01:00:15,080
 They're little lemurs about as big as your thumb.
 
-875
+871
 01:00:15,080 --> 01:00:15,760
 And they smile.
 
-876
+872
 01:00:19,120 --> 01:00:22,040
 Are you sure this is a real thing?
 
-877
+873
 01:00:22,040 --> 01:00:22,680
 I wondered.
 
-878
+874
 01:00:26,880 --> 01:00:29,000
 We'll put it on some web page.
 
-879
+875
 01:00:32,560 --> 01:00:34,400
 So we come from those primates.
 
-880
+876
 01:00:34,400 --> 01:00:40,640
 And we don't know anything about their mental development.
 
-881
+877
 01:00:40,640 --> 01:00:53,160
 And since the humans split off from the pretty much
 
-882
+878
 01:00:53,160 --> 01:00:59,960
 about the same time that the chimpanzees and orangutans
 
-883
+879
 01:00:59,960 --> 01:01:03,480
 diverged, it's about five million years ago.
 
-884
+880
 01:01:06,360 --> 01:01:08,520
 So there's a few paintings and caves.
 
-885
+881
 01:01:08,520 --> 01:01:16,680
 But I believe those are all tens of thousands of years.
 
-886
+882
 01:01:16,680 --> 01:01:23,040
 Are there any human habitats over a million years ago?
 
-887
+883
 01:01:23,040 --> 01:01:24,440
 What?
 
-888
+884
 01:01:24,440 --> 01:01:26,240
 What's the oldest ones?
 
-889
+885
 01:01:26,240 --> 01:01:27,480
 The oldest artifacts?
 
-890
+886
 01:01:27,480 --> 01:01:28,000
 Yeah.
 
-891
+887
 01:01:28,000 --> 01:01:29,800
 75,000 years.
 
-892
+888
 01:01:29,800 --> 01:01:30,680
 That's not much.
 
-893
+889
 01:01:30,680 --> 01:01:34,760
 Drilled seashells presumably with these jewelry.
 
-894
+890
 01:01:38,520 --> 01:01:47,840
 Well, you could use it for scraping things, probably
 
-895
+891
 01:01:47,840 --> 01:01:49,280
 rather useful gadgets.
 
-896
+892
 01:01:52,760 --> 01:01:56,000
 I think the initial wisdom is we've only
 
-897
+893
 01:01:56,000 --> 01:01:59,480
 been anatomically modern for about 200,000 years.
 
-898
+894
 01:01:59,480 --> 01:02:09,280
 Yes, I'm curious as to when dogs appeared,
 
-899
+895
 01:02:09,280 --> 01:02:16,320
 because as soon as you've got dogs,
 
-900
+896
 01:02:16,320 --> 01:02:23,200
 then you could normally, to survive in the jungle,
 
-901
+897
 01:02:23,200 --> 01:02:25,560
 you have to have your nose near the ground,
 
-902
+898
 01:02:25,560 --> 01:02:29,920
 because that's the way to detect bad things.
 
-903
+899
 01:02:29,920 --> 01:02:32,560
 But once we had dogs, then people
 
-904
+900
 01:02:32,560 --> 01:02:35,120
 could have the dogs look for the dangers,
 
-905
+901
 01:02:35,120 --> 01:02:38,000
 and then the people could stand up.
 
-906
+902
 01:02:38,000 --> 01:02:44,080
 So I'd like to know when the dogs got domesticated.
 
-907
+903
 01:02:44,080 --> 01:02:49,120
 Or maybe there was some other animal that wasn't dogs that
 
-908
+904
 01:02:49,120 --> 01:02:50,200
 served this function.
 
-909
+905
 01:02:51,200 --> 01:02:58,080
 Or maybe it was older people who were ordered to crawl around.
 
-910
+906
 01:03:12,080 --> 01:03:16,800
 Presumably, older people were 30 or 40 years old.
 
-911
+907
 01:03:17,800 --> 01:03:26,440
 I think one remarkable thing is that humans live almost twice
 
-912
+908
 01:03:26,440 --> 01:03:29,160
 as long as any other primate.
 
-913
+909
 01:03:29,160 --> 01:03:41,560
 So it could be that for most animals, not all,
 
-914
+910
 01:03:41,560 --> 01:03:46,560
 but for most animals, only the parent generation is around.
 
-915
+911
 01:03:46,560 --> 01:03:50,720
 But it could be that humans had a great advantage
 
-916
+912
 01:03:50,720 --> 01:03:57,280
 in having grandparents who were still around frequently, which
 
-917
+913
 01:03:57,280 --> 01:04:02,600
 means that the middle generation could do other things
 
-918
+914
 01:04:02,600 --> 01:04:05,480
 than take care of the children.
 
-919
+915
 01:04:05,480 --> 01:04:07,560
 So it would be interesting to.
 
-920
+916
 01:04:10,880 --> 01:04:14,800
 Because chimpanzees and gorillas live about twice as long
 
-921
+917
 01:04:14,800 --> 01:04:17,080
 as all the other primates.
 
-922
+918
 01:04:17,080 --> 01:04:19,200
 And humans live about.
 
-923
+919
 01:04:19,200 --> 01:04:22,960
 So they get to be about 30 or 40.
 
-924
+920
 01:04:22,960 --> 01:04:25,440
 And humans get to be about 60 or 80.
 
-925
+921
 01:04:29,680 --> 01:04:35,920
 So this probably has some meaning
 
-926
+922
 01:04:35,920 --> 01:04:41,440
 having to do with selection and survival.
 
-927
+923
 01:04:41,440 --> 01:04:42,600
 Yeah?
 
-928
+924
 01:04:42,600 --> 01:04:52,960
 So I want to know if you know how many projects there are
 
-929
+925
 01:04:52,960 --> 01:04:57,040
 out there trying to do an intelligent system.
 
-930
+926
 01:04:57,040 --> 01:04:57,880
 How many people?
 
-931
+927
 01:04:57,880 --> 01:05:03,560
 And if you believe that what's lacking
 
-932
+928
 01:05:03,560 --> 01:05:09,120
 is the right theory to be put in practice,
 
-933
+929
 01:05:09,120 --> 01:05:11,800
 are just lines of code to be written,
 
-934
+930
 01:05:11,800 --> 01:05:15,200
 and the theory is already out there.
 
-935
+931
 01:05:15,200 --> 01:05:16,240
 That's a great question.
 
-936
+932
 01:05:16,240 --> 01:05:19,520
 We ought to have a map.
 
-937
+933
 01:05:19,520 --> 01:05:22,160
 Has anybody compiled a?
 
-938
+934
 01:05:22,160 --> 01:05:25,000
 Heike, you know what's happening in Europe in that area?
 
-939
+935
 01:05:27,800 --> 01:05:30,200
 I don't know if there is many people
 
-940
+936
 01:05:30,200 --> 01:05:32,600
 doing ambitious efforts.
 
-941
+937
 01:05:32,800 --> 01:05:37,160
 By the way, I just looked up on the CNN site
 
-942
+938
 01:05:37,160 --> 01:05:38,920
 quite early in the lecture.
 
-943
+939
 01:05:38,920 --> 01:05:41,120
 You mentioned that it would be nice to have
 
-944
+940
 01:05:41,120 --> 01:05:46,680
 this one billion investment for developing AI
 
-945
+941
 01:05:46,680 --> 01:05:49,320
 to care of elderly people.
 
-946
+942
 01:05:49,320 --> 01:05:52,600
 So now I just looked up on the CNN website
 
-947
+943
 01:05:52,600 --> 01:05:55,440
 how much Watson cost, and the estimate
 
-948
+944
 01:05:55,440 --> 01:05:58,920
 is $1 to $2 billion.
 
-949
+945
 01:05:59,320 --> 01:06:02,040
 $1 to $2 billion.
 
-950
+946
 01:06:02,040 --> 01:06:06,400
 So they spent $1 to $2 billion developing that.
 
-951
+947
 01:06:06,400 --> 01:06:07,240
 Billion?
 
-952
+948
 01:06:07,240 --> 01:06:08,480
 Yes.
 
-953
+949
 01:06:08,480 --> 01:06:10,000
 Program.
 
-954
+950
 01:06:10,000 --> 01:06:11,040
 To develop Watson?
 
-955
+951
 01:06:20,800 --> 01:06:23,560
 IBM has a large budget.
 
-956
+952
 01:06:23,560 --> 01:06:27,240
 So apparently, IBM has a $6 billion research budget
 
-957
+953
 01:06:27,240 --> 01:06:30,840
 every year, and they put 5% to 10% of that
 
-958
+954
 01:06:30,840 --> 01:06:33,680
 directly or indirectly.
 
-959
+955
 01:06:33,680 --> 01:06:36,120
 And that's how this is calculated.
 
-960
+956
 01:06:36,120 --> 01:06:38,480
 So I don't know the details.
 
-961
+957
 01:06:38,480 --> 01:06:40,440
 I don't know the idea.
 
-962
+958
 01:06:40,440 --> 01:06:41,280
 Wow.
 
-963
+959
 01:06:41,280 --> 01:06:43,160
 It's more like $100 billion.
 
-964
+960
 01:06:43,160 --> 01:06:45,400
 Why is that $1 billion?
 
-965
+961
 01:06:45,400 --> 01:06:48,640
 Is there any people or something for a few years?
 
-966
+962
 01:06:48,640 --> 01:06:52,600
 Yeah, so that's the official estimate.
 
-967
+963
 01:06:52,600 --> 01:06:54,720
 And then there's others that say it's $1 billion.
 
-968
+964
 01:06:54,720 --> 01:06:56,840
 Because it's only about 10 Super Bowl ads.
 
-969
+965
 01:07:01,320 --> 01:07:04,800
 How long is a Super Bowl ad?
 
-970
+966
 01:07:04,800 --> 01:07:05,760
 Is it a minute?
 
-971
+967
 01:07:05,760 --> 01:07:06,280
 30 seconds.
 
-972
+968
 01:07:06,280 --> 01:07:07,000
 30 seconds.
 
-973
+969
 01:07:07,000 --> 01:07:07,480
 Yeah.
 
-974
+970
 01:07:07,480 --> 01:07:08,960
 30 seconds.
 
-975
+971
 01:07:08,960 --> 01:07:10,920
 So they got a lot more publicity out of that
 
-976
+972
 01:07:10,920 --> 01:07:13,120
 than they would have got out of 10 Super Bowl ads.
 
-977
+973
 01:07:16,360 --> 01:07:18,720
 Yeah, it's a bargain.
 
-978
+974
 01:07:18,720 --> 01:07:21,680
 I was wondering what's the world cost of sports?
 
-979
+975
 01:07:24,720 --> 01:07:28,000
 Indirect or indirect?
 
-980
+976
 01:07:28,000 --> 01:07:30,120
 Direct, I think, would be interesting enough.
 
-981
+977
 01:07:33,840 --> 01:07:37,480
 Well, if you paid people $1 an hour to watch sports,
 
-982
+978
 01:07:37,480 --> 01:07:38,640
 how much would it cost?
 
-983
+979
 01:07:46,880 --> 01:07:49,480
 But then again, it's probably quite cheap.
 
-984
+980
 01:07:50,160 --> 01:07:54,320
 If the people weren't watching sports
 
-985
+981
 01:07:54,320 --> 01:07:59,080
 but instead killing each other or having stuff like that,
 
-986
+982
 01:07:59,080 --> 01:08:02,360
 then that might be more expensive by human capital.
 
-987
+983
 01:08:02,360 --> 01:08:04,560
 What would they do?
 
-988
+984
 01:08:04,560 --> 01:08:05,880
 They would invent sports.
 
-989
+985
 01:08:11,040 --> 01:08:13,760
 There must be some country that doesn't.
 
-990
+986
 01:08:13,760 --> 01:08:18,120
 Yeah, just for comparison, Coca-Cola's annual advertising
 
-991
+987
 01:08:18,120 --> 01:08:20,080
 budget is $1.6 billion.
 
-992
+988
 01:08:25,600 --> 01:08:26,600
 What's their profit?
 
-993
+989
 01:08:26,600 --> 01:08:27,600
 Does it?
 
-994
+990
 01:08:27,600 --> 01:08:28,080
 I don't know.
 
-995
+991
 01:08:28,080 --> 01:08:28,800
 We can find out.
 
-996
+992
 01:08:33,760 --> 01:08:41,840
 At the Media Lab meeting, there were yet smaller Coke bottles,
 
-997
+993
 01:08:41,840 --> 01:08:42,800
 seven ounces.
 
-998
+994
 01:08:43,640 --> 01:08:45,720
 The diet.
 
-999
+995
 01:08:45,720 --> 01:08:47,160
 Both.
 
-1000
+996
 01:08:47,160 --> 01:08:50,640
 But what?
 
-1001
+997
 01:08:50,640 --> 01:08:51,640
 Were they painted?
 
-1002
+998
 01:08:51,640 --> 01:08:52,640
 Oh, they were red.
 
-1003
+999
 01:08:52,640 --> 01:08:53,760
 They're red.
 
-1004
+1000
 01:08:53,760 --> 01:08:57,120
 They look like Coke cans, but they're seven ounce size.
 
-1005
+1001
 01:09:00,240 --> 01:09:05,160
 So an excess budget was $7.7 billion.
 
-1006
+1002
 01:09:05,160 --> 01:09:06,400
 Oh, that's more than I thought.
 
-1007
+1003
 01:09:12,800 --> 01:09:13,800
 Can you mix?
 
-1008
+1004
 01:09:19,280 --> 01:09:22,280
 So whatever happened to massive parallelism?
 
-1009
+1005
 01:09:26,280 --> 01:09:29,440
 It used to be in the business.
 
-1010
+1006
 01:09:29,440 --> 01:09:33,280
 Well, I think the Watson is, how many processors
 
-1011
+1007
 01:09:33,280 --> 01:09:36,200
 does it claim to use?
 
-1012
+1008
 01:09:36,200 --> 01:09:39,440
 I don't know, a couple thousand.
 
-1013
+1009
 01:09:39,440 --> 01:09:41,800
 It has 16 terabytes of RAM, and each processor
 
-1014
+1010
 01:09:41,800 --> 01:09:45,880
 can only index, what, 64 gigabytes.
 
-1015
+1011
 01:09:45,880 --> 01:09:49,520
 So that's at least hundreds of processors.
 
-1016
+1012
 01:09:52,960 --> 01:09:55,560
 There are a lot of interesting problems
 
-1017
+1013
 01:09:55,560 --> 01:09:58,600
 that can't be solved with parallelism.
 
-1018
+1014
 01:09:58,600 --> 01:10:07,160
 So if you put, depends on the geometry of your search trees.
 
-1019
+1015
 01:10:07,160 --> 01:10:13,640
 So if a process is going to require a great many steps,
 
-1020
+1016
 01:10:13,640 --> 01:10:25,160
 then parallelism is hard to, sequential steps.
 
-1021
+1017
 01:10:25,160 --> 01:10:27,880
 Then parallelism can't help much.
 
-1022
+1018
 01:10:27,880 --> 01:10:30,880
 But I don't know what's happened.
 
-1023
+1019
 01:10:30,880 --> 01:10:37,880
 And then you see an announcement that somebody
 
-1024
+1020
 01:10:37,880 --> 01:10:42,760
 in some country has the biggest computer at the moment.
 
-1025
+1021
 01:10:42,760 --> 01:10:46,880
 And it's usually a few hundred or thousand processors
 
-1026
+1022
 01:10:46,880 --> 01:10:49,080
 that they got somewhere else.
 
-1027
+1023
 01:10:49,080 --> 01:10:53,720
 So I haven't heard of any attempt
 
-1028
+1024
 01:10:53,720 --> 01:10:58,920
 to make a really colossal machine.
 
-1029
+1025
 01:10:58,920 --> 01:11:04,000
 Neil Gershenfeld had a project here
 
-1030
+1026
 01:11:04,000 --> 01:11:10,840
 in which he hoped to make an extremely
 
-1031
+1027
 01:11:10,840 --> 01:11:17,680
 efficient and inexpensive super parallel computer.
 
-1032
+1028
 01:11:17,680 --> 01:11:21,240
 It turned out that it was hard to do
 
-1033
+1029
 01:11:21,240 --> 01:11:26,000
 some kinds of operations like recursion in that architecture.
 
-1034
+1030
 01:11:26,000 --> 01:11:30,720
 But does anybody know what's happened lately?
 
-1035
+1031
 01:11:30,720 --> 01:11:32,240
 Is that project still going?
 
-1036
+1032
 01:11:32,240 --> 01:11:34,520
 It is not.
 
-1037
+1033
 01:11:34,520 --> 01:11:37,040
 Just stopped.
 
-1038
+1034
 01:11:37,040 --> 01:11:40,560
 David was a vital part of it.
 
-1039
+1035
 01:11:40,560 --> 01:11:41,320
 So he can.
 
-1040
+1036
 01:11:41,320 --> 01:11:43,200
 It's me.
 
-1041
+1037
 01:11:43,200 --> 01:11:44,800
 Someday he'll tell the story.
 
-1042
+1038
 01:11:47,960 --> 01:11:51,080
 So the whole lava machine project is stuck?
 
-1043
+1039
 01:11:51,080 --> 01:11:54,400
 Yes, I think everyone involved has acknowledged at this point
 
-1044
+1040
 01:11:54,400 --> 01:11:55,600
 that it's not very efficient.
 
-1045
+1041
 01:11:59,000 --> 01:12:00,560
 But the demos were really pretty.
 
-1046
+1042
 01:12:10,840 --> 01:12:14,760
 Yes, it would be nice to know what the brain does
 
-1047
+1043
 01:12:14,760 --> 01:12:17,960
 and how parallel it is.
 
-1048
+1044
 01:12:17,960 --> 01:12:26,200
 And I won't repeat my complaints about neuroscientists.
 
-1049
+1045
 01:12:26,200 --> 01:12:32,960
 But generally, we don't see architectural theories
 
-1050
+1046
 01:12:32,960 --> 01:12:36,560
 of what the brain centers do, except
 
-1051
+1047
 01:12:36,560 --> 01:12:45,400
 in the beautiful cases of the cerebellum, which is maybe
 
-1052
+1048
 01:12:45,400 --> 01:12:46,600
 fairly well understood.
 
-1053
+1049
 01:12:47,040 --> 01:12:51,280
 The visual cortex, which is fairly well understood,
 
-1054
+1050
 01:12:51,280 --> 01:12:53,880
 at least at the first stages.
 
-1055
+1051
 01:12:53,880 --> 01:12:56,160
 But there aren't any theories.
 
-1056
+1052
 01:12:56,160 --> 01:12:58,600
 I've never seen any good theories
 
-1057
+1053
 01:12:58,600 --> 01:13:02,320
 of how different brain centers communicate.
 
-1058
+1054
 01:13:02,320 --> 01:13:05,720
 We know that there are these bundles of wires.
 
-1059
+1055
 01:13:05,720 --> 01:13:09,080
 But we don't know if they're like K lines or ZETO
 
-1060
+1056
 01:13:09,080 --> 01:13:11,800
 coding or whatever.
 
-1061
+1057
 01:13:11,800 --> 01:13:18,640
 And I'm afraid most of the papers I read
 
-1062
+1058
 01:13:18,640 --> 01:13:21,440
 go the other direction and say there's
 
-1063
+1059
 01:13:21,440 --> 01:13:25,480
 much more in the glial cells that support the neurons
 
-1064
+1060
 01:13:25,480 --> 01:13:28,800
 than anybody ever suspected.
 
-1065
+1061
 01:13:28,800 --> 01:13:31,280
 And that's sort of mystical.
 
-1066
+1062
 01:13:34,920 --> 01:13:37,040
 It's like saying that the paint on the car
 
-1067
+1063
 01:13:37,040 --> 01:13:38,160
 is the important part.
 
-1068
+1064
 01:13:39,160 --> 01:13:42,360
 Well, in your book, you mentioned
 
-1069
+1065
 01:13:42,360 --> 01:13:45,120
 that the higher level processes are
 
-1070
+1066
 01:13:45,120 --> 01:13:51,120
 more likely to be sequential, not parallel,
 
-1071
+1067
 01:13:51,120 --> 01:13:57,160
 because it takes a lot of resources to build them
 
-1072
+1068
 01:13:57,160 --> 01:13:59,080
 and to support them.
 
-1073
+1069
 01:13:59,080 --> 01:14:04,520
 I found that also when you're trying to fall asleep,
 
-1074
+1070
 01:14:04,520 --> 01:14:06,560
 if you activate your higher level resources,
 
-1075
+1071
 01:14:06,560 --> 01:14:10,040
 like say from self-reflective and up,
 
-1076
+1072
 01:14:10,040 --> 01:14:13,720
 if you started reflecting, it's almost impossible
 
-1077
+1073
 01:14:13,720 --> 01:14:15,520
 to fall asleep.
 
-1078
+1074
 01:14:15,520 --> 01:14:18,720
 It's almost like you're only able to fall asleep
 
-1079
+1075
 01:14:18,720 --> 01:14:21,400
 when those are resting.
 
-1080
+1076
 01:14:21,400 --> 01:14:24,680
 And your lower level processes are the only ones that are active.
 
-1081
+1077
 01:14:24,680 --> 01:14:27,200
 You say you can't fall asleep when you're reflecting?
 
-1082
+1078
 01:14:27,200 --> 01:14:27,700
 Yeah.
 
-1083
+1079
 01:14:32,680 --> 01:14:34,200
 Feynman says the opposite, right?
 
-1084
+1080
 01:14:34,200 --> 01:14:35,880
 He had the whole entire stage of his life
 
-1085
+1081
 01:14:35,880 --> 01:14:38,840
 where he sort of reflected as he was going to sleep
 
-1086
+1082
 01:14:38,840 --> 01:14:42,480
 and was able to sort of control his dreams.
 
-1087
+1083
 01:14:42,480 --> 01:14:44,680
 Well, there are people.
 
-1088
+1084
 01:14:44,680 --> 01:14:46,960
 What do you call control dreaming?
 
-1089
+1085
 01:14:46,960 --> 01:14:48,400
 Lucid dreaming.
 
-1090
+1086
 01:14:48,400 --> 01:14:49,360
 What's the word?
 
-1091
+1087
 01:14:49,360 --> 01:14:50,240
 Lucid.
 
-1092
+1088
 01:14:50,240 --> 01:14:53,960
 Lucid dreaming, where you can program yourself
 
-1093
+1089
 01:14:53,960 --> 01:14:55,760
 for a particular topic.
 
-1094
+1090
 01:14:55,760 --> 01:14:58,120
 How many of you can do that?
 
-1095
+1091
 01:14:58,120 --> 01:14:59,440
 One, two, three.
 
-1096
+1092
 01:14:59,440 --> 01:14:59,940
 Four.
 
-1097
+1093
 01:15:03,520 --> 01:15:07,080
 It would be boring to have the same dream every time.
 
-1098
+1094
 01:15:07,080 --> 01:15:10,720
 I mean, like recognizing what kind of thinking
 
-1099
+1095
 01:15:10,720 --> 01:15:16,000
 is going on in yourself or trying to recognize.
 
-1100
+1096
 01:15:19,120 --> 01:15:22,400
 Well, a good question is how much of dreaming is thinking
 
-1101
+1097
 01:15:22,400 --> 01:15:25,960
 and how different is it from regular thinking?
 
-1102
+1098
 01:15:25,960 --> 01:15:28,160
 Is it just that you've turned some critics off?
 
-1103
+1099
 01:15:33,120 --> 01:15:37,200
 I don't think neuroscientists have critics, though, yet.
 
-1104
+1100
 01:15:37,200 --> 01:15:39,560
 You know, John Cox's theory of dreams?
 
-1105
+1101
 01:15:39,560 --> 01:15:41,880
 No.
 
-1106
+1102
 01:15:41,880 --> 01:15:43,840
 OK.
 
-1107
+1103
 01:15:43,840 --> 01:15:48,080
 John Cox's theory of dreams goes like this.
 
-1108
+1104
 01:15:48,080 --> 01:15:53,000
 If you imagine that we have an optimal encoder that
 
-1109
+1105
 01:15:53,000 --> 01:15:59,680
 stores things away by optimally encoding it, OK, well,
 
-1110
+1106
 01:15:59,680 --> 01:16:02,040
 then you have to have the decoder.
 
-1111
+1107
 01:16:02,040 --> 01:16:06,840
 But if it's an optimal encoder, then any random noise
 
-1112
+1108
 01:16:06,840 --> 01:16:12,040
 would decode into a plausible sequence of events.
 
-1113
+1109
 01:16:12,040 --> 01:16:18,720
 And if you happen to hear a barking dog while you're asleep,
 
-1114
+1110
 01:16:18,720 --> 01:16:23,320
 that fact can be incorporated into the dream
 
-1115
+1111
 01:16:23,320 --> 01:16:28,000
 by that same mechanism with the optimal decoding.
 
-1116
+1112
 01:16:28,000 --> 01:16:33,440
 So something I received over on a phone call
 
-1117
+1113
 01:16:33,440 --> 01:16:35,840
 once a long time ago.
 
-1118
+1114
 01:16:35,840 --> 01:16:38,680
 So if you were in an anechoic chamber,
 
-1119
+1115
 01:16:38,680 --> 01:16:42,440
 maybe you would not have such good dreams
 
-1120
+1116
 01:16:42,440 --> 01:16:45,120
 because you wouldn't get any external signals.
 
-1121
+1117
 01:16:48,800 --> 01:16:50,800
 Right.
 
-1122
+1118
 01:16:50,800 --> 01:16:55,440
 Well, your brain can probably make quite a lot of noise
 
-1123
+1119
 01:16:55,440 --> 01:16:58,440
 that we have not.
 
-1124
+1120
 01:16:58,440 --> 01:17:01,920
 So I don't think you need to have somatic signals
 
-1125
+1121
 01:17:01,920 --> 01:17:04,400
 to have that kind of a.
 
-1126
+1122
 01:17:04,400 --> 01:17:05,320
 You don't need that.
 
-1127
+1123
 01:17:05,320 --> 01:17:08,840
 The only point is it can be incorporated into a dream.
 
-1128
+1124
 01:17:08,840 --> 01:17:10,280
 And that does happen.
 
-1129
+1125
 01:17:10,280 --> 01:17:14,600
 When you're dreaming and there's some particular sound,
 
-1130
+1126
 01:17:14,600 --> 01:17:17,480
 like a fire engine going by, it does
 
-1131
+1127
 01:17:17,480 --> 01:17:21,400
 get incorporated into your dream, at least in my case.
 
-1132
+1128
 01:17:24,320 --> 01:17:29,400
 So his mechanism explains that.
 
-1133
+1129
 01:17:29,400 --> 01:17:31,760
 John Cock was a friend of ours who
 
-1134
+1130
 01:17:31,760 --> 01:17:36,760
 was a first-rate mathematician who worked at IBM.
 
-1135
+1131
 01:17:36,760 --> 01:17:38,960
 He was a great computer architect.
 
-1136
+1132
 01:17:38,960 --> 01:17:45,840
 And he designed the PowerPC series of CPUs.
 
-1137
+1133
 01:17:45,960 --> 01:17:54,800
 So he invented risk architecture and improved my theorem tag.
 
-1138
+1134
 01:17:58,840 --> 01:18:00,440
 I published a paper with him.
 
-1139
+1135
 01:18:07,440 --> 01:18:09,400
 The projector isn't on right now.
 
-1140
+1136
 01:18:10,040 --> 01:18:12,600
 So you know.
 
-1141
+1137
 01:18:12,600 --> 01:18:14,760
 I don't have anything new to say.
 
-1142
+1138
 01:18:19,920 --> 01:18:22,120
 It usually shuts off at 830.
 
-1143
+1139
 01:18:22,120 --> 01:18:22,620
 What?
 
-1144
+1140
 01:18:22,620 --> 01:18:23,720
 815.
 
-1145
+1141
 01:18:23,720 --> 01:18:24,440
 815?
 
-1146
+1142
 01:18:24,440 --> 01:18:24,940
 815.
 
-1147
+1143
 01:18:24,940 --> 01:18:25,440
 815.
 
-1148
+1144
 01:18:25,440 --> 01:18:27,940
 Oh.
 
-1149
+1145
 01:18:27,940 --> 01:18:29,920
 That's the program audio we just muted.
 
-1150
+1146
 01:18:35,920 --> 01:18:38,880
 While the projector's going, I have a question.
 
-1151
+1147
 01:18:38,880 --> 01:18:44,080
 Do you think it's necessary for intelligence beings to sleep?
 
-1152
+1148
 01:18:44,080 --> 01:18:47,440
 And if so, do you think future AI will be required to sleep?
 
-1153
+1149
 01:18:52,240 --> 01:18:55,960
 That's a great question, because I
 
-1154
+1150
 01:18:55,960 --> 01:19:00,080
 don't think anyone really understands
 
-1155
+1151
 01:19:00,080 --> 01:19:01,440
 why sleep is necessary.
 
-1156
+1152
 01:19:01,440 --> 01:19:14,960
 I mean, maybe it's to empty buffers that have gotten stuck.
 
-1157
+1153
 01:19:14,960 --> 01:19:18,440
 You can make up computer-like theories,
 
-1158
+1154
 01:19:18,440 --> 01:19:20,160
 but I don't think there's.
 
-1159
+1155
 01:19:20,160 --> 01:19:23,280
 I've never heard of any theory that
 
-1160
+1156
 01:19:23,280 --> 01:19:25,280
 comes along with some evidence.
 
-1161
+1157
 01:19:25,280 --> 01:19:28,040
 Do you have a?
 
-1162
+1158
 01:19:28,040 --> 01:19:34,960
 They say it's good for memory, so maybe when you create your K
 
-1163
+1159
 01:19:34,960 --> 01:19:40,480
 lines, when you're seeing stuff, you create your K lines,
 
-1164
+1160
 01:19:40,480 --> 01:19:45,160
 and it's not the optimal way, or I don't know.
 
-1165
+1161
 01:19:45,160 --> 01:19:50,140
 Oh, the standard theory is that REM sleep
 
-1166
+1162
 01:19:50,140 --> 01:19:56,800
 is necessary to transfer records into long-term memory,
 
-1167
+1163
 01:19:56,800 --> 01:19:58,840
 from short-term memory.
 
-1168
+1164
 01:19:58,840 --> 01:20:03,560
 I don't know if anyone has a theory of how that works,
 
-1169
+1165
 01:20:03,560 --> 01:20:08,920
 though, so it's how do you decide,
 
-1170
+1166
 01:20:08,920 --> 01:20:12,400
 how do you root a representation of knowledge
 
-1171
+1167
 01:20:12,400 --> 01:20:16,680
 from the hippocampus, or the amygdala,
 
-1172
+1168
 01:20:16,680 --> 01:20:19,840
 or wherever it's stored in short-term memory?
 
-1173
+1169
 01:20:19,840 --> 01:20:22,880
 I think it's the amygdala, supposedly.
 
-1174
+1170
 01:20:22,920 --> 01:20:27,320
 And how does it find a place in the larger brain,
 
-1175
+1171
 01:20:27,320 --> 01:20:32,360
 and what representation does it have, and so forth?
 
-1176
+1172
 01:20:32,360 --> 01:20:35,240
 I've never seen any.
 
-1177
+1173
 01:20:35,240 --> 01:20:37,200
 I don't read that literature much,
 
-1178
+1174
 01:20:37,200 --> 01:20:41,680
 but I don't know of any popular theory
 
-1179
+1175
 01:20:41,680 --> 01:20:46,880
 of how knowledge is represented in short-term memory
 
-1180
+1176
 01:20:46,880 --> 01:20:50,280
 and later in long-term, and how it's transferred,
 
-1181
+1177
 01:20:50,280 --> 01:20:56,000
 and what the locations are, and what determines them.
 
-1182
+1178
 01:20:56,000 --> 01:21:03,240
 Any of you had any contact with that side of neuroscience?
 
-1183
+1179
 01:21:09,040 --> 01:21:12,200
 I guess one standard computer analogy for dreaming
 
-1184
+1180
 01:21:12,200 --> 01:21:13,460
 is garbage collection.
 
-1185
+1181
 01:21:13,460 --> 01:21:18,200
 So you can talk about copying and copying garbage collection,
 
-1186
+1182
 01:21:18,360 --> 01:21:21,800
 so you could imagine it's some kind of copying garbage
 
-1187
+1183
 01:21:21,800 --> 01:21:22,280
 collection.
 
-1188
+1184
 01:21:26,280 --> 01:21:29,000
 Yes, when do animals start sleeping?
 
-1189
+1185
 01:21:32,120 --> 01:21:33,440
 Do crocodiles sleep?
 
-1190
+1186
 01:21:38,120 --> 01:21:41,000
 We could ask Google.
 
-1191
+1187
 01:21:41,000 --> 01:21:42,200
 What do they dream about?
 
-1192
+1188
 01:21:43,200 --> 01:21:47,200
 Well, porpoises are interesting.
 
-1193
+1189
 01:21:47,200 --> 01:21:49,200
 They sleep after rain and time.
 
-1194
+1190
 01:21:49,200 --> 01:21:50,520
 Right.
 
-1195
+1191
 01:21:50,520 --> 01:21:52,320
 Porpoises and albatrosses.
 
-1196
+1192
 01:21:55,320 --> 01:21:56,800
 If they didn't, they would drown.
 
-1197
+1193
 01:21:59,800 --> 01:22:04,240
 Have you ever seen an albatross take off?
 
-1198
+1194
 01:22:04,240 --> 01:22:05,680
 Usually takes four tries.
 
-1199
+1195
 01:22:08,360 --> 01:22:10,600
 It falls over, and it's lucky.
 
-1200
+1196
 01:22:10,600 --> 01:22:12,440
 That's an Android stream of electric sheep.
 
-1201
+1197
 01:22:15,560 --> 01:22:19,280
 It's lucky it doesn't break its neck.
 
-1202
+1198
 01:22:19,280 --> 01:22:22,200
 It runs as fast as it can and falls over.
 
-1203
+1199
 01:22:25,960 --> 01:22:30,160
 Wasn't that the story that became Blade Runner?
 
-1204
+1200
 01:22:30,160 --> 01:22:30,640
 Oh.
 
-1205
+1201
 01:22:30,640 --> 01:22:35,120
 Android stream of electric sheep by Philip K. Dick, right?
 
-1206
+1202
 01:22:35,120 --> 01:22:36,480
 Yes.
 
-1207
+1203
 01:22:36,480 --> 01:22:40,080
 Did they sleep in?
 
-1208
+1204
 01:22:40,080 --> 01:22:41,440
 The replicants?
 
-1209
+1205
 01:22:41,440 --> 01:22:41,940
 Yeah.
 
-1210
+1206
 01:23:02,040 --> 01:23:03,000
 It came back.
 
-1211
+1207
 01:23:03,040 --> 01:23:03,540
 Come on.
 
-1212
+1208
 01:23:09,040 --> 01:23:09,540
 Binsky?
 
-1213
+1209
 01:23:13,520 --> 01:23:15,520
 I want to see something in chapter 5.
 
-1214
+1210
 01:23:18,520 --> 01:23:20,520
 That has to do with dreams.
 
-1215
+1211
 01:23:30,000 --> 01:23:31,000
 That's interesting.
 
-1216
+1212
 01:23:34,000 --> 01:23:38,000
 How far back do you have to go before that looks like?
 
-1217
+1213
 01:23:45,000 --> 01:23:46,000
 No.
 
-1218
+1214
 01:23:46,000 --> 01:23:47,000
 What?
 
-1219
+1215
 01:23:47,000 --> 01:23:48,000
 I'm teasing.
 
-1220
+1216
 01:23:48,000 --> 01:23:50,000
 I wouldn't recognize it either, would I?
 
-1221
+1217
 01:23:50,000 --> 01:23:51,000
 Up there you go.
 
-1222
+1218
 01:23:55,000 --> 01:23:58,000
 It really looked like when I swung my monitor past it.
 
-1223
+1219
 01:23:58,000 --> 01:24:00,000
 But looking at my eyes, it doesn't do the same thing.
 
-1224
+1220
 01:24:04,000 --> 01:24:08,000
 Can Google recognize faces yet?
 
-1225
+1221
 01:24:08,000 --> 01:24:09,000
 Facebook?
 
-1226
+1222
 01:24:09,000 --> 01:24:12,000
 It can search based on images.
 
-1227
+1223
 01:24:12,000 --> 01:24:14,000
 So you can upload an image and say,
 
-1228
+1224
 01:24:14,000 --> 01:24:16,000
 find an image like this one.
 
-1229
+1225
 01:24:16,000 --> 01:24:18,000
 And I think it just does it by color selection
 
-1230
+1226
 01:24:18,000 --> 01:24:20,000
 of sheep and the general thing.
 
-1231
+1227
 01:24:20,000 --> 01:24:24,000
 And then if they use face recognition technology,
 
-1232
+1228
 01:24:24,000 --> 01:24:26,000
 there would be a danger of violating all sorts of laws.
 
-1233
+1229
 01:24:26,000 --> 01:24:28,000
 So they make sure that whatever they do,
 
-1234
+1230
 01:24:28,000 --> 01:24:31,000
 it's officially not face recognition.
 
-1235
+1231
 01:24:31,000 --> 01:24:34,000
 Martin, there's another question.
 
-1236
+1232
 01:24:34,000 --> 01:24:40,000
 So neuroscience now, they have some sort of apparatus
 
-1237
+1233
 01:24:40,000 --> 01:24:44,000
 or tools that I believe they can recognize,
 
-1238
+1234
 01:24:44,000 --> 01:24:48,000
 like the waves, like the lateral magnetic waves
 
-1239
+1235
 01:24:48,000 --> 01:24:49,000
 in your brains.
 
-1240
+1236
 01:24:49,000 --> 01:24:53,000
 Do you think we need more powerful tools?
 
-1241
+1237
 01:24:53,000 --> 01:24:55,000
 Or is it just that they're not asking
 
-1242
+1238
 01:24:55,000 --> 01:24:57,000
 the right questions?
 
-1243
+1239
 01:24:57,000 --> 01:24:59,000
 Yeah, that's the question.
 
-1244
+1240
 01:24:59,000 --> 01:25:03,000
 Because you said that the neurons just transmit
 
-1245
+1241
 01:25:03,000 --> 01:25:05,000
 a certain voltage.
 
-1246
+1242
 01:25:05,000 --> 01:25:07,000
 And maybe what we just need to study
 
-1247
+1243
 01:25:07,000 --> 01:25:11,000
 is these patterns of these wave signals
 
-1248
+1244
 01:25:11,000 --> 01:25:14,000
 that we send between neurons.
 
-1249
+1245
 01:25:14,000 --> 01:25:20,000
 And it doesn't seem that hard to detect that.
 
-1250
-01:25:21,000 --> 01:25:22,000
-Information.
+1246
+01:25:20,000 --> 01:25:21,000
+The information watching.
 
-1251
-01:25:22,000 --> 01:25:24,000
-Martin is carrying a microphone on.
+1247
+01:25:21,000 --> 01:25:23,000
+Why are they على microphone now?
 
-1252
-01:25:24,000 --> 01:25:25,000
-Does that trickle up?
+1248
+01:25:23,000 --> 01:25:24,440
+Because I turned that off?
 
-1253
-01:25:25,000 --> 01:25:26,000
+1249
+01:25:24,440 --> 01:25:25,400
 It's in your pocket.
 
+1250
+01:25:31,000 --> 01:25:31,480
+It's amazing.
+
+1251
+01:25:35,000 --> 01:25:36,000
+How could it change the sustain.
+
+1252
+01:25:36,000 --> 01:25:39,000
+How do we change that factor that watched?
+
+1253
+01:25:39,000 --> 01:25:44,000
+I mean, if we see micro personality of a creature,
+
 1254
-01:25:35,000 --> 01:25:38,000
-How could it change the system?
+01:25:44,000 --> 01:25:49,000
+and get behind an emotional state of mind,
 
 1255
-01:25:38,000 --> 01:25:40,000
-So it could be the brain.
-
-1256
-01:25:40,000 --> 01:25:41,000
-It could be the brain.
-
-1257
-01:25:41,000 --> 01:25:43,000
-So it could be the brain.
-
-1258
-01:25:43,000 --> 01:25:45,000
-It could be the brain.
-
-1259
-01:25:45,000 --> 01:25:47,000
-So it could be the brain.
-
-1260
-01:25:47,000 --> 01:25:51,200
+01:25:49,000 --> 01:25:51,200
 How could it change the switch in my pocket?
 
-1261
+1256
 01:25:57,760 --> 01:26:00,560
 All of the current scanning instruments
 
-1262
+1257
 01:26:00,560 --> 01:26:03,280
 are very low resolution.
 
-1263
+1258
 01:26:03,280 --> 01:26:10,800
 So if you had something like if one of those white matter
 
-1264
+1259
 01:26:10,800 --> 01:26:15,920
 bundles going from one part of the brain to another
 
-1265
-01:26:15,920 --> 01:26:22,200
+1260
+01:26:15,920 --> 01:26:22,320
 has 10,000 signals, you can't resolve any of those.
 
-1266
-01:26:22,200 --> 01:26:28,160
+1261
+01:26:22,320 --> 01:26:28,160
 So there might be lots of bits going along one
 
-1267
+1262
 01:26:28,160 --> 01:26:31,200
 of these fiber bundles.
 
-1268
+1263
 01:26:31,200 --> 01:26:39,040
 And all you can see with the brain scanning techniques
 
-1269
+1264
 01:26:39,040 --> 01:26:50,360
 is a change in metabolism of a fairly large pixel.
 
-1270
+1265
 01:26:53,320 --> 01:26:56,080
 You're not seeing the signals themselves.
 
-1271
+1266
 01:26:56,080 --> 01:26:59,800
 You're seeing the average of thousands of signals.
 
-1272
+1267
 01:26:59,800 --> 01:27:04,160
 So it's going to be very hard until you actually
 
-1273
+1268
 01:27:04,160 --> 01:27:09,960
 stick a lot of needles in one of those pathways.
 
-1274
+1269
 01:27:09,960 --> 01:27:16,360
 And probably somebody will be able to invent some not very
 
-1275
+1270
 01:27:16,360 --> 01:27:19,520
 dangerous way of doing that, but there aren't any now.
 
-1276
+1271
 01:27:22,280 --> 01:27:24,880
 They put fairly high resolution things
 
-1277
+1272
 01:27:24,880 --> 01:27:27,300
 on the surface of the cortex.
 
-1278
+1273
 01:27:27,300 --> 01:27:31,600
 And that way, you can get a lot of information,
 
-1279
+1274
 01:27:31,600 --> 01:27:33,040
 but not through the skull.
 
-1280
+1275
 01:27:36,120 --> 01:27:36,620
 Anyway.
 
-1281
+1276
 01:27:40,600 --> 01:27:45,640
 So I think what we have also was that we're also interested
 
-1282
+1277
 01:27:45,640 --> 01:27:53,480
 to hear if you believe that more advanced or more detailed
 
+1278
+01:27:53,480 --> 01:27:58,800
+images of the, well, I call it implementation
+
+1279
+01:27:58,800 --> 01:28:02,160
+of how the mind is implemented in our brains
+
+1280
+01:28:02,160 --> 01:28:05,320
+or the actual data, how helpful this
+
+1281
+01:28:05,320 --> 01:28:09,440
+would be in discovering the actual cognitive functions
+
+1282
+01:28:09,440 --> 01:28:14,480
+or brain central operation or whatever.
+
 1283
-01:27:53,480 --> 01:27:59,520
-images of the, well, I call it implementation of how
-
-1284
-01:27:59,520 --> 01:28:04,080
-the mind is implemented in our brains or the actual data.
-
-1285
-01:28:04,080 --> 01:28:07,080
-How helpful this would be in discovering
-
-1286
-01:28:07,080 --> 01:28:11,360
-the actual cognitive functions or brain central operation
-
-1287
-01:28:11,360 --> 01:28:14,520
-or whatever.
-
-1288
-01:28:14,520 --> 01:28:16,440
+01:28:14,480 --> 01:28:16,440
 Well, it's a very hard.
 
-1289
+1284
 01:28:16,440 --> 01:28:18,480
 No, too little to answer that question.
 
-1290
+1285
 01:28:21,160 --> 01:28:23,720
 It's just very hard to see how you
 
-1291
-01:28:23,720 --> 01:28:27,080
+1286
+01:28:23,720 --> 01:28:27,040
 could get thousands of electrical signals out.
 
-1292
-01:28:29,520 --> 01:28:35,760
-So for example, there's a big channel
+1287
+01:28:29,500 --> 01:28:35,760
+For example, there's a big channel
 
-1293
+1288
 01:28:35,760 --> 01:28:38,880
 between the speech recognition area
 
-1294
-01:28:38,880 --> 01:28:41,920
+1289
+01:28:38,880 --> 01:28:41,600
 and the speech production area.
 
-1295
-01:28:41,920 --> 01:28:42,960
-Forget what it's called.
+1290
+01:28:41,600 --> 01:28:42,960
+I forget what it's called.
 
-1296
+1291
 01:28:45,840 --> 01:28:49,440
 It would be wonderful to know what's
 
-1297
+1292
 01:28:49,440 --> 01:28:53,240
 happening on those many thousands of fibers.
 
-1298
+1293
 01:28:53,240 --> 01:28:56,280
 And then you could probably discover
 
-1299
+1294
 01:28:56,280 --> 01:29:00,960
 how words or syntactic structures are represented.
 
-1300
+1295
 01:29:00,960 --> 01:29:05,020
 If you could just see what's actually
 
-1301
+1296
 01:29:05,020 --> 01:29:06,480
 happening on those neurons.
 
-1302
+1297
 01:29:11,120 --> 01:29:14,840
 Somebody will invent some three-dimensional scanner someday.
 
-1303
+1298
 01:29:14,840 --> 01:29:20,800
 But right now, it takes too much energy.
 
-1304
+1299
 01:29:20,800 --> 01:29:27,800
 And it would ruin everything.
 
-1305
+1300
 01:29:36,000 --> 01:29:39,960
 So yes, I recently read a report online about a study done
 
-1306
+1301
 01:29:39,960 --> 01:29:41,120
 at UC Berkeley.
 
-1307
+1302
 01:29:41,120 --> 01:29:43,520
 I don't know if you've heard of it.
 
-1308
+1303
 01:29:43,520 --> 01:29:46,560
 But the idea is that they supposedly
 
-1309
+1304
 01:29:46,560 --> 01:29:50,520
 found a way to make scans of brainwaves
 
-1310
+1305
 01:29:50,520 --> 01:29:54,200
 and visualize it using fMRI software.
 
-1311
+1306
 01:29:54,200 --> 01:29:58,840
 I think the idea was that certain brainwaves could
 
-1312
+1307
 01:29:58,840 --> 01:30:02,160
 be associated with certain images.
 
-1313
+1308
 01:30:02,160 --> 01:30:03,800
 Associated with what?
 
-1314
+1309
 01:30:03,800 --> 01:30:06,040
 Certain brainwaves would be associated
 
-1315
+1310
 01:30:06,040 --> 01:30:08,240
 with certain shapes.
 
-1316
+1311
 01:30:08,240 --> 01:30:13,880
 And I think I actually have the report right in front of me.
 
-1317
+1312
 01:30:13,880 --> 01:30:19,680
 But basically, they showed test subjects two different,
 
-1318
+1313
 01:30:19,680 --> 01:30:22,800
 I think it was hour-long YouTube videos.
 
-1319
+1314
 01:30:22,800 --> 01:30:31,320
 And on this website, they showed the YouTube video
 
-1320
+1315
 01:30:31,320 --> 01:30:33,720
 that the test subject was shown.
 
-1321
+1316
 01:30:33,720 --> 01:30:39,920
 And the simulated image that was derived
 
-1322
+1317
 01:30:39,920 --> 01:30:43,720
 from the brainwaves of the particular subject.
 
-1323
+1318
 01:30:43,720 --> 01:30:48,520
 Is that an image of what the patient is
 
-1324
+1319
 01:30:48,520 --> 01:30:50,560
 looking at at the moment?
 
-1325
+1320
 01:30:50,560 --> 01:30:54,320
 Or is it a mad one that he's thinking about?
 
-1326
+1321
 01:30:54,320 --> 01:30:56,080
 It seemed to be a combination of both.
 
-1327
+1322
 01:30:56,080 --> 01:31:03,920
 Because when I looked at the video, for just generic shapes,
 
-1328
+1323
 01:31:03,920 --> 01:31:05,560
 it would match up pretty easily.
 
-1329
+1324
 01:31:05,560 --> 01:31:11,640
 But when it was zooming in on someone's profile,
 
-1330
+1325
 01:31:11,640 --> 01:31:16,080
 the image was very difficult to render.
 
-1331
+1326
 01:31:16,120 --> 01:31:19,960
 I can show you the link if you want to take a look at it.
 
-1332
+1327
 01:31:19,960 --> 01:31:28,080
 Well, if you open up, if you take off a piece of skull
 
-1333
+1328
 01:31:28,080 --> 01:31:37,520
 and look at the visual, the primary visual cortex, which
 
-1334
+1329
 01:31:37,520 --> 01:31:43,040
 is called area 17 for no particular reason.
 
-1335
+1330
 01:31:47,080 --> 01:31:55,240
 Then if you're operating on an epileptic patient or something,
 
-1336
+1331
 01:31:55,240 --> 01:31:58,520
 someone like that, then while you're doing the operation,
 
-1337
+1332
 01:31:58,520 --> 01:32:03,960
 you can put an array of a lot of electrodes,
 
-1338
+1333
 01:32:03,960 --> 01:32:08,800
 say 20 by 20 array or even more.
 
-1339
+1334
 01:32:08,800 --> 01:32:12,440
 And in the primary visual cortex,
 
-1340
+1335
 01:32:12,440 --> 01:32:18,360
 you can get an image because this piece of cortex
 
-1341
+1336
 01:32:18,360 --> 01:32:26,240
 goes right to the optic nerve and gets signals
 
-1342
+1337
 01:32:26,240 --> 01:32:27,400
 from the back of the eye.
 
-1343
+1338
 01:32:31,640 --> 01:32:33,800
 But in a sense, that doesn't tell you much
 
-1344
+1339
 01:32:33,800 --> 01:32:36,280
 because you know that the image has
 
-1345
+1340
 01:32:36,280 --> 01:32:39,480
 to get inside the head somehow.
 
-1346
+1341
 01:32:39,480 --> 01:32:45,760
 And the real question is more what's
 
-1347
+1342
 01:32:45,760 --> 01:32:50,880
 happening in the next two areas, 18 and 19,
 
-1348
+1343
 01:32:50,880 --> 01:32:56,400
 which do all sorts of processing.
 
-1349
+1344
 01:32:56,400 --> 01:33:00,080
 But you can't get an image from them, or at least as far
 
-1350
+1345
 01:33:00,080 --> 01:33:03,000
 as I know, nobody has.
 
-1351
+1346
 01:33:03,000 --> 01:33:07,440
 Also, these images are being dated at about 10 per second.
 
-1352
+1347
 01:33:07,440 --> 01:33:15,640
 So you get movies, which is nice, from the primary cortex.
 
-1353
+1348
 01:33:15,640 --> 01:33:18,960
 I mean, do you think it would be possible to look at brain
 
-1354
+1349
 01:33:18,960 --> 01:33:23,680
 waves and try to determine what, if you record someone's
 
-1355
+1350
 01:33:23,680 --> 01:33:25,160
 brain waves while they're dreaming,
 
-1356
+1351
 01:33:25,160 --> 01:33:26,600
 do you think it would be possible to determine
 
-1357
+1352
 01:33:26,600 --> 01:33:27,960
 what they're dreaming about?
 
-1358
+1353
 01:33:27,960 --> 01:33:31,560
 Well, brain wave is a specific term
 
-1359
+1354
 01:33:31,560 --> 01:33:34,640
 for a very large scale event.
 
-1360
+1355
 01:33:34,640 --> 01:33:37,680
 So there's not much information in that.
 
-1361
+1356
 01:33:37,680 --> 01:33:39,840
 But if you could see the electrical activity
 
-1362
+1357
 01:33:39,840 --> 01:33:41,960
 in the brain, then you could.
 
-1363
+1358
 01:33:45,240 --> 01:33:49,600
 In other words, when the phrase brain wave stands for alpha,
 
-1364
+1359
 01:33:49,600 --> 01:33:53,880
 beta, and there's about four different types of waves,
 
-1365
+1360
 01:33:53,880 --> 01:33:58,800
 and those are very unlocalized, the reason they're interesting
 
-1366
+1361
 01:33:58,800 --> 01:34:02,960
 is that you can pick them up with a low,
 
-1367
+1362
 01:34:02,960 --> 01:34:06,000
 with an audio amplifier, I think,
 
-1368
+1363
 01:34:06,000 --> 01:34:12,000
 because they are resulting from firing
 
-1369
+1364
 01:34:12,000 --> 01:34:15,440
 a very large numbers of neurons.
 
-1370
+1365
 01:34:15,440 --> 01:34:20,720
 And so you get millivolts rather than microvolts.
 
-1371
+1366
 01:34:20,720 --> 01:34:24,320
 And it's easy to pick up outside the skull.
 
-1372
+1367
 01:34:24,320 --> 01:34:27,820
 But picking up the signals from large numbers
 
-1373
+1368
 01:34:27,820 --> 01:34:31,920
 of individual nerve cells has never really been feasible.
 
-1374
+1369
 01:34:33,600 --> 01:34:37,720
 And maybe it won't be so hard.
 
-1375
+1370
 01:34:37,720 --> 01:34:43,800
 In a few years, maybe you can make a little integrated
 
-1376
+1371
 01:34:43,800 --> 01:34:49,400
 circuit that has little synthesizing modules that
 
-1377
+1372
 01:34:49,400 --> 01:34:55,040
 make the tiny silver wires that are carbon fibers that
 
-1378
+1373
 01:34:55,040 --> 01:35:00,960
 go down into the brain and go around obstacles a little bit.
 
-1379
+1374
 01:35:00,960 --> 01:35:05,840
 And there's no reason why you couldn't
 
-1380
+1375
 01:35:05,840 --> 01:35:10,200
 have fibers of the order of a micron in size,
 
-1381
+1376
 01:35:10,200 --> 01:35:13,640
 1,000th of a millimeter, that could pick up
 
-1382
+1377
 01:35:13,640 --> 01:35:17,720
 very large numbers of signals without damaging the brain
 
-1383
+1378
 01:35:17,720 --> 01:35:18,240
 too much.
 
-1384
+1379
 01:35:22,840 --> 01:35:25,640
 I guess people working on nanotechnology
 
-1385
+1380
 01:35:25,640 --> 01:35:29,040
 are getting close to considering such things,
 
-1386
+1381
 01:35:29,040 --> 01:35:34,840
 because they are actually doing something very much like that.
 
-1387
+1382
 01:35:34,840 --> 01:35:37,720
 Is there any gadget that can make a carbon fiber
 
-1388
+1383
 01:35:37,720 --> 01:35:40,400
 under controlled conditions?
 
-1389
+1384
 01:35:40,400 --> 01:35:42,280
 Not really.
 
-1390
+1385
 01:35:42,280 --> 01:35:46,280
 You're not at the limiting point where you need nanotubes.
 
-1391
+1386
 01:35:46,280 --> 01:35:50,320
 He's building fibers of more like 10 micrometer diameter,
 
-1392
+1387
 01:35:50,320 --> 01:35:54,760
 which you can make using conventional technologies,
 
-1393
+1388
 01:35:54,760 --> 01:35:55,600
 almost like NEMS.
 
-1394
+1389
 01:35:56,520 --> 01:36:00,840
 So it's not down to the one micron level yet,
 
-1395
+1390
 01:36:00,840 --> 01:36:04,600
 but there's at least a few groups that are definitely
 
-1396
+1391
 01:36:04,600 --> 01:36:07,760
 thinking about how to get very large numbers of signals
 
-1397
+1392
 01:36:07,760 --> 01:36:10,240
 out of the brain by using thin fibers that
 
-1398
+1393
 01:36:10,240 --> 01:36:13,040
 go around obstacles a little bit.
 
-1399
+1394
 01:36:13,040 --> 01:36:14,560
 Well, if you could get a large number,
 
-1400
+1395
 01:36:14,560 --> 01:36:19,320
 it might not matter much where they're from, because nobody's
 
-1401
+1396
 01:36:19,320 --> 01:36:23,120
 ever seen any brain center working in great detail.
 
-1402
+1397
 01:36:23,120 --> 01:36:23,620
 Right.
 
-1403
+1398
 01:36:26,280 --> 01:36:27,920
 But you probably still wouldn't be
 
-1404
+1399
 01:36:27,920 --> 01:36:30,600
 able to get them close enough together
 
-1405
+1400
 01:36:30,600 --> 01:36:33,240
 to see any two neurons that are directly
 
-1406
+1401
 01:36:33,240 --> 01:36:35,280
 connected to each other.
 
-1407
+1402
 01:36:35,280 --> 01:36:38,520
 Also, you could put signals in and learn a lot.
 
-1408
+1403
 01:36:38,520 --> 01:36:40,520
 That's true.
 
-1409
+1404
 01:36:40,520 --> 01:36:43,320
 I have my own prejudice about this,
 
-1410
+1405
 01:36:43,320 --> 01:36:46,160
 but I think a lot of the interest in the brain
 
-1411
+1406
 01:36:46,160 --> 01:36:50,760
 is a lot like interest in how birds fly with regard
 
-1412
+1407
 01:36:50,760 --> 01:36:54,560
 to designing airplanes or inventing airplanes.
 
-1413
+1408
 01:36:54,560 --> 01:37:00,600
 So in inventing an airplane, the bird was a kind,
 
-1414
+1409
 01:37:00,600 --> 01:37:04,200
 especially a soaring bird, like a hawk,
 
-1415
+1410
 01:37:04,200 --> 01:37:07,440
 was a good thing to look at a little bit.
 
-1416
+1411
 01:37:07,440 --> 01:37:12,880
 But then studying the feathers and laying of eggs,
 
-1417
+1412
 01:37:12,880 --> 01:37:16,600
 if we had copied them, then a Boeing 747, after a while,
 
-1418
+1413
 01:37:16,600 --> 01:37:19,160
 would lay this egg and out would hatch another one, which
 
-1419
+1414
 01:37:19,160 --> 01:37:20,640
 you'd have to feed something.
 
-1420
+1415
 01:37:20,640 --> 01:37:22,920
 I don't know what.
 
-1421
+1416
 01:37:22,920 --> 01:37:26,360
 So it's the high-level principles
 
-1422
+1417
 01:37:26,360 --> 01:37:29,800
 we really need from the brain, not the low-level
 
-1423
+1418
 01:37:29,800 --> 01:37:31,200
 implementation.
 
-1424
+1419
 01:37:31,200 --> 01:37:33,680
 Now, what do you consider to be low-level?
 
-1425
+1420
 01:37:37,160 --> 01:37:38,160
 What?
 
-1426
+1421
 01:37:38,160 --> 01:37:40,360
 What do you consider low-level?
 
-1427
+1422
 01:37:40,360 --> 01:37:42,520
 What I consider, well, it's like,
 
-1428
+1423
 01:37:42,520 --> 01:37:46,560
-where do all these neurons go, and how are they interconnected
-[01:44:17.140 --> 01:44:19.980]  And so a great experiment, which would only cost a billion
-[01:44:19.980 --> 01:44:24.980]  dollars, would be to provide a million children,
-[01:44:24.980 --> 01:44:29.980]  two-year-olds with toys that have three parts or something
-[01:44:29.980 --> 01:44:33.620]  and see if they learn to count to three slightly sooner.
-[01:44:40.820 --> 01:44:43.100]  So this discussion made me think about the concept
-[01:44:43.100 --> 01:44:47.540]  of embodied cognition, which is the idea that because human
-[01:44:47.540 --> 01:44:50.620]  beings are born into a three-dimensional world
-[01:44:50.620 --> 01:44:55.620]  and are born with a body and with all the,
-[01:44:56.100 --> 01:44:58.940]  I guess, everything that's associated with having a body
-[01:44:58.940 --> 01:45:02.300]  and embodying, having a body and living
-[01:45:02.300 --> 01:45:05.380]  in the spatial existence, a lot of our mental structures
-[01:45:05.380 --> 01:45:08.460]  sort of take advantage of these things,
-[01:45:09.380 --> 01:45:11.860]  as in a lot of the way that we think about things
-[01:45:11.860 --> 01:45:15.220]  utilize space to organize our thoughts and utilize the fact
-[01:45:15.220 --> 01:45:17.700]  that we have bodies to help us think.
-[01:45:17.700 --> 01:45:20.500]  So I guess this made me sort of think about,
-[01:45:20.500 --> 01:45:23.100]  in order to make computers that think like humans,
-[01:45:23.100 --> 01:45:28.100]  would we have to fake them, make computers think
-[01:45:28.500 --> 01:45:31.580]  that they have human bodies, perhaps?
-[01:45:32.980 --> 01:45:35.780]  You could give them a little simulator.
-[01:45:35.780 --> 01:45:38.140]  I think you'd do just as well with stick figures
-[01:45:38.140 --> 01:45:41.100]  than with three-dimensionals.
-[01:45:41.100 --> 01:45:43.180]  That's two and a half-dimensional sort of.
-[01:45:46.100 --> 01:45:50.700]  But I don't know if that idea of embodied cognition
-[01:45:50.700 --> 01:45:53.140]  actually holds up anymore.
-[01:45:53.140 --> 01:45:56.900]  It was popular for a while because of,
-[01:45:58.540 --> 01:46:01.020]  actually it was an MIT professor, Dick Held,
-[01:46:01.900 --> 01:46:05.700]  who, I think I mentioned this a couple of weeks ago,
-[01:46:05.700 --> 01:46:08.980]  he did some experiments which showed that if you carry
-[01:46:08.980 --> 01:46:13.980]  an animal around, it can't find its way back in general.
-[01:46:15.980 --> 01:46:18.780]  But if you drag it around on a leash or something,
-[01:46:19.620 --> 01:46:21.300]  then it can.
-[01:46:21.300 --> 01:46:26.300]  And so he concluded that people couldn't do motor learning
-[01:46:26.380 --> 01:46:29.540]  unless they had actively engaged the environment.
-[01:46:30.580 --> 01:46:35.420]  But then we got reason to think that this didn't apply
-[01:46:35.420 --> 01:46:37.620]  to humans because of
-[01:46:41.820 --> 01:46:44.780]  that PhD thesis of Jose, what's his name?
-[01:46:45.860 --> 01:46:46.700]  Valenti.
-[01:46:47.940 --> 01:46:50.420]  He had a cerebral palsy patient
-[01:46:51.860 --> 01:46:55.060]  who had never moved around in the real world.
-[01:46:55.060 --> 01:46:56.700]  It was sort of bedridden.
-[01:46:59.700 --> 01:47:04.700]  But he observed stuff and when he was given
-[01:47:04.740 --> 01:47:08.900]  the controls of a logo turtle, he was able to,
-[01:47:10.100 --> 01:47:13.100]  he didn't have any trouble when the turtle turned around
-[01:47:13.620 --> 01:47:17.820]  to make it turn left instead of right
-[01:47:17.820 --> 01:47:20.340]  because it was facing the other way,
-[01:47:20.340 --> 01:47:23.540]  which was the kind of thing that Held had shown
-[01:47:23.540 --> 01:47:27.780]  that his lab animals couldn't learn.
-[01:47:29.220 --> 01:47:33.100]  So I don't, so the idea of embodied cognition
-[01:47:33.100 --> 01:47:36.340]  became very popular and it was why.
-[01:47:36.340 --> 01:47:37.520]  Thanks everyone.
-[01:47:42.740 --> 01:47:44.500]  The microphone.
-[01:47:44.500 --> 01:47:46.440]  Won't you do it now?
-[01:47:46.440 --> 01:47:47.700]  The battery ran out.
-[01:47:47.700 --> 01:47:49.040]  compelling answer
-[01:47:49.040 --> 01:47:50.860]  The battery ran out.
-[01:47:50.860 --> 01:47:52.660]  Now that it lit up.
-[01:47:55.580 --> 01:47:57.780]  How do you keep your hand out of your pocket?
-[01:48:00.580 --> 01:48:01.540]  You can get out now.
-[01:48:04.580 --> 01:48:05.560]  You can use it.
-[01:48:05.560 --> 01:48:15.560]  battery is getting recharged there. I think the problem with Brooks is that he observed
-[01:48:15.560 --> 01:48:20.440]  that people are smart and people have bodies, therefore we better have bodies if we're going
-[01:48:20.440 --> 01:48:26.640]  to be smart. And that might be sort of true at a certain level, but it's only true in
-[01:48:26.640 --> 01:48:33.680]  the sense that maybe it's the perceptual apparatus that's important. But just presuming that
-[01:48:33.680 --> 01:48:38.560]  there's something religious about having a body seems to me to be wrong-headed because
-[01:48:38.560 --> 01:48:42.920]  the natural tendency is to go off and spend several years soldering up a robot thinking
-[01:48:42.920 --> 01:48:49.520]  that you're contributing to intelligence. So it's a little bit like Ed's feather example.
-[01:48:49.520 --> 01:48:53.960]  It's not important to have feathers, but it can be useful to know how feathers work and
-[01:48:53.960 --> 01:48:58.440]  how they're hollow and all that stuff to reduce weight. So the real question is what does
-[01:48:58.440 --> 01:49:04.080]  having a body actually do for you? Not to go off and suppose that there's something
-[01:49:04.080 --> 01:49:07.360]  mystically and religiously sacred about having a body.
-[01:49:07.360 --> 01:49:18.440]  Yeah, there's no reason why a machine couldn't have a simulated world.
-[01:49:18.440 --> 01:49:30.560]  Yeah, the question is do one-year-olds do that? Who knows? Probably they do.
-[01:49:30.560 --> 01:49:35.400]  One last question.
-[01:49:48.440 --> 01:50:02.680]  So when we are imagining stuff, we don't usually imagine the smell of things. And so the smell
-[01:50:02.680 --> 01:50:17.680]  of things. And like, I don't know, it's important that we use our apparatus and maybe our imagination
-[01:50:17.680 --> 01:50:27.400]  is constrained by how much area we use. It's constrained, but cats, I don't know what's
-[01:50:27.400 --> 01:50:36.480]  the point that I'm trying to make, but cats have a really good representation of smell
-[01:50:36.480 --> 01:50:45.320]  and dogs have. And maybe why they can't find a path is because their vision apparatus in
-[01:50:45.320 --> 01:50:52.760]  their brain, like the part that represents the vision is not very well developed as for
-[01:50:52.760 --> 01:50:59.920]  humans. Because when we imagine stuff, we use more the vision than like smelling or,
-[01:50:59.920 --> 01:51:07.400]  I don't know, touching. Like dreams are not, you don't feel touching too much. You imagine
-[01:51:07.400 --> 01:51:14.680]  with your eyes, with your vision more than smelling and touching. And maybe why we are
-[01:51:14.920 --> 01:51:20.520]  so good is because we concentrate more in vision than smelling or touching or, I don't know, any other.
-[01:51:20.520 --> 01:51:42.680]  Well, that embodied cognition issue is a strange one because, oh, because some people feel very
-[01:51:42.680 --> 01:51:55.320]  strongly about it and I'm not sure what the psychology of those psychologists is. Anyway,
-[01:51:55.320 --> 01:52:10.440]  it looks like it's time to go. We could ask Google if it's still raining. You don't need a
-[01:52:10.440 --> 01:52:14.600]  body anymore with Google.
-43:16,640 --> 01:43:24,160
+where do all these neurons go, and how are they interconnected,
+
+1424
+01:37:46,560 --> 01:37:47,360
+and so on?
+
+1425
+01:37:47,360 --> 01:37:51,040
+If you looked at the back panel of a Cray computer,
+
+1426
+01:37:51,040 --> 01:37:55,400
+they had looked like a totally random wiring diagram.
+
+1427
+01:37:58,480 --> 01:38:02,720
+Every wire went someplace sort of at random, and it appeared.
+
+1428
+01:38:02,720 --> 01:38:07,360
+However, if you looked at that and then designed a computer
+
+1429
+01:38:07,360 --> 01:38:09,480
+by having all the wires going at random,
+
+1430
+01:38:09,480 --> 01:38:11,480
+it wouldn't compute, of course.
+
+1431
+01:38:11,480 --> 01:38:17,080
+So I just think that there's some high-level principles
+
+1432
+01:38:17,080 --> 01:38:19,280
+at work in the brain that we've got to figure out.
+
+1433
+01:38:19,280 --> 01:38:21,360
+But the low-level wiring, I think,
+
+1434
+01:38:21,360 --> 01:38:25,360
+is kind of besides the point, because it's pretty clear to me
+
+1435
+01:38:25,360 --> 01:38:28,760
+that however much signal processing goes on
+
+1436
+01:38:28,760 --> 01:38:31,520
+in the brain, one chip today can probably
+
+1437
+01:38:31,520 --> 01:38:36,640
+outdo it by a factor of 1,000, in my opinion, especially
+
+1438
+01:38:36,640 --> 01:38:39,320
+with something called CUDA.
+
+1439
+01:38:39,320 --> 01:38:41,280
+And this is a new thing.
+
+1440
+01:38:41,280 --> 01:38:44,760
+It turns out in your computer, for the display,
+
+1441
+01:38:44,760 --> 01:38:46,520
+there's a bunch of GPUs.
+
+1442
+01:38:46,520 --> 01:38:49,160
+A GPU is a graphic processing unit
+
+1443
+01:38:49,160 --> 01:38:51,000
+that's pretty powerful.
+
+1444
+01:38:51,000 --> 01:38:54,120
+And it turns out, like my laptop,
+
+1445
+01:38:54,120 --> 01:38:58,600
+I discovered there were like 380 CUDA processors
+
+1446
+01:38:58,600 --> 01:39:00,120
+in the display chip.
+
+1447
+01:39:00,120 --> 01:39:03,040
+And there were two display chips in my laptop.
+
+1448
+01:39:03,040 --> 01:39:05,040
+And there's now software that lets
+
+1449
+01:39:05,040 --> 01:39:07,680
+you compute with those in general.
+
+1450
+01:39:07,680 --> 01:39:10,760
+And you can do amazing things on occasion.
+
+1451
+01:39:14,960 --> 01:39:18,520
+So if you could send stuff to your visual cortex,
+
+1452
+01:39:18,600 --> 01:39:21,560
+you might be able to compute something useful instead
+
+1453
+01:39:21,560 --> 01:39:25,200
+of just seeing stuff.
+
+1454
+01:39:25,200 --> 01:39:27,240
+Patrick, I think that's the way you hypothesize
+
+1455
+01:39:27,240 --> 01:39:28,480
+a lot of thinking happens, right?
+
+1456
+01:39:28,480 --> 01:39:29,680
+It's all through visual?
+
+1457
+01:39:31,680 --> 01:39:33,640
+I think I disagree with that a little bit.
+
+1458
+01:39:33,640 --> 01:39:39,200
+I think it's, I think what happens to a neuron
+
+1459
+01:39:39,200 --> 01:39:40,080
+doesn't matter much.
+
+1460
+01:39:40,080 --> 01:39:43,120
+But what happens to a bundle of neurons matters a lot.
+
+1461
+01:39:43,120 --> 01:39:45,920
+And I think what's largely broken
+
+1462
+01:39:45,920 --> 01:39:48,080
+about the last 50 years in computer vision
+
+1463
+01:39:48,080 --> 01:39:50,000
+is that it has not been recognized
+
+1464
+01:39:50,000 --> 01:39:55,360
+that the visual system has, for every bundle of wires,
+
+1465
+01:39:55,360 --> 01:39:57,120
+going in one direction, an equally big one
+
+1466
+01:39:57,120 --> 01:39:59,280
+going the other way.
+
+1467
+01:39:59,280 --> 01:40:01,400
+And so when I look at that picture of Lincoln,
+
+1468
+01:40:01,400 --> 01:40:04,200
+I think that one way of thinking about what must be happening
+
+1469
+01:40:04,200 --> 01:40:06,400
+is that when you squint, you finally
+
+1470
+01:40:06,400 --> 01:40:08,120
+get to a point where there's no reason
+
+1471
+01:40:08,120 --> 01:40:11,040
+to believe it isn't Lincoln.
+
+1472
+01:40:11,040 --> 01:40:13,040
+And the only reason you don't see Lincoln right away
+
+1473
+01:40:13,040 --> 01:40:15,680
+is because when you see those blocks,
+
+1474
+01:40:15,680 --> 01:40:17,960
+there is a reason to believe it's not Lincoln.
+
+1475
+01:40:17,960 --> 01:40:21,080
+So I think a lot of it is top-down hallucination.
+
+1476
+01:40:21,080 --> 01:40:24,480
+It's guided a little bit by what comes in through your retina.
+
+1477
+01:40:24,480 --> 01:40:26,200
+But for the most part, it isn't.
+
+1478
+01:40:26,200 --> 01:40:30,440
+So that's a guess based on the fact
+
+1479
+01:40:30,440 --> 01:40:34,160
+that half our brain is devoted to vision,
+
+1480
+01:40:34,160 --> 01:40:35,800
+and everything goes in every direction.
+
+1481
+01:40:35,800 --> 01:40:38,440
+And it seems to me that that's an important fact.
+
+1482
+01:40:43,040 --> 01:40:45,040
+I also guess I would also speculate
+
+1483
+01:40:45,040 --> 01:40:48,360
+that a lot of what we call common sense
+
+1484
+01:40:48,360 --> 01:40:52,320
+is a consequence of reusing that apparatus.
+
+1485
+01:40:52,320 --> 01:40:55,640
+My favorite example is imagine what
+
+1486
+01:40:55,640 --> 01:40:58,200
+it would be like to run out of this room carrying
+
+1487
+01:40:58,200 --> 01:41:00,040
+a full bucket of water.
+
+1488
+01:41:00,040 --> 01:41:01,600
+We all know your leg would get wet,
+
+1489
+01:41:01,600 --> 01:41:03,800
+but nobody ever told us that.
+
+1490
+01:41:03,800 --> 01:41:05,640
+We've never seen it done.
+
+1491
+01:41:05,640 --> 01:41:08,840
+It's probably not available as a fact on Google.
+
+1492
+01:41:08,840 --> 01:41:10,600
+But we certainly know it, and we know it,
+
+1493
+01:41:10,600 --> 01:41:12,160
+I think, because we can imagine it
+
+1494
+01:41:12,160 --> 01:41:14,280
+and reuse our perceptual apparatus to figure out
+
+1495
+01:41:14,280 --> 01:41:16,440
+what's going to happen.
+
+1496
+01:41:16,440 --> 01:41:18,560
+So that's sort of just-in-time common sense.
+
+1497
+01:41:18,560 --> 01:41:24,200
+And once we've imagined it, once we can cache it.
+
+1498
+01:41:24,200 --> 01:41:27,240
+So I don't think, in the end, there's
+
+1499
+01:41:27,240 --> 01:41:30,160
+a need to have a whole lot of common sense to start with,
+
+1500
+01:41:30,160 --> 01:41:32,560
+because we can build up that library as we need it.
+
+1501
+01:41:32,560 --> 01:41:52,520
+Do you think that much of common sense
+
+1502
+01:41:52,520 --> 01:41:55,320
+can be accounted for by imagining situations
+
+1503
+01:41:55,320 --> 01:42:00,040
+and figuring it out on the fly, perhaps
+
+1504
+01:42:00,040 --> 01:42:02,760
+for using our perceptual apparatus?
+
+1505
+01:42:02,760 --> 01:42:04,480
+If so, then Watson doesn't have a chance,
+
+1506
+01:42:04,480 --> 01:42:06,440
+because it doesn't have perceptual apparatus
+
+1507
+01:42:06,440 --> 01:42:09,280
+or any imagination.
+
+1508
+01:42:09,280 --> 01:42:15,200
+Well, you're certainly using all sorts of,
+
+1509
+01:42:15,200 --> 01:42:16,720
+I mean, when I think of doing this,
+
+1510
+01:42:16,720 --> 01:42:22,960
+I can hear it clinking just before I get there.
+
+1511
+01:42:22,960 --> 01:42:26,280
+So it's not just vision.
+
+1512
+01:42:26,280 --> 01:42:36,400
+But I wonder, when are children able to visualize
+
+1513
+01:42:36,400 --> 01:42:38,720
+complicated mechanical situations?
+
+1514
+01:42:43,960 --> 01:42:47,160
+There's this phenomenon where children of age two
+
+1515
+01:42:47,160 --> 01:42:51,680
+can count to two, and children who are three-year-old
+
+1516
+01:42:51,680 --> 01:42:55,040
+can count to three, and then four-year-olds
+
+1517
+01:42:55,040 --> 01:42:57,320
+can count to 10.
+
+1518
+01:42:57,320 --> 01:43:01,240
+But it's interesting how long it takes
+
+1519
+01:43:01,240 --> 01:43:05,960
+to get from three to higher.
+
+1520
+01:43:05,960 --> 01:43:08,000
+It's an interesting experiment.
+
+1521
+01:43:08,000 --> 01:43:11,960
+They count up on their fingers to add two and two to four.
+
+1522
+01:43:11,960 --> 01:43:14,280
+I wonder if they can imagine that without actually
+
+1523
+01:43:14,280 --> 01:43:16,640
+looking at their fingers.
+
+1524
+01:43:16,640 --> 01:43:24,160
 I had a little essay in a book on Logo
 
-1530
+1525
 01:43:24,160 --> 01:43:31,320
 complaining that if you look in a child's world,
 
-1531
+1526
 01:43:31,320 --> 01:43:33,240
 it's very hard to find three of anything.
 
-1532
+1527
 01:43:37,160 --> 01:43:40,160
 There's lots of twos because of symmetry,
 
-1533
+1528
 01:43:40,160 --> 01:43:43,520
 and you have two hands and two feet and stuff,
 
-1534
+1529
 01:43:43,520 --> 01:43:45,920
 and if you're lucky, two parents.
 
-1535
+1530
 01:43:48,520 --> 01:43:52,340
 But if you walk around the house, which I did,
 
-1536
+1531
 01:43:52,340 --> 01:43:54,820
 I couldn't find three of anything
 
-1537
+1532
 01:43:54,820 --> 01:43:59,860
 that a child might consider to be significant enough
 
-1538
+1533
 01:43:59,860 --> 01:44:02,780
 to form a concept for three-ness.
 
-1539
+1534
 01:44:02,780 --> 01:44:05,340
 How about five?
 
-1540
+1535
 01:44:05,340 --> 01:44:08,660
 Well, you can't get there.
 
-1541
+1536
 01:44:08,660 --> 01:44:13,220
 Apparently, once you get to four, the rest is easy.
 
-1542
+1537
 01:44:13,220 --> 01:44:17,140
 But why is it a whole year between two and three?
 
-1543
+1538
 01:44:17,140 --> 01:44:19,980
 And so a great experiment, which would only cost a billion
 
-1544
+1539
 01:44:19,980 --> 01:44:24,980
 dollars, would be to provide a million children,
 
-1545
+1540
 01:44:24,980 --> 01:44:29,980
 two-year-olds with toys that have three parts or something
 
-1546
+1541
 01:44:29,980 --> 01:44:33,620
 and see if they learn to count to three slightly sooner.
 
-1547
+1542
 01:44:40,820 --> 01:44:43,100
 So this discussion made me think about the concept
 
-1548
+1543
 01:44:43,100 --> 01:44:47,540
 of embodied cognition, which is the idea that because human
 
-1549
+1544
 01:44:47,540 --> 01:44:50,620
 beings are born into a three-dimensional world
 
-1550
+1545
 01:44:50,620 --> 01:44:55,620
 and are born with a body and with all the,
 
-1551
+1546
 01:44:56,100 --> 01:44:58,940
 I guess, everything that's associated with having a body
 
-1552
+1547
 01:44:58,940 --> 01:45:02,300
 and embodying, having a body and living
 
-1553
+1548
 01:45:02,300 --> 01:45:05,380
 in the spatial existence, a lot of our mental structures
 
-1554
+1549
 01:45:05,380 --> 01:45:08,460
 sort of take advantage of these things,
 
-1555
+1550
 01:45:09,380 --> 01:45:11,860
 as in a lot of the way that we think about things
 
-1556
+1551
 01:45:11,860 --> 01:45:15,220
 utilize space to organize our thoughts and utilize the fact
 
-1557
+1552
 01:45:15,220 --> 01:45:17,700
 that we have bodies to help us think.
 
-1558
+1553
 01:45:17,700 --> 01:45:20,500
 So I guess this made me sort of think about,
 
-1559
+1554
 01:45:20,500 --> 01:45:23,100
 in order to make computers that think like humans,
 
-1560
+1555
 01:45:23,100 --> 01:45:28,100
 would we have to fake them, make computers think
 
-1561
+1556
 01:45:28,500 --> 01:45:31,580
 that they have human bodies, perhaps?
 
-1562
+1557
 01:45:32,980 --> 01:45:35,780
 You could give them a little simulator.
 
-1563
+1558
 01:45:35,780 --> 01:45:38,140
 I think you'd do just as well with stick figures
 
-1564
+1559
 01:45:38,140 --> 01:45:41,100
 than with three-dimensionals.
 
-1565
+1560
 01:45:41,100 --> 01:45:43,180
 That's two and a half-dimensional sort of.
 
-1566
+1561
 01:45:46,100 --> 01:45:50,700
 But I don't know if that idea of embodied cognition
 
-1567
+1562
 01:45:50,700 --> 01:45:53,140
 actually holds up anymore.
 
-1568
+1563
 01:45:53,140 --> 01:45:56,900
 It was popular for a while because of,
 
-1569
+1564
 01:45:58,540 --> 01:46:01,020
 actually it was an MIT professor, Dick Held,
 
-1570
+1565
 01:46:01,900 --> 01:46:05,700
 who, I think I mentioned this a couple of weeks ago,
 
-1571
+1566
 01:46:05,700 --> 01:46:08,980
 he did some experiments which showed that if you carry
 
-1572
+1567
 01:46:08,980 --> 01:46:13,980
 an animal around, it can't find its way back in general.
 
-1573
+1568
 01:46:15,980 --> 01:46:18,780
 But if you drag it around on a leash or something,
 
-1574
+1569
 01:46:19,620 --> 01:46:21,300
 then it can.
 
-1575
+1570
 01:46:21,300 --> 01:46:26,300
 And so he concluded that people couldn't do motor learning
 
-1576
+1571
 01:46:26,380 --> 01:46:29,540
 unless they had actively engaged the environment.
 
-1577
+1572
 01:46:30,580 --> 01:46:35,420
 But then we got reason to think that this didn't apply
 
-1578
+1573
 01:46:35,420 --> 01:46:37,620
 to humans because of
 
-1579
+1574
 01:46:41,820 --> 01:46:44,780
 that PhD thesis of Jose, what's his name?
 
-1580
+1575
 01:46:45,860 --> 01:46:46,700
 Valenti.
 
-1581
+1576
 01:46:47,940 --> 01:46:50,420
 He had a cerebral palsy patient
 
-1582
+1577
 01:46:51,860 --> 01:46:55,060
 who had never moved around in the real world.
 
-1583
+1578
 01:46:55,060 --> 01:46:56,700
 It was sort of bedridden.
 
-1584
+1579
 01:46:59,700 --> 01:47:04,700
 But he observed stuff and when he was given
 
-1585
+1580
 01:47:04,740 --> 01:47:08,900
 the controls of a logo turtle, he was able to,
 
-1586
+1581
 01:47:10,100 --> 01:47:13,100
 he didn't have any trouble when the turtle turned around
 
-1587
+1582
 01:47:13,620 --> 01:47:17,820
 to make it turn left instead of right
 
-1588
+1583
 01:47:17,820 --> 01:47:20,340
 because it was facing the other way,
 
-1589
+1584
 01:47:20,340 --> 01:47:23,540
 which was the kind of thing that Held had shown
 
-1590
+1585
 01:47:23,540 --> 01:47:27,780
 that his lab animals couldn't learn.
 
-1591
+1586
 01:47:29,220 --> 01:47:33,100
 So I don't, so the idea of embodied cognition
 
-1592
+1587
 01:47:33,100 --> 01:47:36,340
 became very popular and it was why.
 
-1593
-01:47:36,340 --> 01:47:37,520
-Thanks everyone.
+1588
+01:47:37,300 --> 01:47:38,820
+Thank you, thank you.
 
-1594
-01:47:42,740 --> 01:47:44,500
-The microphone.
+1589
+01:47:50,820 --> 01:47:51,820
+Now it lit up.
 
-1595
-01:47:44,500 --> 01:47:46,440
-Won't you do it now?
-
-1596
-01:47:46,440 --> 01:47:47,700
-The battery ran out.
-
-1597
-01:47:47,700 --> 01:47:49,040
-compelling answer
-
-1598
-01:47:49,040 --> 01:47:50,860
-The battery ran out.
-
-1599
-01:47:50,860 --> 01:47:52,660
-Now that it lit up.
-
-1600
-01:47:55,580 --> 01:47:57,780
+1590
+01:47:55,380 --> 01:47:57,740
 How do you keep your hand out of your pocket?
 
+1591
+01:47:57,740 --> 01:48:12,780
+So while Marvin's battery is getting recharged there, I think the problem with Brooks is
+
+1592
+01:48:12,780 --> 01:48:19,440
+that he observed that people are smart and people have bodies, therefore we better have
+
+1593
+01:48:19,440 --> 01:48:22,900
+bodies if we're going to be smart.
+
+1594
+01:48:22,900 --> 01:48:28,180
+And that might be sort of true at a certain level, but it's only true in the sense that
+
+1595
+01:48:28,180 --> 01:48:32,340
+maybe it's the perceptual apparatus that's important.
+
+1596
+01:48:32,340 --> 01:48:37,380
+But just presuming that there's something religious about having a body seems to me
+
+1597
+01:48:37,380 --> 01:48:41,420
+to be wrong-headed because the natural tendency is to go off and spend several years soldering
+
+1598
+01:48:41,420 --> 01:48:45,860
+up a robot thinking that you're contributing to intelligence.
+
+1599
+01:48:45,860 --> 01:48:49,500
+So it's a little bit like Ed's feather example.
+
+1600
+01:48:49,500 --> 01:48:53,780
+It's not important to have feathers, but it can be useful to know how feathers work
+
 1601
-01:48:00,580 --> 01:48:01,540
-You can get out now.
+01:48:53,780 --> 01:48:56,460
+and how they're hollow and all that stuff to reduce weight.
 
 1602
-01:48:04,580 --> 01:48:05,560
-You can use it.
+01:48:56,460 --> 01:49:02,060
+So the real question is what does having a body actually do for you not to go off and
 
 1603
-01:48:05,560 --> 01:48:15,560
-battery is getting recharged there. I think the problem with Brooks is that he observed
+01:49:02,060 --> 01:49:09,420
+suppose that there's something mystically and religiously sacred about having a body?
 
 1604
-01:48:15,560 --> 01:48:20,440
-that people are smart and people have bodies, therefore we better have bodies if we're going
-
-1605
-01:48:20,440 --> 01:48:26,640
-to be smart. And that might be sort of true at a certain level, but it's only true in
-
-1606
-01:48:26,640 --> 01:48:33,680
-the sense that maybe it's the perceptual apparatus that's important. But just presuming that
-
-1607
-01:48:33,680 --> 01:48:38,560
-there's something religious about having a body seems to me to be wrong-headed because
-
-1608
-01:48:38,560 --> 01:48:42,920
-the natural tendency is to go off and spend several years soldering up a robot thinking
-
-1609
-01:48:42,920 --> 01:48:49,520
-that you're contributing to intelligence. So it's a little bit like Ed's feather example.
-
-1610
-01:48:49,520 --> 01:48:53,960
-It's not important to have feathers, but it can be useful to know how feathers work and
-
-1611
-01:48:53,960 --> 01:48:58,440
-how they're hollow and all that stuff to reduce weight. So the real question is what does
-
-1612
-01:48:58,440 --> 01:49:04,080
-having a body actually do for you? Not to go off and suppose that there's something
-
-1613
-01:49:04,080 --> 01:49:07,360
-mystically and religiously sacred about having a body.
-
-1614
-01:49:07,360 --> 01:49:18,440
+01:49:09,420 --> 01:49:20,420
 Yeah, there's no reason why a machine couldn't have a simulated world.
 
-1615
-01:49:18,440 --> 01:49:30,560
-Yeah, the question is do one-year-olds do that? Who knows? Probably they do.
+1605
+01:49:20,420 --> 01:49:28,660
+And the question is, do one-year-olds do that?
 
-1616
-01:49:30,560 --> 01:49:35,400
+1606
+01:49:28,660 --> 01:49:30,180
+Who knows?
+
+1607
+01:49:30,180 --> 01:49:34,780
+Probably they do.
+
+1608
+01:49:34,780 --> 01:49:52,620
 One last question.
 
+1609
+01:49:52,620 --> 01:49:59,260
+So when we are imagining stuff, we don't usually imagine the smell of things.
+
+1610
+01:49:59,260 --> 01:50:16,300
+And so it's important that we use our apparatus.
+
+1611
+01:50:16,300 --> 01:50:21,700
+Maybe our imagination is constrained by how much area we use.
+
+1612
+01:50:22,700 --> 01:50:35,980
+I don't know what's the point that I'm trying to make, but cats have a really good representation
+
+1613
+01:50:35,980 --> 01:50:37,820
+of smell and dogs have.
+
+1614
+01:50:37,820 --> 01:50:47,180
+And maybe why they can't find a path is because their vision apparatus in their brain, the
+
+1615
+01:50:47,260 --> 01:50:53,780
+part that represents the vision is not very well developed as for humans.
+
+1616
+01:50:53,780 --> 01:51:01,260
+Because when we imagine stuff, we use more the vision than smelling or touching.
+
 1617
-01:49:48,440 --> 01:50:02,680
-So when we are imagining stuff, we don't usually imagine the smell of things. And so the smell
+01:51:01,260 --> 01:51:06,060
+Like dreams are not, you don't feel touching too much.
 
 1618
-01:50:02,680 --> 01:50:17,680
-of things. And like, I don't know, it's important that we use our apparatus and maybe our imagination
+01:51:06,060 --> 01:51:11,820
+You imagine with your eyes, with your vision, more than smelling and touching.
 
 1619
-01:50:17,680 --> 01:50:27,400
-is constrained by how much area we use. It's constrained, but cats, I don't know what's
+01:51:11,860 --> 01:51:18,660
+And maybe why we are so good is because we concentrate more in vision than smelling or
 
 1620
-01:50:27,400 --> 01:50:36,480
-the point that I'm trying to make, but cats have a really good representation of smell
+01:51:18,660 --> 01:51:27,020
+touching or I don't know, any other.
 
 1621
-01:50:36,480 --> 01:50:45,320
-and dogs have. And maybe why they can't find a path is because their vision apparatus in
+01:51:27,020 --> 01:51:43,260
+Well, that embodied cognition issue is a strange one because some people feel very strongly
 
 1622
-01:50:45,320 --> 01:50:52,760
-their brain, like the part that represents the vision is not very well developed as for
+01:51:43,260 --> 01:51:53,460
+about it and I'm not sure what the psychology of those psychologists is.
 
 1623
-01:50:52,760 --> 01:50:59,920
-humans. Because when we imagine stuff, we use more the vision than like smelling or,
+01:51:54,460 --> 01:52:02,340
+Anyway, it looks like it's time to go.
 
 1624
-01:50:59,920 --> 01:51:07,400
-I don't know, touching. Like dreams are not, you don't feel touching too much. You imagine
+01:52:02,340 --> 01:52:10,020
+We could ask Google if it's still raining.
 
 1625
-01:51:07,400 --> 01:51:14,680
-with your eyes, with your vision more than smelling and touching. And maybe why we are
-
-1626
-01:51:14,920 --> 01:51:20,520
-so good is because we concentrate more in vision than smelling or touching or, I don't know, any other.
-
-1627
-01:51:20,520 --> 01:51:42,680
-Well, that embodied cognition issue is a strange one because, oh, because some people feel very
-
-1628
-01:51:42,680 --> 01:51:55,320
-strongly about it and I'm not sure what the psychology of those psychologists is. Anyway,
-
-1629
-01:51:55,320 --> 01:52:10,440
-it looks like it's time to go. We could ask Google if it's still raining. You don't need a
-
-1630
-01:52:10,440 --> 01:52:14,600
-body anymore with Google.
+01:52:10,020 --> 01:52:14,740
+You don't need a body anymore with Google.
 

@@ -5651,119 +5651,396 @@ are inside it, because there's so many fibers and things.
 I bet it's sort of like saying the important memory
 
 1414
-01:35:32,22
-[01:43:58.700 --> 01:44:02.300]  was an anti-climax because I guess
-[01:44:02.300 --> 01:44:04.860]  DF Jones couldn't think of anything worse
-[01:44:04.860 --> 01:44:09.820]  that could happen, but Martin Rees can.
-[01:44:13.060 --> 01:44:14.860]  Yeah?
-[01:44:14.860 --> 01:44:19.620]  Going back to her question about example,
-[01:44:19.620 --> 01:44:24.220]  and if our mind has a state that prefers to be in it,
-[01:44:24.260 --> 01:44:28.980]  would that example be more of a pattern recognition example?
-[01:44:28.980 --> 01:44:34.740]  So instead of 10, 40, 50, 55, what if it was logistical?
-[01:44:34.740 --> 01:44:39.260]  Good, fine, great, and you have to come up
-[01:44:39.260 --> 01:44:44.900]  with a word that could potentially fit in that pattern.
-[01:44:44.900 --> 01:44:48.740]  And then that pattern could be ways to answer, how are you?
-[01:44:48.740 --> 01:44:50.900]  Let's do an experiment.
-[01:44:50.900 --> 01:44:52.820]  How many of you have a resting state?
-[01:45:01.660 --> 01:45:05.260]  Sometimes when I have nothing else to do,
-[01:45:05.260 --> 01:45:12.580]  I try to think of twinkle, twinkle little star happening
-[01:45:12.580 --> 01:45:15.900]  with the second one starting in the second measure,
-[01:45:15.900 --> 01:45:19.820]  and then the third one starts up the third measure.
-[01:45:19.860 --> 01:45:23.300]  And when that happens, I start losing the first one.
-[01:45:23.300 --> 01:45:27.940]  And ever since I was a baby, when
-[01:45:27.940 --> 01:45:34.420]  I have nothing else to do, which is almost never,
-[01:45:34.420 --> 01:45:38.580]  I try to think of three versions of the same tune at once
-[01:45:38.580 --> 01:45:41.620]  and usually fail.
-[01:45:41.620 --> 01:45:45.100]  What do you do when you have nothing else to do?
-[01:45:45.100 --> 01:45:47.260]  Any volunteers?
-[01:45:47.260 --> 01:45:47.980]  What's yours?
-[01:45:47.980 --> 01:45:50.820]  I try not to think anything at all.
-[01:45:50.820 --> 01:45:53.180]  You tried not to or to?
-[01:45:53.180 --> 01:45:54.820]  Not to.
-[01:45:54.820 --> 01:45:57.660]  Isn't that a sort of Buddhist thing?
-[01:45:57.660 --> 01:46:00.060]  Yes, though.
-[01:46:00.060 --> 01:46:00.860]  Do you ever succeed?
-[01:46:00.860 --> 01:46:03.260]  How do you get out of it?
-[01:46:03.260 --> 01:46:07.740]  You have to think, well, enough of this nothingness.
-[01:46:07.740 --> 01:46:09.460]  If you succeeded, wouldn't you be dead?
-[01:46:12.540 --> 01:46:13.980]  We're stuck.
-[01:46:13.980 --> 01:46:15.780]  Eventually some stimulus will appear
-[01:46:15.780 --> 01:46:17.860]  that is too interesting to ignore.
-[01:46:18.860 --> 01:46:19.380]  Right.
-[01:46:19.380 --> 01:46:23.300]  And threshold goes down till even the most boring thing
-[01:46:23.300 --> 01:46:24.220]  is fascinating.
-[01:46:24.220 --> 01:46:24.700]  Yeah.
-[01:46:27.780 --> 01:46:29.100]  Make a good short story.
-[01:46:31.500 --> 01:46:32.500]  Yeah.
-[01:46:32.500 --> 01:46:35.740]  There was actually a movie that really got to me
-[01:46:35.740 --> 01:46:36.660]  when I was little.
-[01:46:36.660 --> 01:46:41.060]  These aliens were trying to infiltrate people's brains
-[01:46:41.060 --> 01:46:42.500]  and their thoughts.
-[01:46:42.500 --> 01:46:46.140]  And to keep the aliens from infiltrating your thoughts,
-[01:46:46.140 --> 01:46:49.740]  you had to think of a wall, which didn't make any sense
-[01:46:49.740 --> 01:46:50.220]  at all.
-[01:46:50.220 --> 01:46:55.700]  But now, whenever I try to think of nothing,
-[01:46:55.700 --> 01:46:57.620]  I just end up thinking of a wall.
-[01:47:04.820 --> 01:47:06.700]  There are these awful psychoses.
-[01:47:06.700 --> 01:47:16.540]  And about every five years, I get
-[01:47:16.540 --> 01:47:23.540]  an email from someone who says that, please help me.
-[01:47:23.540 --> 01:47:26.380]  There are some people who are putting these terrible ideas
-[01:47:26.380 --> 01:47:27.300]  in my head.
-[01:47:27.300 --> 01:47:30.220]  Have you ever gotten one, Pat?
-[01:47:30.220 --> 01:47:35.820]  And they're sort of scary because you
-[01:47:35.820 --> 01:47:39.900]  realize that maybe the person will suddenly figure out
-[01:47:39.900 --> 01:47:42.380]  that it's you who's doing it if they.
-[01:47:42.380 --> 01:47:42.900]  [?
-[01:47:42.900 --> 01:47:43.380]  Ha ha ha.
-[01:47:43.380 --> 01:47:44.380]  Ha ha ha.
-[01:47:44.380 --> 01:47:45.380]  Ha ha ha.
-[01:47:45.380 --> 01:47:46.380]  Ha ha ha.
-[01:47:46.380 --> 01:47:47.380]  Ha ha ha.
-[01:47:47.380 --> 01:47:48.380]  Ha ha ha.
-[01:47:48.380 --> 01:47:49.380]  Ha ha ha.
-[01:47:49.380 --> 01:47:50.380]  Ha ha ha.
-[01:47:50.380 --> 01:47:51.380]  Ha ha ha.
-[01:47:51.380 --> 01:47:53.380]  I hear assessment would have put all them together once.
-[01:47:53.380 --> 01:47:54.380]  I think they married.
-[01:47:54.380 --> 01:47:55.380]  Ha ha ha.
-[01:47:55.380 --> 01:47:56.380]  Ha ha ha.
-[01:47:56.380 --> 01:47:57.380]  Ha ha ha.
-[01:47:57.380 --> 01:47:58.380]  Ha ha ha.
-[01:47:58.380 --> 01:48:01.380]  Ha ha ha.
-[01:48:01.380 --> 01:48:09.660]  Remember, there was once one of them came to visit,
-[01:48:09.660 --> 01:48:13.540]  actually showed up, and he came to visit Norbert Wiener, who
-[01:48:13.540 --> 01:48:18.220]  was famous for, I mean, he's the cybernetics person
-[01:48:18.220 --> 01:48:18.900]  of the world.
-[01:48:23.060 --> 01:48:28.180]  And this person came in, and he got between Wiener and the door
-[01:48:28.180 --> 01:48:32.300]  and started explaining that somebody
-[01:48:32.300 --> 01:48:35.060]  was putting dirty words in his head
-[01:48:35.060 --> 01:48:40.220]  and making the grass on their lawn die.
-[01:48:40.220 --> 01:48:43.060]  And he was sure it was someone in the government,
-[01:48:43.060 --> 01:48:48.420]  and that this was getting pretty scary.
-[01:48:48.420 --> 01:48:49.580]  And I was near the door.
-[01:48:52.620 --> 01:48:56.420]  So I went and got leth in.
-[01:48:56.740 --> 01:48:57.700]  It's a true story.
-[01:48:57.700 --> 01:49:02.580]  It was nearby, and I got leth in to come in.
-[01:49:02.580 --> 01:49:07.620]  And leth in actually talked this guy down and took him by the arm
-[01:49:07.620 --> 01:49:08.780]  and went somewhere.
-[01:49:08.780 --> 01:49:12.420]  And I don't know what happened, but Wiener
-[01:49:12.420 --> 01:49:16.540]  was really scared because the guy kept
-[01:49:16.540 --> 01:49:19.140]  keeping him from going out.
-[01:49:19.140 --> 01:49:21.940]  Leth in was big.
-[01:49:21.940 --> 01:49:23.260]  Wiener is not very big.
-[01:49:26.420 --> 01:49:35.060]  Anyway, that keeps happening every few years.
-[01:49:35.060 --> 01:49:36.860]  I get one, and I don't answer them.
-[01:49:40.060 --> 01:49:42.780]  He's probably sending it to several people,
-[01:49:42.780 --> 01:49:49.380]  and I'm sure one of them is much better at it than we are.
-[01:49:49.380 --> 01:49:54.380]  How many of you have ever had to deal with an obsessed person?
-[01:49:54.380 --> 01:49:57.420]  How did they find you?
-[01:49:57.420 --> 01:49:58.220]  I don't know.
-[01:49:58.220 --> 01:50:00.620]  They found a number of people in the media lab, actually.
-[01:50:04.860 --> 01:50:07.860]  Don't answer anything.
-[01:50:07.860 --> 01:50:11.940]  But if they actually come, then it's not clear what to do.
-[01:50:11.940 --> 01:50:12.940]  Last question.
-[01:50:28.140 --> 01:50:28.900]  Thanks for coming.
-'s trained to do some learning.
+01:35:32,220 --> 01:35:35,260
+in a computer is in the arsenic and phosphorus
+
+1415
+01:35:35,260 --> 01:35:38,580
+atoms of the semiconductor.
+
+1416
+01:35:38,580 --> 01:35:43,180
+So I think things have to be hierarchical in evolution,
+
+1417
+01:35:43,180 --> 01:35:49,420
+because if you're building later stuff on earlier stuff,
+
+1418
+01:35:49,420 --> 01:35:53,740
+then it's very hard to make any changes in the earlier stuff.
+
+1419
+01:35:53,740 --> 01:35:57,340
+So as far as I know, the neurons in sea anemones
+
+1420
+01:35:57,340 --> 01:36:01,860
+are almost identical to the neurons in mammals,
+
+1421
+01:36:01,860 --> 01:36:07,220
+except for the later stages of growth
+
+1422
+01:36:07,220 --> 01:36:09,620
+and the way the fibers ramify.
+
+1423
+01:36:09,620 --> 01:36:14,060
+And who knows?
+
+1424
+01:36:14,060 --> 01:36:18,620
+But there are many people who want
+
+1425
+01:36:18,620 --> 01:36:22,780
+to find the secret of the brain in what's inside the neurons
+
+1426
+01:36:22,780 --> 01:36:23,660
+rather than outside.
+
+1427
+01:36:27,860 --> 01:36:32,340
+It'd be nice to get a textbook on neurology
+
+1428
+01:36:32,340 --> 01:36:35,380
+from 50 years in the future to see
+
+1429
+01:36:35,380 --> 01:36:37,020
+how much of that stuff mattered.
+
+1430
+01:36:41,380 --> 01:36:44,140
+Where are time machines?
+
+1431
+01:36:44,140 --> 01:36:45,140
+Did you have?
+
+1432
+01:36:45,140 --> 01:36:48,820
+But most systems have a state that they prefer to be in,
+
+1433
+01:36:48,820 --> 01:36:51,380
+like a state that they're most comfortable in.
+
+1434
+01:36:51,380 --> 01:36:53,460
+Do you think the mind has such a state,
+
+1435
+01:36:54,220 --> 01:36:59,060
+or would it tend to certain places?
+
+1436
+01:36:59,060 --> 01:37:00,740
+That's an interesting.
+
+1437
+01:37:00,740 --> 01:37:02,620
+How does that apply to living things?
+
+1438
+01:37:05,860 --> 01:37:08,740
+This bottle would rather be here than here,
+
+1439
+01:37:08,740 --> 01:37:12,020
+but I'm not sure what you mean.
+
+1440
+01:37:12,020 --> 01:37:18,260
+So apparently, in Professor Tenenbaum's class,
+
+1441
+01:37:18,260 --> 01:37:23,020
+he shows this example of a number game.
+
+1442
+01:37:23,060 --> 01:37:24,780
+He'll give you a sequence of numbers,
+
+1443
+01:37:24,780 --> 01:37:26,940
+and he'll ask you to find a pattern in it.
+
+1444
+01:37:26,940 --> 01:37:30,900
+So for example, if you had a pattern like 10, 40, 50,
+
+1445
+01:37:30,900 --> 01:37:33,460
+and 55, he kind of asked the class
+
+1446
+01:37:33,460 --> 01:37:35,740
+to come up with different things that
+
+1447
+01:37:35,740 --> 01:37:37,620
+could be described in the sequence.
+
+1448
+01:37:37,620 --> 01:37:41,860
+And between the choice of, oh, this sequence
+
+1449
+01:37:41,860 --> 01:37:45,140
+is a sequence of the multiples of five
+
+1450
+01:37:45,140 --> 01:37:48,020
+versus a sequence of the multiples of 10
+
+1451
+01:37:48,020 --> 01:37:52,380
+or multiples of 11, he says something
+
+1452
+01:37:52,380 --> 01:37:55,380
+like, he phrases it like, the multiples of five
+
+1453
+01:37:55,380 --> 01:37:59,180
+would have a higher prior probability.
+
+1454
+01:37:59,180 --> 01:38:03,460
+So that got me thinking, why would that be?
+
+1455
+01:38:03,460 --> 01:38:05,500
+Would our minds have a preference
+
+1456
+01:38:05,500 --> 01:38:08,780
+for having as few categories as possible
+
+1457
+01:38:08,780 --> 01:38:11,300
+and trying to view the world around us?
+
+1458
+01:38:11,300 --> 01:38:15,100
+Trying to categorize things in as few things as possible
+
+1459
+01:38:15,100 --> 01:38:17,460
+is what got me thinking about it.
+
+1460
+01:38:17,460 --> 01:38:24,540
+Sounds very strange to me, but certainly,
+
+1461
+01:38:24,540 --> 01:38:27,140
+if you're going to generate hypotheses,
+
+1462
+01:38:27,140 --> 01:38:37,660
+you have to have the way you do it depends on what
+
+1463
+01:38:37,660 --> 01:38:40,220
+does this problem remind you of.
+
+1464
+01:38:40,220 --> 01:38:46,540
+So I don't see how you could make a general.
+
+1465
+01:38:49,580 --> 01:38:52,020
+If you look at the history of psychology,
+
+1466
+01:38:52,020 --> 01:38:56,700
+there are so many efforts to find three laws of motion
+
+1467
+01:38:56,700 --> 01:38:58,540
+like Newton's.
+
+1468
+01:38:58,540 --> 01:38:59,700
+Is he trying to do that?
+
+1469
+01:39:04,900 --> 01:39:06,580
+I mean, here you're talking about people
+
+1470
+01:39:06,580 --> 01:39:19,540
+with language and high-level semantics, and let's
+
+1471
+01:39:19,540 --> 01:39:20,700
+ask him what he meant.
+
+1472
+01:39:30,260 --> 01:39:31,580
+Professor Miske.
+
+1473
+01:39:31,580 --> 01:39:32,060
+Yeah?
+
+1474
+01:39:32,060 --> 01:39:34,260
+It's more of a social question, but there's always
+
+1475
+01:39:34,260 --> 01:39:36,820
+this debate about how if AI gets to the point
+
+1476
+01:39:36,820 --> 01:39:38,340
+where it can take care of humans,
+
+1477
+01:39:38,340 --> 01:39:40,900
+will it ever destroy humanity?
+
+1478
+01:39:40,900 --> 01:39:44,300
+And do you think that's something that we should fear?
+
+1479
+01:39:44,300 --> 01:39:46,380
+And if so, is there some way we can prevent it?
+
+1480
+01:39:54,180 --> 01:40:01,420
+If you judge by what's happened in AI since 1980,
+
+1481
+01:40:01,420 --> 01:40:14,420
+it's hard to imagine anything to fear, but funny
+
+1482
+01:40:14,420 --> 01:40:16,620
+you should mention that I'm just trying
+
+1483
+01:40:16,620 --> 01:40:21,220
+to organize a conference sometime next year
+
+1484
+01:40:21,220 --> 01:40:28,100
+about disasters, and there's a nice book about disasters
+
+1485
+01:40:28,100 --> 01:40:33,420
+by what's his name?
+
+1486
+01:40:33,420 --> 01:40:36,020
+The Astronomer Royal.
+
+1487
+01:40:36,020 --> 01:40:37,100
+What?
+
+1488
+01:40:37,100 --> 01:40:39,620
+Martin Rees.
+
+1489
+01:40:39,620 --> 01:40:44,540
+So he has a nice book, which I just ordered from Amazon,
+
+1490
+01:40:44,540 --> 01:40:47,420
+and it came the next day.
+
+1491
+01:40:47,420 --> 01:40:55,100
+And it has about 10 disasters, like a big meteor coming
+
+1492
+01:40:55,100 --> 01:40:59,780
+and hitting the Earth.
+
+1493
+01:40:59,780 --> 01:41:03,660
+I forget the other 10, but I have it in here somewhere.
+
+1494
+01:41:03,660 --> 01:41:07,460
+So I generated another list of 10 to go with it.
+
+1495
+01:41:07,460 --> 01:41:11,700
+And so there are lots of bad things that could happen.
+
+1496
+01:41:11,700 --> 01:41:26,740
+But I think right now, that's not
+
+1497
+01:41:26,740 --> 01:41:30,180
+on the top of the list of disasters.
+
+1498
+01:41:30,180 --> 01:41:33,140
+Eventually, some hacker ought to be
+
+1499
+01:41:33,140 --> 01:41:37,940
+able to stop the net from working
+
+1500
+01:41:37,940 --> 01:41:40,500
+because it's not very secure.
+
+1501
+01:41:40,500 --> 01:41:43,740
+And while you're at it, you could probably
+
+1502
+01:41:43,740 --> 01:41:48,580
+knock out all of the navigation satellites
+
+1503
+01:41:48,580 --> 01:41:56,900
+and maybe set off a few nuclear reactors.
+
+1504
+01:41:56,900 --> 01:42:03,020
+But I don't think AI is the principal thing to worry about,
+
+1505
+01:42:03,020 --> 01:42:06,860
+but it should very suddenly get to be a problem.
+
+1506
+01:42:06,860 --> 01:42:10,260
+And there are lots of good science fiction stories.
+
+1507
+01:42:10,260 --> 01:42:15,940
+My favorite is the Colossus series by D.F. Jones.
+
+1508
+01:42:15,940 --> 01:42:17,700
+Anybody know?
+
+1509
+01:42:17,700 --> 01:42:21,260
+There was a movie called The Forbidden Project,
+
+1510
+01:42:21,260 --> 01:42:24,580
+and it's about somebody who builds an AI,
+
+1511
+01:42:24,580 --> 01:42:28,700
+and it's trained to do some learning.
 
 1512
 01:42:28,700 --> 01:42:33,860
@@ -6090,206 +6367,162 @@ And they're sort of scary because you
 realize that maybe the person will suddenly figure out
 
 1593
-01:47:39,900 --> 01:47:42,380
-that it's you who's doing it if they.
+01:47:39,900 --> 01:47:41,300
+that it's you who's doing it.
 
 1594
-01:47:42,380 --> 01:47:42,900
-[?
+01:47:50,900 --> 01:47:53,500
+I think assessment would have gotten all them together once.
 
 1595
-01:47:42,900 --> 01:47:43,380
-Ha ha ha.
-
-1596
-01:47:43,380 --> 01:47:44,380
-Ha ha ha.
-
-1597
-01:47:44,380 --> 01:47:45,380
-Ha ha ha.
-
-1598
-01:47:45,380 --> 01:47:46,380
-Ha ha ha.
-
-1599
-01:47:46,380 --> 01:47:47,380
-Ha ha ha.
-
-1600
-01:47:47,380 --> 01:47:48,380
-Ha ha ha.
-
-1601
-01:47:48,380 --> 01:47:49,380
-Ha ha ha.
-
-1602
-01:47:49,380 --> 01:47:50,380
-Ha ha ha.
-
-1603
-01:47:50,380 --> 01:47:51,380
-Ha ha ha.
-
-1604
-01:47:51,380 --> 01:47:53,380
-I hear assessment would have put all them together once.
-
-1605
-01:47:53,380 --> 01:47:54,380
+01:47:53,500 --> 01:47:54,380
 I think they married.
 
+1596
+01:47:54,820 --> 01:47:55,320
+Yeah.
+
+1597
+01:48:01,320 --> 01:48:09,660
+I remember there was once one of them came to visit,
+
+1598
+01:48:09,660 --> 01:48:10,820
+actually showed up.
+
+1599
+01:48:10,820 --> 01:48:16,540
+And he came to visit Norbert Wiener, who was famous for,
+
+1600
+01:48:16,540 --> 01:48:18,900
+I mean, he's the cybernetics person of the world.
+
+1601
+01:48:19,900 --> 01:48:24,220
+And this person came in.
+
+1602
+01:48:24,220 --> 01:48:28,180
+And he got between Wiener and the door
+
+1603
+01:48:28,180 --> 01:48:32,740
+and started explaining that somebody was putting
+
+1604
+01:48:32,740 --> 01:48:35,620
+dirty words in his head and making
+
+1605
+01:48:35,620 --> 01:48:40,220
+the grass on their lawn die.
+
 1606
-01:47:54,380 --> 01:47:55,380
-Ha ha ha.
+01:48:40,220 --> 01:48:43,020
+And he was sure it was someone in the government
 
 1607
-01:47:55,380 --> 01:47:56,380
-Ha ha ha.
-
-1608
-01:47:56,380 --> 01:47:57,380
-Ha ha ha.
-
-1609
-01:47:57,380 --> 01:47:58,380
-Ha ha ha.
-
-1610
-01:47:58,380 --> 01:48:01,380
-Ha ha ha.
-
-1611
-01:48:01,380 --> 01:48:09,660
-Remember, there was once one of them came to visit,
-
-1612
-01:48:09,660 --> 01:48:13,540
-actually showed up, and he came to visit Norbert Wiener, who
-
-1613
-01:48:13,540 --> 01:48:18,220
-was famous for, I mean, he's the cybernetics person
-
-1614
-01:48:18,220 --> 01:48:18,900
-of the world.
-
-1615
-01:48:23,060 --> 01:48:28,180
-And this person came in, and he got between Wiener and the door
-
-1616
-01:48:28,180 --> 01:48:32,300
-and started explaining that somebody
-
-1617
-01:48:32,300 --> 01:48:35,060
-was putting dirty words in his head
-
-1618
-01:48:35,060 --> 01:48:40,220
-and making the grass on their lawn die.
-
-1619
-01:48:40,220 --> 01:48:43,060
-And he was sure it was someone in the government,
-
-1620
-01:48:43,060 --> 01:48:48,420
+01:48:43,020 --> 01:48:48,420
 and that this was getting pretty scary.
 
-1621
+1608
 01:48:48,420 --> 01:48:49,580
 And I was near the door.
 
-1622
-01:48:52,620 --> 01:48:56,420
-So I went and got leth in.
+1609
+01:48:52,500 --> 01:48:53,860
+So I went and got Letvin.
 
-1623
-01:48:56,740 --> 01:48:57,700
-It's a true story.
+1610
+01:48:56,780 --> 01:48:58,900
+That's a true story because nearby.
 
-1624
-01:48:57,700 --> 01:49:02,580
-It was nearby, and I got leth in to come in.
+1611
+01:48:58,900 --> 01:49:02,580
+And I got Letvin to come in.
 
-1625
-01:49:02,580 --> 01:49:07,620
-And leth in actually talked this guy down and took him by the arm
+1612
+01:49:02,580 --> 01:49:06,860
+And Letvin actually talked this guy down and took him
 
-1626
-01:49:07,620 --> 01:49:08,780
-and went somewhere.
+1613
+01:49:06,860 --> 01:49:08,860
+by the arm and went somewhere.
 
-1627
-01:49:08,780 --> 01:49:12,420
+1614
+01:49:08,860 --> 01:49:12,420
 And I don't know what happened, but Wiener
 
-1628
+1615
 01:49:12,420 --> 01:49:16,540
 was really scared because the guy kept
 
-1629
+1616
 01:49:16,540 --> 01:49:19,140
 keeping him from going out.
 
-1630
+1617
 01:49:19,140 --> 01:49:21,940
-Leth in was big.
+Letvin was big.
 
-1631
-01:49:21,940 --> 01:49:23,260
+1618
+01:49:21,940 --> 01:49:23,220
 Wiener is not very big.
 
-1632
-01:49:26,420 --> 01:49:35,060
+1619
+01:49:29,220 --> 01:49:35,060
 Anyway, that keeps happening every few years.
 
-1633
+1620
 01:49:35,060 --> 01:49:36,860
 I get one, and I don't answer them.
 
-1634
+1621
 01:49:40,060 --> 01:49:42,780
-He's probably sending it to several people,
+He's probably sending it to several people.
 
-1635
-01:49:42,780 --> 01:49:49,380
-and I'm sure one of them is much better at it than we are.
+1622
+01:49:42,780 --> 01:49:46,180
+And I'm sure one of them is much better
 
-1636
+1623
+01:49:46,180 --> 01:49:49,380
+at it than we are.
+
+1624
 01:49:49,380 --> 01:49:54,380
 How many of you have ever had to deal with an obsessed person?
 
-1637
-01:49:54,380 --> 01:49:57,420
+1625
+01:49:54,380 --> 01:49:57,380
 How did they find you?
 
-1638
-01:49:57,420 --> 01:49:58,220
+1626
+01:49:57,380 --> 01:49:58,220
 I don't know.
 
-1639
+1627
 01:49:58,220 --> 01:50:00,620
 They found a number of people in the media lab, actually.
 
-1640
+1628
 01:50:04,860 --> 01:50:07,860
 Don't answer anything.
 
-1641
+1629
 01:50:07,860 --> 01:50:11,940
 But if they actually come, then it's not clear what to do.
 
-1642
-01:50:11,940 --> 01:50:12,940
+1630
+01:50:16,580 --> 01:50:17,080
+Yeah.
+
+1631
+01:50:23,100 --> 01:50:24,020
 Last question.
 
-1643
-01:50:28,140 --> 01:50:28,900
+1632
+01:50:28,140 --> 01:50:28,940
 Thanks for coming.
 

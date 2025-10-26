@@ -7323,52 +7323,160 @@ Like it makes girls more
 cute, is there something?
 
 1832
-01:38:45,8
-[01:46:33.820 --> 01:46:35.820]  Because
-[01:46:35.820 --> 01:46:37.820]  the nice thing
-[01:46:37.820 --> 01:46:39.820]  about evolution is it doesn't have
-[01:46:39.820 --> 01:46:41.820]  contrary to some beliefs
-[01:46:41.820 --> 01:46:43.820]  it doesn't have
-[01:46:43.820 --> 01:46:45.820]  any intentional
-[01:46:45.820 --> 01:46:47.820]  agents directing it.
-[01:46:47.820 --> 01:46:49.820]  But once you
-[01:46:49.820 --> 01:46:51.820]  once you can make
-[01:46:51.820 --> 01:46:53.820]  gene strings in
-[01:46:53.820 --> 01:46:55.820]  in high school then
-[01:46:55.820 --> 01:46:57.820]  Darwinian evolution becomes
-[01:46:57.820 --> 01:46:59.820]  a
-[01:46:59.820 --> 01:47:01.820]  a minority.
-[01:47:01.820 --> 01:47:03.820]  And
-[01:47:03.820 --> 01:47:05.820]  I assume you've heard the recent news of
-[01:47:05.820 --> 01:47:07.820]  Dutch biomedical
-[01:47:07.820 --> 01:47:09.820]  engineers who produced a version
-[01:47:09.820 --> 01:47:11.820]  of H1N1 with 60 percent
-[01:47:11.820 --> 01:47:13.820]  mortality.
-[01:47:13.820 --> 01:47:15.820]  Oh, and where does he keep it?
-[01:47:15.820 --> 01:47:17.820]  In his basement.
-[01:47:17.820 --> 01:47:19.820]  For science!
-[01:47:23.820 --> 01:47:25.820]  Did you make that up?
-[01:47:25.820 --> 01:47:27.820]  Well, I assume he did it for science.
-[01:47:27.820 --> 01:47:29.820]  I made up a tone of voice.
-[01:47:37.820 --> 01:47:39.820]  Was this a military run in project?
-[01:47:39.820 --> 01:47:41.820]  No, no, this was
-[01:47:41.820 --> 01:47:43.820]  at a hospital
-[01:47:43.820 --> 01:47:45.820]  research institute.
-[01:47:45.820 --> 01:47:47.820]  I mean, presumably
-[01:47:47.820 --> 01:47:49.820]  it was funded by someone who's
-[01:47:49.820 --> 01:47:51.820]  interested in
-[01:47:51.820 --> 01:47:53.820]  making a cure for H1N1.
-[01:47:53.820 --> 01:47:55.820]  And, you know, they're trying
-[01:47:55.820 --> 01:47:57.820]  to make it more obvious
-[01:47:57.820 --> 01:47:59.820]  when you have one
-[01:47:59.820 --> 01:48:01.820]  in your test population of
-[01:48:01.820 --> 01:48:03.820]  chinchillas or whatever their model
-[01:48:03.820 --> 01:48:05.820]  organism is.
-[01:48:15.820 --> 01:48:17.820]  Okay.
-[01:48:17.820 --> 01:48:19.820]  Well,
-[01:48:19.820 --> 01:48:21.820]  next time bring some questions.
-[01:48:25.820 --> 01:48:27.820]  Thank you.
-nant.
+01:38:45,820 --> 01:38:47,820
+Yeah, I think that's right.
+
+1833
+01:38:47,820 --> 01:38:49,820
+So attention.
+
+1834
+01:38:53,820 --> 01:38:55,820
+Well, these are all instances
+
+1835
+01:38:55,820 --> 01:38:57,820
+of the future dangers
+
+1836
+01:38:57,820 --> 01:38:59,820
+of getting
+
+1837
+01:39:01,820 --> 01:39:03,820
+better scientific techniques
+
+1838
+01:39:03,820 --> 01:39:05,820
+for high school students to
+
+1839
+01:39:05,820 --> 01:39:07,820
+do experiments with.
+
+1840
+01:39:07,820 --> 01:39:09,820
+There's a way to do it.
+
+1841
+01:39:09,820 --> 01:39:11,820
+Just throw money at them.
+
+1842
+01:39:13,820 --> 01:39:15,820
+Just throw what?
+
+1843
+01:39:15,820 --> 01:39:17,820
+Throw money at them.
+
+1844
+01:39:17,820 --> 01:39:19,820
+And they will do whatever they want.
+
+1845
+01:39:19,820 --> 01:39:21,820
+Oh, yeah.
+
+1846
+01:39:21,820 --> 01:39:23,820
+Actually, that's one path
+
+1847
+01:39:23,820 --> 01:39:25,820
+that I forgot about that some people
+
+1848
+01:39:25,820 --> 01:39:27,820
+do actually pursue.
+
+1849
+01:39:29,820 --> 01:39:31,820
+You can just reason directly
+
+1850
+01:39:31,820 --> 01:39:33,820
+from what makes people the most money.
+
+1851
+01:39:33,820 --> 01:39:35,820
+And that
+
+1852
+01:39:35,820 --> 01:39:37,820
+gets you something that makes a lot of money.
+
+1853
+01:39:39,820 --> 01:39:41,820
+It's kind of like a person, I guess.
+
+1854
+01:39:41,820 --> 01:39:43,820
+I think there are mutations in people that are
+
+1855
+01:39:43,820 --> 01:39:45,820
+not affected by money, though it would be interesting
+
+1856
+01:39:45,820 --> 01:39:47,820
+to try to develop a virus
+
+1857
+01:39:47,820 --> 01:39:49,820
+after money.
+
+1858
+01:39:51,820 --> 01:39:53,820
+Yeah.
+
+1859
+01:39:57,820 --> 01:39:59,820
+There's certainly...
+
+1860
+01:39:59,820 --> 01:40:01,820
+We can treat it.
+
+1861
+01:40:01,820 --> 01:40:03,820
+Right, we can treat alcoholism
+
+1862
+01:40:03,820 --> 01:40:05,820
+with Dysulphuram.
+
+1863
+01:40:05,820 --> 01:40:07,820
+So maybe there's some way that we can treat avarice.
+
+1864
+01:40:07,820 --> 01:40:09,820
+What?
+
+1865
+01:40:09,820 --> 01:40:11,820
+Yep.
+
+1866
+01:40:11,820 --> 01:40:13,820
+What's this new
+
+1867
+01:40:13,820 --> 01:40:15,820
+alcoholism treatment?
+
+1868
+01:40:15,820 --> 01:40:17,820
+It's not that new, but it's
+
+1869
+01:40:17,820 --> 01:40:19,820
+a drug that makes alcohol
+
+1870
+01:40:19,820 --> 01:40:21,820
+incredibly repugnant.
 
 1871
 01:40:21,820 --> 01:40:23,820

@@ -5688,110 +5688,389 @@ And that's as far as the conversation
 
 1423
 01:39:06,340 --> 01:39:07,740
-with Wo
-[01:45:27.780 --> 01:45:30.580]  but occasionally they're two characters.
-[01:45:30.580 --> 01:45:35.340]  And given names are either one or two characters.
-[01:45:35.340 --> 01:45:37.060]  And you just get those two?
-[01:45:37.060 --> 01:45:39.300]  And you can pick any character.
-[01:45:39.300 --> 01:45:41.260]  Oh, well, there are a lot of characters.
-[01:45:41.260 --> 01:45:41.820]  Yeah.
-[01:45:41.820 --> 01:45:43.580]  Like several thousand?
-[01:45:43.580 --> 01:45:45.300]  Yeah.
-[01:45:45.300 --> 01:45:49.780]  So it's something like 1,000 by 1,000 or?
-[01:45:49.780 --> 01:45:52.260]  Or 3,000.
-[01:45:52.260 --> 01:45:55.820]  3,000 by 3,000 by maybe another 3,000.
-[01:45:55.820 --> 01:45:58.500]  The British solution is to just keep adding simple names.
-[01:45:58.500 --> 01:46:02.300]  Like my brother's name is Dylan Neville Thomas Bedford.
-[01:46:02.300 --> 01:46:04.380]  And you can just keep changing that name.
-[01:46:04.380 --> 01:46:07.140]  And then if you get stuck with too many John Smiths,
-[01:46:07.140 --> 01:46:11.100]  you just do thirds, fourths, fifths.
-[01:46:11.100 --> 01:46:14.340]  Well, the article I read must have been wrong then.
-[01:46:14.340 --> 01:46:16.420]  I misunderstood it.
-[01:46:16.420 --> 01:46:19.220]  Because it said somewhere, areas of China,
-[01:46:19.220 --> 01:46:22.020]  there are only 100 names.
-[01:46:22.020 --> 01:46:26.020]  So if you have more than 10,000 people,
-[01:46:26.020 --> 01:46:29.340]  you get people with the same name.
-[01:46:29.340 --> 01:46:31.740]  Anyway, that's their problem.
-[01:46:40.980 --> 01:46:42.740]  Maybe the person who wrote the article
-[01:46:42.740 --> 01:46:44.780]  couldn't tell the difference between their friend Xu
-[01:46:44.780 --> 01:46:45.660]  and their friend Xu.
-[01:46:48.660 --> 01:46:51.340]  Well, one thing that they also did historically in China
-[01:46:51.340 --> 01:46:53.420]  is that sometimes people have middle names.
-[01:46:53.420 --> 01:46:56.900]  And the middle name is based on this thing that
-[01:46:56.900 --> 01:46:59.860]  was written centuries ago that for each generation,
-[01:46:59.860 --> 01:47:02.860]  it has a set character that must be your middle name.
-[01:47:02.860 --> 01:47:06.900]  So your name will be like family name, this middle name,
-[01:47:06.900 --> 01:47:10.140]  and then your actual given name.
-[01:47:10.140 --> 01:47:11.260]  So I don't know.
-[01:47:11.260 --> 01:47:16.380]  But that's sort of like becoming more obsolete nowadays.
-[01:47:16.380 --> 01:47:18.180]  Well, in English, we have lots of names
-[01:47:18.180 --> 01:47:22.860]  like farmer and painter and so forth.
-[01:47:22.860 --> 01:47:25.580]  But people don't live up to them much.
-[01:47:36.540 --> 01:47:38.580]  Because it's difficult to tell what a given baby is
-[01:47:38.580 --> 01:47:40.820]  going to do.
-[01:47:40.820 --> 01:47:42.380]  But you can order it around.
-[01:47:46.860 --> 01:47:49.140]  But actually, the historic Chinese system
-[01:47:49.140 --> 01:47:53.100]  is kind of an interesting way of addressing people,
-[01:47:53.100 --> 01:47:54.060]  like indexing people.
-[01:47:54.060 --> 01:47:57.020]  Because you have the first character, which is the family.
-[01:47:57.020 --> 01:47:59.420]  And then the second character is the generation.
-[01:47:59.420 --> 01:48:01.300]  And then the third character is you.
-[01:48:01.300 --> 01:48:05.700]  So it's like if your family is X and you're from generation A,
-[01:48:05.700 --> 01:48:11.300]  then your siblings will be like XAB, XAC, whatever.
-[01:48:11.300 --> 01:48:15.220]  And then the next generation will be like XB, whatever.
-[01:48:15.220 --> 01:48:18.580]  OK, maybe I should have picked a different outfit instead.
-[01:48:18.580 --> 01:48:19.940]  But you know what I mean.
-[01:48:19.940 --> 01:48:22.300]  Oh, a generation number?
-[01:48:22.300 --> 01:48:25.780]  Kind of, except for it's a character.
-[01:48:25.780 --> 01:48:31.780]  There should be enough IPV6 as an example.
-[01:48:31.860 --> 01:48:33.660]  I do agree that you're just going to end up
-[01:48:33.660 --> 01:48:37.260]  with us all being numbers in X.
-[01:48:37.260 --> 01:48:39.140]  But that being said, I've always wanted
-[01:48:39.140 --> 01:48:41.980]  to name my kids something that rhymes with the letter like 1,
-[01:48:41.980 --> 01:48:47.860]  2, 3, 4, so that I can just call them by their number
-[01:48:47.860 --> 01:48:51.580]  without them realizing that I'm calling them by their number.
-[01:48:51.580 --> 01:48:53.420]  That's a great idea.
-[01:48:53.420 --> 01:48:56.380]  I picked 1 instead of X.
-[01:48:56.380 --> 01:48:59.540]  1, serving me a name.
-[01:48:59.540 --> 01:49:05.820]  It could be the number of letters in the name, like 4.
-[01:49:05.820 --> 01:49:08.780]  I just want to start with, please.
-[01:49:08.780 --> 01:49:12.260]  You name your fourth kid Forrest.
-[01:49:12.260 --> 01:49:13.260]  Fork, I'm here.
-[01:49:17.020 --> 01:49:18.500]  Or name your third kid Tray.
-[01:49:21.900 --> 01:49:24.080]  Eventually, the name could be longer,
-[01:49:24.080 --> 01:49:26.180]  and it could be a whole little semantic net
-[01:49:26.180 --> 01:49:29.020]  with a little list structure in it.
-[01:49:33.420 --> 01:49:41.420]  There was a nice science fiction story about some culture
-[01:49:41.420 --> 01:49:45.700]  where you had to know your genealogy back
-[01:49:45.700 --> 01:49:47.500]  hundreds of generations.
-[01:49:47.500 --> 01:49:51.020]  I forgot the author.
-[01:49:51.020 --> 01:49:52.540]  But it was made into a movie.
-[01:49:56.180 --> 01:50:04.500]  Well, who wants the last word?
-[01:50:13.940 --> 01:50:14.940]  That's good.
-[01:50:18.420 --> 01:50:19.900]  Someone else can have it.
-[01:50:19.900 --> 01:50:23.580]  Yeah, do we have any announcement to make?
-[01:50:23.580 --> 01:50:26.100]  No, just final projects we do on Sunday.
-[01:50:26.100 --> 01:50:28.500]  That's it.
-[01:50:28.500 --> 01:50:30.820]  Do you know what you're teaching next semester?
-[01:50:30.820 --> 01:50:36.500]  We're trying to make a plan for some kind of weekly seminar
-[01:50:36.500 --> 01:50:41.860]  that's not for credit, although I
-[01:50:41.860 --> 01:50:45.180]  might have to make it for credit for financial reasons,
-[01:50:45.180 --> 01:50:46.340]  or nobody will pay me.
-[01:50:50.580 --> 01:50:54.180]  But we could go back to giving everyone A's again.
-[01:50:57.100 --> 01:51:01.580]  So you won't be teaching this subject until next fall, then?
-[01:51:01.580 --> 01:51:04.180]  I guess not.
-[01:51:04.180 --> 01:51:08.500]  I haven't absolutely decided, but I'm pretty sure.
-[01:51:08.500 --> 01:51:11.660]  Can they take your class?
-[01:51:11.660 --> 01:51:15.940]  How many students do you have each year?
-[01:51:15.940 --> 01:51:18.020]  Well, we've got room for about 40,
-[01:51:18.020 --> 01:51:19.940]  and usually about 120 sign up.
-[01:51:20.180 --> 01:51:20.660]  Mm-hmm.
-[01:51:23.460 --> 01:51:26.380]  And then you weed them out?
-[01:51:26.380 --> 01:51:26.880]  Yes.
-[01:51:30.820 --> 01:51:35.020]  I'd like to borrow your weeding program.
-[01:51:35.020 --> 01:51:38.140]  OK, well, thank you all for coming, and it's been fun.
-[01:51:38.140 --> 01:51:39.700]  Thank you.
-9
+with Wolfram Althoff goes.
+
+1424
+01:39:07,740 --> 01:39:09,620
+Right, but you're a person.
+
+1425
+01:39:09,620 --> 01:39:15,300
+And if it had a lot of information about you,
+
+1426
+01:39:15,300 --> 01:39:16,740
+you could collect.
+
+1427
+01:39:16,740 --> 01:39:19,700
+First of all, it would say, what kind of person are you?
+
+1428
+01:39:19,700 --> 01:39:22,180
+And you'd give your biography.
+
+1429
+01:39:22,180 --> 01:39:25,700
+And maybe we'll get common-sense databases that say,
+
+1430
+01:39:25,700 --> 01:39:27,220
+well, here are the kinds of things
+
+1431
+01:39:27,220 --> 01:39:33,460
+that somebody who likes pole vaulting is likely to know.
+
+1432
+01:39:33,460 --> 01:39:36,380
+We already have the what kind of person
+
+1433
+01:39:36,380 --> 01:39:39,540
+are you databases in social networks.
+
+1434
+01:39:39,540 --> 01:39:41,620
+That's what it is, right?
+
+1435
+01:39:41,620 --> 01:39:45,700
+Google's personalized search, yeah.
+
+1436
+01:39:45,700 --> 01:39:48,140
+Well, I just joined Facebook by mistake.
+
+1437
+01:39:49,700 --> 01:39:55,300
+And all sorts of people want to link.
+
+1438
+01:39:55,300 --> 01:39:57,940
+And all you have to do is look at their biography
+
+1439
+01:39:57,940 --> 01:40:00,740
+and see what music they like.
+
+1440
+01:40:00,740 --> 01:40:03,940
+And you can see you don't want to have that person as a friend.
+
+1441
+01:40:06,420 --> 01:40:11,540
+But I wish, has anybody written a program to automate this?
+
+1442
+01:40:14,340 --> 01:40:16,420
+I could tell them, I don't like music
+
+1443
+01:40:16,420 --> 01:40:18,140
+written in the last 20 years.
+
+1444
+01:40:20,540 --> 01:40:24,940
+And that would get rid of about half of them right off.
+
+1445
+01:40:24,940 --> 01:40:28,500
+Of course, it might be Freeman Dyson or somebody
+
+1446
+01:40:28,500 --> 01:40:31,940
+happens to like one of these tunes.
+
+1447
+01:40:31,940 --> 01:40:33,540
+I don't know.
+
+1448
+01:40:33,540 --> 01:40:39,260
+So then you have to make a hierarchy.
+
+1449
+01:40:39,260 --> 01:40:42,540
+If the person happens to be a really good physicist,
+
+1450
+01:40:43,180 --> 01:40:45,700
+then we'll flush that particular filter.
+
+1451
+01:40:55,620 --> 01:40:58,060
+Yeah, also Google's personalized search profile
+
+1452
+01:40:58,060 --> 01:41:00,140
+thinks that I'm a man, because apparently I've
+
+1453
+01:41:00,140 --> 01:41:05,380
+searched too many computer science things in the past.
+
+1454
+01:41:05,380 --> 01:41:06,140
+That's pretty good.
+
+1455
+01:41:07,140 --> 01:41:09,660
+OK.
+
+1456
+01:41:09,660 --> 01:41:12,700
+Maybe thinks most people are a man.
+
+1457
+01:41:12,700 --> 01:41:14,020
+Oh, I don't know.
+
+1458
+01:41:14,020 --> 01:41:16,500
+With other women, they get it right.
+
+1459
+01:41:16,500 --> 01:41:21,740
+But if you happen to be a woman who does computer tech-age
+
+1460
+01:41:21,740 --> 01:41:25,660
+stuff, and if you happen to do a lot of search on programming,
+
+1461
+01:41:25,660 --> 01:41:28,180
+for instance, like looking up APIs of things,
+
+1462
+01:41:28,180 --> 01:41:32,020
+then it tends to try to make that you're a man.
+
+1463
+01:41:32,020 --> 01:41:34,540
+Does it store the gender as a Boolean, or is it?
+
+1464
+01:41:37,100 --> 01:41:42,140
+I saw this a while ago, and it was just like, according to this,
+
+1465
+01:41:42,140 --> 01:41:43,700
+here's what they think that you are.
+
+1466
+01:41:43,700 --> 01:41:46,540
+And at the top, it was like, we think you're a man.
+
+1467
+01:41:46,540 --> 01:41:49,540
+I'm interested to know, though, how manly exactly you
+
+1468
+01:41:49,540 --> 01:41:51,460
+become for certain stuff.
+
+1469
+01:41:51,460 --> 01:41:54,420
+So I don't think they actually tell you
+
+1470
+01:41:54,420 --> 01:41:57,860
+their internal representation of who you are.
+
+1471
+01:41:57,860 --> 01:42:00,980
+But you just get to see a couple of categories,
+
+1472
+01:42:00,980 --> 01:42:05,100
+like male, 25 to 35, interested in computers,
+
+1473
+01:42:05,100 --> 01:42:08,220
+interested in, et cetera.
+
+1474
+01:42:08,220 --> 01:42:11,180
+I'm sure they keep it at a level somewhere.
+
+1475
+01:42:16,620 --> 01:42:19,140
+You could cross-correlate that with geography
+
+1476
+01:42:19,140 --> 01:42:21,940
+and be like, this is the manliest level in a circle.
+
+1477
+01:42:26,620 --> 01:42:28,220
+Is there anything in Facebook that
+
+1478
+01:42:28,220 --> 01:42:32,140
+would help us get a commonsense database, or is it?
+
+1479
+01:42:32,140 --> 01:42:36,100
+There's no cause for that.
+
+1480
+01:42:36,100 --> 01:42:40,940
+Or is there no useful knowledge?
+
+1481
+01:42:40,940 --> 01:42:42,420
+Must be something that could.
+
+1482
+01:42:42,420 --> 01:42:44,020
+Well, apparently, a few years back
+
+1483
+01:42:44,020 --> 01:42:45,860
+for how we was in this class, somebody
+
+1484
+01:42:45,860 --> 01:42:50,980
+made a program that could find out who was gay or not,
+
+1485
+01:42:50,980 --> 01:42:54,780
+even if they don't put gay or not gay on their profile,
+
+1486
+01:42:54,780 --> 01:42:57,620
+based on who their friends are.
+
+1487
+01:42:57,620 --> 01:43:00,340
+Yeah, my friend was gay when he found out.
+
+1488
+01:43:00,340 --> 01:43:02,740
+Well, see, this is not a statistical correlation.
+
+1489
+01:43:02,740 --> 01:43:05,060
+It's actually useful, because you
+
+1490
+01:43:05,060 --> 01:43:06,980
+can specify that you're looking for someone
+
+1491
+01:43:06,980 --> 01:43:08,780
+who is 0.75 female.
+
+1492
+01:43:18,780 --> 01:43:21,780
+How many women's names begin with the letter X?
+
+1493
+01:43:21,780 --> 01:43:22,660
+Begin with?
+
+1494
+01:43:22,660 --> 01:43:24,860
+The letter X. That may be your problem.
+
+1495
+01:43:24,860 --> 01:43:25,360
+No.
+
+1496
+01:43:29,700 --> 01:43:32,860
+Yes, it could be.
+
+1497
+01:43:32,860 --> 01:43:35,540
+I heard that China is allowing more names.
+
+1498
+01:43:37,940 --> 01:43:40,420
+Is it allowing?
+
+1499
+01:43:40,420 --> 01:43:45,380
+Well, I read an article which said there are only
+
+1500
+01:43:45,380 --> 01:43:53,020
+about 100 names in most of China.
+
+1501
+01:43:53,020 --> 01:43:58,380
+And in fact, there was a law that both your names
+
+1502
+01:43:58,380 --> 01:44:01,860
+have to be from this small set.
+
+1503
+01:44:01,860 --> 01:44:07,340
+And so there are only 10,000 different pairs of names.
+
+1504
+01:44:07,340 --> 01:44:08,700
+Do I mean that?
+
+1505
+01:44:08,700 --> 01:44:09,420
+Yeah.
+
+1506
+01:44:09,420 --> 01:44:11,340
+Family names?
+
+1507
+01:44:11,340 --> 01:44:13,860
+Are there a lot of family names?
+
+1508
+01:44:13,860 --> 01:44:18,020
+Well, I feel like there aren't really restrictions for names,
+
+1509
+01:44:18,020 --> 01:44:20,380
+as long as they're Chinese characters.
+
+1510
+01:44:20,380 --> 01:44:22,940
+I heard about a lawsuit in China where somebody wanted
+
+1511
+01:44:22,940 --> 01:44:25,060
+to name their kid something-something.com
+
+1512
+01:44:25,060 --> 01:44:25,980
+in the government.
+
+1513
+01:44:29,500 --> 01:44:32,380
+But as long as you pick real Chinese characters,
+
+1514
+01:44:32,380 --> 01:44:35,820
+you can name your kid Big Poopyhead, and it's OK.
+
+1515
+01:44:35,820 --> 01:44:37,900
+In fact, naming your kid Big Poopyhead
+
+1516
+01:44:37,900 --> 01:44:40,820
+is actually rather common in the countryside,
+
+1517
+01:44:40,820 --> 01:44:43,020
+because there's some superstition that
+
+1518
+01:44:43,020 --> 01:44:46,300
+believes that if your kid has a really terrible name,
+
+1519
 01:44:46,300 --> 01:44:48,460
 then he won't die during childhood,
 

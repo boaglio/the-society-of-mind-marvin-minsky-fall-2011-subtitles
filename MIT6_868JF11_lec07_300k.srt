@@ -6083,30 +6083,87 @@ have the concept of the perpendicular lines.
 And so just adding more lines, it's easy.
 
 1522
-0
-[01:48:24.760 --> 01:48:29.400]  What do you call those poems where there are many verses,
-[01:48:29.400 --> 01:48:32.560]  and each verse ends with the same line,
-[01:48:32.560 --> 01:48:34.480]  but it means something different each time?
-[01:48:37.120 --> 01:48:40.920]  It's a very what?
-[01:48:40.920 --> 01:48:45.200]  What's an example of a duet cake, Beethoven poem?
-[01:48:45.200 --> 01:48:46.040]  I couldn't hear you.
-[01:48:46.040 --> 01:48:47.520]  Well, there's like the villanelle.
-[01:48:47.520 --> 01:48:53.080]  It's like a rondo, except that it changes its meaning each time.
-[01:48:53.080 --> 01:48:55.440]  And it's the same words.
-[01:48:55.440 --> 01:48:57.400]  They're pretty hard to make, I guess.
-[01:48:57.400 --> 01:48:59.800]  There's the villanelle, which has a bit of that.
-[01:48:59.800 --> 01:49:02.160]  That does it?
-[01:49:02.160 --> 01:49:03.800]  There's the famous one that's what, like,
-[01:49:03.800 --> 01:49:09.160]  do not go gentle into the night or something.
-[01:49:09.160 --> 01:49:14.040]  Rage, rage against the coming of something.
-[01:49:14.040 --> 01:49:18.920]  Anyway, I'll email you the Diabelli.
-[01:49:18.920 --> 01:49:20.880]  I had a friend, Manfred Kleins, who
-[01:49:20.880 --> 01:49:26.120]  wrote this book called Centics, who
-[01:49:26.120 --> 01:49:30.560]  used to play that particular Beethoven thing.
-[01:49:30.560 --> 01:49:35.200]  Well, last important question.
-[01:49:40.200 --> 01:49:41.040]  Thanks for coming.
-[01:49:41.040 --> 01:49:42.840]  Thank you.
-32,920
+01:41:56,320 --> 01:42:03,200
+But just any dimensional thing, it's very abstract.
+
+1523
+01:42:03,200 --> 01:42:05,640
+I don't have any other representation
+
+1524
+01:42:05,640 --> 01:42:09,440
+that's close by that concept.
+
+1525
+01:42:09,440 --> 01:42:13,080
+It's just that I need a lot of concepts and representations.
+
+1526
+01:42:13,080 --> 01:42:16,440
+And I need one that's close by.
+
+1527
+01:42:16,440 --> 01:42:21,280
+Yes, between the vectors and the Fourier, they're so different.
+
+1528
+01:42:22,240 --> 01:42:24,360
+What would be in between those two?
+
+1529
+01:42:30,240 --> 01:42:33,440
+The Fourier is built by other kind of concepts.
+
+1530
+01:42:33,440 --> 01:42:35,160
+I don't think there is.
+
+1531
+01:42:35,160 --> 01:42:38,360
+Actually, square waves.
+
+1532
+01:42:38,360 --> 01:42:40,720
+Probably square waves are easier to understand
+
+1533
+01:42:40,720 --> 01:42:42,880
+than sines and cosines.
+
+1534
+01:42:42,880 --> 01:42:54,000
+Sines and cosines, but they're not continuous.
+
+1535
+01:42:54,000 --> 01:42:55,800
+I mean, not differentiable.
+
+1536
+01:43:04,040 --> 01:43:07,680
+Who has a problem to solve?
+
+1537
+01:43:07,680 --> 01:43:12,120
+I have a comment on the, I think Xiaoxiao's comment
+
+1538
+01:43:12,120 --> 01:43:16,880
+on having lots of practice.
+
+1539
+01:43:16,880 --> 01:43:22,640
+And I don't think that actually so much outrules
+
+1540
+01:43:22,640 --> 01:43:26,080
+the representational view.
+
+1541
+01:43:26,080 --> 01:43:28,400
+Well, I don't know what's going on neurologically.
+
+1542
+01:43:28,400 --> 01:43:32,920
 But if you have new representations,
 
 1543

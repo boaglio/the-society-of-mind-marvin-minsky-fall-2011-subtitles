@@ -6671,17 +6671,39 @@ So I think it's sort of like a delicate balance, right?
 All these factors must be there.
 
 1669
-01:47:52,740 --
-[01:55:24.620 --> 01:55:28.500]  Anyway, I did a lot of solving with.
-[01:55:31.220 --> 01:55:34.660]  I don't remember ever solving a hard problem with three people.
-[01:55:43.660 --> 01:55:46.340]  That's nice.
-[01:55:46.340 --> 01:55:53.100]  Well, you have to see 436 problem of the necessary height.
-[01:55:53.100 --> 01:55:54.420]  It says low battery.
-[01:55:54.420 --> 01:55:55.580]  Is that a coincidence?
-[01:56:01.500 --> 01:56:04.820]  Oh, ringing the bell must have dropped the voltage.
-[01:56:10.700 --> 01:56:13.420]  The low battery went on about one second
-[01:56:13.420 --> 01:56:16.740]  after I stopped the quack.
-8:26,900 --> 01:48:29,340
+01:47:52,740 --> 01:47:57,300
+Yeah, and that also relates to the hour problem,
+
+1670
+01:47:57,300 --> 01:48:02,940
+like when can you give someone a problem that
+
+1671
+01:48:02,940 --> 01:48:07,140
+might take a whole day or two?
+
+1672
+01:48:07,140 --> 01:48:13,500
+And there's no place for that in, well, there must be.
+
+1673
+01:48:13,500 --> 01:48:15,980
+Where in school do you get, that's
+
+1674
+01:48:15,980 --> 01:48:19,820
+when you have to write a term paper, maybe.
+
+1675
+01:48:19,820 --> 01:48:22,780
+And I think another thing about science and math,
+
+1676
+01:48:22,780 --> 01:48:26,900
+perhaps, at least the grade school incarnations
+
+1677
+01:48:26,900 --> 01:48:29,340
 of those subjects, is that they tend
 
 1678

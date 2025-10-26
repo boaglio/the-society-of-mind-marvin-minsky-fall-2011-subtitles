@@ -5659,62 +5659,212 @@ because anyway, so we had a sort of Piaget-like laboratory,
 but we never worked with infants, did we?
 
 1416
-[01:53:03.960 --> 01:53:07.480]  and then expect it to act with you from the beginning.
-[01:53:07.480 --> 01:53:09.560]  Well, if you look at the history,
-[01:53:09.560 --> 01:53:13.480]  you'll find that I'm not sure how to look it up.
-[01:53:13.480 --> 01:53:15.840]  But quite a few people have tried
-[01:53:15.840 --> 01:53:19.960]  to make learning systems that start with very little
-[01:53:19.960 --> 01:53:21.040]  and keep developing.
-[01:53:21.040 --> 01:53:31.120]  And the most impressive ones were the ones by Douglas Lenat.
-[01:53:33.960 --> 01:53:43.560]  But eventually, he gave up, and he
-[01:53:43.560 --> 01:53:48.120]  had systems that learned a few things, but they petered out.
-[01:53:48.120 --> 01:53:52.620]  And he changed his orientation to trying to build up
-[01:53:52.620 --> 01:53:54.720]  common sense libraries.
-[01:53:54.720 --> 01:54:01.600]  But trying to think of the name for self-organizing systems.
-[01:54:04.880 --> 01:54:07.840]  There are probably a dozen.
-[01:54:07.840 --> 01:54:11.000]  If you're interested, I'll try to find some of them.
-[01:54:11.000 --> 01:54:15.480]  But for some reason, people have given up on that.
-[01:54:15.480 --> 01:54:20.480]  And certainly worth a try.
-[01:54:25.680 --> 01:54:27.960]  As for language, I think the theory
-[01:54:27.960 --> 01:54:33.280]  that language is based on grammar is just plain wrong.
-[01:54:33.280 --> 01:54:39.440]  I suspect it's based on certain kinds of frame manipulation
-[01:54:39.440 --> 01:54:39.840]  things.
-[01:54:39.840 --> 01:54:47.040]  And the idea of abstract syntax is really not very productive,
-[01:54:47.040 --> 01:54:49.040]  or it hasn't.
-[01:54:49.040 --> 01:54:53.080]  Anyway, because you want it to be
-[01:54:53.080 --> 01:54:58.440]  able to fit into a system for inference as well.
-[01:54:58.440 --> 01:55:02.320]  I'm just bluffing here.
-[01:55:02.320 --> 01:55:03.640]  Did you have a question?
-[01:55:03.640 --> 01:55:05.000]  I was just going to say, it seems
-[01:55:05.000 --> 01:55:07.920]  that what you're saying might be considered
-[01:55:07.920 --> 01:55:10.920]  to be a form of example-based reasoning.
-[01:55:10.920 --> 01:55:13.000]  You just have lots and lots of examples,
-[01:55:13.000 --> 01:55:15.760]  which I'm not unlike the work that Ed Roy does,
-[01:55:15.760 --> 01:55:22.400]  who's a child learning the word water, hearing lots of people
-[01:55:22.400 --> 01:55:28.960]  use that word in different contexts and examples.
-[01:55:28.960 --> 01:55:32.000]  While you're here, Janet Baker was a pioneer
-[01:55:32.000 --> 01:55:35.760]  in speech recognition.
-[01:55:35.760 --> 01:55:40.560]  How come the latest systems suddenly got better?
-[01:55:40.560 --> 01:55:42.280]  Are they just bigger databases?
-[01:55:47.760 --> 01:55:49.960]  The early ones you had to train for an hour.
-[01:55:49.960 --> 01:55:55.360]  Yeah, but we now have so many more examples and exemplars
-[01:55:55.360 --> 01:56:00.080]  that you can much better characterize
-[01:56:00.080 --> 01:56:03.800]  their ability, which is tremendous, between people.
-[01:56:03.800 --> 01:56:07.520]  And you typically have multiple models,
-[01:56:07.520 --> 01:56:13.000]  a lot of different models, of how notes
-[01:56:13.000 --> 01:56:16.280]  in the space of how people say different things
-[01:56:16.280 --> 01:56:20.400]  and allow you to characterize them really well
-[01:56:20.400 --> 01:56:24.440]  so it can be a much better job.
-[01:56:24.480 --> 01:56:26.120]  You'll always get better at your models
-[01:56:26.120 --> 01:56:29.760]  of a given person speaking and modeling their voice.
-[01:56:29.760 --> 01:56:32.240]  But you can now model a population much better.
-[01:56:32.240 --> 01:56:36.080]  And you have so much more data.
-[01:56:36.080 --> 01:56:38.680]  They're really getting useful.
-[01:56:38.680 --> 01:56:39.200]  Oh, dear.
-[01:56:47.080 --> 01:56:52.280]  OK, unless somebody has a really urgent question.
-[01:56:52.280 --> 01:56:53.080]  Thanks for coming.
-[01:56:54.440 --> 01:56:56.840]  Thank you.
-d the rat, that so on, nobody has any trouble,
+01:46:33,720 --> 01:46:37,320
+You'd think it would be a big industry.
+
+1417
+01:46:37,320 --> 01:46:42,280
+Nixon once came around and asked,
+
+1418
+01:46:42,280 --> 01:46:44,280
+there was a great senator in Massachusetts.
+
+1419
+01:46:44,280 --> 01:46:47,080
+I forget who it was.
+
+1420
+01:46:47,080 --> 01:46:49,360
+He said, what can we do for education?
+
+1421
+01:46:49,360 --> 01:46:55,520
+And the senator said, research on children, how they learn.
+
+1422
+01:46:55,520 --> 01:46:58,800
+And Nixon said, that's a great idea.
+
+1423
+01:46:58,800 --> 01:47:01,920
+Let's put a billion dollars into it.
+
+1424
+01:47:01,920 --> 01:47:05,800
+And he couldn't convince anybody in his party
+
+1425
+01:47:05,800 --> 01:47:07,640
+to support this idea.
+
+1426
+01:47:10,240 --> 01:47:12,920
+The only good thing I've heard about Nixon,
+
+1427
+01:47:12,920 --> 01:47:15,920
+except for opening China, I guess,
+
+1428
+01:47:15,920 --> 01:47:19,200
+but he was determined to do something
+
+1429
+01:47:19,200 --> 01:47:20,960
+about early education.
+
+1430
+01:47:20,960 --> 01:47:22,960
+Oh, the teacher's union couldn't stand it.
+
+1431
+01:47:26,800 --> 01:47:29,840
+He didn't get any support from the education business.
+
+1432
+01:47:29,840 --> 01:47:35,080
+I'll probably remember the senator next.
+
+1433
+01:47:45,680 --> 01:47:46,520
+Who's next?
+
+1434
+01:47:49,400 --> 01:47:50,120
+Yes.
+
+1435
+01:47:50,120 --> 01:47:54,320
+So it's kind of along the same lines.
+
+1436
+01:47:54,320 --> 01:47:58,880
+So if we come out thinking about how we represent things,
+
+1437
+01:47:58,920 --> 01:48:02,840
+even if we think about language itself,
+
+1438
+01:48:02,840 --> 01:48:07,640
+so the early stages of learning a language obviously
+
+1439
+01:48:07,640 --> 01:48:10,680
+have a lot of this statistical learning involved,
+
+1440
+01:48:10,680 --> 01:48:14,240
+where we learn the morphology of the language,
+
+1441
+01:48:14,240 --> 01:48:17,440
+rather than learning that language is actually
+
+1442
+01:48:17,440 --> 01:48:18,840
+represented in.
+
+1443
+01:48:18,840 --> 01:48:25,960
+So for example, if we're going to learn how to,
+
+1444
+01:48:25,960 --> 01:48:29,200
+like how certain letters come one after the other,
+
+1445
+01:48:29,200 --> 01:48:32,720
+or how they don't, we kind of listen,
+
+1446
+01:48:32,720 --> 01:48:37,120
+and we see that it's the way everyone else does it.
+
+1447
+01:48:37,120 --> 01:48:39,360
+And there are certain words that exist,
+
+1448
+01:48:39,360 --> 01:48:42,320
+and certain words don't exist, even though they could exist.
+
+1449
+01:48:42,320 --> 01:48:45,880
+So I guess these are all statistical learning.
+
+1450
+01:48:45,880 --> 01:48:49,640
+And then after this structure is there,
+
+1451
+01:48:49,640 --> 01:48:55,120
+we use this structure to make this representation.
+
+1452
+01:48:55,120 --> 01:49:00,600
+So wouldn't it kind of be right to say that these two are
+
+1453
+01:49:00,600 --> 01:49:09,160
+basically the same thing, just that the more complex one is
+
+1454
+01:49:09,160 --> 01:49:13,600
+just another version of the statistical learning, where
+
+1455
+01:49:13,600 --> 01:49:17,080
+we've just learned?
+
+1456
+01:49:17,080 --> 01:49:18,960
+Well, there's context-free grammar,
+
+1457
+01:49:18,960 --> 01:49:24,360
+and there's the grammars that have pushdown lists and stacks
+
+1458
+01:49:24,360 --> 01:49:25,280
+and things like that.
+
+1459
+01:49:25,280 --> 01:49:33,160
+So you actually need something like a programming language
+
+1460
+01:49:33,160 --> 01:49:39,160
+to generate and parse sentences.
+
+1461
+01:49:39,160 --> 01:49:43,240
+There's slight, there's a little recursive quality.
+
+1462
+01:49:43,240 --> 01:49:46,120
+I don't know how you can, it's hard to represent that
+
+1463
+01:49:46,120 --> 01:49:49,920
+in a Bayesian network, unless you have a pushdown stack.
+
+1464
+01:49:50,920 --> 01:49:57,320
+The question is, does the brain have pushdown stacks,
+
+1465
+01:49:57,320 --> 01:50:00,480
+or are they only three deep or something?
+
+1466
+01:50:00,480 --> 01:50:04,760
+Because if you say, this is the dog that bit the cat that
+
+1467
+01:50:04,760 --> 01:50:09,560
+chased the rat, that so on, nobody has any trouble,
 
 1468
 01:50:09,560 --> 01:50:10,960

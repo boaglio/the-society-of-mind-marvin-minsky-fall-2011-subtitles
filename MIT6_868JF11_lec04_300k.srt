@@ -5583,26 +5583,80 @@ So in the future, it may be known
 that it exists everywhere.
 
 1397
-01:36:35,700 --> 01:
-[01:44:29.700 --> 01:44:35.380]  to make it into a question, except for the WH questions,
-[01:44:35.380 --> 01:44:39.780]  which are standalone words and you don't need them.
-[01:44:39.780 --> 01:44:42.980]  Yes, you'd say, this is expensive.
-[01:44:42.980 --> 01:44:47.580]  And they don't need the WH if you do enough of that.
-[01:44:54.140 --> 01:44:56.700]  So the question, is that in the brain at birth?
-[01:45:00.700 --> 01:45:04.620]  Is that pattern married in English where you can say,
-[01:45:04.620 --> 01:45:05.620]  is this expensive?
-[01:45:05.620 --> 01:45:08.100]  And you can say, how expensive is this
-[01:45:08.100 --> 01:45:10.580]  without that rising intonation?
-[01:45:10.580 --> 01:45:14.180]  It's not a marriage thing using a separate word,
-[01:45:14.180 --> 01:45:17.180]  but you don't need that separate word if it's an N word.
-[01:45:17.180 --> 01:45:20.660]  But if you're saying, how expensive is this
-[01:45:20.660 --> 01:45:22.220]  without the question of inflection,
-[01:45:22.220 --> 01:45:25.660]  it almost sounds like you're making a statement about just
-[01:45:25.660 --> 01:45:28.300]  how ridiculously expensive it is, you know?
-[01:45:28.300 --> 01:45:31.220]  Like, you're going, how expensive is this?
-[01:45:31.220 --> 01:45:33.180]  Versus, how expensive is this?
-[01:45:55.540 --> 01:45:56.900]  Well, I should let you go.
-ecent ones,
+01:36:35,700 --> 01:36:40,940
+Right, or else that those experiments were wrong
+
+1398
+01:36:40,940 --> 01:36:44,020
+and they were in a frog rather than a person.
+
+1399
+01:36:44,020 --> 01:36:54,020
+Levin claimed that if you could take a frog's brain out
+
+1400
+01:36:54,020 --> 01:36:55,980
+and stick it in backwards, then pretty soon it
+
+1401
+01:36:55,980 --> 01:36:59,020
+would behave just like it used to.
+
+1402
+01:36:59,020 --> 01:36:59,900
+Levin said?
+
+1403
+01:36:59,900 --> 01:37:00,980
+Yeah.
+
+1404
+01:37:00,980 --> 01:37:04,340
+Of course, I don't know if he was kidding or not.
+
+1405
+01:37:04,340 --> 01:37:05,340
+You never could tell.
+
+1406
+01:37:05,340 --> 01:37:08,500
+You could never tell when he was kidding.
+
+1407
+01:37:08,500 --> 01:37:09,000
+Right.
+
+1408
+01:37:13,980 --> 01:37:17,140
+Levin was a neuroscientist here who
+
+1409
+01:37:17,140 --> 01:37:24,220
+was one of the great all-time neuroscientists.
+
+1410
+01:37:24,220 --> 01:37:28,380
+He was also one of the first scientists
+
+1411
+01:37:28,380 --> 01:37:34,140
+to use transistors for biological purposes
+
+1412
+01:37:34,140 --> 01:37:38,180
+and made circuits that are still used in every laboratory.
+
+1413
+01:37:38,180 --> 01:37:43,540
+So he was a very colorful figure,
+
+1414
+01:37:43,540 --> 01:37:49,380
+and everyone should read some of his older papers.
+
+1415
+01:37:49,380 --> 01:37:52,540
+I don't know that there were any recent ones,
 
 1416
 01:37:52,540 --> 01:38:02,540

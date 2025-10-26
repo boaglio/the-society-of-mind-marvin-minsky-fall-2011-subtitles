@@ -5668,55 +5668,177 @@ or some of them at less cost than you're used to.
 
 1418
 01:35:03,820 --> 01:35:06,820
-And if you sit there for 10 minut
-[01:41:50.740 --> 01:41:53.180]  maybe 17.
-[01:41:53.180 --> 01:41:56.820]  And it said, one thing you must know,
-[01:41:56.820 --> 01:42:00.300]  besides not alarming the horses, is
-[01:42:00.300 --> 01:42:04.020]  you have to know how to change a tire or a tube,
-[01:42:04.020 --> 01:42:07.700]  because if you take a long trip, like all the way to Lexington
-[01:42:07.700 --> 01:42:15.780]  and back, it said that.
-[01:42:15.780 --> 01:42:17.460]  You'll probably have to patch a tube.
-[01:42:23.500 --> 01:42:24.540]  I'm sorry.
-[01:42:24.540 --> 01:42:27.740]  I can't remember what got me started on that.
-[01:42:27.740 --> 01:42:31.660]  Oh, so I plotted the length tires
-[01:42:31.660 --> 01:42:39.740]  would roll before they go bad from the 15 miles in 1915
-[01:42:39.740 --> 01:42:43.140]  up to about 80,000 miles now.
-[01:42:43.140 --> 01:42:44.660]  How long do your tires last?
-[01:42:47.380 --> 01:42:49.540]  Is that the right number?
-[01:42:49.540 --> 01:42:52.860]  I think it's more like 40 or something.
-[01:42:52.860 --> 01:42:53.620]  40 or 50.
-[01:42:53.620 --> 01:42:56.020]  I calculated it once you wear off less than an atom
-[01:42:56.020 --> 01:42:57.700]  each time around.
-[01:42:57.700 --> 01:42:58.580]  It's remarkable.
-[01:43:02.180 --> 01:43:05.940]  Anyway, so he has this big, wonderful book showing
-[01:43:05.940 --> 01:43:08.180]  all these exponential curves.
-[01:43:08.180 --> 01:43:11.860]  And if you try, you can find lots
-[01:43:11.860 --> 01:43:14.780]  of curves which go up and then flatten out.
-[01:43:14.780 --> 01:43:17.980]  But there aren't so many of those in his book.
-[01:43:21.740 --> 01:43:24.980]  But basically, of course, he's right
-[01:43:24.980 --> 01:43:29.440]  that there are things like Moore's law where computers
-[01:43:29.440 --> 01:43:34.680]  get faster and cheaper and all that sort of thing.
-[01:43:34.680 --> 01:43:37.280]  But a lot of those laws come to an end
-[01:43:37.280 --> 01:43:41.000]  when you get down to an atom-sized bit.
-[01:43:41.000 --> 01:43:46.740]  And if those happen too soon, then the singularity
-[01:43:46.740 --> 01:43:49.360]  won't come.
-[01:43:49.360 --> 01:43:54.320]  But I think the proper way to look at it
-[01:43:54.320 --> 01:43:59.000]  is to say, yes, things are happening faster and faster.
-[01:43:59.000 --> 01:44:01.760]  And many of them are very important.
-[01:44:01.760 --> 01:44:08.080]  And if you live lower than 20 feet above sea level,
-[01:44:08.080 --> 01:44:10.240]  you should plan to move soon.
-[01:44:21.560 --> 01:44:24.160]  Well, what should we think about?
-[01:44:24.160 --> 01:44:24.800]  Oh, I know.
-[01:44:24.800 --> 01:44:30.640]  Well, next Thursday is Thanksgiving.
-[01:44:33.640 --> 01:44:36.380]  How many of you would still be here next Wednesday?
-[01:44:41.960 --> 01:44:42.560]  That's 40%.
-[01:44:45.720 --> 01:44:46.220]  What?
-[01:44:55.400 --> 01:44:58.440]  I'd be glad to come in and talk to people
-[01:44:58.440 --> 01:44:59.840]  about projects and things.
-[01:45:02.840 --> 01:45:05.280]  But a lot of you probably have to go somewhere
-[01:45:05.280 --> 01:45:07.280]  for Thanksgiving.
-[01:45:07.280 --> 01:45:10.840]  So if you don't come, I won't be surprised.
+And if you sit there for 10 minutes,
 
+1419
+01:35:06,820 --> 01:35:10,820
+you'll find 20 equally good alternatives.
+
+1420
+01:35:10,820 --> 01:35:13,820
+And so then you say, this is a suitcase concept.
+
+1421
+01:35:13,820 --> 01:35:17,820
+It is not worthy of a definition.
+
+1422
+01:35:17,820 --> 01:35:20,820
+Mental age.
+
+1423
+01:35:20,820 --> 01:35:29,820
+The word IQ had a very good definition for many years
+
+1424
+01:35:29,820 --> 01:35:32,820
+because it was mental age.
+
+1425
+01:35:32,820 --> 01:35:35,820
+If a 10-year-old was answering
+
+1426
+01:35:35,820 --> 01:35:37,820
+roughly the same set of questions
+
+1427
+01:35:37,820 --> 01:35:40,820
+as the average 13-year-old,
+
+1428
+01:35:40,820 --> 01:35:44,820
+did you all know that's what IQ meant?
+
+1429
+01:35:44,820 --> 01:35:52,820
+And so the word intelligence, intelligence quotient,
+
+1430
+01:35:52,820 --> 01:35:55,820
+none of the psychologists in that business
+
+1431
+01:35:55,820 --> 01:35:58,820
+considered that important thing to define
+
+1432
+01:35:58,820 --> 01:36:01,820
+because they knew what they were doing,
+
+1433
+01:36:01,820 --> 01:36:04,820
+they're measuring mental age.
+
+1434
+01:36:04,820 --> 01:36:06,820
+And it's pretty easy.
+
+1435
+01:36:06,820 --> 01:36:11,820
+The system that's better at solving certain problems,
+
+1436
+01:36:11,820 --> 01:36:17,820
+my understanding is not trying to just make it more efficient
+
+1437
+01:36:17,820 --> 01:36:22,820
+or better at whatever problems it's already good at,
+
+1438
+01:36:22,820 --> 01:36:25,820
+but it's specifically trying to get it to be better
+
+1439
+01:36:25,820 --> 01:36:28,820
+at solving problems informed by human intelligence
+
+1440
+01:36:28,820 --> 01:36:30,820
+or by the type of problems humans can solve.
+
+1441
+01:36:30,820 --> 01:36:32,820
+Because otherwise, you'd just be sitting there
+
+1442
+01:36:32,820 --> 01:36:36,820
+trying to define ever better graph search algorithms
+
+1443
+01:36:36,820 --> 01:36:38,820
+instead of doing something useful.
+
+1444
+01:36:38,820 --> 01:36:40,820
+We're not trying to define.
+
+1445
+01:36:40,820 --> 01:36:45,820
+We're trying to make these machines do more things.
+
+1446
+01:36:45,820 --> 01:36:47,820
+Informed by human intelligence, right?
+
+1447
+01:36:47,820 --> 01:36:50,820
+I don't know what that means.
+
+1448
+01:36:50,820 --> 01:36:52,820
+What does informed mean?
+
+1449
+01:36:52,820 --> 01:36:53,820
+What?
+
+1450
+01:36:53,820 --> 01:36:56,820
+You mean smart people are working on it.
+
+1451
+01:36:56,820 --> 01:36:57,820
+No.
+
+1452
+01:36:57,820 --> 01:37:07,820
+I mean, if your only criterion was I've made a better machine
+
+1453
+01:37:07,820 --> 01:37:13,820
+if my machine can solve any sort of problem faster
+
+1454
+01:37:13,820 --> 01:37:18,820
+or more efficiently, then you would sort of get stuck
+
+1455
+01:37:18,820 --> 01:37:23,820
+in working on problems that computers are already
+
+1456
+01:37:23,820 --> 01:37:28,820
+very good at and just making ever more refined algorithms.
+
+1457
+01:37:28,820 --> 01:37:32,820
+But it's much more useful.
+
+1458
+01:37:32,820 --> 01:37:35,820
+And what people aren't actually doing, I think,
+
+1459
+01:37:35,820 --> 01:37:38,820
+is trying to make machines solve problems
+
+1460
+01:37:38,820 --> 01:37:40,820
+that humans are good at solving but computers
+
+1461
 01:37:40,820 --> 01:37:42,820
 are bad at solving.
 

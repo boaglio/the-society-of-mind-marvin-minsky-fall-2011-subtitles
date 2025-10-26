@@ -5651,84 +5651,315 @@ where you could sort of almost draw just by thinking
 this spot.
 
 1414
-01:32:02,420 -
-[01:40:43.540 --> 01:40:50.540]  should we bomb China or not, you could get 100 million people
-[01:40:50.540 --> 01:40:54.380]  to run up to the keyboard and say yes or no.
-[01:40:54.380 --> 01:41:00.660]  And presumably when the, what do they
-[01:41:00.660 --> 01:41:04.660]  call that great crowd of Jeffersons and Franklins
-[01:41:04.660 --> 01:41:12.140]  and the Founding Fathers, did a lot of things to prevent that.
-[01:41:12.140 --> 01:41:15.100]  And the one that they focused on,
-[01:41:15.100 --> 01:41:17.320]  which was one of the most effective,
-[01:41:17.320 --> 01:41:20.340]  was called the Electoral College.
-[01:41:20.340 --> 01:41:23.380]  And the United States is different from other places
-[01:41:23.380 --> 01:41:27.700]  because we don't elect congressmen or presidents.
-[01:41:27.700 --> 01:41:30.780]  We elect smart people from the community
-[01:41:30.780 --> 01:41:35.540]  who then get together and decide who should be president.
-[01:41:35.540 --> 01:41:39.420]  And of course, now if anybody, now they belong to parties.
-[01:41:39.420 --> 01:41:43.980]  And if any of them voted for the other party's candidate,
-[01:41:43.980 --> 01:41:46.100]  they would be held to pay.
-[01:41:46.100 --> 01:41:51.020]  But it was a great idea because the Founding Fathers realized
-[01:41:51.020 --> 01:41:53.320]  that if you had instant feedback, which
-[01:41:53.600 --> 01:41:58.520]  Hitler got, then you could say something really exciting
-[01:41:58.520 --> 01:42:01.400]  and everybody would press the yes button.
-[01:42:01.400 --> 01:42:03.280]  And then you kill all the Jews.
-[01:42:03.280 --> 01:42:07.300]  And then the next speech, you kill all the black people
-[01:42:07.300 --> 01:42:10.120]  and all the yellow people and all the people
-[01:42:10.120 --> 01:42:14.760]  whose last name doesn't begin with M.
-[01:42:14.760 --> 01:42:19.360]  And so what you don't want is instant feedback.
-[01:42:19.360 --> 01:42:23.960]  Now, the new social networks are getting us close to that.
-[01:42:23.960 --> 01:42:29.760]  And the question is, is it time to have,
-[01:42:29.760 --> 01:42:32.320]  is it time to stop that?
-[01:42:32.320 --> 01:42:33.920]  Is it getting dangerous?
-[01:42:33.920 --> 01:42:35.320]  I don't know.
-[01:42:35.320 --> 01:42:37.560]  But there must be a lot of people
-[01:42:37.560 --> 01:42:42.400]  who are recognizing that this thing is creeping up on us.
-[01:42:42.400 --> 01:42:47.120]  And you might be able to get 50 million people to do something
-[01:42:47.120 --> 01:42:51.680]  reckless in a few minutes if you don't put some limits.
-[01:42:54.280 --> 01:42:57.280]  I don't think we could get the electoral college back
-[01:42:57.280 --> 01:43:02.960]  because you'd have to get a majority to.
-[01:43:02.960 --> 01:43:05.560]  What does it take to fix the Constitution?
-[01:43:05.560 --> 01:43:06.240]  2 thirds?
-[01:43:10.600 --> 01:43:14.400]  We'll never see 2 thirds again.
-[01:43:14.400 --> 01:43:15.400]  It's the end of America.
-[01:43:19.760 --> 01:43:20.800]  Well, we have three minutes.
-[01:43:26.960 --> 01:43:28.160]  Yes?
-[01:43:28.160 --> 01:43:31.960]  If you design a direction for the field of psychology,
-[01:43:31.960 --> 01:43:34.760]  obviously one where there's a set of debunking tools,
-[01:43:34.760 --> 01:43:36.520]  what would you say they should be doing?
-[01:43:39.880 --> 01:43:44.320]  They should read Patrick Winston's thesis.
-[01:43:44.320 --> 01:43:48.840]  The psychologists now have disappeared
-[01:43:48.840 --> 01:43:51.920]  into the tar pit of statistics.
-[01:43:51.920 --> 01:43:54.240]  And they don't have the idea that knowledge needs
-[01:43:54.240 --> 01:43:57.520]  complicated representations.
-[01:43:57.520 --> 01:44:03.040]  And I don't care whether you assign probabilities to them
-[01:44:03.040 --> 01:44:05.960]  or put them in the order in which you thought of them
-[01:44:05.960 --> 01:44:12.040]  or do what Doug Lennett did in his thesis of swapping things
-[01:44:12.040 --> 01:44:14.600]  when one worked better than another.
-[01:44:14.600 --> 01:44:20.640]  But I forget the question.
-[01:44:20.640 --> 01:44:25.040]  But I think we've got to get better ideas
-[01:44:25.040 --> 01:44:26.920]  about representation of knowledge.
-[01:44:26.920 --> 01:44:29.760]  And I don't know where they're going to come from now
-[01:44:29.760 --> 01:44:34.640]  that the whole AI community is drifting
-[01:44:34.640 --> 01:44:42.760]  into these ways of avoiding representations.
-[01:44:42.760 --> 01:44:49.480]  I haven't read the Norvig Russell book, so does he?
-[01:44:49.480 --> 01:44:52.040]  Can anybody summarize what it says about knowledge
-[01:44:52.040 --> 01:44:52.920]  representation?
-[01:44:56.160 --> 01:44:56.880]  Who's read it?
-[01:44:59.560 --> 01:45:00.080]  Was it?
-[01:45:00.080 --> 01:45:04.560]  There's a chapter on logic, first order logic.
-[01:45:04.560 --> 01:45:07.040]  That's so funny.
-[01:45:07.040 --> 01:45:10.320]  First order of logic is what Newell and Simon thought
-[01:45:10.320 --> 01:45:18.600]  of in 1956 before they thought of the so-called GPS thing.
-[01:45:21.120 --> 01:45:23.480]  Logic can't make analogies.
-[01:45:23.480 --> 01:45:29.520]  It's a very bad thing to get stuck with.
-[01:45:29.520 --> 01:45:30.520]  0 or 1?
-[01:45:39.040 --> 01:45:42.160]  Maybe one of our papers should be on what
-[01:45:42.160 --> 01:45:43.680]  should AI do next year?
-[01:45:46.880 --> 01:45:48.000]  9 o'clock.
-[01:45:48.000 --> 01:45:48.800]  Thanks for coming.
-[01:45:48.800 --> 01:45:50.360]  Thank you.
-0
+01:32:02,420 --> 01:32:09,580
+And then she started a company and hasn't sent me one,
+
+1415
+01:32:09,580 --> 01:32:12,220
+because maybe it was just beginner's luck.
+
+1416
+01:32:12,220 --> 01:32:13,500
+Beginner's luck or something.
+
+1417
+01:32:16,860 --> 01:32:17,860
+What?
+
+1418
+01:32:17,860 --> 01:32:19,460
+Her name is Tali.
+
+1419
+01:32:19,460 --> 01:32:21,100
+Yes, Lee.
+
+1420
+01:32:25,820 --> 01:32:26,900
+Did you find the company?
+
+1421
+01:32:30,940 --> 01:32:33,700
+But you'd think there'd be lots of people wearing stuff.
+
+1422
+01:32:33,700 --> 01:32:37,300
+And she's doing it right now.
+
+1423
+01:32:37,300 --> 01:32:38,860
+With your keyboard.
+
+1424
+01:32:38,860 --> 01:32:39,360
+Right.
+
+1425
+01:32:42,860 --> 01:32:45,220
+Why don't we take a five-minute break?
+
+1426
+01:32:45,220 --> 01:33:06,460
+I don't know.
+
+1427
+01:33:15,220 --> 01:33:27,500
+Well, I hate to interrupt, because I
+
+1428
+01:33:27,500 --> 01:33:29,900
+see 10 different productive discussions.
+
+1429
+01:33:30,400 --> 01:33:30,900
+I know.
+
+1430
+01:33:43,740 --> 01:33:48,380
+Yes, I saw quite a few apparently productive
+
+1431
+01:33:48,380 --> 01:33:49,860
+discussions.
+
+1432
+01:33:49,860 --> 01:33:51,940
+Maybe that's what the class needs.
+
+1433
+01:33:51,940 --> 01:33:58,140
+But anybody come to a conclusion?
+
+1434
+01:33:58,140 --> 01:33:58,640
+Yeah.
+
+1435
+01:34:00,100 --> 01:34:01,340
+It's the best thing ever.
+
+1436
+01:34:01,340 --> 01:34:01,840
+Oh.
+
+1437
+01:34:06,580 --> 01:34:11,060
+See if you can knock the wall down and yeah.
+
+1438
+01:34:11,060 --> 01:34:13,020
+It's not a conclusion, but it's a question.
+
+1439
+01:34:13,020 --> 01:34:14,180
+It's a thought experiment.
+
+1440
+01:34:14,180 --> 01:34:17,460
+So if you had a black box that could sort of replace
+
+1441
+01:34:17,460 --> 01:34:19,140
+part of your brain, and let's say
+
+1442
+01:34:19,140 --> 01:34:21,620
+you could replace like 5% at a time,
+
+1443
+01:34:21,620 --> 01:34:24,460
+what if you assume that there's this self-entity?
+
+1444
+01:34:24,460 --> 01:34:26,020
+At what point would you lose yourself?
+
+1445
+01:34:30,900 --> 01:34:36,780
+If you change, the question is, how much do you
+
+1446
+01:34:36,780 --> 01:34:42,340
+have in common with the you of yesterday
+
+1447
+01:34:42,340 --> 01:34:45,860
+as compared to when you graduated grade school?
+
+1448
+01:34:49,100 --> 01:34:56,700
+So this question of the idea of identity is very, very fuzzy.
+
+1449
+01:35:00,900 --> 01:35:01,400
+Yeah.
+
+1450
+01:35:01,400 --> 01:35:03,300
+So the question sort of reminds me
+
+1451
+01:35:03,300 --> 01:35:06,780
+of these peculiar cases of transplant patients.
+
+1452
+01:35:06,780 --> 01:35:10,020
+Suddenly having preferences, like the person
+
+1453
+01:35:10,020 --> 01:35:13,220
+they got the transplant from, like heart transplants and stuff.
+
+1454
+01:35:13,220 --> 01:35:15,420
+Somehow they start to like saying foods
+
+1455
+01:35:15,420 --> 01:35:18,420
+or use the same words or various odd things like that.
+
+1456
+01:35:18,420 --> 01:35:19,900
+Marrying the same spouses.
+
+1457
+01:35:23,900 --> 01:35:28,900
+I read a science fiction novel by Robert Seuss.
+
+1458
+01:35:28,900 --> 01:35:31,620
+By Robert Sawyer.
+
+1459
+01:35:31,620 --> 01:35:33,700
+Any of you know of him?
+
+1460
+01:35:33,700 --> 01:35:36,300
+Canadian writer.
+
+1461
+01:35:36,300 --> 01:35:47,020
+And it has to do with somebody who has a fatal disease.
+
+1462
+01:35:47,020 --> 01:35:49,900
+So he's going to die soon.
+
+1463
+01:35:49,900 --> 01:35:52,600
+But the technology is around where
+
+1464
+01:35:52,600 --> 01:35:56,100
+you can make a duplicate of him.
+
+1465
+01:35:56,100 --> 01:36:01,140
+And so he has a duplicate made.
+
+1466
+01:36:01,140 --> 01:36:06,420
+And he is sent to the moon for some reasons
+
+1467
+01:36:06,420 --> 01:36:13,460
+I can't remember, which is a kind of nursing home for,
+
+1468
+01:36:13,460 --> 01:36:18,420
+I think, people who are enfeebled and do much better
+
+1469
+01:36:18,420 --> 01:36:19,980
+with one-seventh gravity.
+
+1470
+01:36:19,980 --> 01:36:22,460
+And so for some reason why.
+
+1471
+01:36:22,460 --> 01:36:25,980
+Anyway, the original copy is sent
+
+1472
+01:36:25,980 --> 01:36:31,340
+to the moon and the substitute takes over.
+
+1473
+01:36:31,340 --> 01:36:36,420
+But then our hero is miraculously
+
+1474
+01:36:36,420 --> 01:36:40,420
+cured by eating the right stem cells or whatever.
+
+1475
+01:36:40,420 --> 01:36:42,740
+I don't remember.
+
+1476
+01:36:42,740 --> 01:36:46,300
+So he wants to come back.
+
+1477
+01:36:46,300 --> 01:36:47,900
+And the question is, who gets the car?
+
+1478
+01:36:48,620 --> 01:37:00,340
+So I can't remember the title of the novel,
+
+1479
+01:37:00,340 --> 01:37:03,340
+except that it has alien in it.
+
+1480
+01:37:03,340 --> 01:37:06,340
+Alienable rights is not something like that.
+
+1481
+01:37:06,340 --> 01:37:12,620
+But I wrote an article called Alienable Rights.
+
+1482
+01:37:12,620 --> 01:37:17,740
+Anyway, so are you the same as you were five minutes ago
+
+1483
+01:37:17,740 --> 01:37:21,100
+or five years ago or whatever?
+
+1484
+01:37:21,100 --> 01:37:23,900
+And as far as I'm concerned, the answer is, who cares?
+
+1485
+01:37:27,140 --> 01:37:30,860
+It's a sort of silly question, because no two things are
+
+1486
+01:37:30,860 --> 01:37:33,180
+exactly the same ever anyway.
+
+1487
+01:37:36,740 --> 01:37:39,220
+But again, a lot of these questions
+
+1488
+01:37:39,220 --> 01:37:43,020
+which look philosophical are legal.
+
+1489
+01:37:43,100 --> 01:37:51,580
+So the joke of that novel is that who owns the car
+
+1490
+01:37:51,580 --> 01:37:58,100
+is what matters to decide who is the real original
+
+1491
+01:37:58,100 --> 01:38:00,540
 and who's the copy.
 
 1492

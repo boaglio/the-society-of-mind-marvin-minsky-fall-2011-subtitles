@@ -6519,101 +6519,364 @@ You just have to take what you've got
 and make the best of it.
 
 1631
-01:51:03,580 --> 01:5
-[01:59:40.140 --> 01:59:42.540]  So here are three states.
-[01:59:42.540 --> 01:59:45.060]  And here's a certain input that means
-[01:59:45.060 --> 01:59:48.060]  if you're in that state, you go to this.
-[01:59:48.060 --> 01:59:53.620]  And if you pop that input again, it does this.
-[01:59:53.620 --> 02:00:00.540]  And if you say, go counterclockwise, it goes.
-[02:00:00.540 --> 02:00:03.340]  So three of them get you back where you were.
-[02:00:03.340 --> 02:00:09.100]  But if I go this, this, and that,
-[02:00:09.100 --> 02:00:14.180]  that would mean to go like this, this, and back.
-[02:00:14.180 --> 02:00:17.660]  So this would be, that means that's
-[02:00:17.660 --> 02:00:20.980]  equivalent to just going one.
-[02:00:20.980 --> 02:00:21.860]  Get the idea?
-[02:00:21.860 --> 02:00:23.220]  In other words, imagine that there's
-[02:00:23.220 --> 02:00:27.460]  a little world inside your brain which is very small
-[02:00:27.460 --> 02:00:29.700]  and only has three states.
-[02:00:29.700 --> 02:00:32.580]  And you have actions that you can perform on it.
-[02:00:32.580 --> 02:00:34.580]  And you have an integer i which can
-[02:00:34.580 --> 02:00:40.100]  see which of the three points of that triangle you're on.
-[02:00:40.100 --> 02:00:43.020]  Then you could learn by experience
-[02:00:43.060 --> 02:00:46.980]  that if you go left, left, left, you're back where you were.
-[02:00:46.980 --> 02:00:49.260]  But if you go left, right, left, right,
-[02:00:49.260 --> 02:00:51.060]  you're back where you are.
-[02:00:51.060 --> 02:00:56.380]  And if you go left, left, right, that's like going one left.
-[02:00:56.380 --> 02:01:01.340]  In other words, you could imagine a brain that starts out
-[02:01:01.340 --> 02:01:04.860]  before it connects itself to the real world.
-[02:01:04.860 --> 02:01:11.340]  It starts by having the top level of the brain connected
-[02:01:11.340 --> 02:01:15.660]  to a little internal world which just has three or four states.
-[02:01:15.660 --> 02:01:19.100]  And you get very good at manipulating that.
-[02:01:19.100 --> 02:01:23.420]  Then you add more sensory systems to the outer world.
-[02:01:23.420 --> 02:01:29.220]  And you get to learn ways to get around in the real world.
-[02:01:29.220 --> 02:01:32.820]  So I called that the internal grounding hypothesis.
-[02:01:32.820 --> 02:01:39.940]  And my suggestion is maybe somewhere in the human brain
-[02:01:39.940 --> 02:01:41.500]  there's a little structure that's
-[02:01:41.500 --> 02:01:45.260]  somewhat like that which is used by the frontal part
-[02:01:45.260 --> 02:01:51.300]  of the cortex to make very abstract ideas.
-[02:01:51.300 --> 02:01:54.500]  You understand, the more abstract an idea is,
-[02:01:54.500 --> 02:01:58.140]  the simpler and more stupid and elementary it is.
-[02:01:58.140 --> 02:02:00.860]  Abstract doesn't mean hard.
-[02:02:00.860 --> 02:02:04.140]  Abstract means stupid.
-[02:02:04.180 --> 02:02:10.500]  Real things like this are infinitely complicated.
-[02:02:10.500 --> 02:02:14.140]  So we might have, and I wouldn't dare suggest this
-[02:02:14.140 --> 02:02:18.540]  to a neuroscientist, there might be some little brain
-[02:02:18.540 --> 02:02:22.340]  center somewhere near the frontal cortex that
-[02:02:22.340 --> 02:02:28.100]  allows the frontal cortex to do some predicting and planning
-[02:02:28.100 --> 02:02:37.180]  and induction about a few simple finite state arrangements.
-[02:02:37.180 --> 02:02:39.820]  Who knows?
-[02:02:39.820 --> 02:02:42.940]  Would you look for it?
-[02:02:42.940 --> 02:02:44.420]  Well, if you were a neuroscientist,
-[02:02:44.420 --> 02:02:46.860]  you could say, oh, that's completely different
-[02:02:46.860 --> 02:02:49.060]  from anything I ever heard.
-[02:02:49.060 --> 02:02:51.180]  Let's look for it.
-[02:02:51.180 --> 02:02:54.900]  And if you're wrong, you're wasted a year.
-[02:02:54.900 --> 02:03:04.620]  And if you're right, then you become the new Ramon E. Cajal
-[02:03:04.620 --> 02:03:06.340]  or someone.
-[02:03:06.340 --> 02:03:11.100]  Who's the currently best neuroscientist?
-[02:03:14.820 --> 02:03:15.620]  Maybe it's late.
-[02:03:19.260 --> 02:03:22.180]  One more question.
-[02:03:22.180 --> 02:03:23.140]  One last question.
-[02:03:34.180 --> 02:03:36.540]  This is Cynthia Solomon, who's one
-[02:03:36.540 --> 02:03:41.420]  of the great developers of the logo language.
-[02:03:41.420 --> 02:03:41.920]  Yay.
-[02:03:44.780 --> 02:03:46.260]  Yes.
-[02:03:46.260 --> 02:03:48.220]  Maybe it's that question for me.
-[02:03:49.060 --> 02:03:51.060]  One last question.
-[02:03:51.060 --> 02:03:59.500]  What do you think about theories such as Rodney Brooks' theories
-[02:03:59.500 --> 02:04:02.380]  that speak of no central nervous system?
-[02:04:02.380 --> 02:04:04.340]  Completely weird.
-[02:04:04.340 --> 02:04:06.580]  Obviously, those theories have nothing
-[02:04:06.580 --> 02:04:09.100]  to do with human thinking, but they're
-[02:04:09.100 --> 02:04:11.900]  very good for making stupid robots.
-[02:04:11.900 --> 02:04:15.020]  And the vacuum cleaner is one of the great achievements
-[02:04:15.020 --> 02:04:15.860]  of the century.
-[02:04:19.100 --> 02:04:23.660]  However, his projects, what was it called,
-[02:04:23.660 --> 02:04:26.980]  cog, disappeared without a trace.
-[02:04:29.740 --> 02:04:34.420]  That theory was so wrong that it got a national award.
-[02:04:34.420 --> 02:04:38.860]  And it corrupted AI research in Japan for several years.
-[02:04:38.860 --> 02:04:40.940]  I can't understand.
-[02:04:40.940 --> 02:04:43.460]  Brooks became popular because he said,
-[02:04:43.460 --> 02:04:45.380]  maybe the important things about thinking
-[02:04:45.380 --> 02:04:48.340]  is that there's no internal representation.
-[02:04:48.340 --> 02:04:52.100]  You're just reacting to situations.
-[02:04:52.100 --> 02:04:57.060]  And you have a big library of how to react to each situation.
-[02:04:57.060 --> 02:05:01.820]  Well, David Hume had that idea, and he
-[02:05:01.820 --> 02:05:06.340]  was a popular philosopher for hundreds of years.
-[02:05:06.340 --> 02:05:11.260]  But it went nowhere, and it's gone, and so is Rod.
-[02:05:11.300 --> 02:05:15.460]  However, he is one of the great robot designers,
-[02:05:15.460 --> 02:05:19.620]  and he may be the instrumental in fixing
-[02:05:19.620 --> 02:05:25.020]  the great Japanese nuclear meltdown
-[02:05:25.020 --> 02:05:29.140]  because they're shipping some of his robots out there.
-[02:05:29.140 --> 02:05:33.060]  The problem is, can it open the door?
-[02:05:33.060 --> 02:05:35.380]  So far, no robot can open the door
-[02:05:35.380 --> 02:05:36.660]  even though it's not locked.
-[02:05:42.260 --> 02:05:43.740]  Thank you.
-[02:05:43.740 --> 02:05:45.220]  Thank you.
-eriments
+01:51:03,580 --> 01:51:04,900
+Yeah?
+
+1632
+01:51:04,900 --> 01:51:08,300
+So what's the relationship between systems, knowledge,
+
+1633
+01:51:08,300 --> 01:51:10,780
+and artificial intelligence?
+
+1634
+01:51:10,780 --> 01:51:11,620
+Which knowledge?
+
+1635
+01:51:11,620 --> 01:51:15,020
+Like systems, basically, in general?
+
+1636
+01:51:19,220 --> 01:51:21,380
+Well, there are people who talk about systems theory,
+
+1637
+01:51:21,380 --> 01:51:24,820
+but I'm not sure that it's well-defined.
+
+1638
+01:51:24,820 --> 01:51:28,660
+Artificial intelligence means, to me,
+
+1639
+01:51:28,660 --> 01:51:32,460
+making a system that is resourceful and doesn't
+
+1640
+01:51:32,460 --> 01:51:34,220
+get stuck.
+
+1641
+01:51:34,220 --> 01:51:42,060
+And so if you have a system, and also, how do you put it?
+
+1642
+01:51:45,500 --> 01:51:48,900
+Some definitions are not stationary,
+
+1643
+01:51:48,900 --> 01:51:53,580
+like what's popular?
+
+1644
+01:51:56,780 --> 01:52:01,740
+Popular is what's popular now.
+
+1645
+01:52:01,740 --> 01:52:04,900
+There isn't any such thing as popular music
+
+1646
+01:52:04,900 --> 01:52:06,020
+in terms of the music.
+
+1647
+01:52:06,020 --> 01:52:15,060
+So I know there was once a little department called
+
+1648
+01:52:15,060 --> 01:52:18,340
+Systems Analysis at Tufts, which had
+
+1649
+01:52:18,340 --> 01:52:21,220
+a couple of rather good philosophers
+
+1650
+01:52:21,220 --> 01:52:24,380
+trying to make general theory of everything.
+
+1651
+01:52:24,380 --> 01:52:28,420
+And they were writing nice little papers,
+
+1652
+01:52:28,420 --> 01:52:34,700
+and it moved along.
+
+1653
+01:52:34,700 --> 01:52:36,660
+But then there was a Senator McCarthy
+
+1654
+01:52:36,660 --> 01:52:41,220
+you've probably heard of, and he announced
+
+1655
+01:52:41,220 --> 01:52:47,540
+that he had evidence that one of the principal investigators
+
+1656
+01:52:47,540 --> 01:52:50,100
+had slept with his wife before they were married.
+
+1657
+01:52:54,060 --> 01:52:56,940
+Well, Tufts was very frightened at this
+
+1658
+01:52:56,940 --> 01:52:58,580
+and abolished that department.
+
+1659
+01:53:01,860 --> 01:53:07,100
+And Bill Schutz went to California and started Esalen
+
+1660
+01:53:07,100 --> 01:53:10,300
+and had a good time for the next 50 years.
+
+1661
+01:53:12,220 --> 01:53:14,380
+I don't know.
+
+1662
+01:53:14,380 --> 01:53:16,780
+More stories.
+
+1663
+01:53:16,780 --> 01:53:17,780
+Yeah.
+
+1664
+01:53:17,780 --> 01:53:22,620
+Kind of as an extension of the body and mind question,
+
+1665
+01:53:22,620 --> 01:53:25,060
+it seems to me like we as humans,
+
+1666
+01:53:25,060 --> 01:53:28,100
+we learn a lot from just interacting
+
+1667
+01:53:28,100 --> 01:53:29,980
+with the environment, like language.
+
+1668
+01:53:29,980 --> 01:53:31,460
+We hear it being spoken.
+
+1669
+01:53:31,460 --> 01:53:32,940
+We speak it.
+
+1670
+01:53:32,940 --> 01:53:33,700
+We see things.
+
+1671
+01:53:33,700 --> 01:53:35,740
+We touch things.
+
+1672
+01:53:35,740 --> 01:53:39,260
+But as far as I know, a lot of the efforts
+
+1673
+01:53:39,260 --> 01:53:40,980
+in artificial intelligence so far
+
+1674
+01:53:40,980 --> 01:53:44,700
+have been confined to the computer.
+
+1675
+01:53:44,700 --> 01:53:47,700
+That does not go out into the real world,
+
+1676
+01:53:47,700 --> 01:53:50,380
+interact, doesn't kind of turn the pages
+
+1677
+01:53:50,380 --> 01:53:52,900
+so you learn a new thing.
+
+1678
+01:53:52,900 --> 01:53:55,820
+Well, here's the problem.
+
+1679
+01:53:55,820 --> 01:53:59,860
+I look over at Carnegie Mellon, and there are some nice projects.
+
+1680
+01:53:59,860 --> 01:54:04,700
+And the most popular one is robot soccer.
+
+1681
+01:54:04,700 --> 01:54:08,580
+And here are these little robots kicking a ball around.
+
+1682
+01:54:08,580 --> 01:54:10,860
+They're Sony, what are they called?
+
+1683
+01:54:13,900 --> 01:54:16,580
+Yes, the Sony EyeBows.
+
+1684
+01:54:16,580 --> 01:54:20,860
+Sony stopped making the EyeBows, but it respected Carnegie
+
+1685
+01:54:20,860 --> 01:54:25,220
+and it made a little secret stash of EyeBows
+
+1686
+01:54:25,220 --> 01:54:30,620
+to send to Carnegie when the present ones break.
+
+1687
+01:54:30,660 --> 01:54:38,860
+But my impression of AI projects that have robots
+
+1688
+01:54:38,860 --> 01:54:44,180
+is that they do less, less, less than projects that don't.
+
+1689
+01:54:44,180 --> 01:54:52,260
+The reason is if you have a robot like ASIMO made by Sony,
+
+1690
+01:54:52,260 --> 01:54:59,100
+no, Honda, ASIMO can get in the back seat of a car
+
+1691
+01:54:59,100 --> 01:55:03,900
+with some effort, usually falls over.
+
+1692
+01:55:03,900 --> 01:55:07,340
+However, if you simulate a stick figure in a computer
+
+1693
+01:55:07,340 --> 01:55:10,660
+getting into a stick figure of a car,
+
+1694
+01:55:10,660 --> 01:55:14,460
+then you can make it learn to do that and get better and better.
+
+1695
+01:55:14,460 --> 01:55:18,020
+And so all AI projects without robots
+
+1696
+01:55:18,020 --> 01:55:22,500
+are way ahead of all AI projects with robots.
+
+1697
+01:55:22,500 --> 01:55:26,700
+And the profound reason is that robots are usually expensive
+
+1698
+01:55:26,700 --> 01:55:29,220
+and they're always being fixed.
+
+1699
+01:55:29,220 --> 01:55:34,340
+So if you have five students and the robot is being fixed,
+
+1700
+01:55:34,340 --> 01:55:38,660
+I don't know what they're doing, but they have to wait.
+
+1701
+01:55:38,660 --> 01:55:41,980
+Whereas if you have a stick figure robot,
+
+1702
+01:55:41,980 --> 01:55:46,580
+then you can just run it on this,
+
+1703
+01:55:46,580 --> 01:55:50,980
+although it might be a little slower than your mainframe.
+
+1704
+01:55:50,980 --> 01:55:51,660
+Probably not.
+
+1705
+01:55:52,660 --> 01:55:53,140
+Yeah.
+
+1706
+01:55:53,140 --> 01:55:57,140
+So going back to the idea of the mind and the body,
+
+1707
+01:55:57,140 --> 01:55:59,620
+here's a theory that I just thought of.
+
+1708
+01:55:59,620 --> 01:56:03,900
+The idea of the body as a scene in abstract,
+
+1709
+01:56:03,900 --> 01:56:06,580
+basically a mechanism for input-output.
+
+1710
+01:56:06,580 --> 01:56:10,500
+It's a set of sensors from which our brains can
+
+1711
+01:56:10,500 --> 01:56:14,060
+get information about the world and a set of actuators
+
+1712
+01:56:14,060 --> 01:56:16,940
+in which we can display our states.
+
+1713
+01:56:17,140 --> 01:56:22,060
+So in that light, it's almost as if our brains aren't really
+
+1714
+01:56:22,060 --> 01:56:24,740
+independent on our body itself.
+
+1715
+01:56:24,740 --> 01:56:27,540
+It can adapt to any sort of body if we happen
+
+1716
+01:56:27,540 --> 01:56:28,740
+to hook it up that way.
+
+1717
+01:56:28,740 --> 01:56:30,540
+And it just so happens that we've
+
+1718
+01:56:30,540 --> 01:56:32,620
+been hooked up to this body since birth
+
+1719
+01:56:32,620 --> 01:56:38,260
+that we have such good mental models of how to use this body.
+
+1720
+01:56:38,260 --> 01:56:42,340
+And I guess an example from experiments
 
 1721
 01:56:42,340 --> 01:56:44,860
@@ -7100,10 +7363,10 @@ So far, no robot can open the door
 even though it's not locked.
 
 1842
-02:05:42,260 --> 02:05:43,740
+02:05:42,220 --> 02:05:43,220
 Thank you.
 
 1843
-02:05:43,740 --> 02:05:45,220
+02:05:43,220 --> 02:05:44,700
 Thank you.
 

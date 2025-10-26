@@ -5719,120 +5719,443 @@ Sort of.
 The danger with that is that they
 
 1431
-01:34:52,720 -
-[01:42:35.160 --> 01:42:38.320]  Do you think AI research is structured in a way
-[01:42:38.320 --> 01:42:40.560]  that could ever be broken down?
-[01:42:40.560 --> 01:42:44.120]  Well, don't these crowd things usually start with some?
-[01:42:44.120 --> 01:42:46.760]  They must start with some sort of leader,
-[01:42:46.760 --> 01:42:51.520]  but then they become self-organizing.
-[01:42:51.520 --> 01:42:55.320]  I mean, they work because every participant
-[01:42:55.320 --> 01:43:00.560]  has a specific and distinct head, basically the same style
-[01:43:00.560 --> 01:43:04.040]  that they have.
-[01:43:04.040 --> 01:43:08.320]  I mean, they don't become more complex than that.
-[01:43:08.320 --> 01:43:10.560]  I mean, it becomes a community, or whatever.
-[01:43:10.560 --> 01:43:15.920]  But it doesn't, you know, like the idea of lowering the floor
-[01:43:15.920 --> 01:43:23.000]  of doing AI research so that more people can contribute.
-[01:43:23.000 --> 01:43:25.240]  It's a nice question.
-[01:43:25.240 --> 01:43:26.800]  Well, let's think about it.
-[01:43:26.840 --> 01:43:37.000]  If we take this PhD thesis code, it
-[01:43:37.000 --> 01:43:40.840]  wouldn't be much good to send the whole thing to everyone.
-[01:43:40.840 --> 01:43:43.560]  Well, of course, it wouldn't cost anything to do that.
-[01:43:43.560 --> 01:43:47.520]  But you need somebody to make a first pass at chopping it up
-[01:43:47.520 --> 01:43:52.280]  into saying, look, this function didn't work.
-[01:43:52.280 --> 01:43:53.800]  Maybe there's some code missing.
-[01:43:53.800 --> 01:43:59.240]  And so you might need a person or a couple of people
-[01:43:59.240 --> 01:44:02.720]  to sort of organize the project.
-[01:44:02.720 --> 01:44:08.360]  But once you've got a community, they
-[01:44:08.360 --> 01:44:12.040]  might be able to cooperate.
-[01:44:12.040 --> 01:44:16.680]  A community already existing to be able to contribute.
-[01:44:16.680 --> 01:44:18.960]  They might do it without a leader
-[01:44:18.960 --> 01:44:23.200]  once the problems became clear enough, because.
-[01:44:23.200 --> 01:44:27.160]  I would say that, I mean, there are some crowdsourced AI
-[01:44:27.160 --> 01:44:27.640]  projects.
-[01:44:27.640 --> 01:44:31.960]  Certainly, you go to SourceForge or the restaurant
-[01:44:31.960 --> 01:44:33.640]  game of Jeff Horton and all that.
-[01:44:33.640 --> 01:44:35.000]  That's their crowdsource.
-[01:44:35.000 --> 01:44:36.600]  You can think of that as a crowdsource.
-[01:44:36.600 --> 01:44:37.360]  They are a problem.
-[01:44:37.360 --> 01:44:39.360]  But I don't think the crowdsourcing is really
-[01:44:39.360 --> 01:44:43.600]  great for problems that demand a lot of creativity.
-[01:44:43.600 --> 01:44:46.320]  You know, it's commands that are projects that
-[01:44:46.320 --> 01:44:47.480]  are labor intensive.
-[01:44:47.480 --> 01:44:50.680]  It's good for, like, setting at home and that kind of thing.
-[01:44:50.680 --> 01:44:55.520]  But for projects that demand a lot of creativity,
-[01:44:55.520 --> 01:44:57.400]  it kind of breaks my heart almost,
-[01:44:57.400 --> 01:45:01.760]  because if you look at the open source work on Unix,
-[01:45:01.760 --> 01:45:04.360]  they've done a great job at organizing people
-[01:45:04.360 --> 01:45:08.920]  to work on Unix and Linux and three versions of Unix.
-[01:45:08.920 --> 01:45:12.560]  But on the other hand, the software isn't very innovative.
-[01:45:12.560 --> 01:45:16.760]  They just implement 60 versions of the mail probably.
-[01:45:16.840 --> 01:45:21.720]  The Unix interface hasn't changed since the 1960s pretty much.
-[01:45:21.720 --> 01:45:24.840]  So you know, it's everybody's still
-[01:45:24.840 --> 01:45:27.320]  programming on terminal windows.
-[01:45:27.320 --> 01:45:29.600]  So I think it's crowdsourcing is mainly
-[01:45:29.600 --> 01:45:32.360]  good for projects that are labor intensive.
-[01:45:32.360 --> 01:45:37.200]  But I think AI needs individual creativity more.
-[01:45:37.200 --> 01:45:39.720]  It's like McCarthy said, it needs
-[01:45:39.720 --> 01:45:44.760]  2.3 Einstein's and 1.7 Hatton projects.
-[01:45:44.760 --> 01:45:48.600]  In fact, you know, it's probably good for the Hatton projects
-[01:45:48.600 --> 01:45:51.400]  but not for the Unix studies.
-[01:45:51.400 --> 01:45:55.240]  On the other hand, given we have the movie,
-[01:45:55.240 --> 01:45:58.080]  it might be that the problem of getting this code
-[01:45:58.080 --> 01:46:01.880]  to make that movie isn't so creative.
-[01:46:01.880 --> 01:46:07.080]  You could start it up and see where it gets stuck.
-[01:46:07.080 --> 01:46:09.120]  And it's worth it.
-[01:46:09.120 --> 01:46:11.440]  A great possibility is if you have something
-[01:46:11.440 --> 01:46:14.680]  long-winds of Watson that incorporates lots and lots
-[01:46:14.680 --> 01:46:16.920]  of small programs, then you can have
-[01:46:16.920 --> 01:46:18.480]  people contribute small programs.
-[01:46:18.480 --> 01:46:21.000]  And whether they're good or bad, the system
-[01:46:21.000 --> 01:46:23.080]  can figure it out in the more than one.
-[01:46:23.080 --> 01:46:25.640]  Well, in some sense, Watson was crowdsourced
-[01:46:25.640 --> 01:46:28.920]  because it wasn't only developed by that IBM group
-[01:46:28.920 --> 01:46:34.200]  that they had lots of collaborators in ISI and CMU
-[01:46:34.200 --> 01:46:35.520]  and other places.
-[01:46:35.520 --> 01:46:39.360]  And they crowdsourced them by giving them little research
-[01:46:39.360 --> 01:46:42.240]  grants to integrate their employee with the research
-[01:46:42.240 --> 01:46:44.080]  into Watson.
-[01:46:44.080 --> 01:46:49.360]  So I think you could argue that that actually was crowdsourced.
-[01:46:49.360 --> 01:46:51.480]  Another thing we haven't tried is
-[01:46:51.480 --> 01:46:53.000]  called throwing money at it.
-[01:46:55.680 --> 01:47:01.760]  Suppose we got $5,000 or $1,000 and told some programmer,
-[01:47:01.760 --> 01:47:03.120]  can you get this to work?
-[01:47:03.920 --> 01:47:05.920]  Well, if you have good enough descriptions
-[01:47:05.920 --> 01:47:09.920]  of various small programs that you
-[01:47:09.920 --> 01:47:13.920]  can use for problem solving, then I
-[01:47:13.920 --> 01:47:16.920]  think that part of the problem is creativity.
-[01:47:16.920 --> 01:47:19.920]  Because some parts or some sub-programs
-[01:47:19.920 --> 01:47:22.920]  could be more stupid.
-[01:47:22.920 --> 01:47:24.920]  As long as you have a good description
-[01:47:24.920 --> 01:47:26.920]  of what that program is doing, then you
-[01:47:26.920 --> 01:47:29.920]  could have some really creative program.
-[01:47:30.720 --> 01:47:35.720]  That might use those stupid programs as part of its reasoning.
-[01:47:35.720 --> 01:47:37.720]  But you still need that one creative person
-[01:47:37.720 --> 01:47:38.720]  to make the decision.
-[01:47:38.720 --> 01:47:40.720]  Well, you still need that one creative person
-[01:47:40.720 --> 01:47:41.720]  to make the decision.
-[01:47:41.720 --> 01:47:44.720]  But you don't get so many if you organize it in Watson.
-[01:47:44.720 --> 01:47:45.720]  Yeah.
-[01:47:45.720 --> 01:47:47.720]  I'm going to just label it Bowman Warcraft 10.
-[01:47:47.720 --> 01:47:48.720]  Leave it on the internet.
-[01:47:48.720 --> 01:47:51.520]  Bowman Warcraft 10, leave it on the internet.
-[01:48:05.520 --> 01:48:14.120]  My grandson was suspended from Warcraft for three weeks
-[01:48:14.120 --> 01:48:17.200]  because he hacked the thing to get a higher
-[01:48:17.200 --> 01:48:18.680]  priority on something.
-[01:48:21.960 --> 01:48:25.520]  I think he was not.
-[01:48:25.520 --> 01:48:28.840]  Do you know how old he was?
-[01:48:28.840 --> 01:48:30.160]  Yeah.
-[01:48:30.160 --> 01:48:31.000]  No, miles.
-[01:48:34.600 --> 01:48:38.600]  No, I think he was about 10 or 12.
-[01:48:38.600 --> 01:48:41.120]  And he had actually managed to get into the thing
-[01:48:41.120 --> 01:48:43.360]  and get instant service.
-[01:48:48.080 --> 01:48:49.880]  He was very proud of being banned.
-[01:49:00.880 --> 01:49:03.480]  I give up.
-[01:49:03.480 --> 01:49:06.400]  Any last request or idea?
-[01:49:11.360 --> 01:49:13.400]  Thanks for coming.
-2:05,000
+01:34:52,720 --> 01:34:57,200
+might add their own code or their own sections.
+
+1432
+01:34:57,200 --> 01:35:02,760
+Well, if they're self-organizing enough,
+
+1433
+01:35:02,760 --> 01:35:06,440
+I mean, if an individual tries to fix it, that's fine.
+
+1434
+01:35:06,440 --> 01:35:09,880
+But maybe these people know how to work together.
+
+1435
+01:35:09,880 --> 01:35:14,840
+So they could chop it up and talk to each other and agree.
+
+1436
+01:35:14,840 --> 01:35:17,360
+It doesn't have to be the same as Push's.
+
+1437
+01:35:17,360 --> 01:35:18,160
+It just has to.
+
+1438
+01:35:18,160 --> 01:35:19,720
+I don't know if you've seen the movie.
+
+1439
+01:35:19,720 --> 01:35:23,000
+I'll bring it next time.
+
+1440
+01:35:23,000 --> 01:35:28,360
+He had a robot coming to try to screw the legs onto a table.
+
+1441
+01:35:28,360 --> 01:35:31,000
+But the robot has only one hand.
+
+1442
+01:35:31,000 --> 01:35:33,080
+So there's another robot over there.
+
+1443
+01:35:33,080 --> 01:35:35,520
+The first one says, help.
+
+1444
+01:35:35,520 --> 01:35:39,640
+And the other one figures out just enough
+
+1445
+01:35:39,640 --> 01:35:43,280
+to come over and pick up the other end of the table.
+
+1446
+01:35:43,280 --> 01:35:49,000
+So as far as I know, this thesis only worked out one example.
+
+1447
+01:35:49,080 --> 01:35:52,400
+Yeah, actually, the trick part in that
+
+1448
+01:35:52,400 --> 01:35:58,960
+was that when the other robot said, help,
+
+1449
+01:35:58,960 --> 01:36:01,000
+the other one was looking away.
+
+1450
+01:36:01,000 --> 01:36:06,040
+So yeah, well, you know this, but maybe you don't.
+
+1451
+01:36:06,040 --> 01:36:09,600
+So the other one turned there, and then at first,
+
+1452
+01:36:09,600 --> 01:36:13,800
+the other robot directly thought that the first robot is
+
+1453
+01:36:13,800 --> 01:36:16,000
+trying to take the table apart.
+
+1454
+01:36:16,000 --> 01:36:19,240
+So then you have the second robot doing that,
+
+1455
+01:36:19,240 --> 01:36:21,360
+and then you have to correct that, no.
+
+1456
+01:36:21,360 --> 01:36:24,640
+And then you go back and you show that you're trying to fix it.
+
+1457
+01:36:24,640 --> 01:36:28,400
+Right, and the first robot just says no,
+
+1458
+01:36:28,400 --> 01:36:32,980
+which the other robot has to be very stupid to be
+
+1459
+01:36:32,980 --> 01:36:39,160
+able to interpret that as exactly one thing not to do.
+
+1460
+01:36:39,160 --> 01:36:42,360
+If it were smarter, it probably wouldn't work.
+
+1461
+01:36:42,360 --> 01:36:45,400
+But anyway, I'll bring the movie in.
+
+1462
+01:36:53,240 --> 01:36:54,720
+Have you looked at the code?
+
+1463
+01:36:54,720 --> 01:36:57,080
+Yeah, I have a little bit, although I haven't really
+
+1464
+01:36:57,080 --> 01:36:58,440
+tried to debug it myself.
+
+1465
+01:36:58,440 --> 01:36:59,360
+It looks pretty hard.
+
+1466
+01:37:02,520 --> 01:37:06,760
+I probably have the movie on the machine if you want it.
+
+1467
+01:37:06,760 --> 01:37:09,680
+My favorite story, which I think is true,
+
+1468
+01:37:09,680 --> 01:37:18,120
+is that Slagle's program for doing integration for, yeah,
+
+1469
+01:37:18,120 --> 01:37:20,880
+was about five pages of Lisp.
+
+1470
+01:37:20,880 --> 01:37:24,960
+And Joel Moses said that it took him several weeks
+
+1471
+01:37:24,960 --> 01:37:29,680
+to figure out, because Slagle was blind
+
+1472
+01:37:29,680 --> 01:37:32,360
+and had to program in Braille.
+
+1473
+01:37:32,360 --> 01:37:39,160
+So Joel said that he made the most intricate convoluted
+
+1474
+01:37:39,160 --> 01:37:43,520
+expressions so that he wouldn't have to type so much.
+
+1475
+01:37:50,200 --> 01:37:52,960
+And then Joel, so that was the first.
+
+1476
+01:37:52,960 --> 01:37:55,640
+I had written a program that differentiated
+
+1477
+01:37:55,640 --> 01:37:58,280
+algebraic expressions.
+
+1478
+01:37:58,280 --> 01:38:00,280
+And that was a great breakthrough,
+
+1479
+01:38:00,280 --> 01:38:03,380
+although it was completely trivial.
+
+1480
+01:38:03,380 --> 01:38:06,560
+Namely, I just put in the letter D.
+
+1481
+01:38:06,560 --> 01:38:10,760
+And if it saw an expression x times y,
+
+1482
+01:38:10,760 --> 01:38:16,120
+it would say x dy times dy plus y times dx.
+
+1483
+01:38:16,120 --> 01:38:19,440
+And there are only four or five such rules.
+
+1484
+01:38:19,440 --> 01:38:21,580
+Then it would just sweep through until it
+
+1485
+01:38:21,580 --> 01:38:23,200
+had this big long expression.
+
+1486
+01:38:23,200 --> 01:38:27,280
+And that turned out to be the derivative.
+
+1487
+01:38:27,280 --> 01:38:30,860
+But then Joel wrote, the trouble is it was too long.
+
+1488
+01:38:30,860 --> 01:38:33,240
+And then Moses wrote something to simplify it.
+
+1489
+01:38:37,560 --> 01:38:42,120
+Then Slagle wrote a simple integration program.
+
+1490
+01:38:42,120 --> 01:38:47,120
+And then Moses wrote a really complicated one.
+
+1491
+01:38:47,120 --> 01:38:57,040
+And eventually, a couple of other mathematicians
+
+1492
+01:38:57,040 --> 01:39:00,400
+studied that and extended it and worked out
+
+1493
+01:39:00,400 --> 01:39:09,400
+a theory for the final integration program that
+
+1494
+01:39:09,400 --> 01:39:12,040
+could integrate any expression that
+
+1495
+01:39:12,040 --> 01:39:16,200
+had an integral enclosed to algebraic form, which
+
+1496
+01:39:16,200 --> 01:39:19,600
+means a function of exponents, sines, and cosines,
+
+1497
+01:39:19,600 --> 01:39:23,440
+and polynomials.
+
+1498
+01:39:23,440 --> 01:39:32,680
+And the result of that was a sort of nice story,
+
+1499
+01:39:32,680 --> 01:39:35,840
+which is that the American Mathematical Society had
+
+1500
+01:39:35,840 --> 01:39:43,280
+a big suite of rooms in Providence, their headquarters,
+
+1501
+01:39:43,280 --> 01:39:45,920
+where they had collected all the integrals that
+
+1502
+01:39:45,920 --> 01:39:49,280
+were known for hundreds of years,
+
+1503
+01:39:49,280 --> 01:39:52,920
+ever since Newton did the first ones.
+
+1504
+01:39:52,920 --> 01:39:56,800
+And there were rooms full of them.
+
+1505
+01:39:56,800 --> 01:39:59,880
+So every time somebody found a new integral,
+
+1506
+01:39:59,880 --> 01:40:02,840
+they would write it up and send it to the American Math
+
+1507
+01:40:02,840 --> 01:40:03,520
+Society.
+
+1508
+01:40:03,520 --> 01:40:05,480
+And it would get catalogued there.
+
+1509
+01:40:05,480 --> 01:40:10,200
+And they had raised funds for it was called the Bateman
+
+1510
+01:40:10,200 --> 01:40:12,120
+manuscript copy.
+
+1511
+01:40:12,120 --> 01:40:16,160
+And there was a fund for organizing all this data.
+
+1512
+01:40:16,160 --> 01:40:21,040
+And the minute the program came out,
+
+1513
+01:40:21,040 --> 01:40:24,960
+the Bateman manuscript project was terminated and closed.
+
+1514
+01:40:31,680 --> 01:40:35,320
+And I think Maxima had the solution in it.
+
+1515
+01:40:35,320 --> 01:40:41,440
+And Mathematica is the sort of big successor to that.
+
+1516
+01:40:41,440 --> 01:40:44,040
+It was a nice piece of history spread over
+
+1517
+01:40:44,040 --> 01:40:46,480
+about five or six years.
+
+1518
+01:40:46,480 --> 01:40:51,720
+And I don't know that anybody works on that anymore.
+
+1519
+01:40:57,160 --> 01:41:01,560
+We had a couple of PhD theses starting
+
+1520
+01:41:01,560 --> 01:41:05,480
+of trying to solve differential equations.
+
+1521
+01:41:05,480 --> 01:41:08,520
+And they didn't get very far.
+
+1522
+01:41:08,520 --> 01:41:14,520
+So that's probably important.
+
+1523
+01:41:18,240 --> 01:41:21,920
+Looks like Lemelson is over.
+
+1524
+01:41:21,920 --> 01:41:24,040
+It's the 100k.
+
+1525
+01:41:24,040 --> 01:41:26,560
+Elevator pitch.
+
+1526
+01:41:26,560 --> 01:41:29,240
+Do you think they actually awarded one?
+
+1527
+01:41:29,240 --> 01:41:29,720
+Yeah.
+
+1528
+01:41:29,720 --> 01:41:30,240
+Probably.
+
+1529
+01:41:30,240 --> 01:41:30,720
+They do.
+
+1530
+01:41:30,720 --> 01:41:33,120
+They do every year.
+
+1531
+01:41:33,120 --> 01:41:35,240
+Every year's legal.
+
+1532
+01:41:35,240 --> 01:41:37,120
+Well, they have 100k, I figure.
+
+1533
+01:41:37,120 --> 01:41:39,280
+I think the Elevator pitch contest
+
+1534
+01:41:39,280 --> 01:41:41,600
+as a separate thing is newer.
+
+1535
+01:41:41,600 --> 01:41:43,600
+Oh, there's three parts of it.
+
+1536
+01:41:43,600 --> 01:41:45,080
+This is the first one.
+
+1537
+01:41:48,320 --> 01:41:49,280
+Well, any more?
+
+1538
+01:41:55,680 --> 01:41:57,640
+One back?
+
+1539
+01:41:57,640 --> 01:41:59,680
+Oh, way back.
+
+1540
+01:41:59,680 --> 01:42:05,000
 Do you think there's ever going to be a way to crowdsource AI
 
 1541
